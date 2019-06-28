@@ -1,208 +1,8 @@
 ﻿key,en,de
-data:0 - unknown age,Unknown Age,Unbekanntes Alter
-data:10 mbps to under 30 mbps,10 Mbps to under 30 Mbps,10 Mbit/s bis unter 30 Mbit/s
-data:10 to under 16 years,10 to under 16 years,10 bis unter 16 Jahre
-data:100 mbps and over,100 Mbps and over,100 Mbit/s und mehr
-data:13 years and under,Under 14 years,Unter 14 years
-data:14 to under 18 years,14 to under 18 years,14 bis unter 18 Jahre
-data:15 to under 25 years,15 to under 25 years,15 bis unter 25 Jahre
-data:16 to under 25 years,16 to under 25 years,16 bis unter 25 Jahre
-data:17 years and under,Under 18 years,Unter 18 Jahren
-data:18 to under 21 years,18 to under 21 years,18 bis unter 21 Jahre
-data:18 to under 30 years,18 to under 30 years,18 bis unter 30 Jahre
-data:18 to under 65 years,18 to under 65 years,18 bis unter 65 Jahre
-data:2 mbps to under 10 mbps,2 Mbps to under 10 Mbps,2 Mbit/s bis unter 10 Mbit/s
-data:21 to under 25 years,21 to under 25 years,21 bis unter 25 Jahre
-data:25 to under 45 years,25 to under 45 years,25 bis unter 45 Jahre
-data:25 to under 75 years,25 to under 75 years,25 bis unter 75 Jahre
-data:25 years and over,25 years and over,25 Jahre und mehr
-data:30 mbps to under 100 mbps,30 Mbps to under 100 Mbps,30 Mbit/s bis unter 100 Mbit/s
-data:30 to under 45 years,30 to under 45 years,30 bis unter 45 Jahre
-data:45 to under 55 years,45 to under 55 years,45 bis unter 55 Jahre
-data:45 to under 65 years,45 to under 65 years,45 bis unter 65 Jahre
-data:55 to under 65 years,55 to under 65 years,55 bis unter 65 Jahre
-data:60 years and over,60 years and over,60 Jahre und mehr
-data:65 years and over,65 years and over,65 Jahre und mehr
-data:At-risk-of-poverty rate (according to Eurostat definition) (%),At-risk-of-poverty rate (according to Eurostat definition) (%),Armutsgefährdungsquote (nach Eurostat-Definition) (%)
-data:ODA (net disbursements),ODA (net disbursements),
-data:OOF (net disbursements),OOF (net disbursements),
-data:activities,Activities,Aktivitäten
-data:age,Age group,Altersgruppe
-"data:agriculture, forestry and fishing (nace rev. 2, section a)","Agriculture, forestry and fishing (NACE Rev. 2, section A)","Land- und Forstwirtschaft, Fischerei (NACE Rev. 2, Abschnitt A)"
-data:at risk,At risk,Gefährdet
-data:baden-Wuerttemberg,Baden-Wuerttemberg,Baden-Württemberg
-data:baltic sea,Baltic Sea,Ostsee
-data:bavaria,Bavaria,Bayern
-data:berlin,Berlin,Berlin
-data:brandenburg,Brandenburg,Brandenburg
-data:breeding programs for preservation,Breeding programs for preservation,Erhaltungspopulationen
-data:bremen,Bremen,Bremen
-data:class 3 areas (elevation 2500-3500 meters),Class 3 areas (Elevation 2500-3500 meters),Gebiete der Klasse 3 (Höhe 2500-3500 Meter)
-data:class 4 areas (elevation 1500-2500 meters),Class 4 areas (Elevation 1500-2500 meters),Gebiete der Klasse 4 (Höhe 1500-2500 Meter)
-data:class 5 areas (elevation 1000-1500 meters),Class 5 areas (Elevation 1000-1500 meters),Gebiete der Klasse 5 (Höhe 1000-1500 Meter)
-data:class 6 areas (elevation  300 -1000 meters),Class 6 areas (Elevation  300-1000 meters),Gebiete der Klasse 6 (Höhe  300-1000 Meter)
-data:classification,Classification,Klassifikation
-data:commercial air transport,Commercial air transport,Luftverkehr
-data:cooling water,Cooling water,Kühlwasser
-data:copying or moving of files and folders,Copying or moving of files and folders,Kopieren oder Verschieben von Dateien und Ordnern
-"data:creating electronic presentations or documents with text, images, tables or charts","Creating electronic presentations or documents with text, images, tables or charts","Erstellung von Präsentationen oder Dokumenten mit Text, Bildern, Tabellen oder Diagrammen"
-data:current accounts,Current accounts,Girokonten
-data:data_footnote,Specification,Anmerkung
-data:dentists,Dentists,Zahnärzte
-data:deposit onto or into land and land treatment and release into water bodies,Deposit onto or into land and land treatment and release into water bodies,Ablagerung auf oder im Boden und Bodenbehandlung und Freisetzung in Gewässern
-data:disability,Disability status,Behinderungsstatus
-data:disabled,Persons with disability,Menschen mit Behinderung
-data:economic sector,Economic sector,Wirtschaftszweig
-data:education,Education level,Bildungsniveau
-data:energy recovery,Energy recovery,Energierückgewinnung
-data:exploitation of labour,Exploitation of labour,Ausbeutung der Arbeitskraft
-"data:exploitation of labour, 14 to under 18 years","Exploitation of labour, 14 to under 18 years","Ausbeutung der Arbeitskraft, 14 bis unter 18 Jahre"
-"data:exploitation of labour, 18 to under 21 years","Exploitation of labour, 18 to under 21 years","Ausbeutung der Arbeitskraft, 18 bis unter 21 Jahre"
-"data:exploitation of labour, 21 to under 60 years","Exploitation of labour, 21 to under 60 years","Ausbeutung der Arbeitskraft, 21 bis unter 60 Jahre"
-"data:exploitation of labour, female","Exploitation of labour, female","Ausbeutung der Arbeitskraft, Weiblich"
-"data:exploitation of labour, male","Exploitation of labour, male","Ausbeutung der Arbeitskraft, Männlich"
-"data:exploitation of labour, under 14 years","Exploitation of labour, under 14 years","Ausbeutung der Arbeitskraft, unter 14 Jahren"
-data:female,Female,Weiblich
-data:flowing water bodies,Flowing water bodies,Fließgewässer
-data:footnote,Specification,Anmerkung
-data:form of exploitation,Form of exploitation,Art der Ausbeutung
-data:greater north sea,Greater North Sea,Nordsee
-data:hamburg,Hamburg,Hamburg
-data:health workers,Health workers,Gesundheitspersonal
-data:hesse,Hesse,Hessen
-data:incineration,Incineration,Verbrennung
-data:income,Income or wealth quantile,Einkommen oder Vermögen Quantil
-data:inland waterway transport,Inland waterway transport,Binnenschifffahrt
-data:inpatient treatment of alcohol dependence,Inpatient treatment of alcohol dependence,Stationäre Behandlung bei Alkoholabhängigkeit
-data:installing software or apps,Installing software or apps,Installation von Software oder Anwendungen (Apps)
-data:level of risk of extinction,Level of risk of extinction,Gefährdungskategorie
-data:lower saxony,Lower Saxony,Niedersachsen
-data:male,Male,Männlich
-data:mecklenburg western pomerania,Mecklenburg Western Pomerania,Mecklenburg-Vorpommern
-data:medical doctors,Medical doctors,Ärzte
-"data:mimec (nace rev. 2, sections b, c, d, f)","MIMEC (NACE Rev. 2, sections B, C, D, F)","MIMEC (NACE Rev. 2, Abschnitte B, C, D, F)"
-data:mobility impaired people,Mobility impaired people,Menschen mit Mobilitätseinschränkung
-data:mode of transport,Mode of transport,Verkehrsmittel
-data:motorised private transport,Motorised private transport,Motorisierter Individualverkehr
-data:nondisabled,Persons without disability,Personen ohne Behinderung
-data:north rhine-westphalia,North Rhine-Westphalia,Nordrhein-Westfalen
-data:not at risk,Not at risk,Nicht gefährdet
-data:number,Number,Nummer
-data:nursing and midwifery personnel,Nursing and midwifery personnel,Medizinisches Pflegepersonal sowie Personal in der Geburtshilfe
-data:occupation,Occupation,Beruf
-data:officially supported export credits (net disbursements),Officially Supported Export Credits (net disbursements),Öffentlich unterstützte Exportkredite (Nettoauszahlungen)
-data:online accounts,Online accounts,Online-Konten
-data:open water bodies,Open water bodies,Seen und Talsperren
-data:other,Other,Divers
-data:other wastewater that does not have to undergo treatment,Other wastewater that does not have to undergo treatment,"Sonstiges Abwasser, das keiner Abwasserbehandlung bedarf"
-data:over 144 kbps to under 2 mbps,Over 144 Kbps to under 2 Mbps,Über 144 kbit/s bis unter 2 Mbit/s
-data:percent,Percent,Prozent
-data:pharmacists,Pharmacists,Apotheker
-data:primary,Primary education,Grundschulbildung
-data:private concessional flows (net disbursements),Private Concessional Flows (net disbursements),Private Leistungen der Nichtregierungsorganisationen (Nettoauszahlungen)
-data:private sector flows at market terms (net disbursements),Private Sector Flows at market terms (net disbursements),Private Leistungen zu marktüblichen Bedingungen (Nettoauszahlungen)
-data:profession,Profession,Beruf
-data:quintile1,Quintile 1 (poorest),Quintil 1 (ärmste)
-data:quintile2,Quintile 2,Quintil 2
-data:quintile3,Quintile 3,Quintil 3
-data:quintile4,Quintile 4,Quintil 4
-data:quintile5,Quintile 5 (richest),Quintil 5 (reichste)
-data:rail transport,Rail transport,Eisenbahnverkehr
-data:ratio,Ratio,Verhältnis
-data:recovery other than energy recovery,Recovery other than energy recovery,Verwertung anderer als die der Energierückgewinnung
-data:rhineland palatinate,Rhineland Palatinate,Rheinland-Pfalz
-data:river water bodies,River water bodies,Fließgewässer
-data:road transport,Road transport,Straßenverkehr
-data:rudiments remaining,Rudiments remaining,Phänotypische Erhaltungspopulationen
-data:rural,Rural,Ländlich
-data:saarland,Saarland,Saarland
-data:saxony,Saxony,Sachsen
-data:saxony-anhalt,Saxony-Anhalt,Sachsen-Anhalt
-data:schleswig-holstein,Schleswig-Holstein,Schleswig-Holstein
-data:sea,Sea,Meer
-data:secondary,Secondary education,Sekundarschulbildung
-"data:services (nace rev. 2, sections e, g to t)","Services (NACE Rev. 2, sections E, G to T)","Dienstleistungen (NACE Rev. 2, Abschnitte E, G bis T)"
-data:sex,Sex,Geschlecht
-data:sexual exploitation,Sexual exploitation,Sexuelle Ausbeutung
-"data:sexual exploitation, 14 to under 18 years","Sexual exploitation, 14 to under 18 years","Sexuelle Ausbeutung, 14 bis unter 18 Jahre"
-"data:sexual exploitation, 18 to under 21 years","Sexual exploitation, 18 to under 21 years","Sexuelle Ausbeutung, 18 bis unter 21 Jahre"
-"data:sexual exploitation, 21 to under 25 years","Sexual exploitation, 21 to under 25 years","Sexuelle Ausbeutung, 21 bis unter 25 Jahre"
-"data:sexual exploitation, 25 years and over","Sexual exploitation, 25 years and over","Sexuelle Ausbeutung, 25 Jahre und mehr"
-"data:sexual exploitation, female","Sexual exploitation, female","Sexuelle Ausbeutung, Weiblich"
-"data:sexual exploitation, male","Sexual exploitation, male","Sexuelle Ausbeutung, Männlich"
-"data:sexual exploitation, under 14 years","Sexual exploitation, under 14 years","Sexuelle Ausbeutung, unter 14 Jahren"
-data:speed,Speed,Geschwindigkeit
-data:standing water bodies,Standing water bodies,Stehende Gewässer
-data:tertiary,Tertiary education,Tertiäre Bildung
-data:thuringia,Thuringia,Thüringen
-data:total,Total,Insgesamt
-data:transferring files between a computer or other devices,Transferring files between a computer or other devices,Übertragung von Dateien zwischen Computern oder anderen Geräten
-data:transport via pipeline: crude oil,Transport via pipeline: crude oil,Transport in Rohrleitungen: Rohöl
-data:type of account,Type of account,Kontoart
-data:type of dependence,Type of dependence,Art der Abhängigkeit
-data:type of flow,Type of flow,Art der Finanzströme
-data:type of treatment,Type of treatment,Art der Behandlung
-data:type of waste treatment,Type of waste treatment,Art der Abfallbehandlung
-data:type of water body,Type of water body,Art des Gewässers
-data:under 14 years,Under 14 years,Unter 14 Jahren
-data:under 18 years,under 18 years,unter 18 Jahren
-data:under observation,Under observation,Beobachtungspopulationen
-data:unit,Unit of measure,Einheit
-data:unknown,Unknown,Unbekannt
-data:untreated wastewater that does not have to undergo treatment,Untreated wastewater that does not have to undergo treatment,"Abwasser, das keiner Abwasserbehandlung bedarf"
-data:urban,Urban,Städtisch
-data:urbanisation,Degree of urbanisation,Verstädterungsgrad
-data:water bodies with good quality,Water bodies with good quality,Gewässer mit guter Wasserqualität
-data:writing a computer program using a programming language,Writing a computer program using a programming language,Schreiben eines Programms in einer Programmiersprache
-data:year,Year,Jahr
-frontpage:heading,National Data for UN-SDGs,Indikatoren der UN-Nachhaltigkeitsziele
-frontpage:instructions,"Click on each goal, or %before_link search, %after_link for German statistics for Sustainable Development Goal global indicators.",Klicken Sie auf die einzelnen Ziele um zu den Daten zu den Indikatoren der Ziele für nachhaltige Entwicklung für Deutschland zu gelangen. Oder %before_link suchen %after_link Sie gezielt nach spezifischenThemen.
-general:data_footnote,Specification,Anmerkung
-general:footnote,Specification,Anmerkung
-general:goal,Goal,Ziel
-general:goals,Goals,Ziele
-general:home,Home,Home
-general:indicator,Indicator,Indikator
-general:indicators,Indicators,Indikatoren
-general:loading,Loading search results,Ergebnisse werden geladen
-general:opens_new_window,opens in a new window,in neuem Fenster öffnen
-general:sdg,Sustainable Development Goals,Ziele für Nachhaltige Entwicklung
-general:target,Target,Unterziel
-general:targets,Targets,Unterziele
-global_goals:1---short,No poverty,Keine Armut
-global_goals:1---title,End poverty in all its forms everywhere,Armut in allen ihren Formen und überall beenden
-global_goals:10---short,Reduced inequalities,Weniger Ungleichheiten
-global_goals:10---title,Reduce inequality within and among countries,Ungleichheit in und zwischen Ländern verringern
-global_goals:11---short,Sustainable cities & communities,Nachhaltige Städte und Gemeinden
-global_goals:11---title,"Make cities and human settlements inclusive, safe, resilient and sustainable","Städte und Siedlungen inklusiv, sicher, widerstandsfähig und nachhaltig gestalten"
-global_goals:12---short,Responsible consumption and production,Verantwortungsvolle Konsum- und Produktionsmuster
-global_goals:12---title,Ensure sustainable consumption and production patterns,Nachhaltige Konsum- und Produktionsmuster sicherstellen
-global_goals:13---short,Climate action,Maßnahmen zum Klimaschutz
-global_goals:13---title,Take urgent action to combat climate change and its impacts,Umgehend Maßnahmen zur Bekämpfung des Klimawandels und seiner Auswirkungen ergreifen
-global_goals:14---short,Life below water,Leben unter Wasser
-global_goals:14---title,"Conserve and sustainably use the oceans, seas and marine resources for sustainable development","Ozeane, Meere und Meeresressourcen im Sinne nachhaltiger Entwicklung erhalten und nachhaltig nutzen"
-global_goals:15---short,Life on land,Leben an Land
-global_goals:15---title,"Protect, restore and promote sustainable use of terrestrial ecosystems, sustainably manage forests, combat desertification, and halt and reverse land degradation and halt biodiversity loss","Landökosysteme schützen, wiederherstellen und ihre nachhaltige Nutzung fördern, Wälder nachhaltig bewirtschaften, Wüstenbildung bekämpfen, Bodendegradation beenden und umkehren und dem Verlust der biologischen Vielfalt ein Ende setzen"
-global_goals:16---short,Peace and justice - strong institutions,"Frieden, Gerechtigkeit und starke Institutionen"
-global_goals:16---title,"Promote peaceful and inclusive societies for sustainable development, provide access to justice for all and build effective, accountable and inclusive institutions at all levels","Friedliche und inklusive Gesellschaften für eine nachhaltige Entwicklung fördern, allen Menschen Zugang zur Justiz ermöglichen und leistungsfähige, rechenschaftspflichtige und inklusive Institutionen auf allen Ebenen aufbauen"
-global_goals:17---short,Partnerships for the goals,Partnerschaften zur Erreichung der Ziele
-global_goals:17---title,Strengthen the means of implementation and revitalize the Global Partnership for Sustainable Development,Umsetzungsmittel stärken und die Globale Partnerschaft für nachhaltige Entwicklung mit neuem Leben erfüllen
-global_goals:2---short,Zero hunger,Kein Hunger
-global_goals:2---title,"End hunger, achieve food security and improved nutrition and promote sustainable agriculture","Den Hunger beenden, Ernährungssicherheit und eine bessere Ernährung erreichen und eine nachhaltige Landwirtschaft fördern"
-global_goals:3---short,Good health and well-being,Gesundheit und Wohlergehen
-global_goals:3---title,Ensure healthy lives and promote well-being for all at all ages,Ein gesundes Leben für alle Menschen jeden Alters gewährleisten und ihr Wohlergehen fördern
-global_goals:4---short,Quality education,Hochwertige Bildung
-global_goals:4---title,Ensure inclusive and equitable quality education and promote lifelong learning opportunities for all,"Inklusive, gleichberechtigte und hochwertige Bildung gewährleisten und Möglichkeiten lebenslangen Lernens für alle fördern"
-global_goals:5---short,Gender equality,Geschlechtergleichstellung
-global_goals:5---title,Achieve gender equality and empower all women and girls,Geschlechtergleichstellung erreichen und alle Frauen und Mädchen zur Selbstbestimmung befähigen
-global_goals:6---short,Clean water and sanitation,Sauberes Wasser und Sanitärversorgung
-global_goals:6---title,Ensure availability and sustainable management of water and sanitation for all,Verfügbarkeit und nachhaltige Bewirtschaftung von Wasser und Sanitärversorgung für alle gewährleisten
-global_goals:7---short,Affordable and clean energy,Bezahlbare und saubere Energie
-global_goals:7---title,"Ensure access to affordable, reliable, sustainable and modern energy for all","Zugang zu bezahlbarer, verlässlicher, nachhaltiger und moderner Energie für alle sichern"
-global_goals:8---short,Decent jobs and economic growth,Menschenwürdige Arbeit und Wirtschaftswachstum
-global_goals:8---title,"Promote sustained, inclusive and sustainable economic growth, full and productive employment and decent work for all","Dauerhaftes, breitenwirksames und nachhaltiges Wirtschaftswachstum, produktive Vollbeschäftigung und menschenwürdige Arbeit für alle fördern"
-global_goals:9---short,"Industry, innovation and infrastructure","Industrie, Innovationen und Infrastruktur"
-global_goals:9---title,"Build resilient infrastructure, promote inclusive and sustainable industrialization and foster innovation","Eine widerstandsfähige Infrastruktur aufbauen, breitenwirksame und nachhaltige Industrialisierung fördern und Innovationen unterstützen"
+header:alpha,Alpha,Alpha-Version
+header:disclaimer,"This is a development website. We welcome your <a href=""mailto:%email_address"">feedback</a>.",Diese Seite befindet sich im Entwicklungsstadium.Wir freuen uns über Ihre Kommentare.
+header:skip_link,Skip to main content, Zum Hauptinhalt springen
+header:tag_line,17 Goals to Transform our World,
 global_targets:1.1---title,"By 2030, eradicate extreme poverty for all people everywhere, currently measured as people living on less than $1.25 a day","Bis 2030 die extreme Armut - gegenwärtig definiert als der Anteil der Menschen, die mit weniger als 1,25 Dollar pro Tag auskommen müssen - für alle Menschen überall auf der Welt beseitigen"
 global_targets:1.2---title,"By 2030, reduce at least by half the proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions","Bis 2030 den Anteil der Männer, Frauen und Kinder jeden Alters, die in Armut in all ihren Dimensionen nach der jeweiligen nationalen Definition leben, mindestens um die Hälfte senken"
 global_targets:1.3---title,"Implement nationally appropriate social protection systems and measures for all, including floors, and by 2030 achieve substantial coverage of the poor and the vulnerable","Den nationalen Gegebenheiten entsprechende Sozialschutzsysteme und -maßnahmen für alle umsetzen, einschließlich eines Basisschutzes, und bis 2030 eine breite Versorgung der Armen und Schwachen erreichen"
@@ -372,6 +172,163 @@ global_targets:9.5---title,"Enhance scientific research, upgrade the technologic
 global_targets:9.a---title,"Facilitate sustainable and resilient infrastructure development in developing countries through enhanced financial, technological and technical support to African countries, least developed countries, landlocked developing countries and small island developing States","Die Entwicklung einer nachhaltigen und widerstandsfähigen Infrastruktur in den Entwicklungsländern durch eine verstärkte finanzielle, technologische und technische Unterstützung der afrikanischen Länder, der am wenigsten entwickelten Länder, der Binnenentwicklungsländer und der kleinen Inselentwicklungsländer erleichtern"
 global_targets:9.b---title,"Support domestic technology development, research and innovation in developing countries, including by ensuring a conducive policy environment for, inter alia, industrial diversification and value addition to commodities","Die einheimische Technologieentwicklung, Forschung und Innovation in den Entwicklungsländern unterstützen, einschließlich durch Sicherstellung eines förderlichen politischen Umfelds, unter anderem für industrielle Diversifizierung und Wertschöpfung im Rohstoffbereich"
 global_targets:9.c---title,Significantly increase access to information and communications technology and strive to provide universal and affordable access to the Internet in least developed countries by 2020,"Den Zugang zur Informations- und Kommunikationstechnologie erheblich erweitern sowie anstreben, in den am wenigsten entwickelten Ländern bis 2020 einen allgemeinen und erschwinglichen Zugang zum Internet bereitzustellen"
+data:0 - unknown age,Unknown Age,Unbekanntes Alter
+data:10 mbps to under 30 mbps,10 Mbps to under 30 Mbps,10 Mbit/s bis unter 30 Mbit/s
+data:10 to under 16 years,10 to under 16 years,10 bis unter 16 Jahre
+data:100 mbps and over,100 Mbps and over,100 Mbit/s und mehr
+data:13 years and under,Under 14 years,Unter 14 years
+data:14 to under 18 years,14 to under 18 years,14 bis unter 18 Jahre
+data:15 to under 25 years,15 to under 25 years,15 bis unter 25 Jahre
+data:16 to under 25 years,16 to under 25 years,16 bis unter 25 Jahre
+data:17 years and under,Under 18 years,Unter 18 Jahren
+data:18 to under 21 years,18 to under 21 years,18 bis unter 21 Jahre
+data:18 to under 30 years,18 to under 30 years,18 bis unter 30 Jahre
+data:18 to under 65 years,18 to under 65 years,18 bis unter 65 Jahre
+data:2 mbps to under 10 mbps,2 Mbps to under 10 Mbps,2 Mbit/s bis unter 10 Mbit/s
+data:21 to under 25 years,21 to under 25 years,21 bis unter 25 Jahre
+data:25 to under 45 years,25 to under 45 years,25 bis unter 45 Jahre
+data:25 to under 75 years,25 to under 75 years,25 bis unter 75 Jahre
+data:25 years and over,25 years and over,25 Jahre und mehr
+data:30 mbps to under 100 mbps,30 Mbps to under 100 Mbps,30 Mbit/s bis unter 100 Mbit/s
+data:30 to under 45 years,30 to under 45 years,30 bis unter 45 Jahre
+data:45 to under 55 years,45 to under 55 years,45 bis unter 55 Jahre
+data:45 to under 65 years,45 to under 65 years,45 bis unter 65 Jahre
+data:55 to under 65 years,55 to under 65 years,55 bis unter 65 Jahre
+data:60 years and over,60 years and over,60 Jahre und mehr
+data:65 years and over,65 years and over,65 Jahre und mehr
+data:ODA (net disbursements),ODA (net disbursements),
+data:OOF (net disbursements),OOF (net disbursements),
+data:activities,Activities,Aktivitäten
+data:age,Age group,Altersgruppe
+"data:agriculture, forestry and fishing (nace rev. 2, section a)","Agriculture, forestry and fishing (NACE Rev. 2, section A)","Land- und Forstwirtschaft, Fischerei (NACE Rev. 2, Abschnitt A)"
+data:at risk,At risk,Gefährdet
+data:at-risk-of-poverty rate (according to Eurostat definition) (%),At-risk-of-poverty rate (according to Eurostat definition) (%),Armutsgefährdungsquote (nach Eurostat-Definition) (%)
+data:baden-Wuerttemberg,Baden-Wuerttemberg,Baden-Württemberg
+data:baltic sea,Baltic Sea,Ostsee
+data:bavaria,Bavaria,Bayern
+data:berlin,Berlin,Berlin
+data:brandenburg,Brandenburg,Brandenburg
+data:breeding programs for preservation,Breeding programs for preservation,Erhaltungspopulationen
+data:bremen,Bremen,Bremen
+data:class 3 areas (elevation 2500-3500 meters),Class 3 areas (Elevation 2500-3500 meters),Gebiete der Klasse 3 (Höhe 2500-3500 Meter)
+data:class 4 areas (elevation 1500-2500 meters),Class 4 areas (Elevation 1500-2500 meters),Gebiete der Klasse 4 (Höhe 1500-2500 Meter)
+data:class 5 areas (elevation 1000-1500 meters),Class 5 areas (Elevation 1000-1500 meters),Gebiete der Klasse 5 (Höhe 1000-1500 Meter)
+data:class 6 areas (elevation  300 -1000 meters),Class 6 areas (Elevation  300-1000 meters),Gebiete der Klasse 6 (Höhe  300-1000 Meter)
+data:classification,Classification,Klassifikation
+data:commercial air transport,Commercial air transport,Luftverkehr
+data:cooling water,Cooling water,Kühlwasser
+data:copying or moving of files and folders,Copying or moving of files and folders,Kopieren oder Verschieben von Dateien und Ordnern
+"data:creating electronic presentations or documents with text, images, tables or charts","Creating electronic presentations or documents with text, images, tables or charts","Erstellung von Präsentationen oder Dokumenten mit Text, Bildern, Tabellen oder Diagrammen"
+data:current accounts,Current accounts,Girokonten
+data:data_footnote,Specification,Anmerkung
+data:dentists,Dentists,Zahnärzte
+data:deposit onto or into land and land treatment and release into water bodies,Deposit onto or into land and land treatment and release into water bodies,Ablagerung auf oder im Boden und Bodenbehandlung und Freisetzung in Gewässern
+data:disability,Disability status,Behinderungsstatus
+data:disabled,Persons with disability,Menschen mit Behinderung
+data:economic sector,Economic sector,Wirtschaftszweig
+data:education,Education level,Bildungsniveau
+data:energy recovery,Energy recovery,Energierückgewinnung
+data:exploitation of labour,Exploitation of labour,Ausbeutung der Arbeitskraft
+"data:exploitation of labour, 14 to under 18 years","Exploitation of labour, 14 to under 18 years","Ausbeutung der Arbeitskraft, 14 bis unter 18 Jahre"
+"data:exploitation of labour, 18 to under 21 years","Exploitation of labour, 18 to under 21 years","Ausbeutung der Arbeitskraft, 18 bis unter 21 Jahre"
+"data:exploitation of labour, 21 to under 60 years","Exploitation of labour, 21 to under 60 years","Ausbeutung der Arbeitskraft, 21 bis unter 60 Jahre"
+"data:exploitation of labour, female","Exploitation of labour, female","Ausbeutung der Arbeitskraft, Weiblich"
+"data:exploitation of labour, male","Exploitation of labour, male","Ausbeutung der Arbeitskraft, Männlich"
+"data:exploitation of labour, under 14 years","Exploitation of labour, under 14 years","Ausbeutung der Arbeitskraft, unter 14 Jahren"
+data:female,Female,Weiblich
+data:flowing water bodies,Flowing water bodies,Fließgewässer
+data:footnote,Specification,Anmerkung
+data:form of exploitation,Form of exploitation,Art der Ausbeutung
+data:greater north sea,Greater North Sea,Nordsee
+data:hamburg,Hamburg,Hamburg
+data:health workers,Health workers,Gesundheitspersonal
+data:hesse,Hesse,Hessen
+data:hiv incidence (per 1 000 inhabitants),HIV INCIDENCE,HIV INCIDENCE
+data:incineration,Incineration,Verbrennung
+data:income,Income or wealth quantile,Einkommen oder Vermögen Quantil
+data:inland waterway transport,Inland waterway transport,Binnenschifffahrt
+data:inpatient treatment of alcohol dependence,Inpatient treatment of alcohol dependence,Stationäre Behandlung bei Alkoholabhängigkeit
+data:installing software or apps,Installing software or apps,Installation von Software oder Anwendungen (Apps)
+data:level of risk of extinction,Level of risk of extinction,Gefährdungskategorie
+data:lower saxony,Lower Saxony,Niedersachsen
+data:male,Male,Männlich
+data:mecklenburg western pomerania,Mecklenburg Western Pomerania,Mecklenburg-Vorpommern
+data:medical doctors,Medical doctors,Ärzte
+"data:mimec (nace rev. 2, sections b, c, d, f)","MIMEC (NACE Rev. 2, sections B, C, D, F)","MIMEC (NACE Rev. 2, Abschnitte B, C, D, F)"
+data:mobility impaired people,Mobility impaired people,Menschen mit Mobilitätseinschränkung
+data:mode of transport,Mode of transport,Verkehrsmittel
+data:motorised private transport,Motorised private transport,Motorisierter Individualverkehr
+data:nondisabled,Persons without disability,Personen ohne Behinderung
+data:north rhine-westphalia,North Rhine-Westphalia,Nordrhein-Westfalen
+data:not at risk,Not at risk,Nicht gefährdet
+data:number,Number,Nummer
+data:nursing and midwifery personnel,Nursing and midwifery personnel,Medizinisches Pflegepersonal sowie Personal in der Geburtshilfe
+data:occupation,Occupation,Beruf
+data:officially supported export credits (net disbursements),Officially Supported Export Credits (net disbursements),Öffentlich unterstützte Exportkredite (Nettoauszahlungen)
+data:online accounts,Online accounts,Online-Konten
+data:open water bodies,Open water bodies,Seen und Talsperren
+data:other,Other,Divers
+data:other wastewater that does not have to undergo treatment,Other wastewater that does not have to undergo treatment,"Sonstiges Abwasser, das keiner Abwasserbehandlung bedarf"
+data:over 144 kbps to under 2 mbps,Over 144 Kbps to under 2 Mbps,Über 144 kbit/s bis unter 2 Mbit/s
+data:percent,Percent,Prozent
+data:pharmacists,Pharmacists,Apotheker
+data:primary,Primary education,Grundschulbildung
+data:private concessional flows (net disbursements),Private Concessional Flows (net disbursements),Private Leistungen der Nichtregierungsorganisationen (Nettoauszahlungen)
+data:private sector flows at market terms (net disbursements),Private Sector Flows at market terms (net disbursements),Private Leistungen zu marktüblichen Bedingungen (Nettoauszahlungen)
+data:profession,Profession,Beruf
+data:quintile1,Quintile 1 (poorest),Quintil 1 (ärmste)
+data:quintile2,Quintile 2,Quintil 2
+data:quintile3,Quintile 3,Quintil 3
+data:quintile4,Quintile 4,Quintil 4
+data:quintile5,Quintile 5 (richest),Quintil 5 (reichste)
+data:rail transport,Rail transport,Eisenbahnverkehr
+data:ratio,Ratio,Verhältnis
+data:recovery other than energy recovery,Recovery other than energy recovery,Verwertung anderer als die der Energierückgewinnung
+data:rhineland palatinate,Rhineland Palatinate,Rheinland-Pfalz
+data:river water bodies,River water bodies,Fließgewässer
+data:road transport,Road transport,Straßenverkehr
+data:rudiments remaining,Rudiments remaining,Phänotypische Erhaltungspopulationen
+data:rural,Rural,Ländlich
+data:saarland,Saarland,Saarland
+data:saxony,Saxony,Sachsen
+data:saxony-anhalt,Saxony-Anhalt,Sachsen-Anhalt
+data:schleswig-holstein,Schleswig-Holstein,Schleswig-Holstein
+data:sea,Sea,Meer
+data:secondary,Secondary education,Sekundarschulbildung
+"data:services (nace rev. 2, sections e, g to t)","Services (NACE Rev. 2, sections E, G to T)","Dienstleistungen (NACE Rev. 2, Abschnitte E, G bis T)"
+data:sex,Sex,Geschlecht
+data:sexual exploitation,Sexual exploitation,Sexuelle Ausbeutung
+"data:sexual exploitation, 14 to under 18 years","Sexual exploitation, 14 to under 18 years","Sexuelle Ausbeutung, 14 bis unter 18 Jahre"
+"data:sexual exploitation, 18 to under 21 years","Sexual exploitation, 18 to under 21 years","Sexuelle Ausbeutung, 18 bis unter 21 Jahre"
+"data:sexual exploitation, 21 to under 25 years","Sexual exploitation, 21 to under 25 years","Sexuelle Ausbeutung, 21 bis unter 25 Jahre"
+"data:sexual exploitation, 25 years and over","Sexual exploitation, 25 years and over","Sexuelle Ausbeutung, 25 Jahre und mehr"
+"data:sexual exploitation, female","Sexual exploitation, female","Sexuelle Ausbeutung, Weiblich"
+"data:sexual exploitation, male","Sexual exploitation, male","Sexuelle Ausbeutung, Männlich"
+"data:sexual exploitation, under 14 years","Sexual exploitation, under 14 years","Sexuelle Ausbeutung, unter 14 Jahren"
+data:speed,Speed,Geschwindigkeit
+data:standing water bodies,Standing water bodies,Stehende Gewässer
+data:tertiary,Tertiary education,Tertiäre Bildung
+data:thuringia,Thuringia,Thüringen
+data:total,Total,Insgesamt
+data:transferring files between a computer or other devices,Transferring files between a computer or other devices,Übertragung von Dateien zwischen Computern oder anderen Geräten
+data:transport via pipeline: crude oil,Transport via pipeline: crude oil,Transport in Rohrleitungen: Rohöl
+data:type of account,Type of account,Kontoart
+data:type of dependence,Type of dependence,Art der Abhängigkeit
+data:type of flow,Type of flow,Art der Finanzströme
+data:type of treatment,Type of treatment,Art der Behandlung
+data:type of waste treatment,Type of waste treatment,Art der Abfallbehandlung
+data:type of water body,Type of water body,Art des Gewässers
+data:under 14 years,Under 14 years,Unter 14 Jahren
+data:under 18 years,under 18 years,unter 18 Jahren
+data:under observation,Under observation,Beobachtungspopulationen
+data:unit,Unit of measure,Einheit
+data:unknown,Unknown,Unbekannt
+data:untreated wastewater that does not have to undergo treatment,Untreated wastewater that does not have to undergo treatment,"Abwasser, das keiner Abwasserbehandlung bedarf"
+data:urban,Urban,Städtisch
+data:urbanisation,Degree of urbanisation,Verstädterungsgrad
+data:water bodies with good quality,Water bodies with good quality,Gewässer mit guter Wasserqualität
+data:writing a computer program using a programming language,Writing a computer program using a programming language,Schreiben eines Programms in einer Programmiersprache
+data:year,Year,Jahr
 metadata_fields:comments_limitations,Other information,Weitere Informationen
 metadata_fields:comparison_sdg,Comparability with UN metadata,Vergleichbarkeit mit UN Metadaten
 metadata_fields:computation_calculations,Calculations,Methodik
@@ -454,6 +411,18 @@ metadata_fields:target,Target name,Unterziel
 metadata_fields:target_id,Target number,Unterzielnummerierung
 metadata_fields:un_custodian_agency,UN custodian agency,UN Custodian Agency
 metadata_fields:un_designated_tier,UN designated tier,UN Tier Klassifikation
+general:data_footnote,Specification,Anmerkung
+general:footnote,Specification,Anmerkung
+general:goal,Goal,Ziel
+general:goals,Goals,Ziele
+general:home,Home,Home
+general:indicator,Indicator,Indikator
+general:indicators,Indicators,Indikatoren
+general:loading,Loading search results,Ergebnisse werden geladen
+general:opens_new_window,opens in a new window,in neuem Fenster öffnen
+general:sdg,Sustainable Development Goals,Ziele für Nachhaltige Entwicklung
+general:target,Target,Unterziel
+general:targets,Targets,Unterziele
 status:exploring_data_sources,Exploring data sources,Datenquellenanalyse
 status:not_applicable,Not applicable,Nicht zutreffend
 status:overall_reporting_status,Overall Reporting Status,Übersicht zum Berichtsstatus
@@ -461,10 +430,62 @@ status:reported_online,Reported online,Daten verfügbar
 status:reporting_status,Reporting Status,Berichtsstatus
 status:statistics_in_progress,Statistics in progress,in Bearbeitung
 status:status_by_goal,Status by goal,Status nach Ziel
-header:alpha,Alpha,Alpha-Version
-header:disclaimer,"This is a development website. We welcome your <a href=""mailto:%email_address"">feedback</a>.",Diese Seite befindet sich im Entwicklungsstadium.Wir freuen uns über Ihre Kommentare.
-header:skip_link,Skip to main content, Zum Hauptinhalt springen
-header:tag_line,17 Goals to Transform our World,
+frontpage:heading,National Data for UN-SDGs,Indikatoren der UN-Nachhaltigkeitsziele
+frontpage:instructions,"Click on each goal, or %before_link search, %after_link for German statistics for Sustainable Development Goal global indicators.",Klicken Sie auf die einzelnen Ziele um zu den Daten zu den Indikatoren der Ziele für nachhaltige Entwicklung für Deutschland zu gelangen. Oder %before_link suchen %after_link Sie gezielt nach spezifischenThemen.
+post:posts_by_category,Posts by Category,Beiträge geordnet nach Kategorien
+post:view_all_in_category,View all posts in the %category_name category, Zeige alle Beiträge in der %category_name Kategorie an
+indicator:chart,Chart,Grafik
+indicator:clear_all,Clear all,Auswahl aufheben
+indicator:clear_selections,Clear selections,Auswahl aufheben
+indicator:data-footnote,Specification,Anmerkung
+indicator:data_footnote,Specification,Anmerkung
+indicator:dataset_size_warning,There are too many datasets to show on the chart. Not all will be shown until you remove some selections.,Zu viele Zeitreihen ausgewählt um diese in einer Grafik darzustellen. Es können nicht alle Zeitreihen dargestellt werden
+indicator:download_chart,Download Chart CSV,Grafik im CSV-Format speichern
+indicator:download_csv,Download CSV,im CSV-Format speichern
+indicator:download_csv_title,Download as CSV,im CSV-Format speichern
+indicator:download_headline,Download Headline CSV,Speichern der Headline im CSV-Format
+indicator:download_headline_title,Download headline data as CSV,Speichern der Headline im CSV-Format
+indicator:download_source,Download Source CSV,Daten im CSV-Format speichern
+indicator:download_source_title,Download source data as CSV,Daten im CSV-Format speichern
+indicator:download_table,Download Table CSV,Tabelle im CSV-Format speichern
+indicator:edit,Edit,Bearbeiten
+indicator:edit_data,Edit Data,Daten bearbeiten
+indicator:edit_metadata,Edit Metadata,Metadaten bearbeiten
+indicator:footnote,Specification,Anmerkung
+indicator:geographical_area,Geographical Area,Geographische Abdeckung
+indicator:global_metadata,Global Metadata,Globale Metadaten
+indicator:global_metadata_blurb,"This table provides information on metadata for SDG indicators as defined by the UN Statistical Commission. <a href=""https://unstats.un.org/sdgs/metadata/"">Complete global metadata</a> is provided by the UN Statistics Division.","Diese Übersicht stellt Informationen zu den globalen Metadaten des jeweiligen SDG-Indikators bereit. Die <a href=""https://unstats.un.org/sdgs/metadata/"">globalen Metadaten</a> werden durch die Statistische Division der Vereinten Nationen bereitgestellt."
+indicator:legend_help,Click on the legend to remove individual lines from the chart.,Klicken Sie auf die Legende um Zeitreihen aus der Grafik zu entfernen.
+indicator:loading_map,Loading map,Karte wird geladen
+indicator:map,Map,Karte
+indicator:national_metadata,National Metadata,Nationale Metadaten
+indicator:national_metadata_blurb,"This table provides metadata for the actual indicator available from %country_name statistics closest to the corresponding global SDG indicator. Please note that even when the global SDG indicator is fully available from %country_adjective statistics, this table should be consulted for information on national methodology and other %country_adjective-specific metadata information.","Im Folgenden werden Metadaten zu den national verfügbaren Zeitreihen für Deutschland zum jeweiligen globalen SDG-Indikator bereitgestellt. Die angegebene Datenreihe ist die vergleichbarste, national verfügbare Zeitreihe. Entspricht die angezeigte Datenreihe voll den globalen Metadaten, so ist dennoch auf diese nationalen Metadaten für methodische sowie weitere länderspezifische Informationen hinzuweisen."
+indicator:no_data_hint,No options available because of filters above,Aufgrund der bereits getroffenen Auswahl sind keine weiteren Auswahlmöglichkeiten verfügbar.
+indicator:select_all,Select all,Alle auswählen
+indicator:series_help,Choose categories from the dropdowns below to see different breakdowns of the data. Some will not be available until a higher level is chosen.,"Wählen Sie Disaggregationsdimensionen aus, damit die verfügbaren Disaggregationskategorien angezeigt werden. Manche werden erst angezeigt, sobald eine Überkategorie ausgewählt wird."
+indicator:source,Source,Datenquelle
+indicator:sources,Sources,Datenquellen
+indicator:sub_categories,Sub-categories,Disaggregationsdimensionen
+indicator:table,Table,Tabelle
+indicator:unit_of_measurement,Copyright,Copyright
+indicator:units_type,Units type,Einheit
+indicator:variable_hint,Available when '%field' is selected,Verfügbar
+indicator:view_indicator_list,View this goal's indicator list,Zeigt die Indikatorenliste zum SDG-Ziel an.
+search:found_in,found in,gefunden unter
+search:indicator_search,Indicator search,Indikatorensuche
+search:keywords,Keywords,Schlagworte
+search:no_results,No results,Keine Ergebnisse
+search:search,Search,Suche
+search:search_results_for,Search results for,Ergebnisse zu
+menu:about,About,Über uns
+menu:contact_us,Contact us,Kontakt
+menu:cookies,Cookies,Cookies
+menu:faq,FAQ,FAQ
+menu:guidance,Guidance,Technische Hinweise
+menu:imprint,Imprint,Im­pres­s­um
+menu:menu,Menu,Menü
+menu:publications,Publications,Veröffentlichungen
+menu:reporting_status,Reporting Status,Berichtsstatus
 global_indicators:1.1.1---title,"Proportion of population below the international poverty line, by sex, age, employment status and geographical location (urban/rural)","Anteil der Bevölkerung, die unter der internationalen Armutsgrenze lebt, nach Geschlecht, Alter, Erwerbsstatus  und geographischer Lage (urban/rural)"
 global_indicators:1.2.1---title,"Proportion of population living below the national poverty line, by sex and age","Anteil der Bevölkerung, die unter der nationalen Armutsgrenze lebt, nach Geschlecht und Alter"
 global_indicators:1.2.2---title,"Proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions","Anteil der Männer, Frauen und Kinder jeden Alters, die in Armut in all ihren Dimensionen gemäß nationaler Definitionen leben"
@@ -710,57 +731,37 @@ global_indicators:9.5.2---title,Researchers (in full-time equivalent) per millio
 global_indicators:9.a.1---title,Total official international support (official development assistance plus other official flows) to infrastructure,Gesamte öffentliche internationale Unterstützung (öffentliche Entwicklungszusammenarbeit (ODA) und sonstige öffentliche Ausgaben) für Infrastruktur
 global_indicators:9.b.1---title,Proportion of medium and high-tech industry value added in total value added,Anteil der Wertschöpfung der Medium- und High-Tech-Industrie an der Wertschöpfung insgesamt
 global_indicators:9.c.1---title,"Proportion of population covered by a mobile network, by technology","Anteil der Bevölkerung, die durch ein Mobilfunknetz abgedeckt ist, nach Technologie"
-post:posts_by_category,Posts by Category,Beiträge geordnet nach Kategorien
-post:view_all_in_category,View all posts in the %category_name category, Zeige alle Beiträge in der %category_name Kategorie an
-search:found_in,found in,gefunden unter
-search:indicator_search,Indicator search,Indikatorensuche
-search:keywords,Keywords,Schlagworte
-search:no_results,No results,Keine Ergebnisse
-search:search,Search,Suche
-search:search_results_for,Search results for,Ergebnisse zu
-indicator:chart,Chart,Grafik
-indicator:clear_all,Clear all,Auswahl aufheben
-indicator:clear_selections,Clear selections,Auswahl aufheben
-indicator:data-footnote,Specification,Anmerkung
-indicator:data_footnote,Specification,Anmerkung
-indicator:dataset_size_warning,There are too many datasets to show on the chart. Not all will be shown until you remove some selections.,Zu viele Zeitreihen ausgewählt um diese in einer Grafik darzustellen. Es können nicht alle Zeitreihen dargestellt werden
-indicator:download_chart,Download Chart CSV,Grafik im CSV-Format speichern
-indicator:download_csv,Download CSV,im CSV-Format speichern
-indicator:download_csv_title,Download as CSV,im CSV-Format speichern
-indicator:download_headline,Download Headline CSV,Speichern der Headline im CSV-Format
-indicator:download_headline_title,Download headline data as CSV,Speichern der Headline im CSV-Format
-indicator:download_source,Download Source CSV,Daten im CSV-Format speichern
-indicator:download_source_title,Download source data as CSV,Daten im CSV-Format speichern
-indicator:download_table,Download Table CSV,Tabelle im CSV-Format speichern
-indicator:edit,Edit,Bearbeiten
-indicator:edit_data,Edit Data,Daten bearbeiten
-indicator:edit_metadata,Edit Metadata,Metadaten bearbeiten
-indicator:footnote,Specification,Anmerkung
-indicator:geographical_area,Geographical Area,Geographische Abdeckung
-indicator:global_metadata,Global Metadata,Globale Metadaten
-indicator:global_metadata_blurb,"This table provides information on metadata for SDG indicators as defined by the UN Statistical Commission. <a href=""https://unstats.un.org/sdgs/metadata/"">Complete global metadata</a> is provided by the UN Statistics Division.","Diese Übersicht stellt Informationen zu den globalen Metadaten des jeweiligen SDG-Indikators bereit. Die <a href=""https://unstats.un.org/sdgs/metadata/"">globalen Metadaten</a> werden durch die Statistische Division der Vereinten Nationen bereitgestellt."
-indicator:legend_help,Click on the legend to remove individual lines from the chart.,Klicken Sie auf die Legende um Zeitreihen aus der Grafik zu entfernen.
-indicator:loading_map,Loading map,Karte wird geladen
-indicator:map,Map,Karte
-indicator:national_metadata,National Metadata,Nationale Metadaten
-indicator:national_metadata_blurb,"This table provides metadata for the actual indicator available from %country_name statistics closest to the corresponding global SDG indicator. Please note that even when the global SDG indicator is fully available from %country_adjective statistics, this table should be consulted for information on national methodology and other %country_adjective-specific metadata information.","Im Folgenden werden Metadaten zu den national verfügbaren Zeitreihen für Deutschland zum jeweiligen globalen SDG-Indikator bereitgestellt. Die angegebene Datenreihe ist die vergleichbarste, national verfügbare Zeitreihe. Entspricht die angezeigte Datenreihe voll den globalen Metadaten, so ist dennoch auf diese nationalen Metadaten für methodische sowie weitere länderspezifische Informationen hinzuweisen."
-indicator:no_data_hint,No options available because of filters above,Aufgrund der bereits getroffenen Auswahl sind keine weiteren Auswahlmöglichkeiten verfügbar.
-indicator:select_all,Select all,Alle auswählen
-indicator:series_help,Choose categories from the dropdowns below to see different breakdowns of the data. Some will not be available until a higher level is chosen.,"Wählen Sie Disaggregationsdimensionen aus, damit die verfügbaren Disaggregationskategorien angezeigt werden. Manche werden erst angezeigt, sobald eine Überkategorie ausgewählt wird."
-indicator:source,Source,Datenquelle
-indicator:sources,Sources,Datenquellen
-indicator:sub_categories,Sub-categories,Disaggregationsdimensionen
-indicator:table,Table,Tabelle
-indicator:unit_of_measurement,Copyright,Copyright
-indicator:units_type,Units type,Einheit
-indicator:variable_hint,Available when '%field' is selected,Verfügbar
-indicator:view_indicator_list,View this goal's indicator list,Zeigt die Indikatorenliste zum SDG-Ziel an.
-menu:about,About,Über uns
-menu:contact_us,Contact us,Kontakt
-menu:cookies,Cookies,Cookies
-menu:faq,FAQ,FAQ
-menu:guidance,Guidance,Technische Hinweise
-menu:imprint,Imprint,Im­pres­s­um
-menu:menu,Menu,Menü
-menu:publications,Publications,Veröffentlichungen
-menu:reporting_status,Reporting Status,Berichtsstatus
+global_goals:1---short,No poverty,Keine Armut
+global_goals:1---title,End poverty in all its forms everywhere,Armut in allen ihren Formen und überall beenden
+global_goals:10---short,Reduced inequalities,Weniger Ungleichheiten
+global_goals:10---title,Reduce inequality within and among countries,Ungleichheit in und zwischen Ländern verringern
+global_goals:11---short,Sustainable cities & communities,Nachhaltige Städte und Gemeinden
+global_goals:11---title,"Make cities and human settlements inclusive, safe, resilient and sustainable","Städte und Siedlungen inklusiv, sicher, widerstandsfähig und nachhaltig gestalten"
+global_goals:12---short,Responsible consumption and production,Verantwortungsvolle Konsum- und Produktionsmuster
+global_goals:12---title,Ensure sustainable consumption and production patterns,Nachhaltige Konsum- und Produktionsmuster sicherstellen
+global_goals:13---short,Climate action,Maßnahmen zum Klimaschutz
+global_goals:13---title,Take urgent action to combat climate change and its impacts,Umgehend Maßnahmen zur Bekämpfung des Klimawandels und seiner Auswirkungen ergreifen
+global_goals:14---short,Life below water,Leben unter Wasser
+global_goals:14---title,"Conserve and sustainably use the oceans, seas and marine resources for sustainable development","Ozeane, Meere und Meeresressourcen im Sinne nachhaltiger Entwicklung erhalten und nachhaltig nutzen"
+global_goals:15---short,Life on land,Leben an Land
+global_goals:15---title,"Protect, restore and promote sustainable use of terrestrial ecosystems, sustainably manage forests, combat desertification, and halt and reverse land degradation and halt biodiversity loss","Landökosysteme schützen, wiederherstellen und ihre nachhaltige Nutzung fördern, Wälder nachhaltig bewirtschaften, Wüstenbildung bekämpfen, Bodendegradation beenden und umkehren und dem Verlust der biologischen Vielfalt ein Ende setzen"
+global_goals:16---short,Peace and justice - strong institutions,"Frieden, Gerechtigkeit und starke Institutionen"
+global_goals:16---title,"Promote peaceful and inclusive societies for sustainable development, provide access to justice for all and build effective, accountable and inclusive institutions at all levels","Friedliche und inklusive Gesellschaften für eine nachhaltige Entwicklung fördern, allen Menschen Zugang zur Justiz ermöglichen und leistungsfähige, rechenschaftspflichtige und inklusive Institutionen auf allen Ebenen aufbauen"
+global_goals:17---short,Partnerships for the goals,Partnerschaften zur Erreichung der Ziele
+global_goals:17---title,Strengthen the means of implementation and revitalize the Global Partnership for Sustainable Development,Umsetzungsmittel stärken und die Globale Partnerschaft für nachhaltige Entwicklung mit neuem Leben erfüllen
+global_goals:2---short,Zero hunger,Kein Hunger
+global_goals:2---title,"End hunger, achieve food security and improved nutrition and promote sustainable agriculture","Den Hunger beenden, Ernährungssicherheit und eine bessere Ernährung erreichen und eine nachhaltige Landwirtschaft fördern"
+global_goals:3---short,Good health and well-being,Gesundheit und Wohlergehen
+global_goals:3---title,Ensure healthy lives and promote well-being for all at all ages,Ein gesundes Leben für alle Menschen jeden Alters gewährleisten und ihr Wohlergehen fördern
+global_goals:4---short,Quality education,Hochwertige Bildung
+global_goals:4---title,Ensure inclusive and equitable quality education and promote lifelong learning opportunities for all,"Inklusive, gleichberechtigte und hochwertige Bildung gewährleisten und Möglichkeiten lebenslangen Lernens für alle fördern"
+global_goals:5---short,Gender equality,Geschlechtergleichstellung
+global_goals:5---title,Achieve gender equality and empower all women and girls,Geschlechtergleichstellung erreichen und alle Frauen und Mädchen zur Selbstbestimmung befähigen
+global_goals:6---short,Clean water and sanitation,Sauberes Wasser und Sanitärversorgung
+global_goals:6---title,Ensure availability and sustainable management of water and sanitation for all,Verfügbarkeit und nachhaltige Bewirtschaftung von Wasser und Sanitärversorgung für alle gewährleisten
+global_goals:7---short,Affordable and clean energy,Bezahlbare und saubere Energie
+global_goals:7---title,"Ensure access to affordable, reliable, sustainable and modern energy for all","Zugang zu bezahlbarer, verlässlicher, nachhaltiger und moderner Energie für alle sichern"
+global_goals:8---short,Decent jobs and economic growth,Menschenwürdige Arbeit und Wirtschaftswachstum
+global_goals:8---title,"Promote sustained, inclusive and sustainable economic growth, full and productive employment and decent work for all","Dauerhaftes, breitenwirksames und nachhaltiges Wirtschaftswachstum, produktive Vollbeschäftigung und menschenwürdige Arbeit für alle fördern"
+global_goals:9---short,"Industry, innovation and infrastructure","Industrie, Innovationen und Infrastruktur"
+global_goals:9---title,"Build resilient infrastructure, promote inclusive and sustainable industrialization and foster innovation","Eine widerstandsfähige Infrastruktur aufbauen, breitenwirksame und nachhaltige Industrialisierung fördern und Innovationen unterstützen"
