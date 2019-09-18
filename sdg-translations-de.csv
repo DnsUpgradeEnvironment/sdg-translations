@@ -168,100 +168,13 @@ global_targets:9.5-title,"Enhance scientific research, upgrade the technological
 global_targets:9.a-title,"Facilitate sustainable and resilient infrastructure development in developing countries through enhanced financial, technological and technical support to African countries, least developed countries, landlocked developing countries and small island developing States","Die Entwicklung einer nachhaltigen und widerstandsfähigen Infrastruktur in den Entwicklungsländern durch eine verstärkte finanzielle, technologische und technische Unterstützung der afrikanischen Länder, der am wenigsten entwickelten Länder, der Binnenentwicklungsländer und der kleinen Inselentwicklungsländer erleichtern"
 global_targets:9.b-title,"Support domestic technology development, research and innovation in developing countries, including by ensuring a conducive policy environment for, inter alia, industrial diversification and value addition to commodities","Die einheimische Technologieentwicklung, Forschung und Innovation in den Entwicklungsländern unterstützen, einschließlich durch Sicherstellung eines förderlichen politischen Umfelds, unter anderem für industrielle Diversifizierung und Wertschöpfung im Rohstoffbereich"
 global_targets:9.c-title,Significantly increase access to information and communications technology and strive to provide universal and affordable access to the Internet in least developed countries by 2020,"Den Zugang zur Informations- und Kommunikationstechnologie erheblich erweitern sowie anstreben, in den am wenigsten entwickelten Ländern bis 2020 einen allgemeinen und erschwinglichen Zugang zum Internet bereitzustellen"
-metadata_fields:comments_limitations,Other information,Weitere Informationen
-metadata_fields:comparison_sdg,Comparability with UN metadata,Vergleichbarkeit mit UN Metadaten
-metadata_fields:computation_calculations,Calculations,Methodik
-metadata_fields:computation_definitions,Definitions,Definitionen
-metadata_fields:computation_units,Unit of measurement,Einheit
-metadata_fields:dns_content_url,Content and progress,Inhalt und Entwicklung
-metadata_fields:dns_content_url_text,Content and progress,Inhalt und Entwicklung
-metadata_fields:dns_indicator_content,Content and progress,Inhalt und Entwicklung
-metadata_fields:dns_indicator_definition,Definition of the indicator,Indikatorenbeschreibung
-metadata_fields:dns_indicator_intention,Target and intention of the indicators,Ziele und Intention der Indikatoren
-metadata_fields:goal_meta_link,Link to the global metadata of this indicator,Link zu den globalen Metadaten dieses Indikators
-metadata_fields:goal_meta_national_link,Link to national metadata,Link zu den nationalen Metadaten
-metadata_fields:history_indicator_1,Indicator,Indikator
-metadata_fields:history_indicator_2,Indicator,Indikator
-metadata_fields:history_target_1,Target,Ziel
-metadata_fields:history_target_2,Target,Ziel
-metadata_fields:history_url_1,Evaluation,Bewertung
-metadata_fields:history_url_2,Evaluation,Bewertung
-metadata_fields:history_years_1,Year,Jahr
-metadata_fields:history_years_2,Year,Jahr
-metadata_fields:indicator,Indicator number,Indikatorennummerierung
-metadata_fields:indicator_definition,Global indicator description,Globale Indikatorenbeschreibung
-metadata_fields:indicator_name,Indicator name,Indikatorenbezeichnung
-metadata_fields:indicator_sort_order,Indicator display order (within Goal page),Indikatorenreihenfolge (in der Zielübersicht)
-metadata_fields:info_url_1,Additional Information,Zusätzliche Informationen
-metadata_fields:national_data_update_url,Data last updated,Daten zuletzt aktualisiert am
-metadata_fields:national_geographical_coverage,Geographical coverage,Geographische Abdeckung
-metadata_fields:national_indicator_available,Indicator available,Verfügbare Datenreihenbezeichnung
-metadata_fields:national_indicator_description,Indicator description,Indikatorenbeschreibung
-metadata_fields:national_metadata_update_url,Metadata last updated,Metadaten zuletzt aktualisiert am
-metadata_fields:source_contact_1,Contact details,Kontaktinformationen
-metadata_fields:source_contact_2,Contact details,Kontaktinformationen
-metadata_fields:source_contact_3,Contact details,Kontaktinformationen
-metadata_fields:source_contact_4,Contact details,Kontaktinformationen
-metadata_fields:source_contact_5,Contact details,Kontaktinformationen
-metadata_fields:source_contact_6,Contact details,Kontaktinformationen
-metadata_fields:source_earliest_available_1,Earliest available data,Daten verfügbar seit
-metadata_fields:source_earliest_available_2,Earliest available data,Daten verfügbar seit
-metadata_fields:source_earliest_available_3,Earliest available data,Daten verfügbar seit
-metadata_fields:source_earliest_available_4,Earliest available data,Daten verfügbar seit
-metadata_fields:source_earliest_available_5,Earliest available data,Daten verfügbar seit
-metadata_fields:source_earliest_available_6,Earliest available data,Daten verfügbar seit
-metadata_fields:source_geographical_coverage_1,Geographical coverage,Geographische Abdeckung
-metadata_fields:source_geographical_coverage_2,Geographical coverage,Geographische Abdeckung
-metadata_fields:source_geographical_coverage_3,Geographical coverage,Geographische Abdeckung
-metadata_fields:source_geographical_coverage_4,Geographical coverage,Geographische Abdeckung
-metadata_fields:source_geographical_coverage_5,Geographical coverage,Geographische Abdeckung
-metadata_fields:source_geographical_coverage_6,Geographical coverage,Geographische Abdeckung
-metadata_fields:source_next_release_1,Next release,Nächste Veröffentlichung am
-metadata_fields:source_next_release_2,Next release,Nächste Veröffentlichung am
-metadata_fields:source_next_release_3,Next release,Nächste Veröffentlichung am
-metadata_fields:source_next_release_4,Next release,Nächste Veröffentlichung am
-metadata_fields:source_next_release_5,Next release,Nächste Veröffentlichung am
-metadata_fields:source_next_release_6,Next release,Nächste Veröffentlichung am
-metadata_fields:source_organisation_1,Organisation,Organisation
-metadata_fields:source_organisation_2,Organisation,Organisation
-metadata_fields:source_organisation_3,Organisation,Organisation
-metadata_fields:source_organisation_4,Organisation,Organisation
-metadata_fields:source_organisation_5,Organisation,Organisation
-metadata_fields:source_organisation_6,Organisation,Organisation
-metadata_fields:source_other_info_1,Other information,Weitere Informationen
-metadata_fields:source_other_info_2,Other information,Weitere Informationen
-metadata_fields:source_other_info_3,Other information,Weitere Informationen
-metadata_fields:source_other_info_4,Other information,Weitere Informationen
-metadata_fields:source_other_info_5,Other information,Weitere Informationen
-metadata_fields:source_other_info_6,Other information,Weitere Informationen
-metadata_fields:source_periodicity_1,Periodicity,Periodizität
-metadata_fields:source_periodicity_2,Periodicity,Periodizität
-metadata_fields:source_periodicity_3,Periodicity,Periodizität
-metadata_fields:source_periodicity_4,Periodicity,Periodizität
-metadata_fields:source_periodicity_5,Periodicity,Periodizität
-metadata_fields:source_periodicity_6,Periodicity,Periodizität
-metadata_fields:source_release_date_1,Release date,Veröffentlichungsdatum
-metadata_fields:source_release_date_2,Release date,Veröffentlichungsdatum
-metadata_fields:source_release_date_3,Release date,Veröffentlichungsdatum
-metadata_fields:source_release_date_4,Release date,Veröffentlichungsdatum
-metadata_fields:source_release_date_5,Release date,Veröffentlichungsdatum
-metadata_fields:source_release_date_6,Release date,Veröffentlichungsdatum
-metadata_fields:source_statistical_classification_1,Statistical classification, Datentyp
-metadata_fields:source_statistical_classification_2,Statistical classification,Datentyp
-metadata_fields:source_statistical_classification_3,Statistical classification,Datentyp
-metadata_fields:source_statistical_classification_4,Statistical classification,Datentyp
-metadata_fields:source_statistical_classification_5,Statistical classification,Datentyp
-metadata_fields:source_statistical_classification_6,Statistical classification,Datentyp
-metadata_fields:source_url_1,Link to <br>data source,Link zur <br>Datenquelle
-metadata_fields:source_url_2,Link to <br>data source,Link zur <br>Datenquelle
-metadata_fields:source_url_3,Link to <br>data source,Link zur <br>Datenquelle
-metadata_fields:source_url_4,Link to <br>data source,Link zur <br>Datenquelle
-metadata_fields:source_url_5,Link to <br>data source,Link zur <br>Datenquelle
-metadata_fields:source_url_6,Link to <br>data source,Link zur <br>Datenquelle
-metadata_fields:target,Target name,Unterziel
-metadata_fields:target_id,Target number,Unterzielnummerierung
-metadata_fields:un_custodian_agency,UN custodian agency,UN Custodian Agency
-metadata_fields:un_designated_tier,"<a href=""https://unstats.un.org/sdgs/iaeg-sdgs/tier-classification/"">UN designated tier</a>","<a href=""https://unstats.un.org/sdgs/iaeg-sdgs/tier-classification/"">UN Tier Klassifikation</a>"
+status:exploring_data_sources,Exploring data sources,Datenquellenanalyse
+status:not_applicable,Not applicable,Nicht zutreffend
+status:overall_reporting_status,Overall Reporting Status,Übersicht zum Berichtsstatus der
+status:reported_online,Reported online,Daten verfügbar
+status:reporting_status,Reporting Status,Berichtsstatus
+status:statistics_in_progress,Statistics in progress,in Bearbeitung
+status:status_by_goal,Status by goal,Status nach Ziel
 search:found_in,found in,gefunden unter
 search:goals,goals,Zielen
 search:indicator_search,Indicator search,Indikatorensuche
@@ -270,151 +183,43 @@ search:keywords,Keywords,Schlagworte
 search:no_results,No results,Keine Ergebnisse
 search:search,Search,Suche
 search:search_results_for,Search results for,Ergebnisse zu
-indicator:chart,Chart,Grafik
-indicator:clear_all,Clear all,Auswahl aufheben
-indicator:clear_selections,Clear selections,Auswahl aufheben
-indicator:copyright,Copyright,Copyright
-indicator:dataset_size_warning,There are too many datasets to show on the chart. Not all will be shown until you remove some selections.,"Zu viele Zeitreihen ausgewählt, um diese in einer Grafik darzustellen. Es können nicht alle Zeitreihen dargestellt werden."
-indicator:dns_metadata_blurb,"Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.","Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet."
-indicator:download_chart,Download Chart CSV,Grafik im CSV-Format speichern
-indicator:download_chart_image,Download Chart Image,Grafik als Bild speichern
-indicator:download_csv,Download CSV,im CSV-Format speichern
-indicator:download_csv_title,Download as CSV,im CSV-Format speichern
-indicator:download_headline,Download Headline CSV,Speichern der Headline im CSV-Format
-indicator:download_headline_title,Download headline data as CSV,Speichern der Headline im CSV-Format
-indicator:download_source,Download Source CSV,Daten im CSV-Format speichern
-indicator:download_source_title,Download source data as CSV,Daten im CSV-Format speichern
-indicator:download_table,Download Table CSV,Tabelle im CSV-Format speichern
-indicator:edit,Edit,Bearbeiten
-indicator:edit_data,Edit Data,Daten bearbeiten
-indicator:edit_metadata,Edit Metadata,Metadaten bearbeiten
-indicator:footnote,Specification,Anmerkung
-indicator:geographical_area,Geographical Area,Geographische Abdeckung
-indicator:global_metadata,Global Metadata,Globale Metadaten
-indicator:global_metadata_blurb,"This table provides information on metadata for SDG indicators as defined by the UN Statistical Commission. <a href=""https://unstats.un.org/sdgs/metadata/"">Complete global metadata</a> is provided by the UN Statistics Division.","Diese Übersicht stellt Informationen zu den globalen Metadaten des jeweiligen SDG-Indikators bereit. Die <a href=""https://unstats.un.org/sdgs/metadata/"">globalen Metadaten</a> werden durch die Statistische Division der Vereinten Nationen bereitgestellt."
-indicator:history,Indicator status summary,Statusübersicht
-indicator:history_blurb,The synoptic table provides information also about the evaluation of an indicator in previous years. It shows if the weather symbol assigned to an indicator was rather stable or volatile in the past years.,"In dieser Übersichtstabelle sind jeweils auch die Bewertungen eines Indikators nach Stand der vorhergehenden Jahre angegeben. Daran lässt sich ablesen, ob das Wettersymbol für einen Indikator in den vergangenen Jahren stabil oder eher volatil war."
-indicator:legend_help,Click on the legend to remove individual lines from the chart.,Klicken Sie auf die Legende um Zeitreihen aus der Grafik zu entfernen.
-indicator:loading_map,Loading map,Karte wird geladen
-indicator:map,Map,Karte
-indicator:metadata,Metadata,Metadaten
-indicator:national_metadata,National Metadata,Nationale Metadaten
-indicator:national_metadata_blurb,"This table provides metadata for the actual indicator available from %country_adjective statistics closest to the corresponding global SDG indicator. Please note that even when the SDG indicator is fully available from %country_adjective statistics, this table should be consulted for information on national methodology and other country specific metadata information.","Im Folgenden werden Metadaten zu den national verfügbaren Zeitreihen für Deutschland zum jeweiligen globalen SDG-Indikator bereitgestellt. Die angegebene Datenreihe ist die vergleichbarste, national verfügbare Zeitreihe. Entspricht die angezeigte Datenreihe voll den globalen Metadaten, so ist dennoch auf diese nationalen Metadaten für methodische sowie weitere länderspezifische Informationen hinzuweisen."
-indicator:no_data_hint,No options available because of filters above,Aufgrund der bereits getroffenen Auswahl sind keine weiteren Auswahlmöglichkeiten verfügbar.
-indicator:select_all,Select all,Alle auswählen
-indicator:series_help,Choose categories from the dropdowns below to see different breakdowns of the data. Some will not be available until a higher level is chosen.,"Wählen Sie Disaggregationsdimensionen aus, damit die verfügbaren Disaggregationskategorien angezeigt werden. Manche werden erst angezeigt, sobald eine Überkategorie ausgewählt wird."
-indicator:source,Source,Datenquelle
-indicator:sources,Sources,Datenquellen
-indicator:specification,Specification,
-indicator:sub_categories,Sub-categories,Disaggregationsdimensionen
-indicator:table,Table,Tabelle
-indicator:timeseries,Time series,Zeitreihe
-indicator:unit_of_measurement,Unit of measurement,Einheit
-indicator:units_type,Units type,Einheit
-indicator:variable_hint,Available when '%field' is selected,Verfügbar
-indicator:view_indicator_list,View this goal's indicator list,Zeigt die Indikatorenliste zum SDG-Ziel an.
-header:alpha,Alpha,Alpha-Version
-header:disclaimer,"This is a development website. We welcome your <a href=""mailto:%email_address"">feedback</a>.",Diese Seite befindet sich im Entwicklungsstadium.Wir freuen uns über Ihre Kommentare.
-header:skip_link,Skip to main content, Zum Hauptinhalt springen
-header:tag_line,17 Goals to Transform our World,
-dns_ranges:1.1-title,Poverty,Armut
-dns_ranges:10.1-title,Equal educational opportunities,Gleiche Bildungschancen
-dns_ranges:10.2-title,Distributive justice,Verteilungsgerechtigkeit
-dns_ranges:11.1-title,Land use,Flächeninanspruchnahme
-dns_ranges:11.2-title,Mobility,Mobilität
-dns_ranges:11.3-title,Housing,Wohnen
-dns_ranges:12.1-title,Responsible consumption,Nachhaltiger Konsum
-dns_ranges:12.2-title,Responsible production,Nachhaltige Produktion
-dns_ranges:12.3-title,Responsible procurement,Nachhaltige Beschaffung
-dns_ranges:13.1-title,Climate protection,Klimaschutz
-dns_ranges:14.1-title,Protecting the oceans,Meere schützen
-dns_ranges:15.1-title,Biodiversity,Artenvielfalt
-dns_ranges:15.2-title,Ecosystems,Ökosysteme
-dns_ranges:15.3-title,Forests,Wälder
-dns_ranges:16.1-title,Crime,Kriminalität
-dns_ranges:16.2-title,Peace and security,Frieden und Sicherheit
-dns_ranges:16.3-title,Good governance,Gute Regierungsführung
-dns_ranges:17.1-title,Development cooperation,Entwicklungszusammenarbeit
-dns_ranges:17.2-title,"Knowledge transfer, espaecially in technical areas",Wissenstransfer insbesondere im technischen Bereich
-dns_ranges:17.3-title,Opening markets,Märkte öffnen
-dns_ranges:2.1-title,Farming,Landbewirtschaftung
-dns_ranges:2.2-title,Food security,Ernährungssicherung
-dns_ranges:3.1-title,Health and nutrition,Gesundheit und Ernährung
-dns_ranges:3.2-title,Air pollution,Luftbelastung
-dns_ranges:4.1-title,Education,Bildung
-dns_ranges:4.2-title,Prospects for families,Perspektiven für Familien
-dns_ranges:5.1-title,Equality,Gleichstellung
-dns_ranges:6.1-title,Water quality,Gewässerqualität
-dns_ranges:6.2-title,Drinking water and sanitation,Trinkwasser- und Sanitärversorgung
-dns_ranges:7.1-title,Recource conservation,Ressourcenschonung
-dns_ranges:7.2-title,Renewable energies,Erneuerbare Energien
-dns_ranges:8.1-title,Recource conservation,Ressourcenschonung
-dns_ranges:8.2-title,Government dept,Staatsverschuldung
-dns_ranges:8.3-title,Provision for future economic stability,Wirtschaftliche Zukunftsvorsorge
-dns_ranges:8.4-title,Economic output,Wirtschaftliche Leistungsfähigkeit
-dns_ranges:8.5-title,Employment,Beschäftigung
-dns_ranges:8.6-title,Global supply chains,Globale Lieferketten
-dns_ranges:9.1-title,Innovation,Innovation
-frontpage:heading,National Data for UN-SDGs,Indikatoren der UN-Nachhaltigkeitsziele
-frontpage:heading_dns,Sustainable Development in Germany,Nachhaltige Entwicklung in Deutschland
-frontpage:instructions,"Click on each goal, or %before_link search, %after_link for German statistics for Sustainable Development Goal global indicators.",Klicken Sie auf die einzelnen Ziele um zu den Daten zu den Indikatoren der Ziele für nachhaltige Entwicklung für Deutschland zu gelangen. Oder %before_link suchen %after_link Sie gezielt nach spezifischen Themen.
-dns_goals:1-title,No poverty,Keine Armut
-dns_goals:10-title,Reduced inequalities,Weniger Ungleichheiten
-dns_goals:11-title,Sustainable cities & communities,Nachhaltige Städte und Gemeinden
-dns_goals:12-title,Responsible consumption and production,Verantwortungsvolle Konsum- und Produktionsmuster
-dns_goals:13-title,Climate action,Maßnahmen zum Klimaschutz
-dns_goals:14-title,Life below water,Leben unter Wasser
-dns_goals:15-title,Life on land,Leben an Land
-dns_goals:16-title,Peace and justice - strong institutions,"Frieden, Gerechtigkeit und starke Institutionen"
-dns_goals:17-title,Partnerships for the goals,Partnerschaften zur Erreichung der Ziele
-dns_goals:2-title,Zero hunger,Kein Hunger
-dns_goals:3-title,Good health and well-being,Gesundheit und Wohlergehen
-dns_goals:4-title,Quality education,Hochwertige Bildung
-dns_goals:5-title,Gender equality,Geschlechtergleichstellung
-dns_goals:6-title,Clean water and sanitation,Sauberes Wasser und Sanitärversorgung
-dns_goals:7-title,Affordable and clean energy,Bezahlbare und saubere Energie
-dns_goals:8-title,Decent jobs and economic growth,Menschenwürdige Arbeit und Wirtschaftswachstum
-dns_goals:9-title,"Industry, innovation and infrastructure","Industrie, Innovationen und Infrastruktur"
-dns_targets:1.1-title,Limiting poverty,Armut begrenzen
-dns_targets:10.1-title,Improving educational success of foreigners in German schools,Schulische Bildungserfolge von Ausländern in Deutschland verbessern
-dns_targets:10.2-title,Preventing too-great inequality within Germany,Zu große Ungleichheit innehalb Deutschlands verhindern
-dns_targets:11.1-title,Using land sustainable,Fläche nachhaltig nutzen
-dns_targets:11.2-title,Guranteeing mobility - Protecting the environment,Mobilität sichern - Umwelt schonen
-dns_targets:11.3-title,Affordable housing for all,Bezahlbarer Wohnraum für alle
-dns_targets:12.1-title,Making consumption environmentally and socially compatible,Konsum umwelt- und sozialverträglich gestalten
-dns_targets:12.2-title,Increasing the proportion of sustainable production,Anteil nachhaltiger Produktion stetig erhöhen
-dns_targets:12.3-title,Realising the exemplary role of the public sector in sustainable procurement,Vorbildwirkung der öffentlichen Hand für nachhaltige öffentliche Beschaffung verwirklichen
-dns_targets:13.1-title,Reducing greenhouse gases and contributing to international climate financing,Treibhausgase reduzieren und einen Beitrag zur internationalen Klimafinanzierung leisten
-dns_targets:14.1-title,Protecting and sustainably using oceans and marine resources,Meere und Meeresressourcen schützen und nachhaltig nutzen
-dns_targets:15.1-title,Conserving species - Protecting habitats,Arten erhalten - Lebensräume schützen
-dns_targets:15.2-title,"Protecting ecosystems, conserving ecosystem services and preserving habitats","Ökosysteme schützen, Ökosystemleistungen erhalten und Lebensräume bewahren"
-dns_targets:15.3-title,Preventing deforestation,Entwaldung vermeiden
-dns_targets:16.1-title,Further increasing personal security,Persönliche Sicherheit weiter erhöhen
-dns_targets:16.2-title,"Taking practical action to combat proliferation, especially of small arms","Praktische Maßnahmen zur Bekämpfung der Proliferation, insbesondere von Kleinwaffen, ergreifen"
-dns_targets:16.3-title,Combating corruption,Korruption bekämpfen
-dns_targets:17.1-title,Supporting sustainable development,Nachhaltige Entwicklung unterstützen
-dns_targets:17.2-title,Sharing knowledge internationally,Wissen international vermitteln
-dns_targets:17.3-title,Improving trade opportunities for developing countries,Handelschancen der Entwicklungsländer verbessern
-dns_targets:2.1-title,Environmentally sound production in our cultivated landscapes,In unseren Kulturlandschaften umweltverträglich produzieren
-dns_targets:2.2-title,Realising globally the right to food,Das Recht auf Nahrung weltweit verwirklichen
-dns_targets:3.1-title,Living healthy longer,Länger gesund leben
-dns_targets:3.2-title,Keeping the environment healthy,Gesunde Umwelt erhalten
-dns_targets:4.1-title,Continuously improving education and vocational training,Bildung und Qualifikation kontinuierlich verbessern
-dns_targets:4.2-title,Improving the compatibility of work and family life,Vereinbarkeit von Familie und Beruf verbessern
-dns_targets:5.1-title,Promoting equal opportunities in society and strengthening the economic participation of women globally,Gleichstellung in der Gesellschaft fördern und wirtschaftliche Teilhabe von Frauen global stärken
-dns_targets:6.1-title,Reducing the pollution of water with substances,Minderung der stofflichen Belastung von Gewässern
-dns_targets:6.2-title,"Better access to drinking water and sanitation worldwide, higher (safer) quality","Besserer Zugang zu Trinkwasser- und Sanitärversorgung weltweit, höhere (sichere) Qualität"
-dns_targets:7.1-title,Using resources economically and efficiently,Ressourcen sparsam und effizient nutzen
-dns_targets:7.2-title,Strengthening a sustainable energy supply,Zukunftsfähige Energieversorgung ausbauen
-dns_targets:8.1-title,Using resources economically and efficiently,Ressourcen sparsam und effizient nutzen
-dns_targets:8.2-title,Consolidating public finances - Creating intergenerational equity,Staatsfinanzen konsolidieren - Generationengerechtigkeit schaffen
-dns_targets:8.3-title,Creating favourable investment conditions - Securing long-term prosperity,Gute Investitionsbedingungen schaffen - Wohlstand dauerhaft erhalten
-dns_targets:8.4-title,Combining larger economic output with environmental and social responsibility,Wirtschaftsleistung umwelt- und sozialverträglich steigern
-dns_targets:8.5-title,Boosting employment levels,Beschäftigungsniveau steigern
-dns_targets:8.6-title,Enabling decent work worldwide,Menschenwürdige Arbeit weltweit ermöglichen
-dns_targets:9.1-title,Shaping the future with new solutions,Zukunft mit neuen Lösungen gestalten
+global_goals:1-short,No poverty,Keine Armut
+global_goals:1-title,End poverty in all its forms everywhere,Armut in allen ihren Formen und überall beenden
+global_goals:10-short,Reduced inequalities,Weniger Ungleichheiten
+global_goals:10-title,Reduce inequality within and among countries,Ungleichheit in und zwischen Ländern verringern
+global_goals:11-short,Sustainable cities & communities,Nachhaltige Städte und Gemeinden
+global_goals:11-title,"Make cities and human settlements inclusive, safe, resilient and sustainable","Städte und Siedlungen inklusiv, sicher, widerstandsfähig und nachhaltig gestalten"
+global_goals:12-short,Responsible consumption and production,Verantwortungsvolle Konsum- und Produktionsmuster
+global_goals:12-title,Ensure sustainable consumption and production patterns,Nachhaltige Konsum- und Produktionsmuster sicherstellen
+global_goals:13-short,Climate action,Maßnahmen zum Klimaschutz
+global_goals:13-title,Take urgent action to combat climate change and its impacts,Umgehend Maßnahmen zur Bekämpfung des Klimawandels und seiner Auswirkungen ergreifen
+global_goals:14-short,Life below water,Leben unter Wasser
+global_goals:14-title,"Conserve and sustainably use the oceans, seas and marine resources for sustainable development","Ozeane, Meere und Meeresressourcen im Sinne nachhaltiger Entwicklung erhalten und nachhaltig nutzen"
+global_goals:15-short,Life on land,Leben an Land
+global_goals:15-title,"Protect, restore and promote sustainable use of terrestrial ecosystems, sustainably manage forests, combat desertification, and halt and reverse land degradation and halt biodiversity loss","Landökosysteme schützen, wiederherstellen und ihre nachhaltige Nutzung fördern, Wälder nachhaltig bewirtschaften, Wüstenbildung bekämpfen, Bodendegradation beenden und umkehren und dem Verlust der biologischen Vielfalt ein Ende setzen"
+global_goals:16-short,Peace and justice - strong institutions,"Frieden, Gerechtigkeit und starke Institutionen"
+global_goals:16-title,"Promote peaceful and inclusive societies for sustainable development, provide access to justice for all and build effective, accountable and inclusive institutions at all levels","Friedliche und inklusive Gesellschaften für eine nachhaltige Entwicklung fördern, allen Menschen Zugang zur Justiz ermöglichen und leistungsfähige, rechenschaftspflichtige und inklusive Institutionen auf allen Ebenen aufbauen"
+global_goals:17-short,Partnerships for the goals,Partnerschaften zur Erreichung der Ziele
+global_goals:17-title,Strengthen the means of implementation and revitalize the Global Partnership for Sustainable Development,Umsetzungsmittel stärken und die Globale Partnerschaft für nachhaltige Entwicklung mit neuem Leben erfüllen
+global_goals:2-short,Zero hunger,Kein Hunger
+global_goals:2-title,"End hunger, achieve food security and improved nutrition and promote sustainable agriculture","Den Hunger beenden, Ernährungssicherheit und eine bessere Ernährung erreichen und eine nachhaltige Landwirtschaft fördern"
+global_goals:3-short,Good health and well-being,Gesundheit und Wohlergehen
+global_goals:3-title,Ensure healthy lives and promote well-being for all at all ages,Ein gesundes Leben für alle Menschen jeden Alters gewährleisten und ihr Wohlergehen fördern
+global_goals:4-short,Quality education,Hochwertige Bildung
+global_goals:4-title,Ensure inclusive and equitable quality education and promote lifelong learning opportunities for all,"Inklusive, gleichberechtigte und hochwertige Bildung gewährleisten und Möglichkeiten lebenslangen Lernens für alle fördern"
+global_goals:5-short,Gender equality,Geschlechtergleichstellung
+global_goals:5-title,Achieve gender equality and empower all women and girls,Geschlechtergleichstellung erreichen und alle Frauen und Mädchen zur Selbstbestimmung befähigen
+global_goals:6-short,Clean water and sanitation,Sauberes Wasser und Sanitärversorgung
+global_goals:6-title,Ensure availability and sustainable management of water and sanitation for all,Verfügbarkeit und nachhaltige Bewirtschaftung von Wasser und Sanitärversorgung für alle gewährleisten
+global_goals:7-short,Affordable and clean energy,Bezahlbare und saubere Energie
+global_goals:7-title,"Ensure access to affordable, reliable, sustainable and modern energy for all","Zugang zu bezahlbarer, verlässlicher, nachhaltiger und moderner Energie für alle sichern"
+global_goals:8-short,Decent jobs and economic growth,Menschenwürdige Arbeit und Wirtschaftswachstum
+global_goals:8-title,"Promote sustained, inclusive and sustainable economic growth, full and productive employment and decent work for all","Dauerhaftes, breitenwirksames und nachhaltiges Wirtschaftswachstum, produktive Vollbeschäftigung und menschenwürdige Arbeit für alle fördern"
+global_goals:9-short,"Industry, innovation and infrastructure","Industrie, Innovationen und Infrastruktur"
+global_goals:9-title,"Build resilient infrastructure, promote inclusive and sustainable industrialization and foster innovation","Eine widerstandsfähige Infrastruktur aufbauen, breitenwirksame und nachhaltige Industrialisierung fördern und Innovationen unterstützen"
 data:%,Percentage (%),Prozent (%)
 data:'agriculture orientation index' for government expenditures,'Agriculture orientation index' for government expenditures,'Agriculture Orientation Index' für Staatsausgaben
+data:'agriculture orientation index' for government expenditures (index),'Agriculture orientation index' for government expenditures,'Agriculture Orientation Index' für Staatsausgaben
 data:0 - unknown age,Unknown Age,unbekanntes Alter
 data:1) all age groups,all age groups,alle Altersklassen
 data:1) male and female,male and female,männlich und weiblich
@@ -463,6 +268,8 @@ data:a) branches of payment service providers,a) Branches of payment service pro
 data:a) cardiovascular disease,a) cardiovascular disease,a) Herz-Kreislauferkrankungen
 data:a) children and youths in grades 2/3 with a minimum proficiency level in,a) Children and youths in grades 2/3 with a minimum proficiency level in,a) Kinder und Jugendliche in den Klassen 2/3 mit einem Mindestleistungsniveau in
 data:a) electricity,a) electricity,a) Elektrizität
+data:a) government spending on health (cofog section 07),Government spending on health (COFOG section 07),Staatsausgaben für Gesundheit (COFOG Abteilung 07)
+data:a) government spending on health (cofog section 07) (%),Government spending on health (COFOG section 07),Staatsausgaben für Gesundheit (COFOG Abteilung 07)
 data:a) hazardous waste generated per capita,a) Hazardous waste generated per capita,a) Erzeugte gefährliche Abfälle
 data:a) materially deprived persons,a) Materially deprived persons,a) Materiell deprivierte Personen
 data:a) medical doctors,Medical doctors,Ärzte
@@ -475,7 +282,6 @@ data:a) passenger transport,a) Passenger transport,a) Personenverkehr
 data:a) police reporting rate for physical assault,Police reporting rate for physical assault,Anzeigequote bei Körperverletzung
 data:a) population using safely managed sanitation services,a) Population using safely managed sanitation services,a) Bevölkerung mit einer sicher verwalteten Abwasserversorgung
 data:a) time series,Time series,Zeitreihen
-data:a) unemployed persons with unemployment benefits,Unemployed persons with unemployment benefits,Arbeitslose Leistungsbezieher
 data:above-ground biomass stock in forest,Above-ground biomass stock in forest,Gesamtbestand der obererdigen Biomasse in Wäldern
 data:accounts at payment service providers,Accounts at payment service providers,Konten bei Zahlungsverkehrsdienstleistern
 data:activities,Activities,Aktivitäten
@@ -488,19 +294,24 @@ data:age,Age group,Altersklasse
 data:age (male and female),Age group (male and female),Altersklasse (männlich und weiblich)
 "data:age (male and female, with and without disabilities)","Age (male and female, with and without disabilities)","Altersklasse (männlich und weiblich, mit und ohne Behinderung)"
 data:agricultural area under productive and organic agriculture practices,Agricultural area under productive and organic agriculture practices,Landwirtschaftliche Flächen unter ökologischer Bewirtschaftung
+data:agricultural area under productive and organic agriculture practices (%),Agricultural area under productive and organic agriculture practices,Landwirtschaftliche Flächen unter ökologischer Bewirtschaftung
 "data:agriculture, forestry and fishing (nace rev 2, section a)","Agriculture, forestry and fishing (NACE Rev. 2, section A)","Land- und Forstwirtschaft, Fischerei (NACE Rev. 2, Abschnitt A)"
 data:aid for trade commitments (oda and oof),Aid for trade commitments (ODA and OOF),Verpflichtungen zur Handelshilfe (ODA und OOF)
 data:aid for trade gross disbursements (oda and oof),Aid for trade gross disbursements (ODA and OOF),Bruttoauszahlungen für Handelshilfe (ODA und OOF)
 data:alcohol consumption (conversion by national factors),Alcohol consumption (conversion by national factors),Alkoholkonsum (Umrechnung mittels nationalen Faktoren)
+data:alcohol consumption (conversion by national factors) (litres of pure alcohol per capita),Alcohol consumption (conversion by national factors),Alkoholkonsum (Umrechnung mittels nationalen Faktoren)
 data:alcohol consumption (conversion by un factors),Alcohol consumption (conversion by UN factors),Alkoholkonsum (Umrechnung mittels UN-Faktoren)
+data:alcohol consumption (conversion by un factors) (litres of pure alcohol per capita),Alcohol consumption (conversion by UN factors),Alkoholkonsum (Umrechnung mittels UN-Faktoren)
 data:all age groups,all age groups,alle Altersklassen
 data:animal genetic resources,Animal genetic resources,Tiergenetische Ressourcen
+data:animal genetic resources (number),Animal genetic resources,Tiergenetische Ressourcen
 data:annual growth rate of real gdp,Annual growth rate of real GDP,Jährliche Wachstumsrate des realen BIP
 data:annual growth rate of real gdp per capita,Annual growth rate of real GDP per capita,Jährliche Wachstumsrate des realen BIP pro Kopf
 data:annual growth rate of real gdp per employed person,Annual growth rate of real GDP per employed person,Jährliche Wachstumsrate des realen BIP pro Beschäftigten
 data:area,Area,Gebiet
 data:area of law,Area of Law,Rechtsgebiet
 data:at-risk-of-poverty or social exclusion (according to eurostat definition),At-risk-of-poverty or social exclusion,Armutsgefährdung oder soziale Ausgrenzung
+data:at-risk-of-poverty or social exclusion (according to eurostat definition) (%),At-risk-of-poverty or social exclusion,Armutsgefährdung oder soziale Ausgrenzung
 data:at-risk-of-poverty rate (according to eurostat definition),At-risk-of-poverty rate,Armutsgefährdungsquote
 data:at-risk-of-poverty rate (according to eurostat definition) (%),At-risk-of-poverty rate,Armutsgefährdungsquote
 data:available income of private households,Available income of private households,Verfügbares Einkommen privater Haushalte
@@ -515,10 +326,11 @@ data:b) cancer,b) cancer,b) bösartigen Neubildungen
 data:b) dentists,Dentists,Zahnärzte
 data:b) environmental protection expenditure,Environmental protection expenditure,Umweltschutzausgaben
 data:b) freight transport,b) Freight transport,b) Güterverkehr
+data:b) government spending on education (cofog section 09),Government spending on education (COFOG section 09),Staatsausgaben für Bildung (COFOG Abteilung 09)
+data:b) government spending on education (cofog section 09) (%),Government spending on education (COFOG section 09),Staatsausgaben für Bildung (COFOG Abteilung 09)
 data:b) hazardous waste treated,b) Hazardous waste treated,b) Behandelte gefährliche Abfälle
 data:b) not at risk,Not at risk,Nicht gefährdet
 data:b) oda (gross disbursements) for other related water and sanitation purposes,ODA (gross disbursements) for other related water and sanitation purposes,Bruttoentwicklungsausgaben für verwandte Zwecke
-data:b) population covered by health insurance,Population covered by health insurance,Bevölkerung mit Krankenversicherungsschutz
 data:b) population with a bathtub or a shower,b) Population with a bathtub or a shower,b) Bevölkerung mit einer Badewanne oder Dusche
 data:b) severely materially deprived persons,b) Serverely materially deprived persons,b) Erheblich materiell deprivierte Personen
 data:b) target,Targets,Ziele
@@ -538,6 +350,8 @@ data:c) children and youths at the end of lower secondary education with a minim
 data:c) computers for pedagogical purposes,c) computers for pedagogical purposes,c) Computer für pädagogische Zwecke
 data:c) death registration,c) Death registration,c) Registrierung der Sterbefälle
 data:c) diabetes mellitus,c) diabetes mellitus,c) Diabetes mellitus
+data:c) government spending on social protection (cofog section 10),Government spending on social protection (COFOG section 10),Staatsausgaben für soziale Sicherung (COFOG Abteilung 10)
+data:c) government spending on social protection (cofog section 10) (%),Government spending on social protection (COFOG section 10),Staatsausgaben für soziale Sicherung (COFOG Abteilung 10)
 data:c) nursing and midwifery personnel,Nursing and midwifery personnel,Medizinisches Pflegepersonal sowie Personal in der Geburtshilfe
 data:c) police reporting rate for robbery,Police reporting rate for robbery,Anzeigequote bei Raub
 data:c) unknown,Unknown,Unbekannt
@@ -566,13 +380,19 @@ data:cooling water,Cooling water,Kühlwasser
 data:copying or moving of files and folders,Copying or moving of files and folders,Kopieren oder Verschieben von Dateien und Ordnern
 data:countries with nationale statistical legislation exists that complies with the fundamental principles of offical statistics,Countries with nationale statistical legislation exists that complies with the Fundamental Principles of Offical Statistics,Länder mit nationaler statistischer Gesetzgebung im Einklang mit den Grundsätzen der amtlichen Statistik
 "data:coverage of dtp (diphtheria, tetanus and pertussis) containing vaccine at school entrance","Coverage of DTP (diphtheria, tetanus and pertussis) containing vaccine at school entrance",DTP-Impfquote zum Schuleintritt
+"data:coverage of dtp (diphtheria, tetanus and pertussis) containing vaccine at school entrance (%)","Coverage of DTP (diphtheria, tetanus and pertussis) containing vaccine at school entrance",DTP-Impfquote zum Schuleintritt
 data:coverage of hpv containing vaccine of 15 years old girls,Coverage of HPV containing vaccine of 15 years old girls,HPV-Impfquote bei 15-jährigen Mädchen
+data:coverage of hpv containing vaccine of 15 years old girls (%),Coverage of HPV containing vaccine of 15 years old girls,HPV-Impfquote bei 15-jährigen Mädchen
 data:coverage of measles containing vaccine at school entrance,Coverage of measles containing vaccine at school entrance,Masern-Impfquote zum Schuleintritt
+data:coverage of measles containing vaccine at school entrance (%),Coverage of measles containing vaccine at school entrance,Masern-Impfquote zum Schuleintritt
 data:coverage of pneumococcal conjugate vaccine at school entrance,Coverage of pneumococcal conjugate vaccine at school entrance,Pneumokokken-Impfquote zum Schuleintritt
+data:coverage of pneumococcal conjugate vaccine at school entrance (%),Coverage of pneumococcal conjugate vaccine at school entrance,Pneumokokken-Impfquote zum Schuleintritt
 "data:creating electronic presentations or documents with text, images, tables or charts","Creating electronic presentations or documents with text, images, tables or charts","Erstellung von Präsentationen oder Dokumenten mit Text, Bildern, Tabellen oder Diagrammen"
 data:current accounts,Current accounts,Girokonten
 data:current tobacco use among persons aged 15 years and older,Current tobacco use among persons aged 15 years and older,Tabakgebrauch in der Bevölkerung ab 15 Jahren
+data:current tobacco use among persons aged 15 years and older (%),Current tobacco use among persons aged 15 years and older,Tabakgebrauch in der Bevölkerung ab 15 Jahren
 data:current tobacco use among persons aged 15 years and older (age-standardised to who standard population),Current tobacco use among persons aged 15 years and older (age-standardised to WHO Standard Population),Tabakgebrauch in der Bevölkerung ab 15 Jahren (altersstandardisiert auf die WHO-Standardbevölkerung)
+data:current tobacco use among persons aged 15 years and older (age-standardised to who standard population) (%),Current tobacco use among persons aged 15 years and older (age-standardised to WHO Standard Population),Tabakgebrauch in der Bevölkerung ab 15 Jahren (altersstandardisiert auf die WHO-Standardbevölkerung)
 data:d) 30 mbps to under 100 mbps,d) 30 Mbps to under 100 Mbps,d) 30 Mbit/s bis unter 100 Mbit/s
 data:d) adapted infrastructure and materials for students with disabilities,d) adapted infrastructure and materials for students with disabilities,d) Infrastruktur und Materialien für Studierende mit Behinderung
 data:d) chronic respiratory disease,d) chronic respiratory disease,d) chronischen Atemwegserkrankungen
@@ -594,6 +414,7 @@ data:documents issued for the import and export of protected species,Documents i
 data:e) 100 mbps and over,e) 100 Mbps and over,e) 100 Mbit/s und mehr
 data:e) basic drinking water,e) basic drinking water,e) Trinkwasser
 data:ecological farming area in total agricultural area,Ecological farming area in total agricultural area,Ökoanbaufläche an der gesamten Agrarfläche
+data:ecological farming area in total agricultural area (%),Ecological farming area in total agricultural area,Ökoanbaufläche an der gesamten Agrarfläche
 data:economic sector,Economic sector,Wirtschaftszweig
 data:education,Education level,Bildungsniveau
 data:employment and economic benefits,employment and economic benefits,Erwerbstätigkeit und wirtschaftlicher Nutzen
@@ -610,11 +431,14 @@ data:exploitation of labour,Exploitation of labour,Ausbeutung der Arbeitskraft
 "data:exploitation of labour, male","Exploitation of labour, male","Ausbeutung der Arbeitskraft, Männlich"
 "data:exploitation of labour, under 14 years","Exploitation of labour, under 14 years","Ausbeutung der Arbeitskraft, unter 14 Jahren"
 data:export refunds,Export refunds,Ausfuhrerstattungen
+data:export refunds (eur),Export refunds,Ausfuhrerstattungen
 data:extensive material deprivation,Extensive material deprivation,Erhebliche materielle Deprivation
+data:extensive material deprivation (%),Extensive material deprivation,Erhebliche materielle Deprivation
 data:f) single-sex basic sanitation facilities,f) single-sex basic sanitation facilities,"f) geschlechterspezifische, grundlegende sanitäre Anlagen"
 data:facilities,Facilities,Ausstattung
 data:fatal occupational accidents,Fatal occupational accidents,Tödliche Arbeitsunfälle
 data:fatalities due to road traffic accidents,Fatalities due to road traffic accidents,Todesfälle durch Straßenverkehrsunfälle
+data:fatalities due to road traffic accidents (per 100 000 inhabitants),Fatalities due to road traffic accidents,Todesfälle durch Straßenverkehrsunfälle
 "data:federal budget on research and development in the field of coastal, ocean and polar science, geoscience","Federal budget on research and development in the field of coastal, ocean and polar science, geoscience","Bundeshaushalt für Forschung und Entwicklung im Bereich Küsten-, Ozean- und Polarforschung, Geowissenschaft"
 data:female,female,weiblich
 data:female employees in public sector,Female employees in public sector,Weibliche Beschäftigte des öffentlichen Dienstes
@@ -634,15 +458,15 @@ data:gender parity index of,Gender Parity Index of,Geschlechtsparitätsindex zum
 data:gender pay gap,Gender Pay Gap,Verdienstabstand
 data:germany,Germany,Deutschland
 data:giving birth between 10 to under 15 years,Giving birth between 10 to under 15 years,Geburten im Alter von 10 bis unter 15 Jahren
+data:giving birth between 10 to under 15 years (per 1 000 women of same age),Giving birth between 10 to under 15 years,Geburten im Alter von 10 bis unter 15 Jahren
 data:giving birth between 15 to under 20 years,Giving birth between 15 to under 20 years,Geburten im Alter von 15 bis unter 20 Jahren
+data:giving birth between 15 to under 20 years (per 1 000 women of same age),Giving birth between 15 to under 20 years,Geburten im Alter von 15 bis unter 20 Jahren
 data:goss fixed capital formation,Gross fixed capital formation,
 data:goverment spending on environmental protection (cofog section 5),Goverment spending on environmental protection (COFOG section 5),Ausgaben des Staates für Umweltschutz  (COFOG Gruppe 5)
 "data:goverment spending on recreation, culture and religion (cofog section 8)","Goverment spending on recreation, culture and religion (COFOG section 8)","Ausgaben des Staates für Freizeitgestaltung, Sport, Kultur und Religion (COFOG Gruppe 8)"
 data:government fiscal balance,Government fiscal balance,Finanzierungssaldo des Staates
-data:government spending on education (cofog section 09),Government spending on education (COFOG section 09),Staatsausgaben für Bildung (COFOG Abteilung 09)
 data:government spending on foreign economic aid (cofog group 01-2),Government spending on foreign economic aid (COFOG group 01.2),Staatsausgaben für Wirtschaftshilfe für das Ausland (COFOG Gruppe 01.2)
-data:government spending on health (cofog section 07),Government spending on health (COFOG section 07),Staatsausgaben für Gesundheit (COFOG Abteilung 07)
-data:government spending on social protection (cofog section 10),Government spending on social protection (COFOG section 10),Staatsausgaben für soziale Sicherung (COFOG Abteilung 10)
+data:government spending on foreign economic aid (cofog group 01-2) (%),Government spending on foreign economic aid (COFOG group 01.2),Staatsausgaben für Wirtschaftshilfe für das Ausland (COFOG Gruppe 01.2)
 data:greater north sea,Greater North Sea,Nordsee
 data:gross value added of high-tech industries to total manufacturing value added,Gross value added of high-tech industries to total manufacturing value added,Bruttowertschöpfung der High-Tech-Industrien am Verarbeitenden Gewerbe
 data:gross value added of medium- and high-tech industries to total manufacturing value added,Gross value added of medium- and high-tech industries to total manufacturing value added,Bruttowertschöpfung der Medium- und High-Tech-Industrien am Verarbeitenden Gewerbe
@@ -653,9 +477,12 @@ data:growth rate of income of the total population,Growth rate of income of the 
 data:hamburg,Hamburg,Hamburg
 data:health workers,Health workers,Gesundheitspersonal
 data:health workers - practising concept,Health workers - Practising concept,Gesundheitspersonal (mit direktem Patientenkontakt)
+data:health workers - practising concept (per 10 000 inhabitants),Health workers - Practising concept,Gesundheitspersonal (mit direktem Patientenkontakt)
 data:hepatitis b incidence,Hepatitis B incidence,Auftreten von Hepatitis B
+data:hepatitis b incidence (per 100 000 inhabitants),Hepatitis B incidence,Auftreten von Hepatitis B
 data:hesse,Hesse,Hessen
 data:hiv incidence,HIV incidence,Auftreten von HIV
+data:hiv incidence (per 1 000 live births),HIV incidence,Auftreten von HIV
 data:hours worked by employees,Hours worked by employees,Geleistete Arbeitsstunden der Arbeitnehmer
 data:hours worked by persons employed,Hours worked by persons employed,Geleistete Arbeitsstunden der Erwerbstätigen
 data:households and small-sized enterprises connected to the electricity network,Households and small-sized enterprises connected to the electricity network,"Haushalte und Kleinbetriebe, die an das Elektrizitätsnetzwerk angebunden sind"
@@ -665,16 +492,21 @@ data:income,Income or wealth quantile,Einkommen oder Vermögen Quantil
 data:index,Index,Index
 data:indicator,Indicator,Indikator
 data:infant mortality rate (under 1 year),Infant mortality rate (under 1 year),Säuglingssterblichkeit (unter 1 Jahr)
+data:infant mortality rate (under 1 year) (per 1 000 live births),Infant mortality rate (under 1 year),Säuglingssterblichkeit (unter 1 Jahr)
 data:inland waterway transport,Inland waterway transport,Binnenschifffahrt
 data:inpatient treatment of alcohol dependence,Inpatient treatment of alcohol dependence,Stationäre Behandlung bei Alkoholabhängigkeit
+data:inpatient treatment of alcohol dependence (1 000),Inpatient treatment of alcohol dependence,Stationäre Behandlung bei Alkoholabhängigkeit
 data:inpatient treatment of dependence syndrom due to psychoactive substance use,Inpatient treatment of dependence syndrom due to psychoactive substance use,Stationäre Behandlung bei Abhängigkeit durch psychotrope Substanzen
+data:inpatient treatment of dependence syndrom due to psychoactive substance use (1 000),Inpatient treatment of dependence syndrom due to psychoactive substance use,Stationäre Behandlung bei Abhängigkeit durch psychotrope Substanzen
 data:installing software or apps,Installing software or apps,Installation von Software oder Anwendungen
 data:intestinal nematode infections,intestinal nematode infections,intestinalen Nematodeninfektionen
 data:items,Items,Probleme
 data:key biodiversity areas (kbas) covered by protected areas,Key Biodiversity Areas (KBAs) covered by protected areas,"Schlüsselgebiete der biologischen Vielfalt, die unter Schutz stehen"
 data:kg per capita,kg per capita,kg je Einwohner
 data:labour productivity in agriculture,Labour productivity in agriculture,Arbeitsproduktivität in der Landwirtschaft
+data:labour productivity in agriculture (2010 = 100),Labour productivity in agriculture,Arbeitsproduktivität in der Landwirtschaft
 data:labour productivity in forestry,Labour productivity in forestry,Arbeitsproduktivität in der Forstwirtschaft
+data:labour productivity in forestry (2010 = 100),Labour productivity in forestry,Arbeitsproduktivität in der Forstwirtschaft
 data:labour productivity per hour worked by employee,Labour productivity per hour worked by employee,Arbeitsproduktivität je geleisteter Arbeitnehmerstunde
 data:labour productivity per hour worked by persons employed,Labour productivity per hour worked by persons employed,Arbeitsproduktivität je geleisteter Erwerbstätigenstunde
 data:labour share of gdp,Labour share of GDP,Anteil des Arbeitnehmerentgelts am BIP
@@ -682,17 +514,23 @@ data:land consumption rate,Land consumption rate,Flächenverbrauchsrate
 "data:legal frameworks that promote, enforce and monitor gender equality regarding:","Legal frameworks that promote, enforce and monitor gender equality regarding:","Rechtliche Rahmenbedingungen zur Förderung, Durchsetzung und Überwachung der Gleichstellung der Geschlechter bezüglich"
 data:level of proficiency,Level of proficiency,Leistungsniveau
 data:level of risk of extinction,Level of risk of extinction,Gefährdungskategorie
+data:level of risk of extinction (%),Level of risk of extinction,Gefährdungskategorie
 data:level of risk of extinction (according to fao classification),Level of risk of extinction (according to FAO classification),Gefährdungskategorie (nach FAO-Klassifikation)
+data:level of risk of extinction (according to fao classification) (%),Level of risk of extinction (according to FAO classification),Gefährdungskategorie (nach FAO-Klassifikation)
 data:level of risk of extinction (according to national classification),Level of risk of extinction (according to national classification),Gefährdungskategorie (nach nationaler Klassifikation)
+data:level of risk of extinction (according to national classification) (%),Level of risk of extinction (according to national classification),Gefährdungskategorie (nach nationaler Klassifikation)
 data:level of water stress:,Level of water stress,Nutzung der Wasserressourcen
 data:level of waterstress,Level of waterstress,Nutzung der Wasserressourcen
 data:liquid assets to short-term liabilities,Liquid assets to short-term liabilities,Verbindlichkeiten
 data:litres of pure alcohol per capita,Litres of pure alcohol per capita,Liter puren Alkohols pro Einwohner
 data:live births in hospitals,Live births in hospitals,Lebendgeborene in Krankenhäusern
+data:live births in hospitals (%),Live births in hospitals,Lebendgeborene in Krankenhäusern
 "data:local livestock breeds (horses, cows, pigs, sheep and goats)","Local livestock breeds (horses, cows, pigs, sheep and goats)","Einheimische Nutztierrassen (Pferde, Rinder, Schweine, Schafe und Ziegen)"
+"data:local livestock breeds (horses, cows, pigs, sheep and goats) (number)","Local livestock breeds (horses, cows, pigs, sheep and goats)","Einheimische Nutztierrassen (Pferde, Rinder, Schweine, Schafe und Ziegen)"
 data:lower saxony,Lower Saxony,Niedersachsen
 data:lte,LTE,LTE abgedeckt sind
 data:malaria incidence,Malaria incidence,Auftreten von Malaria
+data:malaria incidence (per 1 000 inhabitants),Malaria incidence,Auftreten von Malaria
 data:male,male,männlich
 data:male and female,male and female,männlich und weiblich
 data:manufacturing gross value added as a proportion of gdp,Manufacturing gross value added as a proportion of GDP,Bruttowertschöpfung im Verarbeitenden Gewerbe im Verhältnis zum BIP
@@ -705,6 +543,7 @@ data:married girls under 15 years,Married girls under 15 years,Verheiratete Mäd
 data:married girls under 18 years,Married girls under 18 years,Verheiratete Mädchen unter 18 Jahren
 data:material deprivation for the housing dimension (one to four items),Material deprivation for the housing dimension (one to four items),Materielle Deprivation bezogen auf die Wohn-Dimension (ein bis vier Probleme)
 data:maternal mortality,Maternal mortality,Müttersterblichkeit
+data:maternal mortality (per 100 000 live births),Maternal mortality,Müttersterblichkeit
 data:mathematics,mathematics,Mathematik
 data:mecklenburg western pomerania,Mecklenburg Western Pomerania,Mecklenburg-Vorpommern
 data:membership ganhri (category a),Membership GANHRI (category A),Mitgliedschaft GANHRI (Kategorie A)
@@ -723,8 +562,11 @@ data:mobility impaired people,Mobility impaired people,Menschen mit Mobilitätse
 data:mode of transport,Mode of transport,Verkehrsmittel
 data:monitored fish stocks based on the msy approach that are professionally exploited,Monitored fish stocks based on the MSY approach that are professionally exploited,Untersuchte Fischbestände zu den wirtschaftlich genutzten Beständen
 data:mortality rate attributed to,Mortality rate attributed to,Sterblichkeit aufgrund von
+data:mortality rate attributed to (per 100 000 inhabitants),Mortality rate attributed to,Sterblichkeit aufgrund von
 data:mortality rate attributed to unintentional poisoning,Mortality rate attributed to unintentional poisoning,Sterblichkeit aufgrund von unbeabsichtigter Vergiftung
+data:mortality rate attributed to unintentional poisoning (per 100 000 inhabitants),Mortality rate attributed to unintentional poisoning,Sterblichkeit aufgrund von unbeabsichtigter Vergiftung
 data:mortality rate of persons aged 30 to under 70 years attributed to,Mortality rate of persons aged 30 to under 70 years attributed to,Sterblichkeit von Personen im Alter von 30 bis unter 70 Jahren aufgrund von
+data:mortality rate of persons aged 30 to under 70 years attributed to (1 000),Mortality rate of persons aged 30 to under 70 years attributed to,Sterblichkeit von Personen im Alter von 30 bis unter 70 Jahren aufgrund von
 data:motorised private transport,Motorised private transport,Motorisierter Individualverkehr
 data:mountain green cover index,Mountain Green Cover Index,'Mountain Green Cover' Index
 data:municipal solid waste regularly collected and treated,Municipal solid waste regularly collected and treated,"Siedlungsabfälle, die regelmäßig gesammelt und behandelt werden"
@@ -732,6 +574,7 @@ data:municipal waste recycled,Municipal waste recycled,Recycelte Siedlungsabfäl
 data:national recycling rate of municipal waste,National recycling rate of municipal waste,Nationale Recyclingquote von Siedlungsabfällen
 data:national sustainable development strategie,National Sustainable Development Strategie,Nationale nachhaltige Entwicklungsstrategie
 data:neonatal mortality rate,Neonatal mortality rate,Sterberate bei Neugeborenen
+data:neonatal mortality rate (per 1 000 live births),Neonatal mortality rate,Sterberate bei Neugeborenen
 data:net open position in foreign exchange to capital,Net open position in foreign exchange to capital,Relation zwischen offener Fremdwährungsposition und regulatorischen Eigenmitteln
 data:non-fatal occupational accidents,Non-fatal occupational accidents,Nicht-tödliche Arbeitsunfälle
 data:nondisabled,Persons without disability,Personen ohne Behinderung
@@ -744,7 +587,9 @@ data:oda (gross disbursements) for imputed student costs,ODA (gross disbursement
 data:oda (gross disbursements) for scholarships,ODA (gross disbursements) for scholarships,Bruttoentwicklungsausgaben für Stipendien
 data:oda (gross disbursements) to infrastructure,ODA (gross disbursements) to infrastructure,Bruttoentwicklungsausgaben für Infrastruktur
 data:oda (gross disbursements) to medical research and basic health sectors,ODA (gross disbursements) to medical research and basic health sectors,Bruttoentwicklungsausgaben für medizinische Forschung und den Basisgesundheitssektor
+data:oda (gross disbursements) to medical research and basic health sectors (per 10 000 inhabitants),ODA (gross disbursements) to medical research and basic health sectors,Bruttoentwicklungsausgaben für medizinische Forschung und den Basisgesundheitssektor
 data:oda (gross disbursements) to the agriculture sector,ODA (gross disbursements) to the agriculture sector,Bruttoentwicklungsausgaben für die Landwirtschaft
+"data:oda (gross disbursements) to the agriculture sector (mn usd, constant prices (2016))",ODA (gross disbursements) to the agriculture sector,Bruttoentwicklungsausgaben für die Landwirtschaft
 data:oda (net disbursements),ODA (net disbursements),Öffentliche Nettoentwicklungsausgaben (ODA)
 data:oda and oof (commitments) of all resources made available to strengthen statistical capacity in developing countries,ODA and OOF (commitments) of all resources made available to strengthen statistical capacity in developing countries,Finanzzusagen (ODA und OOF) zum Ausbau statistischer Kapazitäten in Entwicklungsländern
 data:oda and oof (commitments) to developing countries for capacity building and national planning (without south-south cooperation),ODA and OOF (commitments) to developing countries for capacity building and national planning (without South-South cooperation),Verpflichtungen (ODA und OOF) an Entwicklungsländer zum Kapazitätenaufbau und nationalen Planungen (ohne Süd-Süd-Kooperationen)
@@ -760,6 +605,7 @@ data:other,Other,Divers
 data:other wastewater that does not have to undergo treatment,Other wastewater that does not have to undergo treatment,"Sonstiges Abwasser, das keiner Abwasserbehandlung bedarf"
 data:overarching legal frameworks and public life,overarching legal frameworks and public life,übergreifende rechtliche Rahmenbedingungen und das öffentliche Leben
 data:overweight among children under the age of 5 years,Overweight among children under the age of 5 years,Übergewicht bei Kindern unter 5 Jahren
+data:overweight among children under the age of 5 years (%),Overweight among children under the age of 5 years,Übergewicht bei Kindern unter 5 Jahren
 data:participation rate of 15 to under 25 years old persons in formal and non-formal education and training in the previous 12 months,Participation rate of 15 to under 25 years old persons in formal and non-formal education and training in the previous 12 months,Teilnahmequote der 15 bis unter 25-Jährigen in der formalen und non-formalen Bildung und Ausbildung in den letzten 12 Monaten
 data:participation rate of adults in formal and non-formal education and training in the previous 12 months,Participation rate of adults in formal and non-formal education and training in the previous 12 months,Teilnahmequote der Erwachsenen in der formalen und non-formalen Bildung und Ausbildung in den letzten 12 Monaten
 data:penetration rate mobile communication (related to the population),Penetration rate mobile communication (related to the population),Penetrationsrate Mobilfunk (bezogen auf die Bevölkerung)
@@ -781,8 +627,11 @@ data:persons employed in accommodation,Persons employed in accommodation,Tätige
 data:persons employed in tourism industries,Persons employed in tourism industries,Erwerbstätige im Tourismus
 data:ph-value,ph-value,pH-Wert
 data:plant genetic resources,Plant genetic resources,Pflanzengenetische Ressourcen
+data:plant genetic resources (number),Plant genetic resources,Pflanzengenetische Ressourcen
 data:population connected to the public water supply system,Population connected to the public water supply system,Bevölkerung mit Anschluss an die öffentliche Wasserversorgung
 data:population considering their dwelling as too dark,Population considering their dwelling as too dark,"Bevölkerung, deren Wohnung/Haus zu wenig Tageslicht bietet"
+data:population covered by health insurance,Population covered by health insurance,Bevölkerung mit Krankenversicherungsschutz
+data:population covered by health insurance (%),Population covered by health insurance,Bevölkerung mit Krankenversicherungsschutz
 data:population growth rate,Population growth rate,Bevölkerungsentwicklung
 data:population living below 50% of median income,Population living below 50% of median income,"Bevölkerung, die mit weniger als 50% des mittleren Einkommens lebt"
 "data:population living in an area with crime, violence or vandalism","Population living in an area with crime, violence or vandalism","Bevölkerung, in deren Wohnumgebung es Kriminalität, Gewalt oder Vandalismus gibt"
@@ -882,11 +731,13 @@ data:speed,Speed,Geschwindigkeit
 data:standing water bodies,Standing water bodies,Stehende Gewässer
 data:strategy for adaptation to climate change,Strategy for Adaptation to Climate Change,Anpassungsstrategie an den Klimawandel
 data:stunting among children under the age of 5 years,Stunting among children under the age of 5 years,Kleinwuchs bei Kindern unter 5 Jahren
+data:stunting among children under the age of 5 years (%),Stunting among children under the age of 5 years,Kleinwuchs bei Kindern unter 5 Jahren
 data:sub-indicator 1: spatial extent of water-related ecosystems,Sub-indicator 1: Spatial extent of water-related ecosystems,
 data:sub-indicator 3:  quantity discharge of water in rivers,Sub-indicator 3:  Quantity discharge of water in rivers,
 data:sub-indicator 4: water bodies with good quality,Sub-indicator 4: Water bodies with good quality,
 data:subject,Subject,Fach
 data:suicide mortality rate,Suicide mortality rate,Selbstmordsterblichkeit
+data:suicide mortality rate (1 000),Suicide mortality rate,Selbstmordsterblichkeit
 data:sustainability programme,Sustainability Programme,Nachhaltigkeitsstrategie
 data:t per capita,t per capita,t je Einwohner
 data:technology,Technology,Technologie
@@ -904,8 +755,10 @@ data:transboundary basin area with an operational arrangement for water cooperat
 data:transferring files between a computer or other devices,Transferring files between a computer or other devices,Übertragung von Dateien zwischen Computern oder anderen Geräten
 data:transport via pipeline: crude oil,Transport via pipeline: crude oil,Transport in Rohrleitungen: Rohöl
 data:tuberculosis incidence,Tuberculosis incidence,Auftreten von Tuberkulose
+data:tuberculosis incidence (per 100 000 inhabitants),Tuberculosis incidence,Auftreten von Tuberkulose
 data:type of account,Type of account,Kontoart
 data:type of dependence,Type of dependence,Art der Abhängigkeit
+data:type of dependence (1 000),Type of dependence,Art der Abhängigkeit
 data:type of disease,Type of disease,Art der Erkrankung
 data:type of flow,Type of flow,Art der Finanzströme
 data:type of treatment,Type of treatment,Art der Behandlung
@@ -914,6 +767,9 @@ data:type of water body,Type of water body,Art des Gewässers
 data:under 14 years,Under 14 years,Unter 14 Jahren
 data:under 18 years,under 18 years,unter 18 Jahren
 data:under-five mortality rate,Under-five mortality rate,Kindersterblichkeit unter 5 Jahren
+data:under-five mortality rate (per 1 000 live births),Under-five mortality rate,Kindersterblichkeit unter 5 Jahren
+data:unemployed persons with unemployment benefits,Unemployed persons with unemployment benefits,Arbeitslose Leistungsbezieher
+data:unemployed persons with unemployment benefits (%),Unemployed persons with unemployment benefits,Arbeitslose Leistungsbezieher
 data:unemployment rate,Unemployment rate,Erwerbslosenquote
 data:unit,Unit of measure,Einheit
 data:unknown,Unknown,unbekannte
@@ -928,12 +784,94 @@ data:victims of intentional homicide,Victims of intentional homicide,Opfer vors�
 data:violence against women,violence against women,Gewalt gegen Frauen
 data:wastewater safely treated,Wastewater safely treated,Sicher behandeltes Abwasser
 data:wasting among children under the age of 5 years,Wasting among children under the age of 5 years,Untergewicht (bezogen auf die Größe) bei Kindern unter 5 Jahren
+data:wasting among children under the age of 5 years (%),Wasting among children under the age of 5 years,Untergewicht (bezogen auf die Größe) bei Kindern unter 5 Jahren
 data:water bodies with good quality,Water bodies with good quality,Gewässer mit guter Wasserqualität
 data:water use efficiency,Water use efficiency,Wasserproduktivität
 data:women in managerial positions,Women in managerial positions,Frauen in Führungspositionen
 data:writing a computer program using a programming language,Writing a computer program using a programming language,Schreiben eines Programms in einer Programmiersprache
 data:young people (15 to under 25 years) neither in employment nor in education and training  (neet rates),Young people (15 to under 25 years) neither in employment nor in education and training  (NEET rates),"Jugendliche (15 bis unter 25 Jahre), die weder eine Arbeit haben, noch in einer schulischen oder beruflichen Ausbildung sind (NEET-Raten)"
 data:young victims of trafficking in human beings with intent to exploit man power,Young victims of trafficking in human beings with intent to exploit man power,Kinder als Opfer von Menschenhandel zum Zweck der Ausbeutung der Arbeitskraft
+indicator:chart,Chart,Grafik
+indicator:clear_all,Clear all,Auswahl aufheben
+indicator:clear_selections,Clear selections,Auswahl aufheben
+indicator:copyright,Copyright,Copyright
+indicator:dataset_size_warning,There are too many datasets to show on the chart. Not all will be shown until you remove some selections.,"Zu viele Zeitreihen ausgewählt, um diese in einer Grafik darzustellen. Es können nicht alle Zeitreihen dargestellt werden."
+indicator:dns_metadata_blurb,"Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.","Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet."
+indicator:download_chart,Download Chart CSV,Grafik im CSV-Format speichern
+indicator:download_chart_image,Download Chart Image,Grafik als Bild speichern
+indicator:download_csv,Download CSV,im CSV-Format speichern
+indicator:download_csv_title,Download as CSV,im CSV-Format speichern
+indicator:download_headline,Download Headline CSV,Speichern der Headline im CSV-Format
+indicator:download_headline_title,Download headline data as CSV,Speichern der Headline im CSV-Format
+indicator:download_source,Download Source CSV,Daten im CSV-Format speichern
+indicator:download_source_title,Download source data as CSV,Daten im CSV-Format speichern
+indicator:download_table,Download Table CSV,Tabelle im CSV-Format speichern
+indicator:edit,Edit,Bearbeiten
+indicator:edit_data,Edit Data,Daten bearbeiten
+indicator:edit_metadata,Edit Metadata,Metadaten bearbeiten
+indicator:footnote,Specification,Anmerkung
+indicator:geographical_area,Geographical Area,Geographische Abdeckung
+indicator:global_metadata,Global Metadata,Globale Metadaten
+indicator:global_metadata_blurb,"This table provides information on metadata for SDG indicators as defined by the UN Statistical Commission. <a href=""https://unstats.un.org/sdgs/metadata/"">Complete global metadata</a> is provided by the UN Statistics Division.","Diese Übersicht stellt Informationen zu den globalen Metadaten des jeweiligen SDG-Indikators bereit. Die <a href=""https://unstats.un.org/sdgs/metadata/"">globalen Metadaten</a> werden durch die Statistische Division der Vereinten Nationen bereitgestellt."
+indicator:history,Indicator status summary,Statusübersicht
+indicator:history_blurb,The synoptic table provides information also about the evaluation of an indicator in previous years. It shows if the weather symbol assigned to an indicator was rather stable or volatile in the past years.,"In dieser Übersichtstabelle sind jeweils auch die Bewertungen eines Indikators nach Stand der vorhergehenden Jahre angegeben. Daran lässt sich ablesen, ob das Wettersymbol für einen Indikator in den vergangenen Jahren stabil oder eher volatil war."
+indicator:legend_help,Click on the legend to remove individual lines from the chart.,Klicken Sie auf die Legende um Zeitreihen aus der Grafik zu entfernen.
+indicator:loading_map,Loading map,Karte wird geladen
+indicator:map,Map,Karte
+indicator:metadata,Metadata,Metadaten
+indicator:national_metadata,National Metadata,Nationale Metadaten
+indicator:national_metadata_blurb,"This table provides metadata for the actual indicator available from %country_adjective statistics closest to the corresponding global SDG indicator. Please note that even when the SDG indicator is fully available from %country_adjective statistics, this table should be consulted for information on national methodology and other country specific metadata information.","Im Folgenden werden Metadaten zu den national verfügbaren Zeitreihen für Deutschland zum jeweiligen globalen SDG-Indikator bereitgestellt. Die angegebene Datenreihe ist die vergleichbarste, national verfügbare Zeitreihe. Entspricht die angezeigte Datenreihe voll den globalen Metadaten, so ist dennoch auf diese nationalen Metadaten für methodische sowie weitere länderspezifische Informationen hinzuweisen."
+indicator:no_data_hint,No options available because of filters above,Aufgrund der bereits getroffenen Auswahl sind keine weiteren Auswahlmöglichkeiten verfügbar.
+indicator:select_all,Select all,Alle auswählen
+indicator:series_help,Choose categories from the dropdowns below to see different breakdowns of the data. Some will not be available until a higher level is chosen.,"Wählen Sie Disaggregationsdimensionen aus, damit die verfügbaren Disaggregationskategorien angezeigt werden. Manche werden erst angezeigt, sobald eine Überkategorie ausgewählt wird."
+indicator:source,Source,Datenquelle
+indicator:sources,Sources,Datenquellen
+indicator:specification,Specification,
+indicator:sub_categories,Sub-categories,Disaggregationsdimensionen
+indicator:table,Table,Tabelle
+indicator:timeseries,Time series,Zeitreihe
+indicator:unit_of_measurement,Unit of measurement,Einheit
+indicator:units_type,Units type,Einheit
+indicator:variable_hint,Available when '%field' is selected,Verfügbar
+indicator:view_indicator_list,View this goal's indicator list,Zeigt die Indikatorenliste zum SDG-Ziel an.
+dns_ranges:1.1-title,Poverty,Armut
+dns_ranges:10.1-title,Equal educational opportunities,Gleiche Bildungschancen
+dns_ranges:10.2-title,Distributive justice,Verteilungsgerechtigkeit
+dns_ranges:11.1-title,Land use,Flächeninanspruchnahme
+dns_ranges:11.2-title,Mobility,Mobilität
+dns_ranges:11.3-title,Housing,Wohnen
+dns_ranges:12.1-title,Responsible consumption,Nachhaltiger Konsum
+dns_ranges:12.2-title,Responsible production,Nachhaltige Produktion
+dns_ranges:12.3-title,Responsible procurement,Nachhaltige Beschaffung
+dns_ranges:13.1-title,Climate protection,Klimaschutz
+dns_ranges:14.1-title,Protecting the oceans,Meere schützen
+dns_ranges:15.1-title,Biodiversity,Artenvielfalt
+dns_ranges:15.2-title,Ecosystems,Ökosysteme
+dns_ranges:15.3-title,Forests,Wälder
+dns_ranges:16.1-title,Crime,Kriminalität
+dns_ranges:16.2-title,Peace and security,Frieden und Sicherheit
+dns_ranges:16.3-title,Good governance,Gute Regierungsführung
+dns_ranges:17.1-title,Development cooperation,Entwicklungszusammenarbeit
+dns_ranges:17.2-title,"Knowledge transfer, espaecially in technical areas",Wissenstransfer insbesondere im technischen Bereich
+dns_ranges:17.3-title,Opening markets,Märkte öffnen
+dns_ranges:2.1-title,Farming,Landbewirtschaftung
+dns_ranges:2.2-title,Food security,Ernährungssicherung
+dns_ranges:3.1-title,Health and nutrition,Gesundheit und Ernährung
+dns_ranges:3.2-title,Air pollution,Luftbelastung
+dns_ranges:4.1-title,Education,Bildung
+dns_ranges:4.2-title,Prospects for families,Perspektiven für Familien
+dns_ranges:5.1-title,Equality,Gleichstellung
+dns_ranges:6.1-title,Water quality,Gewässerqualität
+dns_ranges:6.2-title,Drinking water and sanitation,Trinkwasser- und Sanitärversorgung
+dns_ranges:7.1-title,Recource conservation,Ressourcenschonung
+dns_ranges:7.2-title,Renewable energies,Erneuerbare Energien
+dns_ranges:8.1-title,Recource conservation,Ressourcenschonung
+dns_ranges:8.2-title,Government dept,Staatsverschuldung
+dns_ranges:8.3-title,Provision for future economic stability,Wirtschaftliche Zukunftsvorsorge
+dns_ranges:8.4-title,Economic output,Wirtschaftliche Leistungsfähigkeit
+dns_ranges:8.5-title,Employment,Beschäftigung
+dns_ranges:8.6-title,Global supply chains,Globale Lieferketten
+dns_ranges:9.1-title,Innovation,Innovation
 global_indicators:1.1.1-title,"Proportion of population below the international poverty line, by sex, age, employment status and geographical location (urban/rural)","Anteil der Bevölkerung, die unter der internationalen Armutsgrenze lebt, nach Geschlecht, Alter, Erwerbsstatus  und geographischer Lage (urban/rural)"
 global_indicators:1.2.1-title,"Proportion of population living below the national poverty line, by sex and age","Anteil der Bevölkerung, die unter der nationalen Armutsgrenze lebt, nach Geschlecht und Alter"
 global_indicators:1.2.2-title,"Proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions","Anteil der Männer, Frauen und Kinder jeden Alters, die in Armut in all ihren Dimensionen gemäß nationaler Definitionen leben"
@@ -1179,17 +1117,102 @@ global_indicators:9.5.2-title,Researchers (in full-time equivalent) per million 
 global_indicators:9.a.1-title,Total official international support (official development assistance plus other official flows) to infrastructure,Gesamte öffentliche internationale Unterstützung (öffentliche Entwicklungszusammenarbeit (ODA) und sonstige öffentliche Ausgaben) für Infrastruktur
 global_indicators:9.b.1-title,Proportion of medium and high-tech industry value added in total value added,Anteil der Wertschöpfung der Medium- und High-Tech-Industrie an der Wertschöpfung insgesamt
 global_indicators:9.c.1-title,"Proportion of population covered by a mobile network, by technology","Anteil der Bevölkerung, die durch ein Mobilfunknetz abgedeckt ist, nach Technologie"
-menu:about,About,Über uns
-menu:contact_us,Contact us,Kontakt
-menu:cookies,Cookies,Cookies
-menu:faq,FAQ,FAQ
-menu:guidance,Guidance,Technische Hinweise
-menu:imprint,Legal Notice,Im­pres­s­um
-menu:indicator_status,Indicator status,Statusübersicht
-menu:menu,Menu,Menü
-menu:publications,Publications,Veröffentlichungen
-menu:reporting_status,Reporting Status,Berichtsstatus
-menu:status,Indicator status,Statusübersicht
+metadata_fields:comments_limitations,Other information,Weitere Informationen
+metadata_fields:comparison_sdg,Comparability with UN metadata,Vergleichbarkeit mit UN Metadaten
+metadata_fields:computation_calculations,Calculations,Methodik
+metadata_fields:computation_definitions,Definitions,Definitionen
+metadata_fields:computation_units,Unit of measurement,Einheit
+metadata_fields:dns_content_url,Content and progress,Inhalt und Entwicklung
+metadata_fields:dns_content_url_text,Content and progress,Inhalt und Entwicklung
+metadata_fields:dns_indicator_content,Content and progress,Inhalt und Entwicklung
+metadata_fields:dns_indicator_definition,Definition of the indicator,Indikatorenbeschreibung
+metadata_fields:dns_indicator_intention,Target and intention of the indicators,Ziele und Intention der Indikatoren
+metadata_fields:goal_meta_link,Link to the global metadata of this indicator,Link zu den globalen Metadaten dieses Indikators
+metadata_fields:goal_meta_national_link,Link to national metadata,Link zu den nationalen Metadaten
+metadata_fields:history_indicator_1,Indicator,Indikator
+metadata_fields:history_indicator_2,Indicator,Indikator
+metadata_fields:history_target_1,Target,Ziel
+metadata_fields:history_target_2,Target,Ziel
+metadata_fields:history_url_1,Evaluation,Bewertung
+metadata_fields:history_url_2,Evaluation,Bewertung
+metadata_fields:history_years_1,Year,Jahr
+metadata_fields:history_years_2,Year,Jahr
+metadata_fields:indicator,Indicator number,Indikatorennummerierung
+metadata_fields:indicator_definition,Global indicator description,Globale Indikatorenbeschreibung
+metadata_fields:indicator_name,Indicator name,Indikatorenbezeichnung
+metadata_fields:indicator_sort_order,Indicator display order (within Goal page),Indikatorenreihenfolge (in der Zielübersicht)
+metadata_fields:info_url_1,Additional Information,Zusätzliche Informationen
+metadata_fields:national_data_update_url,Data last updated,Daten zuletzt aktualisiert am
+metadata_fields:national_geographical_coverage,Geographical coverage,Geographische Abdeckung
+metadata_fields:national_indicator_available,Indicator available,Verfügbare Datenreihenbezeichnung
+metadata_fields:national_indicator_description,Indicator description,Indikatorenbeschreibung
+metadata_fields:national_metadata_update_url,Metadata last updated,Metadaten zuletzt aktualisiert am
+metadata_fields:source_contact_1,Contact details,Kontaktinformationen
+metadata_fields:source_contact_2,Contact details,Kontaktinformationen
+metadata_fields:source_contact_3,Contact details,Kontaktinformationen
+metadata_fields:source_contact_4,Contact details,Kontaktinformationen
+metadata_fields:source_contact_5,Contact details,Kontaktinformationen
+metadata_fields:source_contact_6,Contact details,Kontaktinformationen
+metadata_fields:source_earliest_available_1,Earliest available data,Daten verfügbar seit
+metadata_fields:source_earliest_available_2,Earliest available data,Daten verfügbar seit
+metadata_fields:source_earliest_available_3,Earliest available data,Daten verfügbar seit
+metadata_fields:source_earliest_available_4,Earliest available data,Daten verfügbar seit
+metadata_fields:source_earliest_available_5,Earliest available data,Daten verfügbar seit
+metadata_fields:source_earliest_available_6,Earliest available data,Daten verfügbar seit
+metadata_fields:source_geographical_coverage_1,Geographical coverage,Geographische Abdeckung
+metadata_fields:source_geographical_coverage_2,Geographical coverage,Geographische Abdeckung
+metadata_fields:source_geographical_coverage_3,Geographical coverage,Geographische Abdeckung
+metadata_fields:source_geographical_coverage_4,Geographical coverage,Geographische Abdeckung
+metadata_fields:source_geographical_coverage_5,Geographical coverage,Geographische Abdeckung
+metadata_fields:source_geographical_coverage_6,Geographical coverage,Geographische Abdeckung
+metadata_fields:source_next_release_1,Next release,Nächste Veröffentlichung am
+metadata_fields:source_next_release_2,Next release,Nächste Veröffentlichung am
+metadata_fields:source_next_release_3,Next release,Nächste Veröffentlichung am
+metadata_fields:source_next_release_4,Next release,Nächste Veröffentlichung am
+metadata_fields:source_next_release_5,Next release,Nächste Veröffentlichung am
+metadata_fields:source_next_release_6,Next release,Nächste Veröffentlichung am
+metadata_fields:source_organisation_1,Organisation,Organisation
+metadata_fields:source_organisation_2,Organisation,Organisation
+metadata_fields:source_organisation_3,Organisation,Organisation
+metadata_fields:source_organisation_4,Organisation,Organisation
+metadata_fields:source_organisation_5,Organisation,Organisation
+metadata_fields:source_organisation_6,Organisation,Organisation
+metadata_fields:source_other_info_1,Other information,Weitere Informationen
+metadata_fields:source_other_info_2,Other information,Weitere Informationen
+metadata_fields:source_other_info_3,Other information,Weitere Informationen
+metadata_fields:source_other_info_4,Other information,Weitere Informationen
+metadata_fields:source_other_info_5,Other information,Weitere Informationen
+metadata_fields:source_other_info_6,Other information,Weitere Informationen
+metadata_fields:source_periodicity_1,Periodicity,Periodizität
+metadata_fields:source_periodicity_2,Periodicity,Periodizität
+metadata_fields:source_periodicity_3,Periodicity,Periodizität
+metadata_fields:source_periodicity_4,Periodicity,Periodizität
+metadata_fields:source_periodicity_5,Periodicity,Periodizität
+metadata_fields:source_periodicity_6,Periodicity,Periodizität
+metadata_fields:source_release_date_1,Release date,Veröffentlichungsdatum
+metadata_fields:source_release_date_2,Release date,Veröffentlichungsdatum
+metadata_fields:source_release_date_3,Release date,Veröffentlichungsdatum
+metadata_fields:source_release_date_4,Release date,Veröffentlichungsdatum
+metadata_fields:source_release_date_5,Release date,Veröffentlichungsdatum
+metadata_fields:source_release_date_6,Release date,Veröffentlichungsdatum
+metadata_fields:source_statistical_classification_1,Statistical classification, Datentyp
+metadata_fields:source_statistical_classification_2,Statistical classification,Datentyp
+metadata_fields:source_statistical_classification_3,Statistical classification,Datentyp
+metadata_fields:source_statistical_classification_4,Statistical classification,Datentyp
+metadata_fields:source_statistical_classification_5,Statistical classification,Datentyp
+metadata_fields:source_statistical_classification_6,Statistical classification,Datentyp
+metadata_fields:source_url_1,Link to <br>data source,Link zur <br>Datenquelle
+metadata_fields:source_url_2,Link to <br>data source,Link zur <br>Datenquelle
+metadata_fields:source_url_3,Link to <br>data source,Link zur <br>Datenquelle
+metadata_fields:source_url_4,Link to <br>data source,Link zur <br>Datenquelle
+metadata_fields:source_url_5,Link to <br>data source,Link zur <br>Datenquelle
+metadata_fields:source_url_6,Link to <br>data source,Link zur <br>Datenquelle
+metadata_fields:target,Target name,Unterziel
+metadata_fields:target_id,Target number,Unterzielnummerierung
+metadata_fields:un_custodian_agency,UN custodian agency,UN Custodian Agency
+metadata_fields:un_designated_tier,"<a href=""https://unstats.un.org/sdgs/iaeg-sdgs/tier-classification/"">UN designated tier</a>","<a href=""https://unstats.un.org/sdgs/iaeg-sdgs/tier-classification/"">UN Tier Klassifikation</a>"
+post:posts_by_category,Posts by Category,Beiträge geordnet nach Kategorien
+post:view_all_in_category,View all posts in the %category_name category, Zeige alle Beiträge in der %category_name Kategorie an
 general:dns,Sustainable development in Germany,Nachhaltige Entwicklung in Deutschland
 general:dns_target,Range of indicators and postulates,Indikatorenbereiche und Postulate
 general:found_in_goals,goals,Zielen
@@ -1209,46 +1232,76 @@ general:opens_new_window,opens in a new window,in neuem Fenster öffnen
 general:sdg,Sustainable Development Goals,Ziele für Nachhaltige Entwicklung
 general:target,Target,Unterziel
 general:targets,Targets,Unterziele
-post:posts_by_category,Posts by Category,Beiträge geordnet nach Kategorien
-post:view_all_in_category,View all posts in the %category_name category, Zeige alle Beiträge in der %category_name Kategorie an
-global_goals:1-short,No poverty,Keine Armut
-global_goals:1-title,End poverty in all its forms everywhere,Armut in allen ihren Formen und überall beenden
-global_goals:10-short,Reduced inequalities,Weniger Ungleichheiten
-global_goals:10-title,Reduce inequality within and among countries,Ungleichheit in und zwischen Ländern verringern
-global_goals:11-short,Sustainable cities & communities,Nachhaltige Städte und Gemeinden
-global_goals:11-title,"Make cities and human settlements inclusive, safe, resilient and sustainable","Städte und Siedlungen inklusiv, sicher, widerstandsfähig und nachhaltig gestalten"
-global_goals:12-short,Responsible consumption and production,Verantwortungsvolle Konsum- und Produktionsmuster
-global_goals:12-title,Ensure sustainable consumption and production patterns,Nachhaltige Konsum- und Produktionsmuster sicherstellen
-global_goals:13-short,Climate action,Maßnahmen zum Klimaschutz
-global_goals:13-title,Take urgent action to combat climate change and its impacts,Umgehend Maßnahmen zur Bekämpfung des Klimawandels und seiner Auswirkungen ergreifen
-global_goals:14-short,Life below water,Leben unter Wasser
-global_goals:14-title,"Conserve and sustainably use the oceans, seas and marine resources for sustainable development","Ozeane, Meere und Meeresressourcen im Sinne nachhaltiger Entwicklung erhalten und nachhaltig nutzen"
-global_goals:15-short,Life on land,Leben an Land
-global_goals:15-title,"Protect, restore and promote sustainable use of terrestrial ecosystems, sustainably manage forests, combat desertification, and halt and reverse land degradation and halt biodiversity loss","Landökosysteme schützen, wiederherstellen und ihre nachhaltige Nutzung fördern, Wälder nachhaltig bewirtschaften, Wüstenbildung bekämpfen, Bodendegradation beenden und umkehren und dem Verlust der biologischen Vielfalt ein Ende setzen"
-global_goals:16-short,Peace and justice - strong institutions,"Frieden, Gerechtigkeit und starke Institutionen"
-global_goals:16-title,"Promote peaceful and inclusive societies for sustainable development, provide access to justice for all and build effective, accountable and inclusive institutions at all levels","Friedliche und inklusive Gesellschaften für eine nachhaltige Entwicklung fördern, allen Menschen Zugang zur Justiz ermöglichen und leistungsfähige, rechenschaftspflichtige und inklusive Institutionen auf allen Ebenen aufbauen"
-global_goals:17-short,Partnerships for the goals,Partnerschaften zur Erreichung der Ziele
-global_goals:17-title,Strengthen the means of implementation and revitalize the Global Partnership for Sustainable Development,Umsetzungsmittel stärken und die Globale Partnerschaft für nachhaltige Entwicklung mit neuem Leben erfüllen
-global_goals:2-short,Zero hunger,Kein Hunger
-global_goals:2-title,"End hunger, achieve food security and improved nutrition and promote sustainable agriculture","Den Hunger beenden, Ernährungssicherheit und eine bessere Ernährung erreichen und eine nachhaltige Landwirtschaft fördern"
-global_goals:3-short,Good health and well-being,Gesundheit und Wohlergehen
-global_goals:3-title,Ensure healthy lives and promote well-being for all at all ages,Ein gesundes Leben für alle Menschen jeden Alters gewährleisten und ihr Wohlergehen fördern
-global_goals:4-short,Quality education,Hochwertige Bildung
-global_goals:4-title,Ensure inclusive and equitable quality education and promote lifelong learning opportunities for all,"Inklusive, gleichberechtigte und hochwertige Bildung gewährleisten und Möglichkeiten lebenslangen Lernens für alle fördern"
-global_goals:5-short,Gender equality,Geschlechtergleichstellung
-global_goals:5-title,Achieve gender equality and empower all women and girls,Geschlechtergleichstellung erreichen und alle Frauen und Mädchen zur Selbstbestimmung befähigen
-global_goals:6-short,Clean water and sanitation,Sauberes Wasser und Sanitärversorgung
-global_goals:6-title,Ensure availability and sustainable management of water and sanitation for all,Verfügbarkeit und nachhaltige Bewirtschaftung von Wasser und Sanitärversorgung für alle gewährleisten
-global_goals:7-short,Affordable and clean energy,Bezahlbare und saubere Energie
-global_goals:7-title,"Ensure access to affordable, reliable, sustainable and modern energy for all","Zugang zu bezahlbarer, verlässlicher, nachhaltiger und moderner Energie für alle sichern"
-global_goals:8-short,Decent jobs and economic growth,Menschenwürdige Arbeit und Wirtschaftswachstum
-global_goals:8-title,"Promote sustained, inclusive and sustainable economic growth, full and productive employment and decent work for all","Dauerhaftes, breitenwirksames und nachhaltiges Wirtschaftswachstum, produktive Vollbeschäftigung und menschenwürdige Arbeit für alle fördern"
-global_goals:9-short,"Industry, innovation and infrastructure","Industrie, Innovationen und Infrastruktur"
-global_goals:9-title,"Build resilient infrastructure, promote inclusive and sustainable industrialization and foster innovation","Eine widerstandsfähige Infrastruktur aufbauen, breitenwirksame und nachhaltige Industrialisierung fördern und Innovationen unterstützen"
-status:exploring_data_sources,Exploring data sources,Datenquellenanalyse
-status:not_applicable,Not applicable,Nicht zutreffend
-status:overall_reporting_status,Overall Reporting Status,Übersicht zum Berichtsstatus der
-status:reported_online,Reported online,Daten verfügbar
-status:reporting_status,Reporting Status,Berichtsstatus
-status:statistics_in_progress,Statistics in progress,in Bearbeitung
-status:status_by_goal,Status by goal,Status nach Ziel
+dns_targets:1.1-title,Limiting poverty,Armut begrenzen
+dns_targets:10.1-title,Improving educational success of foreigners in German schools,Schulische Bildungserfolge von Ausländern in Deutschland verbessern
+dns_targets:10.2-title,Preventing too-great inequality within Germany,Zu große Ungleichheit innehalb Deutschlands verhindern
+dns_targets:11.1-title,Using land sustainable,Fläche nachhaltig nutzen
+dns_targets:11.2-title,Guranteeing mobility - Protecting the environment,Mobilität sichern - Umwelt schonen
+dns_targets:11.3-title,Affordable housing for all,Bezahlbarer Wohnraum für alle
+dns_targets:12.1-title,Making consumption environmentally and socially compatible,Konsum umwelt- und sozialverträglich gestalten
+dns_targets:12.2-title,Increasing the proportion of sustainable production,Anteil nachhaltiger Produktion stetig erhöhen
+dns_targets:12.3-title,Realising the exemplary role of the public sector in sustainable procurement,Vorbildwirkung der öffentlichen Hand für nachhaltige öffentliche Beschaffung verwirklichen
+dns_targets:13.1-title,Reducing greenhouse gases and contributing to international climate financing,Treibhausgase reduzieren und einen Beitrag zur internationalen Klimafinanzierung leisten
+dns_targets:14.1-title,Protecting and sustainably using oceans and marine resources,Meere und Meeresressourcen schützen und nachhaltig nutzen
+dns_targets:15.1-title,Conserving species - Protecting habitats,Arten erhalten - Lebensräume schützen
+dns_targets:15.2-title,"Protecting ecosystems, conserving ecosystem services and preserving habitats","Ökosysteme schützen, Ökosystemleistungen erhalten und Lebensräume bewahren"
+dns_targets:15.3-title,Preventing deforestation,Entwaldung vermeiden
+dns_targets:16.1-title,Further increasing personal security,Persönliche Sicherheit weiter erhöhen
+dns_targets:16.2-title,"Taking practical action to combat proliferation, especially of small arms","Praktische Maßnahmen zur Bekämpfung der Proliferation, insbesondere von Kleinwaffen, ergreifen"
+dns_targets:16.3-title,Combating corruption,Korruption bekämpfen
+dns_targets:17.1-title,Supporting sustainable development,Nachhaltige Entwicklung unterstützen
+dns_targets:17.2-title,Sharing knowledge internationally,Wissen international vermitteln
+dns_targets:17.3-title,Improving trade opportunities for developing countries,Handelschancen der Entwicklungsländer verbessern
+dns_targets:2.1-title,Environmentally sound production in our cultivated landscapes,In unseren Kulturlandschaften umweltverträglich produzieren
+dns_targets:2.2-title,Realising globally the right to food,Das Recht auf Nahrung weltweit verwirklichen
+dns_targets:3.1-title,Living healthy longer,Länger gesund leben
+dns_targets:3.2-title,Keeping the environment healthy,Gesunde Umwelt erhalten
+dns_targets:4.1-title,Continuously improving education and vocational training,Bildung und Qualifikation kontinuierlich verbessern
+dns_targets:4.2-title,Improving the compatibility of work and family life,Vereinbarkeit von Familie und Beruf verbessern
+dns_targets:5.1-title,Promoting equal opportunities in society and strengthening the economic participation of women globally,Gleichstellung in der Gesellschaft fördern und wirtschaftliche Teilhabe von Frauen global stärken
+dns_targets:6.1-title,Reducing the pollution of water with substances,Minderung der stofflichen Belastung von Gewässern
+dns_targets:6.2-title,"Better access to drinking water and sanitation worldwide, higher (safer) quality","Besserer Zugang zu Trinkwasser- und Sanitärversorgung weltweit, höhere (sichere) Qualität"
+dns_targets:7.1-title,Using resources economically and efficiently,Ressourcen sparsam und effizient nutzen
+dns_targets:7.2-title,Strengthening a sustainable energy supply,Zukunftsfähige Energieversorgung ausbauen
+dns_targets:8.1-title,Using resources economically and efficiently,Ressourcen sparsam und effizient nutzen
+dns_targets:8.2-title,Consolidating public finances - Creating intergenerational equity,Staatsfinanzen konsolidieren - Generationengerechtigkeit schaffen
+dns_targets:8.3-title,Creating favourable investment conditions - Securing long-term prosperity,Gute Investitionsbedingungen schaffen - Wohlstand dauerhaft erhalten
+dns_targets:8.4-title,Combining larger economic output with environmental and social responsibility,Wirtschaftsleistung umwelt- und sozialverträglich steigern
+dns_targets:8.5-title,Boosting employment levels,Beschäftigungsniveau steigern
+dns_targets:8.6-title,Enabling decent work worldwide,Menschenwürdige Arbeit weltweit ermöglichen
+dns_targets:9.1-title,Shaping the future with new solutions,Zukunft mit neuen Lösungen gestalten
+header:alpha,Alpha,Alpha-Version
+header:disclaimer,"This is a development website. We welcome your <a href=""mailto:%email_address"">feedback</a>.",Diese Seite befindet sich im Entwicklungsstadium.Wir freuen uns über Ihre Kommentare.
+header:skip_link,Skip to main content, Zum Hauptinhalt springen
+header:tag_line,17 Goals to Transform our World,
+dns_goals:1-title,No poverty,Keine Armut
+dns_goals:10-title,Reduced inequalities,Weniger Ungleichheiten
+dns_goals:11-title,Sustainable cities & communities,Nachhaltige Städte und Gemeinden
+dns_goals:12-title,Responsible consumption and production,Verantwortungsvolle Konsum- und Produktionsmuster
+dns_goals:13-title,Climate action,Maßnahmen zum Klimaschutz
+dns_goals:14-title,Life below water,Leben unter Wasser
+dns_goals:15-title,Life on land,Leben an Land
+dns_goals:16-title,Peace and justice - strong institutions,"Frieden, Gerechtigkeit und starke Institutionen"
+dns_goals:17-title,Partnerships for the goals,Partnerschaften zur Erreichung der Ziele
+dns_goals:2-title,Zero hunger,Kein Hunger
+dns_goals:3-title,Good health and well-being,Gesundheit und Wohlergehen
+dns_goals:4-title,Quality education,Hochwertige Bildung
+dns_goals:5-title,Gender equality,Geschlechtergleichstellung
+dns_goals:6-title,Clean water and sanitation,Sauberes Wasser und Sanitärversorgung
+dns_goals:7-title,Affordable and clean energy,Bezahlbare und saubere Energie
+dns_goals:8-title,Decent jobs and economic growth,Menschenwürdige Arbeit und Wirtschaftswachstum
+dns_goals:9-title,"Industry, innovation and infrastructure","Industrie, Innovationen und Infrastruktur"
+menu:about,About,Über uns
+menu:contact_us,Contact us,Kontakt
+menu:cookies,Cookies,Cookies
+menu:faq,FAQ,FAQ
+menu:guidance,Guidance,Technische Hinweise
+menu:imprint,Legal Notice,Im­pres­s­um
+menu:indicator_status,Indicator status,Statusübersicht
+menu:menu,Menu,Menü
+menu:publications,Publications,Veröffentlichungen
+menu:reporting_status,Reporting Status,Berichtsstatus
+menu:status,Indicator status,Statusübersicht
+frontpage:heading,National Data for UN-SDGs,Indikatoren der UN-Nachhaltigkeitsziele
+frontpage:heading_dns,Sustainable Development in Germany,Nachhaltige Entwicklung in Deutschland
+frontpage:instructions,"Click on each goal, or %before_link search, %after_link for German statistics for Sustainable Development Goal global indicators.",Klicken Sie auf die einzelnen Ziele um zu den Daten zu den Indikatoren der Ziele für nachhaltige Entwicklung für Deutschland zu gelangen. Oder %before_link suchen %after_link Sie gezielt nach spezifischen Themen.
