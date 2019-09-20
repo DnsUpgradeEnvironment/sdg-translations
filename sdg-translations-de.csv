@@ -1,4 +1,107 @@
 ﻿key,en,de
+frontpage:heading,National Data for UN-SDGs,Indikatoren der UN-Nachhaltigkeitsziele
+frontpage:heading_dns,Sustainable Development in Germany,Nachhaltige Entwicklung in Deutschland
+frontpage:instructions,"Click on each goal, or %before_link search, %after_link for German statistics for Sustainable Development Goal global indicators.",Klicken Sie auf die einzelnen Ziele um zu den Daten zu den Indikatoren der Ziele für nachhaltige Entwicklung für Deutschland zu gelangen. Oder %before_link suchen %after_link Sie gezielt nach spezifischen Themen.
+global_goals:1-short,No poverty,Keine Armut
+global_goals:1-title,End poverty in all its forms everywhere,Armut in allen ihren Formen und überall beenden
+global_goals:10-short,Reduced inequalities,Weniger Ungleichheiten
+global_goals:10-title,Reduce inequality within and among countries,Ungleichheit in und zwischen Ländern verringern
+global_goals:11-short,Sustainable cities & communities,Nachhaltige Städte und Gemeinden
+global_goals:11-title,"Make cities and human settlements inclusive, safe, resilient and sustainable","Städte und Siedlungen inklusiv, sicher, widerstandsfähig und nachhaltig gestalten"
+global_goals:12-short,Responsible consumption and production,Verantwortungsvolle Konsum- und Produktionsmuster
+global_goals:12-title,Ensure sustainable consumption and production patterns,Nachhaltige Konsum- und Produktionsmuster sicherstellen
+global_goals:13-short,Climate action,Maßnahmen zum Klimaschutz
+global_goals:13-title,Take urgent action to combat climate change and its impacts,Umgehend Maßnahmen zur Bekämpfung des Klimawandels und seiner Auswirkungen ergreifen
+global_goals:14-short,Life below water,Leben unter Wasser
+global_goals:14-title,"Conserve and sustainably use the oceans, seas and marine resources for sustainable development","Ozeane, Meere und Meeresressourcen im Sinne nachhaltiger Entwicklung erhalten und nachhaltig nutzen"
+global_goals:15-short,Life on land,Leben an Land
+global_goals:15-title,"Protect, restore and promote sustainable use of terrestrial ecosystems, sustainably manage forests, combat desertification, and halt and reverse land degradation and halt biodiversity loss","Landökosysteme schützen, wiederherstellen und ihre nachhaltige Nutzung fördern, Wälder nachhaltig bewirtschaften, Wüstenbildung bekämpfen, Bodendegradation beenden und umkehren und dem Verlust der biologischen Vielfalt ein Ende setzen"
+global_goals:16-short,Peace and justice - strong institutions,"Frieden, Gerechtigkeit und starke Institutionen"
+global_goals:16-title,"Promote peaceful and inclusive societies for sustainable development, provide access to justice for all and build effective, accountable and inclusive institutions at all levels","Friedliche und inklusive Gesellschaften für eine nachhaltige Entwicklung fördern, allen Menschen Zugang zur Justiz ermöglichen und leistungsfähige, rechenschaftspflichtige und inklusive Institutionen auf allen Ebenen aufbauen"
+global_goals:17-short,Partnerships for the goals,Partnerschaften zur Erreichung der Ziele
+global_goals:17-title,Strengthen the means of implementation and revitalize the Global Partnership for Sustainable Development,Umsetzungsmittel stärken und die Globale Partnerschaft für nachhaltige Entwicklung mit neuem Leben erfüllen
+global_goals:2-short,Zero hunger,Kein Hunger
+global_goals:2-title,"End hunger, achieve food security and improved nutrition and promote sustainable agriculture","Den Hunger beenden, Ernährungssicherheit und eine bessere Ernährung erreichen und eine nachhaltige Landwirtschaft fördern"
+global_goals:3-short,Good health and well-being,Gesundheit und Wohlergehen
+global_goals:3-title,Ensure healthy lives and promote well-being for all at all ages,Ein gesundes Leben für alle Menschen jeden Alters gewährleisten und ihr Wohlergehen fördern
+global_goals:4-short,Quality education,Hochwertige Bildung
+global_goals:4-title,Ensure inclusive and equitable quality education and promote lifelong learning opportunities for all,"Inklusive, gleichberechtigte und hochwertige Bildung gewährleisten und Möglichkeiten lebenslangen Lernens für alle fördern"
+global_goals:5-short,Gender equality,Geschlechtergleichstellung
+global_goals:5-title,Achieve gender equality and empower all women and girls,Geschlechtergleichstellung erreichen und alle Frauen und Mädchen zur Selbstbestimmung befähigen
+global_goals:6-short,Clean water and sanitation,Sauberes Wasser und Sanitärversorgung
+global_goals:6-title,Ensure availability and sustainable management of water and sanitation for all,Verfügbarkeit und nachhaltige Bewirtschaftung von Wasser und Sanitärversorgung für alle gewährleisten
+global_goals:7-short,Affordable and clean energy,Bezahlbare und saubere Energie
+global_goals:7-title,"Ensure access to affordable, reliable, sustainable and modern energy for all","Zugang zu bezahlbarer, verlässlicher, nachhaltiger und moderner Energie für alle sichern"
+global_goals:8-short,Decent jobs and economic growth,Menschenwürdige Arbeit und Wirtschaftswachstum
+global_goals:8-title,"Promote sustained, inclusive and sustainable economic growth, full and productive employment and decent work for all","Dauerhaftes, breitenwirksames und nachhaltiges Wirtschaftswachstum, produktive Vollbeschäftigung und menschenwürdige Arbeit für alle fördern"
+global_goals:9-short,"Industry, innovation and infrastructure","Industrie, Innovationen und Infrastruktur"
+global_goals:9-title,"Build resilient infrastructure, promote inclusive and sustainable industrialization and foster innovation","Eine widerstandsfähige Infrastruktur aufbauen, breitenwirksame und nachhaltige Industrialisierung fördern und Innovationen unterstützen"
+indicator:chart,Chart,Grafik
+indicator:clear_all,Clear all,Auswahl aufheben
+indicator:clear_selections,Clear selections,Auswahl aufheben
+indicator:copyright,Copyright,Copyright
+indicator:dataset_size_warning,There are too many datasets to show on the chart. Not all will be shown until you remove some selections.,"Zu viele Zeitreihen ausgewählt, um diese in einer Grafik darzustellen. Es können nicht alle Zeitreihen dargestellt werden."
+indicator:dns_metadata_blurb,"Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.","Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet."
+indicator:download_chart,Download Chart CSV,Grafik im CSV-Format speichern
+indicator:download_chart_image,Download Chart Image,Grafik als Bild speichern
+indicator:download_csv,Download CSV,im CSV-Format speichern
+indicator:download_csv_title,Download as CSV,im CSV-Format speichern
+indicator:download_headline,Download Headline CSV,Speichern der Headline im CSV-Format
+indicator:download_headline_title,Download headline data as CSV,Speichern der Headline im CSV-Format
+indicator:download_source,Download Source CSV,Daten im CSV-Format speichern
+indicator:download_source_title,Download source data as CSV,Daten im CSV-Format speichern
+indicator:download_table,Download Table CSV,Tabelle im CSV-Format speichern
+indicator:edit,Edit,Bearbeiten
+indicator:edit_data,Edit Data,Daten bearbeiten
+indicator:edit_metadata,Edit Metadata,Metadaten bearbeiten
+indicator:footnote,Specification,Anmerkung
+indicator:geographical_area,Geographical Area,Geographische Abdeckung
+indicator:global_metadata,Global Metadata,Globale Metadaten
+indicator:global_metadata_blurb,"This table provides information on metadata for SDG indicators as defined by the UN Statistical Commission. <a href=""https://unstats.un.org/sdgs/metadata/"">Complete global metadata</a> is provided by the UN Statistics Division.","Diese Übersicht stellt Informationen zu den globalen Metadaten des jeweiligen SDG-Indikators bereit. Die <a href=""https://unstats.un.org/sdgs/metadata/"">globalen Metadaten</a> werden durch die Statistische Division der Vereinten Nationen bereitgestellt."
+indicator:history,Indicator status summary,Statusübersicht
+indicator:history_blurb,The synoptic table provides information also about the evaluation of an indicator in previous years. It shows if the weather symbol assigned to an indicator was rather stable or volatile in the past years.,"In dieser Übersichtstabelle sind jeweils auch die Bewertungen eines Indikators nach Stand der vorhergehenden Jahre angegeben. Daran lässt sich ablesen, ob das Wettersymbol für einen Indikator in den vergangenen Jahren stabil oder eher volatil war."
+indicator:legend_help,Click on the legend to remove individual lines from the chart.,Klicken Sie auf die Legende um Zeitreihen aus der Grafik zu entfernen.
+indicator:loading_map,Loading map,Karte wird geladen
+indicator:map,Map,Karte
+indicator:metadata,Metadata,Metadaten
+indicator:national_metadata,National Metadata,Nationale Metadaten
+indicator:national_metadata_blurb,"This table provides metadata for the actual indicator available from %country_adjective statistics closest to the corresponding global SDG indicator. Please note that even when the SDG indicator is fully available from %country_adjective statistics, this table should be consulted for information on national methodology and other country specific metadata information.","Im Folgenden werden Metadaten zu den national verfügbaren Zeitreihen für Deutschland zum jeweiligen globalen SDG-Indikator bereitgestellt. Die angegebene Datenreihe ist die vergleichbarste, national verfügbare Zeitreihe. Entspricht die angezeigte Datenreihe voll den globalen Metadaten, so ist dennoch auf diese nationalen Metadaten für methodische sowie weitere länderspezifische Informationen hinzuweisen."
+indicator:no_data_hint,No options available because of filters above,Aufgrund der bereits getroffenen Auswahl sind keine weiteren Auswahlmöglichkeiten verfügbar.
+indicator:select_all,Select all,Alle auswählen
+indicator:series_help,Choose categories from the dropdowns below to see different breakdowns of the data. Some will not be available until a higher level is chosen.,"Wählen Sie Disaggregationsdimensionen aus, damit die verfügbaren Disaggregationskategorien angezeigt werden. Manche werden erst angezeigt, sobald eine Überkategorie ausgewählt wird."
+indicator:source,Source,Datenquelle
+indicator:sources,Sources,Datenquellen
+indicator:specification,Specification,
+indicator:sub_categories,Sub-categories,Disaggregationsdimensionen
+indicator:table,Table,Tabelle
+indicator:timeseries,Time series,Zeitreihe
+indicator:unit_of_measurement,Unit of measurement,Einheit
+indicator:units_type,Units type,Einheit
+indicator:variable_hint,Available when '%field' is selected,Verfügbar
+indicator:view_indicator_list,View this goal's indicator list,Zeigt die Indikatorenliste zum SDG-Ziel an.
+general:dns,Sustainable development in Germany,Nachhaltige Entwicklung in Deutschland
+general:dns_target,Range of indicators and postulates,Indikatorenbereiche und Postulate
+general:found_in_goals,goals,Zielen
+general:goal,Goal,Ziel
+general:goals,Goals,Ziele
+general:home,Home,Start
+general:indicator,Indicator,Indikator
+general:indicator_cap,Indicator,Indikator
+general:indicator_low,indicator,Indikator
+general:indicators,Indicators,Indikatoren
+general:indicators_cap,Indicators,Indikatoren
+general:indicators_low,indicators,Indikatoren
+general:loading,Loading search results,Ergebnisse werden geladen
+general:one_goal,one goal,einem Ziel
+general:one_indicator,One indicator,Ein Indikator
+general:opens_new_window,opens in a new window,in neuem Fenster öffnen
+general:sdg,Sustainable Development Goals,Ziele für Nachhaltige Entwicklung
+general:target,Target,Unterziel
+general:targets,Targets,Unterziele
+header:alpha,Alpha,Alpha-Version
+header:disclaimer,"This is a development website. We welcome your <a href=""mailto:%email_address"">feedback</a>.",Diese Seite befindet sich im Entwicklungsstadium.Wir freuen uns über Ihre Kommentare.
+header:skip_link,Skip to main content, Zum Hauptinhalt springen
+header:tag_line,17 Goals to Transform our World,
 global_indicators:1.1.1-title,"Proportion of population below the international poverty line, by sex, age, employment status and geographical location (urban/rural)","Anteil der Bevölkerung, die unter der internationalen Armutsgrenze lebt, nach Geschlecht, Alter, Erwerbsstatus  und geographischer Lage (urban/rural)"
 global_indicators:1.2.1-title,"Proportion of population living below the national poverty line, by sex and age","Anteil der Bevölkerung, die unter der nationalen Armutsgrenze lebt, nach Geschlecht und Alter"
 global_indicators:1.2.2-title,"Proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions","Anteil der Männer, Frauen und Kinder jeden Alters, die in Armut in all ihren Dimensionen gemäß nationaler Definitionen leben"
@@ -244,6 +347,46 @@ global_indicators:9.5.2-title,Researchers (in full-time equivalent) per million 
 global_indicators:9.a.1-title,Total official international support (official development assistance plus other official flows) to infrastructure,Gesamte öffentliche internationale Unterstützung (öffentliche Entwicklungszusammenarbeit (ODA) und sonstige öffentliche Ausgaben) für Infrastruktur
 global_indicators:9.b.1-title,Proportion of medium and high-tech industry value added in total value added,Anteil der Wertschöpfung der Medium- und High-Tech-Industrie an der Wertschöpfung insgesamt
 global_indicators:9.c.1-title,"Proportion of population covered by a mobile network, by technology","Anteil der Bevölkerung, die durch ein Mobilfunknetz abgedeckt ist, nach Technologie"
+dns_ranges:1.1-title,Poverty,Armut
+dns_ranges:10.1-title,Equal educational opportunities,Gleiche Bildungschancen
+dns_ranges:10.2-title,Distributive justice,Verteilungsgerechtigkeit
+dns_ranges:11.1-title,Land use,Flächeninanspruchnahme
+dns_ranges:11.2-title,Mobility,Mobilität
+dns_ranges:11.3-title,Housing,Wohnen
+dns_ranges:12.1-title,Responsible consumption,Nachhaltiger Konsum
+dns_ranges:12.2-title,Responsible production,Nachhaltige Produktion
+dns_ranges:12.3-title,Responsible procurement,Nachhaltige Beschaffung
+dns_ranges:13.1-title,Climate protection,Klimaschutz
+dns_ranges:14.1-title,Protecting the oceans,Meere schützen
+dns_ranges:15.1-title,Biodiversity,Artenvielfalt
+dns_ranges:15.2-title,Ecosystems,Ökosysteme
+dns_ranges:15.3-title,Forests,Wälder
+dns_ranges:16.1-title,Crime,Kriminalität
+dns_ranges:16.2-title,Peace and security,Frieden und Sicherheit
+dns_ranges:16.3-title,Good governance,Gute Regierungsführung
+dns_ranges:17.1-title,Development cooperation,Entwicklungszusammenarbeit
+dns_ranges:17.2-title,"Knowledge transfer, espaecially in technical areas",Wissenstransfer insbesondere im technischen Bereich
+dns_ranges:17.3-title,Opening markets,Märkte öffnen
+dns_ranges:2.1-title,Farming,Landbewirtschaftung
+dns_ranges:2.2-title,Food security,Ernährungssicherung
+dns_ranges:3.1-title,Health and nutrition,Gesundheit und Ernährung
+dns_ranges:3.2-title,Air pollution,Luftbelastung
+dns_ranges:4.1-title,Education,Bildung
+dns_ranges:4.2-title,Prospects for families,Perspektiven für Familien
+dns_ranges:5.1-title,Equality,Gleichstellung
+dns_ranges:6.1-title,Water quality,Gewässerqualität
+dns_ranges:6.2-title,Drinking water and sanitation,Trinkwasser- und Sanitärversorgung
+dns_ranges:7.1-title,Recource conservation,Ressourcenschonung
+dns_ranges:7.2-title,Renewable energies,Erneuerbare Energien
+dns_ranges:8.1-title,Recource conservation,Ressourcenschonung
+dns_ranges:8.2-title,Government dept,Staatsverschuldung
+dns_ranges:8.3-title,Provision for future economic stability,Wirtschaftliche Zukunftsvorsorge
+dns_ranges:8.4-title,Economic output,Wirtschaftliche Leistungsfähigkeit
+dns_ranges:8.5-title,Employment,Beschäftigung
+dns_ranges:8.6-title,Global supply chains,Globale Lieferketten
+dns_ranges:9.1-title,Innovation,Innovation
+post:posts_by_category,Posts by Category,Beiträge geordnet nach Kategorien
+post:view_all_in_category,View all posts in the %category_name category, Zeige alle Beiträge in der %category_name Kategorie an
 data:%,Percentage (%),Prozent (%)
 data:'agriculture orientation index' for government expenditures,'Agriculture orientation index' for government expenditures,'Agriculture Orientation Index' für Staatsausgaben
 data:'agriculture orientation index' for government expenditures (index),'Agriculture orientation index' for government expenditures,'Agriculture Orientation Index' für Staatsausgaben
@@ -837,9 +980,79 @@ data:women in managerial positions (%),Women in managerial positions,Frauen in F
 data:writing a computer program using a programming language,Writing a computer program using a programming language,Schreiben eines Programms in einer Programmiersprache
 data:young people (15 to under 25 years) neither in employment nor in education and training  (neet rates),Young people (15 to under 25 years) neither in employment nor in education and training  (NEET rates),"Jugendliche (15 bis unter 25 Jahre), die weder eine Arbeit haben, noch in einer schulischen oder beruflichen Ausbildung sind (NEET-Raten)"
 data:young victims of trafficking in human beings with intent to exploit man power,Young victims of trafficking in human beings with intent to exploit man power,Kinder als Opfer von Menschenhandel zum Zweck der Ausbeutung der Arbeitskraft
+search:found_in,found in,gefunden unter
+search:goals,goals,Zielen
+search:indicator_search,Indicator search,Indikatorensuche
+search:indicators,indicators,Indikatoren
+search:keywords,Keywords,Schlagworte
+search:no_results,No results,Keine Ergebnisse
+search:search,Search,Suche
+search:search_results_for,Search results for,Ergebnisse zu
+dns_goals:1-title,No poverty,Keine Armut
+dns_goals:10-title,Reduced inequalities,Weniger Ungleichheiten
+dns_goals:11-title,Sustainable cities & communities,Nachhaltige Städte und Gemeinden
+dns_goals:12-title,Responsible consumption and production,Verantwortungsvolle Konsum- und Produktionsmuster
+dns_goals:13-title,Climate action,Maßnahmen zum Klimaschutz
+dns_goals:14-title,Life below water,Leben unter Wasser
+dns_goals:15-title,Life on land,Leben an Land
+dns_goals:16-title,Peace and justice - strong institutions,"Frieden, Gerechtigkeit und starke Institutionen"
+dns_goals:17-title,Partnerships for the goals,Partnerschaften zur Erreichung der Ziele
+dns_goals:2-title,Zero hunger,Kein Hunger
+dns_goals:3-title,Good health and well-being,Gesundheit und Wohlergehen
+dns_goals:4-title,Quality education,Hochwertige Bildung
+dns_goals:5-title,Gender equality,Geschlechtergleichstellung
+dns_goals:6-title,Clean water and sanitation,Sauberes Wasser und Sanitärversorgung
+dns_goals:7-title,Affordable and clean energy,Bezahlbare und saubere Energie
+dns_goals:8-title,Decent jobs and economic growth,Menschenwürdige Arbeit und Wirtschaftswachstum
+dns_goals:9-title,"Industry, innovation and infrastructure","Industrie, Innovationen und Infrastruktur"
+status:exploring_data_sources,Exploring data sources,Datenquellenanalyse
+status:not_applicable,Not applicable,Nicht zutreffend
+status:overall_reporting_status,Overall Reporting Status,Übersicht zum Berichtsstatus der
+status:reported_online,Reported online,Daten verfügbar
+status:reporting_status,Reporting Status,Berichtsstatus
+status:statistics_in_progress,Statistics in progress,in Bearbeitung
+status:status_by_goal,Status by goal,Status nach Ziel
+dns_targets:1.1-title,Limiting poverty,Armut begrenzen
+dns_targets:10.1-title,Improving educational success of foreigners in German schools,Schulische Bildungserfolge von Ausländern in Deutschland verbessern
+dns_targets:10.2-title,Preventing too-great inequality within Germany,Zu große Ungleichheit innehalb Deutschlands verhindern
+dns_targets:11.1-title,Using land sustainable,Fläche nachhaltig nutzen
+dns_targets:11.2-title,Guranteeing mobility - Protecting the environment,Mobilität sichern - Umwelt schonen
+dns_targets:11.3-title,Affordable housing for all,Bezahlbarer Wohnraum für alle
+dns_targets:12.1-title,Making consumption environmentally and socially compatible,Konsum umwelt- und sozialverträglich gestalten
+dns_targets:12.2-title,Increasing the proportion of sustainable production,Anteil nachhaltiger Produktion stetig erhöhen
+dns_targets:12.3-title,Realising the exemplary role of the public sector in sustainable procurement,Vorbildwirkung der öffentlichen Hand für nachhaltige öffentliche Beschaffung verwirklichen
+dns_targets:13.1-title,Reducing greenhouse gases and contributing to international climate financing,Treibhausgase reduzieren und einen Beitrag zur internationalen Klimafinanzierung leisten
+dns_targets:14.1-title,Protecting and sustainably using oceans and marine resources,Meere und Meeresressourcen schützen und nachhaltig nutzen
+dns_targets:15.1-title,Conserving species - Protecting habitats,Arten erhalten - Lebensräume schützen
+dns_targets:15.2-title,"Protecting ecosystems, conserving ecosystem services and preserving habitats","Ökosysteme schützen, Ökosystemleistungen erhalten und Lebensräume bewahren"
+dns_targets:15.3-title,Preventing deforestation,Entwaldung vermeiden
+dns_targets:16.1-title,Further increasing personal security,Persönliche Sicherheit weiter erhöhen
+dns_targets:16.2-title,"Taking practical action to combat proliferation, especially of small arms","Praktische Maßnahmen zur Bekämpfung der Proliferation, insbesondere von Kleinwaffen, ergreifen"
+dns_targets:16.3-title,Combating corruption,Korruption bekämpfen
+dns_targets:17.1-title,Supporting sustainable development,Nachhaltige Entwicklung unterstützen
+dns_targets:17.2-title,Sharing knowledge internationally,Wissen international vermitteln
+dns_targets:17.3-title,Improving trade opportunities for developing countries,Handelschancen der Entwicklungsländer verbessern
+dns_targets:2.1-title,Environmentally sound production in our cultivated landscapes,In unseren Kulturlandschaften umweltverträglich produzieren
+dns_targets:2.2-title,Realising globally the right to food,Das Recht auf Nahrung weltweit verwirklichen
+dns_targets:3.1-title,Living healthy longer,Länger gesund leben
+dns_targets:3.2-title,Keeping the environment healthy,Gesunde Umwelt erhalten
+dns_targets:4.1-title,Continuously improving education and vocational training,Bildung und Qualifikation kontinuierlich verbessern
+dns_targets:4.2-title,Improving the compatibility of work and family life,Vereinbarkeit von Familie und Beruf verbessern
+dns_targets:5.1-title,Promoting equal opportunities in society and strengthening the economic participation of women globally,Gleichstellung in der Gesellschaft fördern und wirtschaftliche Teilhabe von Frauen global stärken
+dns_targets:6.1-title,Reducing the pollution of water with substances,Minderung der stofflichen Belastung von Gewässern
+dns_targets:6.2-title,"Better access to drinking water and sanitation worldwide, higher (safer) quality","Besserer Zugang zu Trinkwasser- und Sanitärversorgung weltweit, höhere (sichere) Qualität"
+dns_targets:7.1-title,Using resources economically and efficiently,Ressourcen sparsam und effizient nutzen
+dns_targets:7.2-title,Strengthening a sustainable energy supply,Zukunftsfähige Energieversorgung ausbauen
+dns_targets:8.1-title,Using resources economically and efficiently,Ressourcen sparsam und effizient nutzen
+dns_targets:8.2-title,Consolidating public finances - Creating intergenerational equity,Staatsfinanzen konsolidieren - Generationengerechtigkeit schaffen
+dns_targets:8.3-title,Creating favourable investment conditions - Securing long-term prosperity,Gute Investitionsbedingungen schaffen - Wohlstand dauerhaft erhalten
+dns_targets:8.4-title,Combining larger economic output with environmental and social responsibility,Wirtschaftsleistung umwelt- und sozialverträglich steigern
+dns_targets:8.5-title,Boosting employment levels,Beschäftigungsniveau steigern
+dns_targets:8.6-title,Enabling decent work worldwide,Menschenwürdige Arbeit weltweit ermöglichen
+dns_targets:9.1-title,Shaping the future with new solutions,Zukunft mit neuen Lösungen gestalten
 summary:indicator,Indicator,Indikator
 summary:status,Evaluation,Bewertung
-summary:status_summary,Status summary,Statusübersicht
+summary:status_summary,Status summary - Evaluation in previous years,Statusübersicht - Bewertung aus den Vorjahren
 summary:target,Target,Ziel
 summary:year,Year,Jahr
 metadata_fields:comments_limitations,Other information,Weitere Informationen
@@ -936,183 +1149,18 @@ metadata_fields:target,Target name,Unterziel
 metadata_fields:target_id,Target number,Unterzielnummerierung
 metadata_fields:un_custodian_agency,UN custodian agency,UN Custodian Agency
 metadata_fields:un_designated_tier,"<a href=""https://unstats.un.org/sdgs/iaeg-sdgs/tier-classification/"">UN designated tier</a>","<a href=""https://unstats.un.org/sdgs/iaeg-sdgs/tier-classification/"">UN Tier Klassifikation</a>"
-header:alpha,Alpha,Alpha-Version
-header:disclaimer,"This is a development website. We welcome your <a href=""mailto:%email_address"">feedback</a>.",Diese Seite befindet sich im Entwicklungsstadium.Wir freuen uns über Ihre Kommentare.
-header:skip_link,Skip to main content, Zum Hauptinhalt springen
-header:tag_line,17 Goals to Transform our World,
-general:dns,Sustainable development in Germany,Nachhaltige Entwicklung in Deutschland
-general:dns_target,Range of indicators and postulates,Indikatorenbereiche und Postulate
-general:found_in_goals,goals,Zielen
-general:goal,Goal,Ziel
-general:goals,Goals,Ziele
-general:home,Home,Start
-general:indicator,Indicator,Indikator
-general:indicator_cap,Indicator,Indikator
-general:indicator_low,indicator,Indikator
-general:indicators,Indicators,Indikatoren
-general:indicators_cap,Indicators,Indikatoren
-general:indicators_low,indicators,Indikatoren
-general:loading,Loading search results,Ergebnisse werden geladen
-general:one_goal,one goal,einem Ziel
-general:one_indicator,One indicator,Ein Indikator
-general:opens_new_window,opens in a new window,in neuem Fenster öffnen
-general:sdg,Sustainable Development Goals,Ziele für Nachhaltige Entwicklung
-general:target,Target,Unterziel
-general:targets,Targets,Unterziele
-status:exploring_data_sources,Exploring data sources,Datenquellenanalyse
-status:not_applicable,Not applicable,Nicht zutreffend
-status:overall_reporting_status,Overall Reporting Status,Übersicht zum Berichtsstatus der
-status:reported_online,Reported online,Daten verfügbar
-status:reporting_status,Reporting Status,Berichtsstatus
-status:statistics_in_progress,Statistics in progress,in Bearbeitung
-status:status_by_goal,Status by goal,Status nach Ziel
-search:found_in,found in,gefunden unter
-search:goals,goals,Zielen
-search:indicator_search,Indicator search,Indikatorensuche
-search:indicators,indicators,Indikatoren
-search:keywords,Keywords,Schlagworte
-search:no_results,No results,Keine Ergebnisse
-search:search,Search,Suche
-search:search_results_for,Search results for,Ergebnisse zu
-dns_ranges:1.1-title,Poverty,Armut
-dns_ranges:10.1-title,Equal educational opportunities,Gleiche Bildungschancen
-dns_ranges:10.2-title,Distributive justice,Verteilungsgerechtigkeit
-dns_ranges:11.1-title,Land use,Flächeninanspruchnahme
-dns_ranges:11.2-title,Mobility,Mobilität
-dns_ranges:11.3-title,Housing,Wohnen
-dns_ranges:12.1-title,Responsible consumption,Nachhaltiger Konsum
-dns_ranges:12.2-title,Responsible production,Nachhaltige Produktion
-dns_ranges:12.3-title,Responsible procurement,Nachhaltige Beschaffung
-dns_ranges:13.1-title,Climate protection,Klimaschutz
-dns_ranges:14.1-title,Protecting the oceans,Meere schützen
-dns_ranges:15.1-title,Biodiversity,Artenvielfalt
-dns_ranges:15.2-title,Ecosystems,Ökosysteme
-dns_ranges:15.3-title,Forests,Wälder
-dns_ranges:16.1-title,Crime,Kriminalität
-dns_ranges:16.2-title,Peace and security,Frieden und Sicherheit
-dns_ranges:16.3-title,Good governance,Gute Regierungsführung
-dns_ranges:17.1-title,Development cooperation,Entwicklungszusammenarbeit
-dns_ranges:17.2-title,"Knowledge transfer, espaecially in technical areas",Wissenstransfer insbesondere im technischen Bereich
-dns_ranges:17.3-title,Opening markets,Märkte öffnen
-dns_ranges:2.1-title,Farming,Landbewirtschaftung
-dns_ranges:2.2-title,Food security,Ernährungssicherung
-dns_ranges:3.1-title,Health and nutrition,Gesundheit und Ernährung
-dns_ranges:3.2-title,Air pollution,Luftbelastung
-dns_ranges:4.1-title,Education,Bildung
-dns_ranges:4.2-title,Prospects for families,Perspektiven für Familien
-dns_ranges:5.1-title,Equality,Gleichstellung
-dns_ranges:6.1-title,Water quality,Gewässerqualität
-dns_ranges:6.2-title,Drinking water and sanitation,Trinkwasser- und Sanitärversorgung
-dns_ranges:7.1-title,Recource conservation,Ressourcenschonung
-dns_ranges:7.2-title,Renewable energies,Erneuerbare Energien
-dns_ranges:8.1-title,Recource conservation,Ressourcenschonung
-dns_ranges:8.2-title,Government dept,Staatsverschuldung
-dns_ranges:8.3-title,Provision for future economic stability,Wirtschaftliche Zukunftsvorsorge
-dns_ranges:8.4-title,Economic output,Wirtschaftliche Leistungsfähigkeit
-dns_ranges:8.5-title,Employment,Beschäftigung
-dns_ranges:8.6-title,Global supply chains,Globale Lieferketten
-dns_ranges:9.1-title,Innovation,Innovation
-frontpage:heading,National Data for UN-SDGs,Indikatoren der UN-Nachhaltigkeitsziele
-frontpage:heading_dns,Sustainable Development in Germany,Nachhaltige Entwicklung in Deutschland
-frontpage:instructions,"Click on each goal, or %before_link search, %after_link for German statistics for Sustainable Development Goal global indicators.",Klicken Sie auf die einzelnen Ziele um zu den Daten zu den Indikatoren der Ziele für nachhaltige Entwicklung für Deutschland zu gelangen. Oder %before_link suchen %after_link Sie gezielt nach spezifischen Themen.
-indicator:chart,Chart,Grafik
-indicator:clear_all,Clear all,Auswahl aufheben
-indicator:clear_selections,Clear selections,Auswahl aufheben
-indicator:copyright,Copyright,Copyright
-indicator:dataset_size_warning,There are too many datasets to show on the chart. Not all will be shown until you remove some selections.,"Zu viele Zeitreihen ausgewählt, um diese in einer Grafik darzustellen. Es können nicht alle Zeitreihen dargestellt werden."
-indicator:dns_metadata_blurb,"Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.","Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet."
-indicator:download_chart,Download Chart CSV,Grafik im CSV-Format speichern
-indicator:download_chart_image,Download Chart Image,Grafik als Bild speichern
-indicator:download_csv,Download CSV,im CSV-Format speichern
-indicator:download_csv_title,Download as CSV,im CSV-Format speichern
-indicator:download_headline,Download Headline CSV,Speichern der Headline im CSV-Format
-indicator:download_headline_title,Download headline data as CSV,Speichern der Headline im CSV-Format
-indicator:download_source,Download Source CSV,Daten im CSV-Format speichern
-indicator:download_source_title,Download source data as CSV,Daten im CSV-Format speichern
-indicator:download_table,Download Table CSV,Tabelle im CSV-Format speichern
-indicator:edit,Edit,Bearbeiten
-indicator:edit_data,Edit Data,Daten bearbeiten
-indicator:edit_metadata,Edit Metadata,Metadaten bearbeiten
-indicator:footnote,Specification,Anmerkung
-indicator:geographical_area,Geographical Area,Geographische Abdeckung
-indicator:global_metadata,Global Metadata,Globale Metadaten
-indicator:global_metadata_blurb,"This table provides information on metadata for SDG indicators as defined by the UN Statistical Commission. <a href=""https://unstats.un.org/sdgs/metadata/"">Complete global metadata</a> is provided by the UN Statistics Division.","Diese Übersicht stellt Informationen zu den globalen Metadaten des jeweiligen SDG-Indikators bereit. Die <a href=""https://unstats.un.org/sdgs/metadata/"">globalen Metadaten</a> werden durch die Statistische Division der Vereinten Nationen bereitgestellt."
-indicator:history,Indicator status summary,Statusübersicht
-indicator:history_blurb,The synoptic table provides information also about the evaluation of an indicator in previous years. It shows if the weather symbol assigned to an indicator was rather stable or volatile in the past years.,"In dieser Übersichtstabelle sind jeweils auch die Bewertungen eines Indikators nach Stand der vorhergehenden Jahre angegeben. Daran lässt sich ablesen, ob das Wettersymbol für einen Indikator in den vergangenen Jahren stabil oder eher volatil war."
-indicator:legend_help,Click on the legend to remove individual lines from the chart.,Klicken Sie auf die Legende um Zeitreihen aus der Grafik zu entfernen.
-indicator:loading_map,Loading map,Karte wird geladen
-indicator:map,Map,Karte
-indicator:metadata,Metadata,Metadaten
-indicator:national_metadata,National Metadata,Nationale Metadaten
-indicator:national_metadata_blurb,"This table provides metadata for the actual indicator available from %country_adjective statistics closest to the corresponding global SDG indicator. Please note that even when the SDG indicator is fully available from %country_adjective statistics, this table should be consulted for information on national methodology and other country specific metadata information.","Im Folgenden werden Metadaten zu den national verfügbaren Zeitreihen für Deutschland zum jeweiligen globalen SDG-Indikator bereitgestellt. Die angegebene Datenreihe ist die vergleichbarste, national verfügbare Zeitreihe. Entspricht die angezeigte Datenreihe voll den globalen Metadaten, so ist dennoch auf diese nationalen Metadaten für methodische sowie weitere länderspezifische Informationen hinzuweisen."
-indicator:no_data_hint,No options available because of filters above,Aufgrund der bereits getroffenen Auswahl sind keine weiteren Auswahlmöglichkeiten verfügbar.
-indicator:select_all,Select all,Alle auswählen
-indicator:series_help,Choose categories from the dropdowns below to see different breakdowns of the data. Some will not be available until a higher level is chosen.,"Wählen Sie Disaggregationsdimensionen aus, damit die verfügbaren Disaggregationskategorien angezeigt werden. Manche werden erst angezeigt, sobald eine Überkategorie ausgewählt wird."
-indicator:source,Source,Datenquelle
-indicator:sources,Sources,Datenquellen
-indicator:specification,Specification,
-indicator:sub_categories,Sub-categories,Disaggregationsdimensionen
-indicator:table,Table,Tabelle
-indicator:timeseries,Time series,Zeitreihe
-indicator:unit_of_measurement,Unit of measurement,Einheit
-indicator:units_type,Units type,Einheit
-indicator:variable_hint,Available when '%field' is selected,Verfügbar
-indicator:view_indicator_list,View this goal's indicator list,Zeigt die Indikatorenliste zum SDG-Ziel an.
-dns_goals:1-title,No poverty,Keine Armut
-dns_goals:10-title,Reduced inequalities,Weniger Ungleichheiten
-dns_goals:11-title,Sustainable cities & communities,Nachhaltige Städte und Gemeinden
-dns_goals:12-title,Responsible consumption and production,Verantwortungsvolle Konsum- und Produktionsmuster
-dns_goals:13-title,Climate action,Maßnahmen zum Klimaschutz
-dns_goals:14-title,Life below water,Leben unter Wasser
-dns_goals:15-title,Life on land,Leben an Land
-dns_goals:16-title,Peace and justice - strong institutions,"Frieden, Gerechtigkeit und starke Institutionen"
-dns_goals:17-title,Partnerships for the goals,Partnerschaften zur Erreichung der Ziele
-dns_goals:2-title,Zero hunger,Kein Hunger
-dns_goals:3-title,Good health and well-being,Gesundheit und Wohlergehen
-dns_goals:4-title,Quality education,Hochwertige Bildung
-dns_goals:5-title,Gender equality,Geschlechtergleichstellung
-dns_goals:6-title,Clean water and sanitation,Sauberes Wasser und Sanitärversorgung
-dns_goals:7-title,Affordable and clean energy,Bezahlbare und saubere Energie
-dns_goals:8-title,Decent jobs and economic growth,Menschenwürdige Arbeit und Wirtschaftswachstum
-dns_goals:9-title,"Industry, innovation and infrastructure","Industrie, Innovationen und Infrastruktur"
-dns_targets:1.1-title,Limiting poverty,Armut begrenzen
-dns_targets:10.1-title,Improving educational success of foreigners in German schools,Schulische Bildungserfolge von Ausländern in Deutschland verbessern
-dns_targets:10.2-title,Preventing too-great inequality within Germany,Zu große Ungleichheit innehalb Deutschlands verhindern
-dns_targets:11.1-title,Using land sustainable,Fläche nachhaltig nutzen
-dns_targets:11.2-title,Guranteeing mobility - Protecting the environment,Mobilität sichern - Umwelt schonen
-dns_targets:11.3-title,Affordable housing for all,Bezahlbarer Wohnraum für alle
-dns_targets:12.1-title,Making consumption environmentally and socially compatible,Konsum umwelt- und sozialverträglich gestalten
-dns_targets:12.2-title,Increasing the proportion of sustainable production,Anteil nachhaltiger Produktion stetig erhöhen
-dns_targets:12.3-title,Realising the exemplary role of the public sector in sustainable procurement,Vorbildwirkung der öffentlichen Hand für nachhaltige öffentliche Beschaffung verwirklichen
-dns_targets:13.1-title,Reducing greenhouse gases and contributing to international climate financing,Treibhausgase reduzieren und einen Beitrag zur internationalen Klimafinanzierung leisten
-dns_targets:14.1-title,Protecting and sustainably using oceans and marine resources,Meere und Meeresressourcen schützen und nachhaltig nutzen
-dns_targets:15.1-title,Conserving species - Protecting habitats,Arten erhalten - Lebensräume schützen
-dns_targets:15.2-title,"Protecting ecosystems, conserving ecosystem services and preserving habitats","Ökosysteme schützen, Ökosystemleistungen erhalten und Lebensräume bewahren"
-dns_targets:15.3-title,Preventing deforestation,Entwaldung vermeiden
-dns_targets:16.1-title,Further increasing personal security,Persönliche Sicherheit weiter erhöhen
-dns_targets:16.2-title,"Taking practical action to combat proliferation, especially of small arms","Praktische Maßnahmen zur Bekämpfung der Proliferation, insbesondere von Kleinwaffen, ergreifen"
-dns_targets:16.3-title,Combating corruption,Korruption bekämpfen
-dns_targets:17.1-title,Supporting sustainable development,Nachhaltige Entwicklung unterstützen
-dns_targets:17.2-title,Sharing knowledge internationally,Wissen international vermitteln
-dns_targets:17.3-title,Improving trade opportunities for developing countries,Handelschancen der Entwicklungsländer verbessern
-dns_targets:2.1-title,Environmentally sound production in our cultivated landscapes,In unseren Kulturlandschaften umweltverträglich produzieren
-dns_targets:2.2-title,Realising globally the right to food,Das Recht auf Nahrung weltweit verwirklichen
-dns_targets:3.1-title,Living healthy longer,Länger gesund leben
-dns_targets:3.2-title,Keeping the environment healthy,Gesunde Umwelt erhalten
-dns_targets:4.1-title,Continuously improving education and vocational training,Bildung und Qualifikation kontinuierlich verbessern
-dns_targets:4.2-title,Improving the compatibility of work and family life,Vereinbarkeit von Familie und Beruf verbessern
-dns_targets:5.1-title,Promoting equal opportunities in society and strengthening the economic participation of women globally,Gleichstellung in der Gesellschaft fördern und wirtschaftliche Teilhabe von Frauen global stärken
-dns_targets:6.1-title,Reducing the pollution of water with substances,Minderung der stofflichen Belastung von Gewässern
-dns_targets:6.2-title,"Better access to drinking water and sanitation worldwide, higher (safer) quality","Besserer Zugang zu Trinkwasser- und Sanitärversorgung weltweit, höhere (sichere) Qualität"
-dns_targets:7.1-title,Using resources economically and efficiently,Ressourcen sparsam und effizient nutzen
-dns_targets:7.2-title,Strengthening a sustainable energy supply,Zukunftsfähige Energieversorgung ausbauen
-dns_targets:8.1-title,Using resources economically and efficiently,Ressourcen sparsam und effizient nutzen
-dns_targets:8.2-title,Consolidating public finances - Creating intergenerational equity,Staatsfinanzen konsolidieren - Generationengerechtigkeit schaffen
-dns_targets:8.3-title,Creating favourable investment conditions - Securing long-term prosperity,Gute Investitionsbedingungen schaffen - Wohlstand dauerhaft erhalten
-dns_targets:8.4-title,Combining larger economic output with environmental and social responsibility,Wirtschaftsleistung umwelt- und sozialverträglich steigern
-dns_targets:8.5-title,Boosting employment levels,Beschäftigungsniveau steigern
-dns_targets:8.6-title,Enabling decent work worldwide,Menschenwürdige Arbeit weltweit ermöglichen
-dns_targets:9.1-title,Shaping the future with new solutions,Zukunft mit neuen Lösungen gestalten
+menu:about,About,Über uns
+menu:contact_us,Contact us,Kontakt
+menu:cookies,Cookies,Cookies
+menu:faq,FAQ,FAQ
+menu:guidance,Guidance,Technische Hinweise
+menu:imprint,Legal Notice,Im­pres­s­um
+menu:indicator_status,Indicator status,Statusübersicht
+menu:menu,Menu,Menü
+menu:publications,Publications,Veröffentlichungen
+menu:reporting_status,Reporting Status,Berichtsstatus
+menu:status,Indicator status,Statusübersicht
+menu:status_summary,Status summary,Statusübersicht
 global_targets:1.1-title,"By 2030, eradicate extreme poverty for all people everywhere, currently measured as people living on less than $1.25 a day","Bis 2030 die extreme Armut - gegenwärtig definiert als der Anteil der Menschen, die mit weniger als 1,25 Dollar pro Tag auskommen müssen - für alle Menschen überall auf der Welt beseitigen"
 global_targets:1.2-title,"By 2030, reduce at least by half the proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions","Bis 2030 den Anteil der Männer, Frauen und Kinder jeden Alters, die in Armut in all ihren Dimensionen nach der jeweiligen nationalen Definition leben, mindestens um die Hälfte senken"
 global_targets:1.3-title,"Implement nationally appropriate social protection systems and measures for all, including floors, and by 2030 achieve substantial coverage of the poor and the vulnerable","Den nationalen Gegebenheiten entsprechende Sozialschutzsysteme und -maßnahmen für alle umsetzen, einschließlich eines Basisschutzes, und bis 2030 eine breite Versorgung der Armen und Schwachen erreichen"
@@ -1282,51 +1330,3 @@ global_targets:9.5-title,"Enhance scientific research, upgrade the technological
 global_targets:9.a-title,"Facilitate sustainable and resilient infrastructure development in developing countries through enhanced financial, technological and technical support to African countries, least developed countries, landlocked developing countries and small island developing States","Die Entwicklung einer nachhaltigen und widerstandsfähigen Infrastruktur in den Entwicklungsländern durch eine verstärkte finanzielle, technologische und technische Unterstützung der afrikanischen Länder, der am wenigsten entwickelten Länder, der Binnenentwicklungsländer und der kleinen Inselentwicklungsländer erleichtern"
 global_targets:9.b-title,"Support domestic technology development, research and innovation in developing countries, including by ensuring a conducive policy environment for, inter alia, industrial diversification and value addition to commodities","Die einheimische Technologieentwicklung, Forschung und Innovation in den Entwicklungsländern unterstützen, einschließlich durch Sicherstellung eines förderlichen politischen Umfelds, unter anderem für industrielle Diversifizierung und Wertschöpfung im Rohstoffbereich"
 global_targets:9.c-title,Significantly increase access to information and communications technology and strive to provide universal and affordable access to the Internet in least developed countries by 2020,"Den Zugang zur Informations- und Kommunikationstechnologie erheblich erweitern sowie anstreben, in den am wenigsten entwickelten Ländern bis 2020 einen allgemeinen und erschwinglichen Zugang zum Internet bereitzustellen"
-post:posts_by_category,Posts by Category,Beiträge geordnet nach Kategorien
-post:view_all_in_category,View all posts in the %category_name category, Zeige alle Beiträge in der %category_name Kategorie an
-menu:about,About,Über uns
-menu:contact_us,Contact us,Kontakt
-menu:cookies,Cookies,Cookies
-menu:faq,FAQ,FAQ
-menu:guidance,Guidance,Technische Hinweise
-menu:imprint,Legal Notice,Im­pres­s­um
-menu:indicator_status,Indicator status,Statusübersicht
-menu:menu,Menu,Menü
-menu:publications,Publications,Veröffentlichungen
-menu:reporting_status,Reporting Status,Berichtsstatus
-menu:status,Indicator status,Statusübersicht
-menu:status_summary,Status summary,Statusübersicht
-global_goals:1-short,No poverty,Keine Armut
-global_goals:1-title,End poverty in all its forms everywhere,Armut in allen ihren Formen und überall beenden
-global_goals:10-short,Reduced inequalities,Weniger Ungleichheiten
-global_goals:10-title,Reduce inequality within and among countries,Ungleichheit in und zwischen Ländern verringern
-global_goals:11-short,Sustainable cities & communities,Nachhaltige Städte und Gemeinden
-global_goals:11-title,"Make cities and human settlements inclusive, safe, resilient and sustainable","Städte und Siedlungen inklusiv, sicher, widerstandsfähig und nachhaltig gestalten"
-global_goals:12-short,Responsible consumption and production,Verantwortungsvolle Konsum- und Produktionsmuster
-global_goals:12-title,Ensure sustainable consumption and production patterns,Nachhaltige Konsum- und Produktionsmuster sicherstellen
-global_goals:13-short,Climate action,Maßnahmen zum Klimaschutz
-global_goals:13-title,Take urgent action to combat climate change and its impacts,Umgehend Maßnahmen zur Bekämpfung des Klimawandels und seiner Auswirkungen ergreifen
-global_goals:14-short,Life below water,Leben unter Wasser
-global_goals:14-title,"Conserve and sustainably use the oceans, seas and marine resources for sustainable development","Ozeane, Meere und Meeresressourcen im Sinne nachhaltiger Entwicklung erhalten und nachhaltig nutzen"
-global_goals:15-short,Life on land,Leben an Land
-global_goals:15-title,"Protect, restore and promote sustainable use of terrestrial ecosystems, sustainably manage forests, combat desertification, and halt and reverse land degradation and halt biodiversity loss","Landökosysteme schützen, wiederherstellen und ihre nachhaltige Nutzung fördern, Wälder nachhaltig bewirtschaften, Wüstenbildung bekämpfen, Bodendegradation beenden und umkehren und dem Verlust der biologischen Vielfalt ein Ende setzen"
-global_goals:16-short,Peace and justice - strong institutions,"Frieden, Gerechtigkeit und starke Institutionen"
-global_goals:16-title,"Promote peaceful and inclusive societies for sustainable development, provide access to justice for all and build effective, accountable and inclusive institutions at all levels","Friedliche und inklusive Gesellschaften für eine nachhaltige Entwicklung fördern, allen Menschen Zugang zur Justiz ermöglichen und leistungsfähige, rechenschaftspflichtige und inklusive Institutionen auf allen Ebenen aufbauen"
-global_goals:17-short,Partnerships for the goals,Partnerschaften zur Erreichung der Ziele
-global_goals:17-title,Strengthen the means of implementation and revitalize the Global Partnership for Sustainable Development,Umsetzungsmittel stärken und die Globale Partnerschaft für nachhaltige Entwicklung mit neuem Leben erfüllen
-global_goals:2-short,Zero hunger,Kein Hunger
-global_goals:2-title,"End hunger, achieve food security and improved nutrition and promote sustainable agriculture","Den Hunger beenden, Ernährungssicherheit und eine bessere Ernährung erreichen und eine nachhaltige Landwirtschaft fördern"
-global_goals:3-short,Good health and well-being,Gesundheit und Wohlergehen
-global_goals:3-title,Ensure healthy lives and promote well-being for all at all ages,Ein gesundes Leben für alle Menschen jeden Alters gewährleisten und ihr Wohlergehen fördern
-global_goals:4-short,Quality education,Hochwertige Bildung
-global_goals:4-title,Ensure inclusive and equitable quality education and promote lifelong learning opportunities for all,"Inklusive, gleichberechtigte und hochwertige Bildung gewährleisten und Möglichkeiten lebenslangen Lernens für alle fördern"
-global_goals:5-short,Gender equality,Geschlechtergleichstellung
-global_goals:5-title,Achieve gender equality and empower all women and girls,Geschlechtergleichstellung erreichen und alle Frauen und Mädchen zur Selbstbestimmung befähigen
-global_goals:6-short,Clean water and sanitation,Sauberes Wasser und Sanitärversorgung
-global_goals:6-title,Ensure availability and sustainable management of water and sanitation for all,Verfügbarkeit und nachhaltige Bewirtschaftung von Wasser und Sanitärversorgung für alle gewährleisten
-global_goals:7-short,Affordable and clean energy,Bezahlbare und saubere Energie
-global_goals:7-title,"Ensure access to affordable, reliable, sustainable and modern energy for all","Zugang zu bezahlbarer, verlässlicher, nachhaltiger und moderner Energie für alle sichern"
-global_goals:8-short,Decent jobs and economic growth,Menschenwürdige Arbeit und Wirtschaftswachstum
-global_goals:8-title,"Promote sustained, inclusive and sustainable economic growth, full and productive employment and decent work for all","Dauerhaftes, breitenwirksames und nachhaltiges Wirtschaftswachstum, produktive Vollbeschäftigung und menschenwürdige Arbeit für alle fördern"
-global_goals:9-short,"Industry, innovation and infrastructure","Industrie, Innovationen und Infrastruktur"
-global_goals:9-title,"Build resilient infrastructure, promote inclusive and sustainable industrialization and foster innovation","Eine widerstandsfähige Infrastruktur aufbauen, breitenwirksame und nachhaltige Industrialisierung fördern und Innovationen unterstützen"
