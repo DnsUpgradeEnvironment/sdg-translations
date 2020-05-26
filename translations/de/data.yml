@@ -5,6 +5,7 @@ sex: Geschlecht
 female: Weiblich
 male: Männlich
 unknown: Unbekannt
+divers: Divers
 male and female: Beide Geschlechter
 "1) male and female": männlich und weiblich
 other: Divers
@@ -720,6 +721,9 @@ organisations with emas registration: Organisationen mit Umweltmanagement und Re
 organisations with emas registration (number): Organisationen mit Umweltmanagement und Registrierung bei der Umweltprüfung (EMAS)
 #12.7.1
 sustainability programme: Nachhaltigkeitsstrategie
+#13.2.1
+intendet nationally determined contribution of the eu and its member states: Beabsichtigte nationale Beiträge der EU und ihrer Mitgliedsstaaten
+climate action plans: Klimaschutzplan 2050
 #14.3.1
 average ph-concentration in the german bight: Durchschnittliche pH-Konzentration in der Deutschen Bucht
 average ph-concentration in the german bight (ph-value): Durchschnittliche pH-Konzentration in der Deutschen Bucht
