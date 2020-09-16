@@ -46,8 +46,8 @@ method: Berechnungsmethode
 
 #ages
 0 - unknown age: Unbekanntes Alter
-3-10 year olds: 3 bis 10 Jährige
-11-17 year olds: 11 bis 17 Jährige
+3-10 year olds: 3- bis 10-Jährige
+11-17 year olds: 11- bis 17-Jährige
 10 to under 16 years: 10 bis unter 16 Jahre
 13 years and under: 13 Jahre und jünger #Unter 14 Jahren
 under 14 years: Unter 14 Jahren
@@ -990,8 +990,8 @@ sh: Schleswig-Holstein
 th: Thüringen
 
 #1.1.a,b
-"a) materially deprived persons": a) Materiell deprivierte Personen
-"b) severely materially deprived persons": b) Erheblich materiell deprivierte Personen
+"a) materially deprived persons": a) Materiell Deprivierte
+"b) severely materially deprived persons": b) Erheblich materiell Deprivierte
 #2.1.a
 nitrogen surplus in land used for agriculture: Stickstoffüberschuss auf landwirtschaftlich genutzten Fläche
 calculated annual values: Berechnete jährliche Werte
