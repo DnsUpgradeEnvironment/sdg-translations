@@ -123,7 +123,7 @@ tonnes: t
 "ha/d": Hektar pro Tag (ha/d)
 "m2/(inhabitant*a)": Quadratmeter pro Jahr
 "min.": Minuten
-bn eur: Milliarden Euro (Mrd. €)
+bn eur: Milliarden Euro (Mrd. EUR)
 "mg/l": Milligramm pro Liter (mg/l)
 
 
@@ -1144,8 +1144,8 @@ emas organisational locations: EMAS-Organisationsstandorte
 emas organisations: EMAS-Organisationen
 #12.3
 responsible public procurement: Nachhaltige öffentliche Beschaffung
-recycled paper bearing the blue angel label as a proportion of the total paper consumption of the federal administration: Anteil Recyclingpapier mit Blauem Engel am Gesamtpapierverbrauch der unmittelbaren Bundesverwaltung
-co2 emissions per mileage of motor vehicles of the public sector: CO<sub>2</sub>-Emissionen je Fahrleistung der Kfz der öffentlichen Hand
+a) recycled paper bearing the blue angel label as a proportion of the total paper consumption of the federal administration: a) Anteil Recyclingpapier mit Blauem Engel am Gesamtpapierverbrauch der unmittelbaren Bundesverwaltung
+b) co2 emissions per mileage of motor vehicles of the public sector: b) CO<sub>2</sub>-Emissionen je Fahrleistung der Kfz der öffentlichen Hand
 #13.1.a
 greenhouse gas emissions in co2 equivalents: Treibhausgasemissionen in CO<sub>2</sub>-Äquivalenten
 #13.1.b
