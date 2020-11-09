@@ -1,17 +1,102 @@
 ﻿key,en,de
-status:blitz,The indicator is not moving in the right direction so that the gap to the target value is widening,Der Indikator entwickelt sich nicht in die gewünschte Richtung und somit vergrößert sich der Abstand zum Ziel
-status:exploring_data_sources,Exploring data sources,Datenquellenanalyse
-status:leicht bewölkt,"If the trend continues, the indicator will be presumably miss its target by at least 5&nbsp;% and at most 20&nbsp% of the difference between the target value and the current value","Bei Fortsetzung der Entwicklung würde das Ziel voraussichtlich um mindestens 5&nbsp;%, aber maximal um 20&nbsp;% der Differenz zwischen Zielwert und aktuellem Wert verfehlt"
-status:nebel,No evaluation possible,Keine Bewertung möglich
-status:not_applicable,Not applicable,Nicht zutreffend
-status:overall_reporting_status,Overall Reporting Status,Übersicht zum Berichtsstatus der
-status:reported_online,Reported online,Daten verfügbar
-status:reporting_status,Reporting Status,Berichtsstatus
-status:sonne,"If the trend continues, the target value will be met or the difference between the target value and the current value will be less than 5&nbsp;%",Bei Fortsetzung der Entwicklung beträgt die Abweichung vom Zielwert weniger als 5&nbsp;% der Differenz zwischen Zielwert und aktuellem Wert
-status:statistics_in_progress,Statistics in progress,in Bearbeitung
-status:status_by_goal,Status by goal,Status nach Ziel
-status:wolke,"The indicator is moving in the right direction but if the trend continues, the target value will be missed by more than 20&nbsp;% in the target year","Der Indikator entwickelt sich zwar in die gewünschte Richtung auf das Ziel zu, bei Fortsetzung der Entwicklung würde das Ziel im Zieljahr aber um mehr als 20&nbsp;% verfehlt"
-status:x,No evaluation possible,Keine Bewertung möglich
+metadata_fields:comments_limitations,Comments and limitations,CKommentare und Einschränkungen
+metadata_fields:comparison_sdg,Comparability with global metadata,Vergleichbarkeit mit globalen Metadaten
+metadata_fields:computation_calculations,Calculations,Methodik
+metadata_fields:computation_definitions,Definitions,Definitionen
+metadata_fields:computation_units,Unit of measurement,Einheit
+metadata_fields:dns_content_url,Content and progress,Inhalt und Entwicklung
+metadata_fields:dns_content_url_text,Content and progress,Inhalt und Entwicklung
+metadata_fields:dns_indicator_content,Content and progress,Inhalt und Entwicklung
+metadata_fields:dns_indicator_definition,Definition<small> (Text from the Indicator Report 2018)</small>,Definition <small> (Text aus dem Indikatoren&shy;bericht 2018)</small>
+metadata_fields:dns_indicator_intention,Target and intention <small>(Text from the Indicator Report 2018)</small>,Ziel und Intention <small> (Text aus dem Indikatoren&shy;bericht 2018)</small>
+metadata_fields:goal_meta_link,Link to the global metadata of this indicator,Link zu den globalen Metadaten dieses Indikators
+metadata_fields:goal_meta_national_link,Link to national metadata,Link zu den nationalen Metadaten
+metadata_fields:history_indicator_1,Indicator,Indikator
+metadata_fields:history_indicator_2,Indicator,Indikator
+metadata_fields:history_status_year_d_1,Evaluation,Bewertung
+metadata_fields:history_status_year_d_2,Evaluation,Bewertung
+metadata_fields:history_target_1,Target,Ziel
+metadata_fields:history_target_2,Target,Ziel
+metadata_fields:history_year_d_1,Year,Jahr
+metadata_fields:history_year_d_2,Year,Jahr
+metadata_fields:indicator,Indicator number,Indikatorennummerierung
+metadata_fields:indicator_definition,Global indicator description,Globale Indikatorenbeschreibung
+metadata_fields:indicator_name,Indicator name,Indikatorenbezeichnung
+metadata_fields:indicator_sort_order,Indicator display order (within Goal page),Indikatorenreihenfolge (in der Zielübersicht)
+metadata_fields:info_url_1,Additional Information,Zusätzliche Informationen
+metadata_fields:international_comparability,Comparability with international data/standards,Vergleichbarkeit mit internationalen Daten/Standards
+metadata_fields:national_data_update_url,Last modification of code <small>(data)</small>,Letzte Änderung des Codes <small>(Daten)</small>
+metadata_fields:national_geographical_coverage,Geographical coverage,Geographische Abdeckung
+metadata_fields:national_indicator_available,Time series available,Verfügbare Zeitreihenbezeichnung
+metadata_fields:national_indicator_description,Indicator description,Indikatorenbeschreibung
+metadata_fields:national_metadata_update_url,Last modification of code <small>(text)</small>,Letzte Änderung des Codes <small>(Texte)</small>
+metadata_fields:other_info,Other information,Weitere Informationen
+metadata_fields:quality_assurance,Quality assurance,Qualitätssicherung
+metadata_fields:rational_interpretation,Rational and interpretation,Rationalität und Interpretation
+metadata_fields:source_contact_1,Contact details,Kontaktinformationen
+metadata_fields:source_contact_2,Contact details,Kontaktinformationen
+metadata_fields:source_contact_3,Contact details,Kontaktinformationen
+metadata_fields:source_contact_4,Contact details,Kontaktinformationen
+metadata_fields:source_contact_5,Contact details,Kontaktinformationen
+metadata_fields:source_contact_6,Contact details,Kontaktinformationen
+metadata_fields:source_earliest_available_1,Earliest available data,Daten verfügbar seit
+metadata_fields:source_earliest_available_2,Earliest available data,Daten verfügbar seit
+metadata_fields:source_earliest_available_3,Earliest available data,Daten verfügbar seit
+metadata_fields:source_earliest_available_4,Earliest available data,Daten verfügbar seit
+metadata_fields:source_earliest_available_5,Earliest available data,Daten verfügbar seit
+metadata_fields:source_earliest_available_6,Earliest available data,Daten verfügbar seit
+metadata_fields:source_geographical_coverage_1,Geographical coverage,Geographische Abdeckung
+metadata_fields:source_geographical_coverage_2,Geographical coverage,Geographische Abdeckung
+metadata_fields:source_geographical_coverage_3,Geographical coverage,Geographische Abdeckung
+metadata_fields:source_geographical_coverage_4,Geographical coverage,Geographische Abdeckung
+metadata_fields:source_geographical_coverage_5,Geographical coverage,Geographische Abdeckung
+metadata_fields:source_geographical_coverage_6,Geographical coverage,Geographische Abdeckung
+metadata_fields:source_next_release_1,Next release,Nächste Veröffentlichung am
+metadata_fields:source_next_release_2,Next release,Nächste Veröffentlichung am
+metadata_fields:source_next_release_3,Next release,Nächste Veröffentlichung am
+metadata_fields:source_next_release_4,Next release,Nächste Veröffentlichung am
+metadata_fields:source_next_release_5,Next release,Nächste Veröffentlichung am
+metadata_fields:source_next_release_6,Next release,Nächste Veröffentlichung am
+metadata_fields:source_organisation_1,Organisation,Organisation
+metadata_fields:source_organisation_2,Organisation,Organisation
+metadata_fields:source_organisation_3,Organisation,Organisation
+metadata_fields:source_organisation_4,Organisation,Organisation
+metadata_fields:source_organisation_5,Organisation,Organisation
+metadata_fields:source_organisation_6,Organisation,Organisation
+metadata_fields:source_other_info_1,Other information,Weitere Informationen
+metadata_fields:source_other_info_2,Other information,Weitere Informationen
+metadata_fields:source_other_info_3,Other information,Weitere Informationen
+metadata_fields:source_other_info_4,Other information,Weitere Informationen
+metadata_fields:source_other_info_5,Other information,Weitere Informationen
+metadata_fields:source_other_info_6,Other information,Weitere Informationen
+metadata_fields:source_periodicity_1,Periodicity,Periodizität
+metadata_fields:source_periodicity_2,Periodicity,Periodizität
+metadata_fields:source_periodicity_3,Periodicity,Periodizität
+metadata_fields:source_periodicity_4,Periodicity,Periodizität
+metadata_fields:source_periodicity_5,Periodicity,Periodizität
+metadata_fields:source_periodicity_6,Periodicity,Periodizität
+metadata_fields:source_release_date_1,Release date,Veröffentlichungsdatum
+metadata_fields:source_release_date_2,Release date,Veröffentlichungsdatum
+metadata_fields:source_release_date_3,Release date,Veröffentlichungsdatum
+metadata_fields:source_release_date_4,Release date,Veröffentlichungsdatum
+metadata_fields:source_release_date_5,Release date,Veröffentlichungsdatum
+metadata_fields:source_release_date_6,Release date,Veröffentlichungsdatum
+metadata_fields:source_statistical_classification_1,Statistical classification,Datentyp
+metadata_fields:source_statistical_classification_2,Statistical classification,Datentyp
+metadata_fields:source_statistical_classification_3,Statistical classification,Datentyp
+metadata_fields:source_statistical_classification_4,Statistical classification,Datentyp
+metadata_fields:source_statistical_classification_5,Statistical classification,Datentyp
+metadata_fields:source_statistical_classification_6,Statistical classification,Datentyp
+metadata_fields:source_url_1,Link to <br>data source,Link zur <br>Datenquelle
+metadata_fields:source_url_2,Link to <br>data source,Link zur <br>Datenquelle
+metadata_fields:source_url_3,Link to <br>data source,Link zur <br>Datenquelle
+metadata_fields:source_url_4,Link to <br>data source,Link zur <br>Datenquelle
+metadata_fields:source_url_5,Link to <br>data source,Link zur <br>Datenquelle
+metadata_fields:source_url_6,Link to <br>data source,Link zur <br>Datenquelle
+metadata_fields:target,Target name,Unterziel
+metadata_fields:target_id,Target number,Unterzielnummerierung
+metadata_fields:un_custodian_agency,Custodian agency,Custodian Agency
+metadata_fields:un_designated_tier,"<a href=""https://unstats.un.org/sdgs/iaeg-sdgs/tier-classification/"" title=""Click here for further information on the UN_Tier classification."">Designated tier</a>","<a href=""https://unstats.un.org/sdgs/iaeg-sdgs/tier-classification/"" title=""Klicken Sie hier um weitere Informationen zur UN-Tier-Klassifikation zu erhalten.""> Tier Klassifikation</a>"
 data:%,Percentage (%),Prozent (%)
 data:'agriculture orientation index' for government expenditures,'Agriculture orientation index' for government expenditures,'Agriculture Orientation Index' für Staatsausgaben
 data:'agriculture orientation index' for government expenditures (index),'Agriculture orientation index' for government expenditures,'Agriculture Orientation Index' für Staatsausgaben
@@ -141,7 +226,7 @@ data:annual growth rate of real gdp per capita,Annual growth rate of real GDP pe
 data:annual growth rate of real gdp per capita (%),Annual growth rate of real GDP per capita,Jährliche Wachstumsrate des realen BIP pro Kopf
 data:annual growth rate of real gdp per employed person,Annual growth rate of real GDP per employed person,Jährliche Wachstumsrate des realen BIP pro Beschäftigten
 data:annual growth rate of real gdp per employed person (%),Annual growth rate of real GDP per employed person,Jährliche Wachstumsrate des realen BIP pro Beschäftigten
-data:area,Area,Gebiet
+data:area,Area,Region
 data:area of law,Area of Law,Rechtsgebiet
 data:at-risk-of-poverty or social exclusion (according to eurostat definition),At-risk-of-poverty or social exclusion,Armutsgefährdung oder soziale Ausgrenzung
 data:at-risk-of-poverty or social exclusion (according to eurostat definition) (%),At-risk-of-poverty or social exclusion,Armutsgefährdung oder soziale Ausgrenzung
@@ -773,7 +858,7 @@ data:recycling rate,Recycling rate in %,Recyclingquote in %
 data:recycling rate in %,Recycling rate in %,Recyclingquote (%)
 data:red list index,Red List Index,Rote Liste Index
 data:red list index (%),Red List Index,Rote Liste Index
-data:region,Federal state,Bundesland
+data:region,Federal state,Region
 data:regulatory tier 1 capital to risk-weighted assets,Regulatory Tier 1 capital to risk-weighted assets,Relation zwischen regulatorischem Kernkapital (Tier 1) und anrechnungspflichtigen Positionen
 data:regulatory tier 1 capital to risk-weighted assets (%),Regulatory Tier 1 capital to risk-weighted assets,Relation zwischen regulatorischem Kernkapital (Tier 1) und anrechnungspflichtigen Positionen
 data:related to the medium-sized and large cities 2012,Related to the medium-sized and large cities in 2012,
@@ -961,127 +1046,44 @@ data:written code in a programming language,Writing code in a programming langua
 data:young people (15 to under 25 years) neither in employment nor in education and training  (neet rates),Young people (15 to under 25 years) neither in employment nor in education and training  (NEET rates),"Jugendliche (15 bis unter 25 Jahre), die weder eine Arbeit haben, noch in einer schulischen oder beruflichen Ausbildung sind (NEET-Raten)"
 data:young people (15 to under 25 years) neither in employment nor in education and training (neet rates) (%),Young people (15 to under 25 years) neither in employment nor in education and training  (NEET rates),"Jugendliche (15 bis unter 25 Jahre), die weder eine Arbeit haben, noch in einer schulischen oder beruflichen Ausbildung sind (NEET-Raten)"
 data:young victims being exploited or intended to being exploited,Young victims being exploited or intended to being exploited,"Junge Opfer, die ausgebeutet werden oder ausgebeutet werden sollen"
-frontpage:dialogue_link_1,To the indicators of the,Zu den Indikatoren der
-frontpage:dialogue_link_2,dialogue version,Dialogfassung
-frontpage:download_all,Download all data,Alle Daten herunterladen
-frontpage:heading,National Data for UN-SDGs,Indikatoren der UN-Nachhaltigkeitsziele
-frontpage:heading_dns,Sustainable Development in Germany,Indikatoren der Deutschen Nachhaltigkeitsstrategie
-frontpage:indstructions_dns,"Click on eack goal, or %before_link search %after_link for the indicators of the German Sustainability Strategy",
-frontpage:instructions,"Click on each goal, or %before_link search, %after_link for German statistics for Sustainable Development Goal global indicators.",Klicken Sie auf die einzelnen Ziele um zu den Daten zu den Indikatoren der Ziele für nachhaltige Entwicklung für Deutschland zu gelangen. Oder %before_link suchen %after_link Sie gezielt nach spezifischen Themen.
-frontpage:intro_title,17 goals to transform our world,17 Ziele zur Umgestaltung unserer Welt
-frontpage:link_18_title,Click here to get to the DESTATIS page about the German Sustainability Strategy,"Klicken Sie hier, um zur DESTATIS Seite der Deutschen Nachhaltigkeitsstrategie zu gelangen"
-frontpage:zip_file,ZIP file,ZIP file
-header:alpha,Alpha,Alpha-Version
-header:disclaimer,"This is a development website. We welcome your <a href=""mailto:%email_address"">feedback</a>.","Diese Seite befindet sich im Entwicklungsstadium. Wir freuen uns über Ihre <a href=""mailto:%email_address"">Kommentare</a>."
-header:skip_link,Skip to main content, Zum Hauptinhalt springen
-header:tag_line,17 Goals to Transform our World,
-search:did_you_mean,did you mean,Meinten Sie
-search:found_in,found in,gefunden unter
-search:goals,goals,Zielen
-search:indicator_search,Indicator search,Indikatorensuche
-search:indicators,indicators,Indikatoren
-search:keywords,Keywords,Schlagworte
-search:no_results,No results,Keine Ergebnisse
-search:search,Search,Suche
-search:search_results_for,Search results for,Ergebnisse zu
-metadata_fields:comments_limitations,Comments and limitations,CKommentare und Einschränkungen
-metadata_fields:comparison_sdg,Comparability with global metadata,Vergleichbarkeit mit globalen Metadaten
-metadata_fields:computation_calculations,Calculations,Methodik
-metadata_fields:computation_definitions,Definitions,Definitionen
-metadata_fields:computation_units,Unit of measurement,Einheit
-metadata_fields:dns_content_url,Content and progress,Inhalt und Entwicklung
-metadata_fields:dns_content_url_text,Content and progress,Inhalt und Entwicklung
-metadata_fields:dns_indicator_content,Content and progress,Inhalt und Entwicklung
-metadata_fields:dns_indicator_definition,Definition<small> (Text from the Indicator Report 2018)</small>,Definition <small> (Text aus dem Indikatoren&shy;bericht 2018)</small>
-metadata_fields:dns_indicator_intention,Target and intention <small>(Text from the Indicator Report 2018)</small>,Ziel und Intention <small> (Text aus dem Indikatoren&shy;bericht 2018)</small>
-metadata_fields:goal_meta_link,Link to the global metadata of this indicator,Link zu den globalen Metadaten dieses Indikators
-metadata_fields:goal_meta_national_link,Link to national metadata,Link zu den nationalen Metadaten
-metadata_fields:history_indicator_1,Indicator,Indikator
-metadata_fields:history_indicator_2,Indicator,Indikator
-metadata_fields:history_status_year_d_1,Evaluation,Bewertung
-metadata_fields:history_status_year_d_2,Evaluation,Bewertung
-metadata_fields:history_target_1,Target,Ziel
-metadata_fields:history_target_2,Target,Ziel
-metadata_fields:history_year_d_1,Year,Jahr
-metadata_fields:history_year_d_2,Year,Jahr
-metadata_fields:indicator,Indicator number,Indikatorennummerierung
-metadata_fields:indicator_definition,Global indicator description,Globale Indikatorenbeschreibung
-metadata_fields:indicator_name,Indicator name,Indikatorenbezeichnung
-metadata_fields:indicator_sort_order,Indicator display order (within Goal page),Indikatorenreihenfolge (in der Zielübersicht)
-metadata_fields:info_url_1,Additional Information,Zusätzliche Informationen
-metadata_fields:international_comparability,Comparability with international data/standards,Vergleichbarkeit mit internationalen Daten/Standards
-metadata_fields:national_data_update_url,Last modification of code <small>(data)</small>,Letzte Änderung des Codes <small>(Daten)</small>
-metadata_fields:national_geographical_coverage,Geographical coverage,Geographische Abdeckung
-metadata_fields:national_indicator_available,Time series available,Verfügbare Zeitreihenbezeichnung
-metadata_fields:national_indicator_description,Indicator description,Indikatorenbeschreibung
-metadata_fields:national_metadata_update_url,Last modification of code <small>(text)</small>,Letzte Änderung des Codes <small>(Texte)</small>
-metadata_fields:other_info,Other information,Weitere Informationen
-metadata_fields:quality_assurance,Quality assurance,Qualitätssicherung
-metadata_fields:rational_interpretation,Rational and interpretation,Rationalität und Interpretation
-metadata_fields:source_contact_1,Contact details,Kontaktinformationen
-metadata_fields:source_contact_2,Contact details,Kontaktinformationen
-metadata_fields:source_contact_3,Contact details,Kontaktinformationen
-metadata_fields:source_contact_4,Contact details,Kontaktinformationen
-metadata_fields:source_contact_5,Contact details,Kontaktinformationen
-metadata_fields:source_contact_6,Contact details,Kontaktinformationen
-metadata_fields:source_earliest_available_1,Earliest available data,Daten verfügbar seit
-metadata_fields:source_earliest_available_2,Earliest available data,Daten verfügbar seit
-metadata_fields:source_earliest_available_3,Earliest available data,Daten verfügbar seit
-metadata_fields:source_earliest_available_4,Earliest available data,Daten verfügbar seit
-metadata_fields:source_earliest_available_5,Earliest available data,Daten verfügbar seit
-metadata_fields:source_earliest_available_6,Earliest available data,Daten verfügbar seit
-metadata_fields:source_geographical_coverage_1,Geographical coverage,Geographische Abdeckung
-metadata_fields:source_geographical_coverage_2,Geographical coverage,Geographische Abdeckung
-metadata_fields:source_geographical_coverage_3,Geographical coverage,Geographische Abdeckung
-metadata_fields:source_geographical_coverage_4,Geographical coverage,Geographische Abdeckung
-metadata_fields:source_geographical_coverage_5,Geographical coverage,Geographische Abdeckung
-metadata_fields:source_geographical_coverage_6,Geographical coverage,Geographische Abdeckung
-metadata_fields:source_next_release_1,Next release,Nächste Veröffentlichung am
-metadata_fields:source_next_release_2,Next release,Nächste Veröffentlichung am
-metadata_fields:source_next_release_3,Next release,Nächste Veröffentlichung am
-metadata_fields:source_next_release_4,Next release,Nächste Veröffentlichung am
-metadata_fields:source_next_release_5,Next release,Nächste Veröffentlichung am
-metadata_fields:source_next_release_6,Next release,Nächste Veröffentlichung am
-metadata_fields:source_organisation_1,Organisation,Organisation
-metadata_fields:source_organisation_2,Organisation,Organisation
-metadata_fields:source_organisation_3,Organisation,Organisation
-metadata_fields:source_organisation_4,Organisation,Organisation
-metadata_fields:source_organisation_5,Organisation,Organisation
-metadata_fields:source_organisation_6,Organisation,Organisation
-metadata_fields:source_other_info_1,Other information,Weitere Informationen
-metadata_fields:source_other_info_2,Other information,Weitere Informationen
-metadata_fields:source_other_info_3,Other information,Weitere Informationen
-metadata_fields:source_other_info_4,Other information,Weitere Informationen
-metadata_fields:source_other_info_5,Other information,Weitere Informationen
-metadata_fields:source_other_info_6,Other information,Weitere Informationen
-metadata_fields:source_periodicity_1,Periodicity,Periodizität
-metadata_fields:source_periodicity_2,Periodicity,Periodizität
-metadata_fields:source_periodicity_3,Periodicity,Periodizität
-metadata_fields:source_periodicity_4,Periodicity,Periodizität
-metadata_fields:source_periodicity_5,Periodicity,Periodizität
-metadata_fields:source_periodicity_6,Periodicity,Periodizität
-metadata_fields:source_release_date_1,Release date,Veröffentlichungsdatum
-metadata_fields:source_release_date_2,Release date,Veröffentlichungsdatum
-metadata_fields:source_release_date_3,Release date,Veröffentlichungsdatum
-metadata_fields:source_release_date_4,Release date,Veröffentlichungsdatum
-metadata_fields:source_release_date_5,Release date,Veröffentlichungsdatum
-metadata_fields:source_release_date_6,Release date,Veröffentlichungsdatum
-metadata_fields:source_statistical_classification_1,Statistical classification,Datentyp
-metadata_fields:source_statistical_classification_2,Statistical classification,Datentyp
-metadata_fields:source_statistical_classification_3,Statistical classification,Datentyp
-metadata_fields:source_statistical_classification_4,Statistical classification,Datentyp
-metadata_fields:source_statistical_classification_5,Statistical classification,Datentyp
-metadata_fields:source_statistical_classification_6,Statistical classification,Datentyp
-metadata_fields:source_url_1,Link to <br>data source,Link zur <br>Datenquelle
-metadata_fields:source_url_2,Link to <br>data source,Link zur <br>Datenquelle
-metadata_fields:source_url_3,Link to <br>data source,Link zur <br>Datenquelle
-metadata_fields:source_url_4,Link to <br>data source,Link zur <br>Datenquelle
-metadata_fields:source_url_5,Link to <br>data source,Link zur <br>Datenquelle
-metadata_fields:source_url_6,Link to <br>data source,Link zur <br>Datenquelle
-metadata_fields:target,Target name,Unterziel
-metadata_fields:target_id,Target number,Unterzielnummerierung
-metadata_fields:un_custodian_agency,Custodian agency,Custodian Agency
-metadata_fields:un_designated_tier,"<a href=""https://unstats.un.org/sdgs/iaeg-sdgs/tier-classification/"" title=""Click here for further information on the UN_Tier classification."">Designated tier</a>","<a href=""https://unstats.un.org/sdgs/iaeg-sdgs/tier-classification/"" title=""Klicken Sie hier um weitere Informationen zur UN-Tier-Klassifikation zu erhalten.""> Tier Klassifikation</a>"
+dns_targets:1.1-title,Limiting poverty,Armut begrenzen
+dns_targets:10.1-title,Improving educational success of foreigners in German schools,Schulische Bildungserfolge von Ausländern in Deutschland verbessern
+dns_targets:10.2-title,Preventing too-great inequality within Germany,Zu große Ungleichheit innehalb Deutschlands verhindern
+dns_targets:11.1-title,Using land sustainable,Flächen nachhaltig nutzen
+dns_targets:11.2-title,Guranteeing mobility - Protecting the environment,Mobilität sichern - Umwelt schonen
+dns_targets:11.3-title,Affordable housing for all,Bezahlbarer Wohnraum für alle
+dns_targets:12.1-title,Making consumption environmentally and socially compatible,Konsum umwelt- und sozialverträglich gestalten
+dns_targets:12.2-title,Increasing the proportion of sustainable production,Anteil nachhaltiger Produktion stetig erhöhen
+dns_targets:12.3-title,Realising the exemplary role of the public sector in sustainable procurement,Vorbildwirkung der öffentlichen Hand für nachhaltige öffentliche Beschaffung verwirklichen
+dns_targets:13.1-title,Reducing greenhouse gases and contributing to international climate financing,Treibhausgase reduzieren und einen Beitrag zur internationalen Klimafinanzierung leisten
+dns_targets:14.1-title,Protecting and sustainably using oceans and marine resources,Meere und Meeresressourcen schützen und nachhaltig nutzen
+dns_targets:15.1-title,Conserving species - Protecting habitats,Arten erhalten - Lebensräume schützen
+dns_targets:15.2-title,"Protecting ecosystems, conserving ecosystem services and preserving habitats","Ökosysteme schützen, Ökosystemleistungen erhalten und Lebensräume bewahren"
+dns_targets:15.3-title,Preventing deforestation,Entwaldungen vermeiden
+dns_targets:16.1-title,Further increasing personal security,Persönliche Sicherheit weiter erhöhen
+dns_targets:16.2-title,"Taking practical action to combat proliferation, especially of small arms","Praktische Maßnahmen zur Bekämpfung der Proliferation, insbesondere von Kleinwaffen, ergreifen"
+dns_targets:16.3-title,Combating corruption,Korruption bekämpfen
+dns_targets:17.1-title,Supporting sustainable development,Nachhaltige Entwicklung unterstützen
+dns_targets:17.2-title,Sharing knowledge internationally,Wissen international vermitteln
+dns_targets:17.3-title,Improving trade opportunities for developing countries,Handelschancen der Entwicklungsländer verbessern
+dns_targets:2.1-title,Environmentally sound production in our cultivated landscapes,In unseren Kulturlandschaften umweltverträglich produzieren
+dns_targets:2.2-title,Realising globally the right to food,Das Recht auf Nahrung weltweit verwirklichen
+dns_targets:3.1-title,Living healthy longer,Länger gesund leben
+dns_targets:3.2-title,Keeping the environment healthy,Gesunde Umwelt erhalten
+dns_targets:4.1-title,Continuously improving education and vocational training,Bildung und Qualifikation kontinuierlich verbessern
+dns_targets:4.2-title,Improving the compatibility of work and family life,Vereinbarkeit von Familie und Beruf verbessern
+dns_targets:5.1-title,Promoting equal opportunities in society and strengthening the economic participation of women globally,Gleichstellung in der Gesellschaft fördern und wirtschaftliche Teilhabe von Frauen global stärken
+dns_targets:6.1-title,Reducing the pollution of water with substances,Minderung der stofflichen Belastung von Gewässern
+dns_targets:6.2-title,"Better access to drinking water and sanitation worldwide, higher (safer) quality","Besserer Zugang zu Trinkwasser- und Sanitärversorgung weltweit, höhere (sichere) Qualität"
+dns_targets:7.1-title,Using resources economically and efficiently,Ressourcen sparsam und effizient nutzen
+dns_targets:7.2-title,Strengthening a sustainable energy supply,Zukunftsfähige Energieversorgung ausbauen
+dns_targets:8.1-title,Using resources economically and efficiently,Ressourcen sparsam und effizient nutzen
+dns_targets:8.2-title,Consolidating public finances - Creating intergenerational equity,Staatsfinanzen konsolidieren - Generationengerechtigkeit schaffen
+dns_targets:8.3-title,Creating favourable investment conditions - Securing long-term prosperity,Gute Investitionsbedingungen schaffen - Wohlstand dauerhaft erhalten
+dns_targets:8.4-title,Combining larger economic output with environmental and social responsibility,Wirtschaftsleistung umwelt- und sozialverträglich steigern
+dns_targets:8.5-title,Boosting employment levels,Beschäftigungsniveau steigern
+dns_targets:8.6-title,Enabling decent work worldwide,Menschenwürdige Arbeit weltweit ermöglichen
+dns_targets:9.1-title,Shaping the future with new solutions,Zukunft mit neuen Lösungen gestalten
 global_targets:1.1-title,"By 2030, eradicate extreme poverty for all people everywhere, currently measured as people living on less than $1.25 a day","Bis 2030 die extreme Armut - gegenwärtig definiert als der Anteil der Menschen, die mit weniger als 1,25 Dollar pro Tag auskommen müssen - für alle Menschen überall auf der Welt beseitigen"
 global_targets:1.2-title,"By 2030, reduce at least by half the proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions","Bis 2030 den Anteil der Männer, Frauen und Kinder jeden Alters, die in Armut in all ihren Dimensionen nach der jeweiligen nationalen Definition leben, mindestens um die Hälfte senken"
 global_targets:1.3-title,"Implement nationally appropriate social protection systems and measures for all, including floors, and by 2030 achieve substantial coverage of the poor and the vulnerable","Den nationalen Gegebenheiten entsprechende Sozialschutzsysteme und -maßnahmen für alle umsetzen, einschließlich eines Basisschutzes, und bis 2030 eine breite Versorgung der Armen und Schwachen erreichen"
@@ -1251,8 +1253,6 @@ global_targets:9.5-title,"Enhance scientific research, upgrade the technological
 global_targets:9.a-title,"Facilitate sustainable and resilient infrastructure development in developing countries through enhanced financial, technological and technical support to African countries, least developed countries, landlocked developing countries and small island developing States","Die Entwicklung einer nachhaltigen und widerstandsfähigen Infrastruktur in den Entwicklungsländern durch eine verstärkte finanzielle, technologische und technische Unterstützung der afrikanischen Länder, der am wenigsten entwickelten Länder, der Binnenentwicklungsländer und der kleinen Inselentwicklungsländer erleichtern"
 global_targets:9.b-title,"Support domestic technology development, research and innovation in developing countries, including by ensuring a conducive policy environment for, inter alia, industrial diversification and value addition to commodities","Die einheimische Technologieentwicklung, Forschung und Innovation in den Entwicklungsländern unterstützen, einschließlich durch Sicherstellung eines förderlichen politischen Umfelds, unter anderem für industrielle Diversifizierung und Wertschöpfung im Rohstoffbereich"
 global_targets:9.c-title,Significantly increase access to information and communications technology and strive to provide universal and affordable access to the Internet in least developed countries by 2020,"Den Zugang zur Informations- und Kommunikationstechnologie erheblich erweitern sowie anstreben, in den am wenigsten entwickelten Ländern bis 2020 einen allgemeinen und erschwinglichen Zugang zum Internet bereitzustellen"
-post:posts_by_category,Posts by Category,Beiträge geordnet nach Kategorien
-post:view_all_in_category,View all posts in the %category_name category, Zeige alle Beiträge in der %category_name Kategorie an
 calendar:April,April,April
 calendar:August,August,August
 calendar:December,December,Dezember
@@ -1265,93 +1265,10 @@ calendar:May,May,May
 calendar:November,November,November
 calendar:October,October,Oktober
 calendar:September,September,September
-general:built_using_open_sdg,Built using Open SDG,Seite basiert auf Open SDG
-general:dialog_front,Visit the indicators of the <u>dialogue version</u> of the German Sustainable Development Strategy,Zu den Indikatoren der <u>Dialogfassung</u> der Deutschen Nachhaltigkeitsstrategie
-general:dialog_indikator_1,Visit the indicator,Zum Indikator
-general:dialog_indikator_2,of the <u>dialogue version</u> of the German Sustainable Development Strategy,in der <u>Dialogfassung</u> der Deutschen Nachhaltigkeitsstrategie
-general:dialog_target_link_1,Visit the indicators of goal,Zu den Indikatoren von Ziel
-general:dialog_target_link_2,of the <u>dialogue version</u> of the German Sustainable Development Strategy,in der <u>Dialogfassung</u> der Deutschen Nachhaltigkeitsstrategie
-general:dns,Sustainable development in Germany,Nachhaltige Entwicklung in Deutschland
-general:dns_target,Range of indicators and postulates,Indikatorenbereiche und Postulate
-general:found_in_goals,goals,Zielen
-general:global,- Global,- Global
-general:goal,Goal,Ziel
-general:goals,Goals,Ziele
-general:home,Home,Start
-general:indicator,Indicator,Indikator
-general:indicator_cap,Indicator,Indikator
-general:indicator_link_dns,Related national indicator:,Verwandter nationaler Indikator:
-general:indicator_link_sdg,Related global indicator:,Verwandter globaler Indikator:
-general:indicator_low,indicator,Indikator
-general:indicators,Indicators,Indikatoren
-general:indicators_cap,Indicators,Indikatoren
-general:indicators_low,indicators,Indikatoren
-general:link_dns,To the page of the national indicators,Zur Seite der nationalen Indikatoren
-general:link_sdg,To the page of the global indicators,Zur Seite der globalen Indikatoren
-general:link_sdg_goal,Go to the page of the corresponding SDG Goal,Hier gelangen Sie zur Seite des Ziels der SDG-Indikatoren
-general:link_sdg_indicator,Go to the page of the corresponding SDG indicator,Hier gelangen Sie zur Seite des korrespondierenden SDG-Indikators
-general:loading,Loading search results,Ergebnisse werden geladen
-general:meta,Current status of the national indicators for the 17 Sustainable Development Goals (SDGs) in Germany with a publicly available data basis,Übersichtlicher Stand der Indikatoren der 17 Sustainable Development Goals (SDGs) in Deutschland samt öffentlich zur Verfügung stehender Datengrundlage
-general:meta_goal,Current status of the national indicators for Sustainable Development Goal,Übersichtlicher Stand der deutschen Indikatoren zu Sustainable Development Goal
-general:meta_indicator,Data for Germany for SDG indicator,Daten für Deutschland zu SDG-Indikator
-general:national,- National,- National
-general:next_goal,Next goal,Nächstes Ziel
-general:next_indicator,Next indicator,Nächster Indikator
-general:one_goal,one goal,einem Ziel
-general:one_indicator,One indicator,Ein Indikator
-general:opens_new_window,opens in a new window,in neuem Fenster öffnen
-general:page,Page,Seite
-general:pages,Pages,Seiten
-general:postulate,Postulate,Postulat
-general:prev_goal,Previous goal,Vorheriges Ziel
-general:prev_indicator,Previous indicator,Vorheriger Indikator
-general:sdg,Sustainable Development Goals,Ziele für Nachhaltige Entwicklung
-general:section,Section,Bereich
-general:seventeen_goals,17 Goals,17 Ziele
-general:target,Target,Unterziel
-general:target_link_dns,National indicators on,Nationale Indikatoren zu
-general:target_link_sdg,Global indicators on,Globale Indikatoren zu
-general:targets,Targets,Unterziele
-general:title,German Indicators For The Sustainable Development Goals,Deutschlands Indikatoren zu den Sustainable Development Goals
-general:title_dns,Indicators on the German Sustainability Strategy,Indikatoren zur Nachhaltigkeitsstrategie für Deutschland
-dns_targets:1.1-title,Limiting poverty,Armut begrenzen
-dns_targets:10.1-title,Improving educational success of foreigners in German schools,Schulische Bildungserfolge von Ausländern in Deutschland verbessern
-dns_targets:10.2-title,Preventing too-great inequality within Germany,Zu große Ungleichheit innehalb Deutschlands verhindern
-dns_targets:11.1-title,Using land sustainable,Flächen nachhaltig nutzen
-dns_targets:11.2-title,Guranteeing mobility - Protecting the environment,Mobilität sichern - Umwelt schonen
-dns_targets:11.3-title,Affordable housing for all,Bezahlbarer Wohnraum für alle
-dns_targets:12.1-title,Making consumption environmentally and socially compatible,Konsum umwelt- und sozialverträglich gestalten
-dns_targets:12.2-title,Increasing the proportion of sustainable production,Anteil nachhaltiger Produktion stetig erhöhen
-dns_targets:12.3-title,Realising the exemplary role of the public sector in sustainable procurement,Vorbildwirkung der öffentlichen Hand für nachhaltige öffentliche Beschaffung verwirklichen
-dns_targets:13.1-title,Reducing greenhouse gases and contributing to international climate financing,Treibhausgase reduzieren und einen Beitrag zur internationalen Klimafinanzierung leisten
-dns_targets:14.1-title,Protecting and sustainably using oceans and marine resources,Meere und Meeresressourcen schützen und nachhaltig nutzen
-dns_targets:15.1-title,Conserving species - Protecting habitats,Arten erhalten - Lebensräume schützen
-dns_targets:15.2-title,"Protecting ecosystems, conserving ecosystem services and preserving habitats","Ökosysteme schützen, Ökosystemleistungen erhalten und Lebensräume bewahren"
-dns_targets:15.3-title,Preventing deforestation,Entwaldungen vermeiden
-dns_targets:16.1-title,Further increasing personal security,Persönliche Sicherheit weiter erhöhen
-dns_targets:16.2-title,"Taking practical action to combat proliferation, especially of small arms","Praktische Maßnahmen zur Bekämpfung der Proliferation, insbesondere von Kleinwaffen, ergreifen"
-dns_targets:16.3-title,Combating corruption,Korruption bekämpfen
-dns_targets:17.1-title,Supporting sustainable development,Nachhaltige Entwicklung unterstützen
-dns_targets:17.2-title,Sharing knowledge internationally,Wissen international vermitteln
-dns_targets:17.3-title,Improving trade opportunities for developing countries,Handelschancen der Entwicklungsländer verbessern
-dns_targets:2.1-title,Environmentally sound production in our cultivated landscapes,In unseren Kulturlandschaften umweltverträglich produzieren
-dns_targets:2.2-title,Realising globally the right to food,Das Recht auf Nahrung weltweit verwirklichen
-dns_targets:3.1-title,Living healthy longer,Länger gesund leben
-dns_targets:3.2-title,Keeping the environment healthy,Gesunde Umwelt erhalten
-dns_targets:4.1-title,Continuously improving education and vocational training,Bildung und Qualifikation kontinuierlich verbessern
-dns_targets:4.2-title,Improving the compatibility of work and family life,Vereinbarkeit von Familie und Beruf verbessern
-dns_targets:5.1-title,Promoting equal opportunities in society and strengthening the economic participation of women globally,Gleichstellung in der Gesellschaft fördern und wirtschaftliche Teilhabe von Frauen global stärken
-dns_targets:6.1-title,Reducing the pollution of water with substances,Minderung der stofflichen Belastung von Gewässern
-dns_targets:6.2-title,"Better access to drinking water and sanitation worldwide, higher (safer) quality","Besserer Zugang zu Trinkwasser- und Sanitärversorgung weltweit, höhere (sichere) Qualität"
-dns_targets:7.1-title,Using resources economically and efficiently,Ressourcen sparsam und effizient nutzen
-dns_targets:7.2-title,Strengthening a sustainable energy supply,Zukunftsfähige Energieversorgung ausbauen
-dns_targets:8.1-title,Using resources economically and efficiently,Ressourcen sparsam und effizient nutzen
-dns_targets:8.2-title,Consolidating public finances - Creating intergenerational equity,Staatsfinanzen konsolidieren - Generationengerechtigkeit schaffen
-dns_targets:8.3-title,Creating favourable investment conditions - Securing long-term prosperity,Gute Investitionsbedingungen schaffen - Wohlstand dauerhaft erhalten
-dns_targets:8.4-title,Combining larger economic output with environmental and social responsibility,Wirtschaftsleistung umwelt- und sozialverträglich steigern
-dns_targets:8.5-title,Boosting employment levels,Beschäftigungsniveau steigern
-dns_targets:8.6-title,Enabling decent work worldwide,Menschenwürdige Arbeit weltweit ermöglichen
-dns_targets:9.1-title,Shaping the future with new solutions,Zukunft mit neuen Lösungen gestalten
+header:alpha,Alpha,Alpha-Version
+header:disclaimer,"This is a development website. We welcome your <a href=""mailto:%email_address"">feedback</a>.","Diese Seite befindet sich im Entwicklungsstadium. Wir freuen uns über Ihre <a href=""mailto:%email_address"">Kommentare</a>."
+header:skip_link,Skip to main content, Zum Hauptinhalt springen
+header:tag_line,17 Goals to Transform our World,
 dns_goals:1-title,No poverty,Armut in allen ihren Formen und überall beenden
 dns_goals:10-title,Reduced inequalities,Ungleichheit innerhalb von und zwischen Staaten verringern
 dns_goals:11-title,Sustainable cities & communities,"Städte und Siedlungen inklusiv, sicher, widerstandsfähig und nachhaltig machen"
@@ -1369,6 +1286,145 @@ dns_goals:6-title,Clean water and sanitation,Verfügbarkeit und nachhaltige Bewi
 dns_goals:7-title,Affordable and clean energy,"Zugang zu bezahlbarer, verlässlicher, nachhaltiger und zeitgemäßer Energie für alle sichern"
 dns_goals:8-title,Decent jobs and economic growth,"Dauerhaftes, inklusives und nachhaltiges Wirtschaftswachstum, produktive Vollbeschäftigung und menschenwürdige Arbeit für alle fördern"
 dns_goals:9-title,"Industry, innovation and infrastructure","Eine belastbare Infrastruktur aufbauen, inklusive und nachhaltige Industrialisierung fördern und Innovationen unterstützen"
+summary:1-1-ab_1,1.1.a - Material deprivation,1.1.a - Materielle Deprivation
+summary:1-1-ab_1_target,Percentage of persons who are materially deprived should stay below the level within the European Union,"Anteil der Personen, die materiell depriviert sind, bis 2030 deutlich unter EU-28-Wert halten"
+summary:1-1-ab_2,1.1.b - Severe material deprivation,1.1.b - Erhebliche materielle Deprivation
+summary:1-1-ab_2_target,Percentage of persons who are severely materially deprived should stay below the level within the European Union,"Anteil der Personen, die erheblich materiell depriviert sind, bis 2030 deutlich unter EU-28-Wert halten"
+summary:10-1-a_1,10.1 - Foreign school graduates,10.1 - Ausländische Schulabsolventinnen und Schulabsolventen
+summary:10-1-a_1_target,Increase the proportion of foreign school leavers with a least a secondary general school certificate by 2030,Erhöhung des Anteils  der ausländischen Schulabgänger mit mindestens Hauptschulabschluss bis 2030
+summary:10-1-a_2,10.1 - Foreign school graduates,10.1 - Ausländische Schulabsolventinnen und Schulabsolventen
+summary:10-1-a_2_target,Bring their proportion into line with that of German school graduates by 2030,Angleichung an die Quote deutscher Schulabgänger bis 2030
+summary:10-2-a_1,10.2 - Gini coefficient of income distribution,10.2 - Gini-Koeffizient zur Einkommensverteilung
+summary:10-2-a_1_target,Gini coefficient of income after social transfers to be below the EU-28 average by 2030,Gini-Koeffizient des verfügbaren Äquivalenzeinkommens unterhalb des EU Durchschnittswerts bis 2030
+summary:11-1-a_1,11.1.a - Expansion of settlement and transport area,11.1.a - Anstieg der Siedlungs- und Verkehrsfläche
+summary:11-1-a_1_target,Limit to 30 ha minus x per day by 2030,Senkung des Anstiegs auf 30 ha minus x pro Tag bis 2030
+summary:11-1-b_1,11.1.b - Loss of open space area,11.1.b - Freiraumverlust
+summary:11-1-b_1_target,Reduce the loss of per capita open space area,Verringerung des einwohnerbezogenen Freiflächenverlusts
+summary:11-1-c_1,11.1.c - Density of settlements,11.1.c - Siedlungsdichte
+summary:11-1-c_1_target,No decrease in the density of settlements,Keine Verringerung der Siedlungsdichte
+summary:11-2-a_1,11.2.a - Final energy consumption in goods transport,11.2.a - Endenergieverbrauch im Güterverkehr
+summary:11-2-a_1_target,Reduce by 15 to 20&nbsp;% by 2030,Senkung um 15 bis 20&nbsp;% bis 2030
+summary:11-2-b_1,11.2.b - Final energy consumption in passenger transport,11.2.b - Endenergieverbrauch im Personenverkehr
+summary:11-2-b_1_target,Reduce by 15 to 20&nbsp;% by 2030,Senkung um 15 bis 20&nbsp;% bis 2030
+summary:11-2-c_1,11.2.c - Accessibility of medium-sized and large cities by public transport,11.2.c - Erreichbarkeit von Mittel- und Oberzentren mit öffentlichen Verkehrsmitteln
+summary:11-2-c_1_target,Reduce the average travel time by public transport,Verringerung der durchschnittlichen Reisezeit mit öffentlichen Verkehrsmitteln
+summary:11-3-a_1,11.3 - Housing cost overload,11.3 - Überlastung durch Wohnkosten
+summary:11-3-a_1_target,Reduce the proportion of people who overburdened to 13&nbsp;% by 2030,"Senkung des Anteils der Bevölkerung, der in Haushalten lebt, die mehr als 40&nbsp;% ihres verfügbaren Haushaltseinkommens für Wohnen ausgeben, auf 13&nbsp;% bis 2030"
+summary:12-1-a_1,12.1.a - Market share of products certified by publicly managed eco-labelling schemes,12.1.a - Marktanteil von Produkten mit staatlichen Umweltzeichen
+summary:12-1-a_1_target,34&nbsp;% by 2030,Steigerung des Marktanteils auf 34&nbsp;% bis 2030
+summary:12-1-b_1,12.1.b - Energy consumption and CO<sub>2</sub> emissions from consumption,12.1.b - Energieverbrauch und CO<sub>2</sub>-Emissionen des Konsum
+summary:12-1-b_1_target,Reduce energy consumption continuously,Kontinuierliche Abnahme des Energieverbrauchs
+summary:12-2-a_1,12.2 - EMAS eco-management,12.2 - Umweltmanagement EMAS
+summary:12-2-a_1_target,"5,000 locations of organisations by 2030",5&nbsp;000 Organisationsstandorte bis 2030
+summary:12-3-ab_1,12.3 - Responsible procurement,12.3 - Anteil des Papiers mit Blauem Engel am Gesamtpapierverbrauch der unmittelbaren Bundesverwaltung
+summary:12-3-ab_1_target,95&nbsp;% by 2020,Steigerung des Anteils auf 95&nbsp;% bis 2020
+summary:12-3-ab_2,12.3 - Responsible procurement,12.3 - CO<sub>2</sub>-Emissionen von handelüblichen Kraftfahrzeugen der öffenlichen Hand
+summary:12-3-ab_2_target,Reduce significantly,Signifikante Senkung der CO<sub>2</sub>-Emissionen
+summary:13-1-a_1,13.1.a - Greenhouse gas emissions,13.1.a - Treibhausgasemissionen
+summary:13-1-a_1_target,"Reduce by at least 40&nbsp;% by 2020, by at least 55&nbsp;% by 2030, by at least 70&nbsp;% by 2040 and by 80 to 95&nbsp;% by 2050 – in each case compared with 1990","Reduzierung um mindestens 40&nbsp;% bis 2020, um mindestens 55&nbsp;% bis 2030, um mindestens 70&nbsp;% bis 2040 und um 80 bis 95&nbsp;% bis 2050 jeweils gegenüber 1990"
+summary:13-1-b_1,13.1.b - International climate finance for the reduction of greenhouse gases and adaptation to climate change,13.1.b - Internationale Klimafinanzierung zur Reduktion von Treibhausgasen und zur Anpassung an den Klimawandel
+summary:13-1-b_1_target,Double finance by 2020 relative to 2014,Verdopplung der Finanzierung bis 2020 gegenüber 2014
+summary:14-1-a_1,14.1.aa - Nitrogen input to the North Sea through German inflows,14.1.aa - Stickstoffeintrag über die Zuflüsse in die Nordsee
+summary:14-1-a_1_target,Maintain a good quality in accordance with the Ordinance on the Protection of Surface Waters (keep annual averages of total nitrogen below 2.8 milligrams per litre),"Jahresmittelwerte für Gesamtstickstoff sollen unter 2,8&nbsp;mg/l liegen"
+summary:14-1-a_2,14.1.ab - Nitrogen input to the Baltic Sea through German inflows,14.1.ab - Stickstoffeintrag über die Zuflüsse in die Ostsee
+summary:14-1-a_2_target,Maintain a good quality in accordance with the Ordinance on the Protection of Surface Waters (keep annual averages of total nitrogen below 2.6 milligrams per litre),"Jahresmittelwerte für Gesamtstickstoff sollen unter 2,6&nbsp;mg/l liegen"
+summary:14-1-b_1,14.1.b - Proportion of sustainably fished stocks of fish in the North and the Baltic Sea,14.1.b - Anteil der nachhaltig befischten Fischbestände in Nord- und Ostsee
+summary:14-1-b_1_target,Manage sustainably all fish stocks used for economic purposes in accordance with the MSY approach by 2020,Nachhaltige Bewirtschaftung aller wirtschaftlich genutzten Fischbestände nach MSY-Ansatz bis 2020
+summary:15-1-a_1,15.1 - Biodiversity and landscape quality,15.1 - Artenvielfalt und Landschaftsqualität
+summary:15-1-a_1_target,Increase to an index value of 100 by 2030,Anstieg auf den Indexwert 100 bis 2030
+summary:15-2-a_1,15.2 - Eutrophication of ecosystems,15.2 - Eutrophierung der Ökosysteme
+summary:15-2-a_1_target,Reduce the proportion by 35&nbsp;% compared with 2005,Verringerung des Flächenanteils mit erhöhtem Stickstoffeintrag um 35&nbsp;% gegenüber 2005 bis 2030
+summary:15-3-a_1,15.3 - Preservation or restoration of forests in developing countries under the REDD+ rulebook,15.3 - Erhalt bzw. Wiederaufbau von Wäldern in Entwicklungsländern unter dem REDD+-Regelwerk
+summary:15-3-a_1_target,Increase by 2030,Steigerung der Zahlungen Deutschlands an Entwicklungs- und Schwellenländer bis 2030
+summary:16-1-a_1,16.1 - Criminal offences,16.1 - Straftaten
+summary:16-1-a_1_target,"Reduce the number of criminal offences recorded per 100,000 inhabitants to less than 7,000 by 2030",Rückgang der Zahl der erfassten Straftaten je 100&nbsp;000 Einwohner/ -innen auf unter 7&nbsp;000 bis 2030
+summary:16-2-a_1,"16.2 - Number of projects to secure, register and destroy small arms and light weapons carried out by Germany in affected regions of the world","16.2 - Anzahl der in betroffenen Weltregionen durchgeführten Projekte zur Sicherung, Registrierung und Zerstörung von Kleinwaffen und leichten Waffen durch Deutschland"
+summary:16-2-a_1_target,By 2030 at least 15 projects each year,"Mindestens 15 Projekte in den betroffenen Weltregionen zur Sicherung, Registrierung und Zerstörung von Kleinwaffen und leichten Waffen jährlich durch Deutschland bis 2030"
+summary:16-3-ab_1,16.3.a - CPI in Germany,16.3.a - Corruption Perception Index in Deutschland
+summary:16-3-ab_1_target,Improve by 2030,Verbesserung gegenüber 2012 bis 2030
+summary:16-3-ab_2,16.3.b - Partner countries,16.3.b - Corruption Perception Index in den Partnerländern der deutschen Entwicklungszusammenarbeit
+summary:16-3-ab_2_target,Improve by 2030,Verbesserung gegenüber 2012 bis 2030
+summary:17-1-a_1,17.1 - Expenditure for official development assistance as a proportion of gross national income,17.1 - Anteil öffentlicher Entwicklungsausgaben am Bruttonationaleinkommen
+summary:17-1-a_1_target,Increase the proportion to 0.7&nbsp;% of GNI by 2030,"Steigerung des Anteils auf 0,7&nbsp;% des  Bruttonationaleinkommens bis 2030"
+summary:17-2-a_1,17.2 - Number of students and researchers from developing countries and LDCs per year,17.2 - Anzahl der Studierenden und Forschenden aus Entwicklungsländern sowie LDCs pro Jahr
+summary:17-2-a_1_target,"Increase by 10&nbsp;% by 2020, than stabilise","Steigerung der Anzahl um 10&nbsp;% von 2015 bis 2020, anschließend Verstetigung"
+summary:17-3-a_1,17.3 - Imports from the least developed countries (LCDs),17.3 - Einfuhren aus am wenigsten entwickelten Ländern
+summary:17-3-a_1_target,Increase the proportion by 100&nbsp;% by 2030 (base year: 2014),Verdopplung des Anteils von 2014 bis 2030
+summary:2-1-a_1,2.1.a - Nitrogen surplus in agriculture,2.1.a - Stickstoffüberschuss der Landwirtschaft
+summary:2-1-a_1_target,"On an annual average for the period 2028 to 2032, a reduction of the nitrogen surpluses of the overall balance for Germany to 70 kilograms per hectare of utilised agricultural area",Verringerung der Stickstoffüberschüsse der Gesamtbilanz für Deutschland auf 70&nbsp;kg/ ha landwirtschaftlich genutzter Fläche im Jahresmittel 2028-2032
+summary:2-1-b_1,2.1.b - Organic farming,2.1.b - Ökologischer Landbau
+summary:2-1-b_1_target,Share of organic farming on land used for agriculture to be increased to 20&nbsp;% by 2030,Erhöhung des Anteils des ökologischen Landbaus an der landwirtschaftlich genutzten Fläche auf 20&nbsp;% bis 2030
+summary:2-2-a_1,2.2 - Support for good governance in attaining appropriate nutrition globally,2.2 - Unterstützung guter Regierungsführung bei der Erreichung einer angemessenen Ernährung weltweit
+summary:2-2-a_1_target,Adequate increase of the share of disbursments used for implementating of guidelines and recommendations made by the UN  good governance for food security by 2030. Angemessene Steigerung des Anteils der ausgezahlten Mittel für die Anwendung von Leitlinien und Empfehlungen des VN-Welternährungsausschusses an den Gesamtausgaben für Ernährungssicherung bis 2030,Angemessene Steigerung des Anteils der ausgezahlten Mittel für die Anwendung von Leitlinien und Empfehlungen des VN-Welternährungsausschusses an den Gesamtausgaben für Ernährungssicherung bis 2030
+summary:3-1-ab_1,3.1.a - Premature mortality (female),3.1.a - Vorzeitige Sterblichkeit (weiblich)
+summary:3-1-ab_1_target,"Reduce the premature mortality to 100 deaths per 100,000 female inhabitants by 2030",Senkung auf 100 Todesfälle je 100&nbsp;000 Einwohnerinnen bis 2030
+summary:3-1-ab_2,3.1.b - Premature mortality (male),3.1.b - Vorzeitige Sterblichkeit (männlich)
+summary:3-1-ab_2_target,"Reduce the premature mortality to 190 deaths per 100,000 male inhabitants by 2030",Senkung auf 190 Todesfälle je 100&nbsp;000 Einwohner bis 2030
+summary:3-1-cd_1,3.1.c - Smoking rate among adolescents,3.1.c - Raucherquote von Jugendlichen
+summary:3-1-cd_1_target,Reduce the proportion to 7&nbsp;% by 2030,Senkung auf 7&nbsp;% bis 2030
+summary:3-1-cd_2,3.1.d - Smoking rate among adults,3.1.d - Raucherquote von Erwachsenen
+summary:3-1-cd_2_target,Reduce the proportion to 19&nbsp;% by 2030,Senkung auf 19&nbsp;% bis 2030
+summary:3-1-e_1,3.1.e - Obesity rate among adolescents,3.1.e - Adipositasquote von Jugendlichen
+summary:3-1-e_1_target,Further increase is to be permanently stopped.,Anstieg dauerhaft stoppen
+summary:3-1-f_1,3.1.f - Share of adults suffering from obesity,3.1.f - Adipositasquote von Erwachsenen
+summary:3-1-f_1_target,Further increase is to be permanently stopped.,Anstieg dauerhaft stoppen
+summary:3-2-a_1,3.2.a - Emissions of air pollutants,3.2.a - Emissionen von Luftschadstoffen
+summary:3-2-a_1_target,Reduce emissions to 55&nbsp;% of the 2005 value by 2030,Reduktion der Emissionen des Jahres 2005 auf 55&nbsp;% bis 2030
+summary:3-2-b_1,3.2.b - Share of the population with excessive exposure to PM<sub>10</sub> in Germany,3.2.b - Anteil der Bevölkerung mit erhöhter PM<sub>10</sub>-Feinstaubexposition
+summary:3-2-b_1_target,WHO particulate matter guideline value of 20 micrograms/ cubic metre for PM<sub>10</sub> to be adhered to as widely as possible by 2030,Erreichung des Feinstaub- WHO-Richtwerts von 20 Mikrogramm/m<sup>3</sup> für  M10 im Jahresmittel möglichst flächendeckend bis 2030
+summary:4-1-a_1,4.1.a - Early school leavers,4.1.a - Frühe Schulabgängerinnen und Schulabgänger
+summary:4-1-a_1_target,Reduce the proportion to below 10&nbsp;% by 2020,Verringerung des Anteils auf unter 10&nbsp;% bis 2020
+summary:4-1-b_1,4.1.b - 30- bis 34-Jährige mit tertiärem oder postsekundarem nicht-tertiären Abschluss,4.1.b - 30- bis 34-Jährige mit tertiärem oder postsekundarem nicht-tertiären Abschluss
+summary:4-1-b_1_target,Increase the proportion to 42&nbsp;% by 2020,Steigerung des Anteils auf 42&nbsp;% bis 2020
+summary:4-2-ab_1,4.2.a - Children in institutional all-day care (0 to 2-year-olds),4.2.a - Ganztagsbetreuung für Kinder (0- bis 2-Jährige)
+summary:4-2-ab_1_target,Increase the proportion to 35&nbsp;% by 2030,Anstieg auf 35&nbsp;% bis 2030
+summary:4-2-ab_2,4.2.b - Children in institutional all-day care (3 to 5-year-olds),4.2.b - Ganztagsbetreuung für Kinder (3- bis 5-Jährige)
+summary:4-2-ab_2_target,Increase the proportion to 60&nbsp;% by 2020 and 70&nbsp;% by 2030,Anstieg auf 60&nbsp;% bis 2020 und auf 70&nbsp;% bis 2030
+summary:5-1-a_1,5.1.a - Gender pay gap,5.1.a - Verdienstabstand zwischen Frauen und Männern
+summary:5-1-a_1_target,"Reduce the gap to 10&nbsp;% by 2020, maintain that proportion up to 2030","Verringerung des Abstands auf 10&nbsp;% bis 2020, Beibehaltung bis 2030"
+summary:5-1-b_1,5.1.b - Women in management positions in business,5.1.b - Frauen in Führungspositionen in der Wirtschaft
+summary:5-1-b_1_target,30&nbsp;% women in supervisory boards of listed and fully co-determined companies by 2030,30&nbsp;% Frauen in Aufsichtsräten der börsennotierten und voll mitbestimmungspflichtigen Unternehmen bis 2030
+summary:5-1-c_1,5.1.c - Vocational qualification of women and girls through German development assistance,5.1.c - Berufliche Qualifizierung von Mädchen und Frauen durch deutsche entwicklungspolitische Zusammenarbeit
+summary:5-1-c_1_target,Increase gradually by one third by 2030 compared with base year 2015,Sukzessive Steigerung bis 2030 um ein Drittel verglichen mit Basisjahr 2015
+summary:6-1-a_1,6.1.a - Phosphorous in flowing waters,6.1.a - Phosphor in Fließgewässern
+summary:6-1-a_1_target,Not exceeding benchmark values for specific types of water bodies at all monitoring points by 2030,Einhaltung oder Unterschreitung der gewässertypischen  Orientierungswerte an allen Messstellen bis 2030
+summary:6-1-b_1,6.1.b - Nitrate in groundwater,6.1.b - Nitrat im Grundwasser
+summary:6-1-b_1_target,Not exceeding the threshold value of 50&nbsp;mg/l of nitrate in groundwater by 2030,Einhaltung des Nitrat- Schwellenwertes von 50&nbsp;mg/l an allen Messstellen bis 2030
+summary:6-2-a_1,6.2 - Development cooperation for drinking water and sanitation,6.2 - Entwicklungszusammenarbeit für Trinkwasser und Sanitärversorgung
+summary:6-2-a_1_target,Give 10 million people access to water each year till 2030,Bis 2030 sollen jährlich 10 Millionen Menschen Zugang zu Wasser erhalten
+summary:7-1-ab_1,7.1.a - Final energy productivity,7.1.a - Endenergieproduktivität
+summary:7-1-ab_1_target,Increase energy productivity by 2.1&nbsp;% per year from 2008 to 2050,"Jährliche Steigerung um 2,1&nbsp;% im Zeitraum von 2008 – 2050"
+summary:7-1-ab_2,7.1.b - Primary energy consumption,7.1.b - Primärenergieverbrauch
+summary:7-1-ab_2_target,Reduce consumption by 20&nbsp;% by 2020 and by 50&nbsp;% by 2050 compared with 2008,Senkung um 20&nbsp;% bis 2020 und um 50&nbsp;% bis 2050 jeweils gegenüber 2008
+summary:7-2-a_1,7.2.a - Share of renewable energies in gross final energy consumption,7.2.a - Anteil erneuerbarer Energien am Brutto-Endenergieverbrauch
+summary:7-2-a_1_target,"Increase the proportion to 18&nbsp;% by 2020, to 30&nbsp;% by 2030 and to 60&nbsp;% by 2050","Anstieg auf 18&nbsp;% bis 2020, auf 30&nbsp;% bis 2030 und auf 60&nbsp;% bis 2050"
+summary:7-2-b_1,7.2.b - Share of electricity from renewable energy sources in electricity consumption,7.2.b - Anteil des Stroms aus erneuerbaren Energiequellen am Bruttostromverbrauch
+summary:7-2-b_1_target,"Increase the proportion to at least 35&nbsp;% by 2020, to at least 50&nbsp;% by 2030 and to at least 80&nbsp;% by 2050","Anstieg auf mindestens 35&nbsp;% bis 2020, auf mindestens 50&nbsp;% bis 2030 und auf mindestens 80&nbsp;% bis 2050"
+summary:8-1-a_1,8.1 - Raw material input productivity,8.1 - Gesamtrohstoffproduktivität
+summary:8-1-a_1_target,Trend of the years 2000 – 2010 to be continued up to 2030,Bis 2030 Beibehaltung des Trends der Jahre 2000 – 2010
+summary:8-2-ab_1,8.2.a - Government deficit,8.2.a - Staatsdefizit
+summary:8-2-ab_1_target,"Annual government deficit less than 3&nbsp;% of GDP, to be continued up to 2030","Jährliches Staatsdefizit kleiner als 3&nbsp;% des BIP, Beibehaltung bis 2030"
+summary:8-2-ab_2,8.2.b - Structural deficit,8.2.b - Strukturelles Defizit
+summary:8-2-ab_2_target,"Structurally balanced government budget, general government structural deficit must not exceed 0.5&nbsp;% of GDP, to be continued up to 2030","Strukturell ausgeglichener Staatshaushalt, gesamtstaatliches strukturelles Defizit von max. 0,5&nbsp;% des BIP, Beibehaltung bis 2030"
+summary:8-2-c_1,8.2.c - Government debt,8.2.c - Schuldenstand
+summary:8-2-c_1_target,"Ratio of government debt to GDP must not exceed 60&nbsp;%, to be continued up to 2030","Schuldenstandsquote max. 60&nbsp;% des BIP, Beibehaltung bis 2030"
+summary:8-3-a_1,8.3 - Gross fixed capital formation in relation to GDP,8.3 - Verhältnis der Bruttoanlageinvestitionen zum BIP
+summary:8-3-a_1_target,"Appropriate development of the ratio, to be continued up to 2030","Angemessene Entwicklung des Anteils, Beibehaltung bis 2030"
+summary:8-4-a_1,8.4 - Gross domestic product per capita,8.4 - Bruttoinlandsprodukt je Einwohner
+summary:8-4-a_1_target,Continued and appropriate economic growth,Stetiges und angemessenes Wirtschaftswachstum
+summary:8-5-ab_1,"8.5.a - Employment rate, total (20-64 years)",8.5.a - Erwerbstätigenquote insgesamt (20 - 64 Jahre)
+summary:8-5-ab_1_target,Increase the rate to 78&nbsp;% by 2030,Erhöhung auf 78&nbsp;% bis 2030
+summary:8-5-ab_2,"8.5.b - Employment rate, elders (60-64 years)",8.5.b - Erwerbstätigenquote Ältere (60 - 64 Jahre)
+summary:8-5-ab_2_target,Increase the rate to 60% by 2030,Erhöhung auf 60&nbsp;% bis 2030
+summary:8-6-a_1,8.6 - Number of members of the Textiles Partnership,8.6 - Anzahl der Mitglieder des Textilbündnisses
+summary:8-6-a_1_target,Increase the number significantly by 2030,Signifikante Steigerung der Anzahl bis 2030
+summary:9-1-a_1,9.1 - Private and public expenditure on research and development,9.1 - Private und öffentliche Ausgaben für Forschung und Entwicklung
+summary:9-1-a_1_target,At least 3.5&nbsp;% of GDP per year by 2025,"Jährlich mindestens 3,5&nbsp;% des BIP bis 2025"
+summary:indicator,Indicator,Indikator
+summary:status,Evaluation,Bewertung
+summary:status_summary,Status summary - Evaluation for Germany in previous years,Statusübersicht - Bewertung für Deutschland aus den Vorjahren
+summary:target,Target,Ziel
+summary:year,Year,Jahr
 menu:about,About,Über uns
 menu:about_this_site,The&nbspDNS&#8209;Online&nbspplatform,Die&nbspDNS&#8209;Online&nbspPlattform
 menu:agenda,Agenda 2030,Agenda 2030
@@ -1389,6 +1445,44 @@ menu:reporting_status,Reporting Status,Berichtsstatus
 menu:status,Methodology,Methodik
 menu:status_summary,Summary,Übersicht
 menu:status_title,Evaluation,Bewertung
+dns_ranges:1.1-title,Poverty,Armut
+dns_ranges:10.1-title,Equal educational opportunities,Gleiche Bildungschancen
+dns_ranges:10.2-title,Distributive justice,Verteilungsgerechtigkeit
+dns_ranges:11.1-title,Land use,Flächeninanspruchnahme
+dns_ranges:11.2-title,Mobility,Mobilität
+dns_ranges:11.3-title,Housing,Wohnen
+dns_ranges:12.1-title,Responsible consumption,Nachhaltiger Konsum
+dns_ranges:12.2-title,Responsible production,Nachhaltige Produktion
+dns_ranges:12.3-title,Responsible procurement,Nachhaltige Beschaffung
+dns_ranges:13.1-title,Climate protection,Klimaschutz
+dns_ranges:14.1-title,Protecting the oceans,Meere schützen
+dns_ranges:15.1-title,Biodiversity,Artenvielfalt
+dns_ranges:15.2-title,Ecosystems,Ökosysteme
+dns_ranges:15.3-title,Forests,Wälder
+dns_ranges:16.1-title,Crime,Kriminalität
+dns_ranges:16.2-title,Peace and security,Frieden und Sicherheit
+dns_ranges:16.3-title,Good governance,Gute Regierungsführung
+dns_ranges:17.1-title,Development cooperation,Entwicklungszusammenarbeit
+dns_ranges:17.2-title,"Knowledge transfer, espaecially in technical areas",Wissenstransfer insbesondere im technischen Bereich
+dns_ranges:17.3-title,Opening markets,Märkte öffnen
+dns_ranges:2.1-title,Farming,Landbewirtschaftung
+dns_ranges:2.2-title,Food security,Ernährungssicherung
+dns_ranges:3.1-title,Health and nutrition,Gesundheit und Ernährung
+dns_ranges:3.2-title,Air pollution,Luftbelastung
+dns_ranges:4.1-title,Education,Bildung
+dns_ranges:4.2-title,Prospects for families,Perspektiven für Familien
+dns_ranges:5.1-title,Equality,Gleichstellung
+dns_ranges:6.1-title,Water quality,Gewässerqualität
+dns_ranges:6.2-title,Drinking water and sanitation,Trinkwasser- und Sanitärversorgung
+dns_ranges:7.1-title,Recource conservation,Ressourcenschonung
+dns_ranges:7.2-title,Renewable energies,Erneuerbare Energien
+dns_ranges:8.1-title,Recource conservation,Ressourcenschonung
+dns_ranges:8.2-title,Government dept,Staatsverschuldung
+dns_ranges:8.3-title,Provision for future economic stability,Wirtschaftliche Zukunftsvorsorge
+dns_ranges:8.4-title,Economic output,Wirtschaftliche Leistungsfähigkeit
+dns_ranges:8.5-title,Employment,Beschäftigung
+dns_ranges:8.6-title,Global supply chains,Globale Lieferketten
+dns_ranges:9.1-title,Innovation,Innovation
 global_goals:1-short,No poverty,Keine Armut
 global_goals:1-title,End poverty in all its forms everywhere,Armut in allen ihren Formen und überall beenden
 global_goals:10-short,Reduced inequalities,Weniger Ungleichheiten
@@ -1423,56 +1517,6 @@ global_goals:8-short,Decent jobs and economic growth,Menschenwürdige Arbeit und
 global_goals:8-title,"Promote sustained, inclusive and sustainable economic growth, full and productive employment and decent work for all","Dauerhaftes, inklusives und nachhaltiges Wirtschaftswachstum, produktive Vollbeschäftigung und menschenwürdige Arbeit für alle fördern"
 global_goals:9-short,"Industry, innovation and infrastructure","Industrie, Innovationen und Infrastruktur"
 global_goals:9-title,"Build resilient infrastructure, promote inclusive and sustainable industrialization and foster innovation","Eine widerstandsfähige Infrastruktur aufbauen, inklusive und nachhaltige Industrialisierung fördern und Innovationen unterstützen"
-indicator:add_info,Additional time series,Zusätzliche Zeitreihen
-indicator:additional_information_blurb,"The time series below consists of ranges of numbers instead of individual values. For technical reasons, the presentation in the form of interactive charts and tables is only possible for time series with purely numerical values, therefore the time series is presented here in PDF format.","Die untenstehende Zeitreihe besteht aus Zahlenspannen anstelle einzelner Werte. Aus techischen Gründen ist die Darstellung in Form von interaktiven Grafiken und Tabellen nur für Zeitreihen mit rein numerischen Werten möglich, daher wird die Zeitreihe hier im PDF-Format dargestellt."
-indicator:chart,Chart,Grafik
-indicator:clear_all,Clear all,Auswahl aufheben
-indicator:clear_selections,Clear selections,Auswahl aufheben
-indicator:contentAndProgress,Content and progress,Inhalt und Entwicklung
-indicator:copyright,Copyright,Copyright
-indicator:dataset_size_warning,There are too many datasets to show on the chart. Not all will be shown until you remove some selections.,"Zu viele Zeitreihen ausgewählt, um diese in einer Grafik darzustellen. Es können nicht alle Zeitreihen dargestellt werden."
-indicator:details,Details,Details
-indicator:dns_metadata_blurb,"This table includes additional information to the above visualized indicators, i.e. a short definition of this indicator and a description of the politically determined target values as well as explaining the political intention behind selecting this indicator.","Diese Übersicht beinhaltet zusätzliche Informationen zu den oben dargestellten Indikatoren, wie eine kurze Definition des Indikators und eine Beschreibung des politisch festgelegten Zielwertes sowie die politische Intention für die Auswahl des Indikators."
-indicator:download_chart,Download Chart CSV,Grafik im CSV-Format speichern
-indicator:download_chart_image,Download Chart Image,Grafik als Bild speichern
-indicator:download_csv,Download CSV,im CSV-Format speichern
-indicator:download_csv_title,Download as CSV,im CSV-Format speichern
-indicator:download_headline,Download Headline CSV,Speichern der Headline im CSV-Format
-indicator:download_headline_title,Download headline data as CSV,Speichern der Headline im CSV-Format
-indicator:download_source,Download Source CSV,Daten im CSV-Format speichern
-indicator:download_source_title,Download source data as CSV,Daten im CSV-Format speichern
-indicator:download_table,Download Table CSV,Tabelle im CSV-Format speichern
-indicator:edit,Edit,Bearbeiten
-indicator:edit_data,Edit Data,Daten bearbeiten
-indicator:edit_metadata,Edit Metadata,Metadaten bearbeiten
-indicator:footnote,Comment,Anmerkung
-indicator:geographical_area,Geographical Area,Geographische Abdeckung
-indicator:global_metadata,Global Metadata,Globale Metadaten
-indicator:global_metadata_blurb,"This table provides information on metadata for SDG indicators. <a href=""https://unstats.un.org/sdgs/metadata/"">Global metadata</a> is provided by the UN Statistics Division.","Diese Übersicht stellt Informationen zu den globalen Metadaten des jeweiligen SDG-Indikators bereit. Die <a href=""https://unstats.un.org/sdgs/metadata/"">globalen Metadaten</a> werden durch die Statistische Division der Vereinten Nationen bereitgestellt."
-indicator:history,Indicator status summary,Statusübersicht
-indicator:history_blurb,The synoptic table provides information about the evaluation of the indicator for Germany in previous years. It shows if the weather symbol assigned to an indicator was rather stable or volatile in the past years. <i>(Evaluation of the indicator report 2018)</i>,"In dieser Übersichtstabelle sind die Bewertungen des Indikators für Deutschland nach Stand der vorhergehenden Jahre dargestellt. Daran lässt sich ablesen, ob das Wettersymbol für einen Indikator in den vergangenen Jahren stabil oder eher volatil war. <i>(Bewertungen aus dem Indikatorenbericht 2018)</i>"
-indicator:legend_help,Click on the legend to remove individual lines from the chart.,Klicken Sie auf die Legende um Zeitreihen aus der Grafik zu entfernen.
-indicator:loading_map,Loading map,Karte wird geladen
-indicator:map,Map,Karte
-indicator:metadata,Metadata,Metadaten
-indicator:national_metadata,National Metadata,Nationale Metadaten
-indicator:national_metadata_blurb,The international organisations (custodian agencies) that are responsible for the respective SDG-indicator publish methodological guidelines for the calculation of the indicator - so-called global metadata.<br><br>Displayed here are the national time series that fit the global metadata best as well as their comparability to the global metadata. Please find further methodical and country-specific information of the time series in the related national metadata sheet.,"Die für den jeweiligen SDG-Indikator zuständigen internationalen Organisationen (Custodian Agencies) veröffentlichen methodische Vorgaben zur Berechnung des Indikators - die sogenannten globalen Metadaten.<br><br>Hier werden die am besten dazu geeigneten, national verfügbaren Zeitreihen bereitgestellt und ihre Vergleichbarkeit mit den globalen Metadaten ausgewiesen. Zugehörige methodische und länderspezifische Informationen dieser Zeitreihen finden Sie im nationalen Metadatenblatt."
-indicator:no_data_hint,No options available because of filters above,Aufgrund der bereits getroffenen Auswahl sind keine weiteren Auswahlmöglichkeiten verfügbar.
-indicator:no_selection,No disaggregations are available for this indicator,Für diesen Indikator stehen keine Disaggregationnen zur Verfügung
-indicator:select_all,Select all,Alle auswählen
-indicator:series_help,Select here what should be displayed in the chart and in the table.,"Wählen Sie hier aus, was in der Grafik bzw. Tabelle angezeigt werden soll."
-indicator:series_help_dns,Select here what should be displayed in the chart and in the table.,"Wählen Sie hier aus, was in der Grafik bzw. Tabelle angezeigt werden soll."
-indicator:source,Source,Datenquelle
-indicator:sources,Sources,Datenquellen
-indicator:specification,Specification,
-indicator:sub_categories,Selection,Auswahl
-indicator:sub_categories_dns,Selection,Auswahl
-indicator:table,Table,Tabelle
-indicator:timeseries,Time series,Zeitreihe
-indicator:unit_of_measurement,Unit of measurement,Einheit
-indicator:units_type,Units type,Einheit
-indicator:variable_hint,Available when '%field' is selected,Verfügbar
-indicator:view_indicator_list,View this goal's indicator list,Zeigt die Indikatorenliste zum SDG-Ziel an.
 global_indicators:1.1.1-title,"Proportion of population below the international poverty line, by sex, age, employment status and geographical location (urban/rural)","Anteil der Bevölkerung, die unter der internationalen Armutsgrenze lebt, nach Geschlecht, Alter, Erwerbsstatus  und geographischer Lage (urban/rural)"
 global_indicators:1.2.1-title,"Proportion of population living below the national poverty line, by sex and age","Anteil der Bevölkerung, die unter der nationalen Armutsgrenze lebt, nach Geschlecht und Alter"
 global_indicators:1.2.2-title,"Proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions","Anteil der Männer, Frauen und Kinder jeden Alters, die in Armut in all ihren Dimensionen gemäß nationaler Definitionen leben"
@@ -1718,180 +1762,136 @@ global_indicators:9.5.2-title,Researchers (in full-time equivalent) per million 
 global_indicators:9.a.1-title,Total official international support (official development assistance plus other official flows) to infrastructure,Gesamte öffentliche internationale Unterstützung (öffentliche Entwicklungszusammenarbeit (ODA) und sonstige öffentliche Ausgaben) für Infrastruktur
 global_indicators:9.b.1-title,Proportion of medium and high-tech industry value added in total value added,Anteil der Wertschöpfung der Medium- und High-Tech-Industrie an der Wertschöpfung insgesamt
 global_indicators:9.c.1-title,"Proportion of population covered by a mobile network, by technology","Anteil der Bevölkerung, die durch ein Mobilfunknetz abgedeckt ist, nach Technologie"
-dns_ranges:1.1-title,Poverty,Armut
-dns_ranges:10.1-title,Equal educational opportunities,Gleiche Bildungschancen
-dns_ranges:10.2-title,Distributive justice,Verteilungsgerechtigkeit
-dns_ranges:11.1-title,Land use,Flächeninanspruchnahme
-dns_ranges:11.2-title,Mobility,Mobilität
-dns_ranges:11.3-title,Housing,Wohnen
-dns_ranges:12.1-title,Responsible consumption,Nachhaltiger Konsum
-dns_ranges:12.2-title,Responsible production,Nachhaltige Produktion
-dns_ranges:12.3-title,Responsible procurement,Nachhaltige Beschaffung
-dns_ranges:13.1-title,Climate protection,Klimaschutz
-dns_ranges:14.1-title,Protecting the oceans,Meere schützen
-dns_ranges:15.1-title,Biodiversity,Artenvielfalt
-dns_ranges:15.2-title,Ecosystems,Ökosysteme
-dns_ranges:15.3-title,Forests,Wälder
-dns_ranges:16.1-title,Crime,Kriminalität
-dns_ranges:16.2-title,Peace and security,Frieden und Sicherheit
-dns_ranges:16.3-title,Good governance,Gute Regierungsführung
-dns_ranges:17.1-title,Development cooperation,Entwicklungszusammenarbeit
-dns_ranges:17.2-title,"Knowledge transfer, espaecially in technical areas",Wissenstransfer insbesondere im technischen Bereich
-dns_ranges:17.3-title,Opening markets,Märkte öffnen
-dns_ranges:2.1-title,Farming,Landbewirtschaftung
-dns_ranges:2.2-title,Food security,Ernährungssicherung
-dns_ranges:3.1-title,Health and nutrition,Gesundheit und Ernährung
-dns_ranges:3.2-title,Air pollution,Luftbelastung
-dns_ranges:4.1-title,Education,Bildung
-dns_ranges:4.2-title,Prospects for families,Perspektiven für Familien
-dns_ranges:5.1-title,Equality,Gleichstellung
-dns_ranges:6.1-title,Water quality,Gewässerqualität
-dns_ranges:6.2-title,Drinking water and sanitation,Trinkwasser- und Sanitärversorgung
-dns_ranges:7.1-title,Recource conservation,Ressourcenschonung
-dns_ranges:7.2-title,Renewable energies,Erneuerbare Energien
-dns_ranges:8.1-title,Recource conservation,Ressourcenschonung
-dns_ranges:8.2-title,Government dept,Staatsverschuldung
-dns_ranges:8.3-title,Provision for future economic stability,Wirtschaftliche Zukunftsvorsorge
-dns_ranges:8.4-title,Economic output,Wirtschaftliche Leistungsfähigkeit
-dns_ranges:8.5-title,Employment,Beschäftigung
-dns_ranges:8.6-title,Global supply chains,Globale Lieferketten
-dns_ranges:9.1-title,Innovation,Innovation
-summary:1-1-ab_1,1.1.a - Material deprivation,1.1.a - Materielle Deprivation
-summary:1-1-ab_1_target,Percentage of persons who are materially deprived should stay below the level within the European Union,"Anteil der Personen, die materiell depriviert sind, bis 2030 deutlich unter EU-28-Wert halten"
-summary:1-1-ab_2,1.1.b - Severe material deprivation,1.1.b - Erhebliche materielle Deprivation
-summary:1-1-ab_2_target,Percentage of persons who are severely materially deprived should stay below the level within the European Union,"Anteil der Personen, die erheblich materiell depriviert sind, bis 2030 deutlich unter EU-28-Wert halten"
-summary:10-1-a_1,10.1 - Foreign school graduates,10.1 - Ausländische Schulabsolventinnen und Schulabsolventen
-summary:10-1-a_1_target,Increase the proportion of foreign school leavers with a least a secondary general school certificate by 2030,Erhöhung des Anteils  der ausländischen Schulabgänger mit mindestens Hauptschulabschluss bis 2030
-summary:10-1-a_2,10.1 - Foreign school graduates,10.1 - Ausländische Schulabsolventinnen und Schulabsolventen
-summary:10-1-a_2_target,Bring their proportion into line with that of German school graduates by 2030,Angleichung an die Quote deutscher Schulabgänger bis 2030
-summary:10-2-a_1,10.2 - Gini coefficient of income distribution,10.2 - Gini-Koeffizient zur Einkommensverteilung
-summary:10-2-a_1_target,Gini coefficient of income after social transfers to be below the EU-28 average by 2030,Gini-Koeffizient des verfügbaren Äquivalenzeinkommens unterhalb des EU Durchschnittswerts bis 2030
-summary:11-1-a_1,11.1.a - Expansion of settlement and transport area,11.1.a - Anstieg der Siedlungs- und Verkehrsfläche
-summary:11-1-a_1_target,Limit to 30 ha minus x per day by 2030,Senkung des Anstiegs auf 30 ha minus x pro Tag bis 2030
-summary:11-1-b_1,11.1.b - Loss of open space area,11.1.b - Freiraumverlust
-summary:11-1-b_1_target,Reduce the loss of per capita open space area,Verringerung des einwohnerbezogenen Freiflächenverlusts
-summary:11-1-c_1,11.1.c - Density of settlements,11.1.c - Siedlungsdichte
-summary:11-1-c_1_target,No decrease in the density of settlements,Keine Verringerung der Siedlungsdichte
-summary:11-2-a_1,11.2.a - Final energy consumption in goods transport,11.2.a - Endenergieverbrauch im Güterverkehr
-summary:11-2-a_1_target,Reduce by 15 to 20&nbsp;% by 2030,Senkung um 15 bis 20&nbsp;% bis 2030
-summary:11-2-b_1,11.2.b - Final energy consumption in passenger transport,11.2.b - Endenergieverbrauch im Personenverkehr
-summary:11-2-b_1_target,Reduce by 15 to 20&nbsp;% by 2030,Senkung um 15 bis 20&nbsp;% bis 2030
-summary:11-2-c_1,11.2.c - Accessibility of medium-sized and large cities by public transport,11.2.c - Erreichbarkeit von Mittel- und Oberzentren mit öffentlichen Verkehrsmitteln
-summary:11-2-c_1_target,Reduce the average travel time by public transport,Verringerung der durchschnittlichen Reisezeit mit öffentlichen Verkehrsmitteln
-summary:11-3-a_1,11.3 - Housing cost overload,11.3 - Überlastung durch Wohnkosten
-summary:11-3-a_1_target,Reduce the proportion of people who overburdened to 13&nbsp;% by 2030,"Senkung des Anteils der Bevölkerung, der in Haushalten lebt, die mehr als 40&nbsp;% ihres verfügbaren Haushaltseinkommens für Wohnen ausgeben, auf 13&nbsp;% bis 2030"
-summary:12-1-a_1,12.1.a - Market share of products certified by publicly managed eco-labelling schemes,12.1.a - Marktanteil von Produkten mit staatlichen Umweltzeichen
-summary:12-1-a_1_target,34&nbsp;% by 2030,Steigerung des Marktanteils auf 34&nbsp;% bis 2030
-summary:12-1-b_1,12.1.b - Energy consumption and CO<sub>2</sub> emissions from consumption,12.1.b - Energieverbrauch und CO<sub>2</sub>-Emissionen des Konsum
-summary:12-1-b_1_target,Reduce energy consumption continuously,Kontinuierliche Abnahme des Energieverbrauchs
-summary:12-2-a_1,12.2 - EMAS eco-management,12.2 - Umweltmanagement EMAS
-summary:12-2-a_1_target,"5,000 locations of organisations by 2030",5&nbsp;000 Organisationsstandorte bis 2030
-summary:12-3-ab_1,12.3 - Responsible procurement,12.3 - Anteil des Papiers mit Blauem Engel am Gesamtpapierverbrauch der unmittelbaren Bundesverwaltung
-summary:12-3-ab_1_target,95&nbsp;% by 2020,Steigerung des Anteils auf 95&nbsp;% bis 2020
-summary:12-3-ab_2,12.3 - Responsible procurement,12.3 - CO<sub>2</sub>-Emissionen von handelüblichen Kraftfahrzeugen der öffenlichen Hand
-summary:12-3-ab_2_target,Reduce significantly,Signifikante Senkung der CO<sub>2</sub>-Emissionen
-summary:13-1-a_1,13.1.a - Greenhouse gas emissions,13.1.a - Treibhausgasemissionen
-summary:13-1-a_1_target,"Reduce by at least 40&nbsp;% by 2020, by at least 55&nbsp;% by 2030, by at least 70&nbsp;% by 2040 and by 80 to 95&nbsp;% by 2050 – in each case compared with 1990","Reduzierung um mindestens 40&nbsp;% bis 2020, um mindestens 55&nbsp;% bis 2030, um mindestens 70&nbsp;% bis 2040 und um 80 bis 95&nbsp;% bis 2050 jeweils gegenüber 1990"
-summary:13-1-b_1,13.1.b - International climate finance for the reduction of greenhouse gases and adaptation to climate change,13.1.b - Internationale Klimafinanzierung zur Reduktion von Treibhausgasen und zur Anpassung an den Klimawandel
-summary:13-1-b_1_target,Double finance by 2020 relative to 2014,Verdopplung der Finanzierung bis 2020 gegenüber 2014
-summary:14-1-a_1,14.1.aa - Nitrogen input to the North Sea through German inflows,14.1.aa - Stickstoffeintrag über die Zuflüsse in die Nordsee
-summary:14-1-a_1_target,Maintain a good quality in accordance with the Ordinance on the Protection of Surface Waters (keep annual averages of total nitrogen below 2.8 milligrams per litre),"Jahresmittelwerte für Gesamtstickstoff sollen unter 2,8&nbsp;mg/l liegen"
-summary:14-1-a_2,14.1.ab - Nitrogen input to the Baltic Sea through German inflows,14.1.ab - Stickstoffeintrag über die Zuflüsse in die Ostsee
-summary:14-1-a_2_target,Maintain a good quality in accordance with the Ordinance on the Protection of Surface Waters (keep annual averages of total nitrogen below 2.6 milligrams per litre),"Jahresmittelwerte für Gesamtstickstoff sollen unter 2,6&nbsp;mg/l liegen"
-summary:14-1-b_1,14.1.b - Proportion of sustainably fished stocks of fish in the North and the Baltic Sea,14.1.b - Anteil der nachhaltig befischten Fischbestände in Nord- und Ostsee
-summary:14-1-b_1_target,Manage sustainably all fish stocks used for economic purposes in accordance with the MSY approach by 2020,Nachhaltige Bewirtschaftung aller wirtschaftlich genutzten Fischbestände nach MSY-Ansatz bis 2020
-summary:15-1-a_1,15.1 - Biodiversity and landscape quality,15.1 - Artenvielfalt und Landschaftsqualität
-summary:15-1-a_1_target,Increase to an index value of 100 by 2030,Anstieg auf den Indexwert 100 bis 2030
-summary:15-2-a_1,15.2 - Eutrophication of ecosystems,15.2 - Eutrophierung der Ökosysteme
-summary:15-2-a_1_target,Reduce the proportion by 35&nbsp;% compared with 2005,Verringerung des Flächenanteils mit erhöhtem Stickstoffeintrag um 35&nbsp;% gegenüber 2005 bis 2030
-summary:15-3-a_1,15.3 - Preservation or restoration of forests in developing countries under the REDD+ rulebook,15.3 - Erhalt bzw. Wiederaufbau von Wäldern in Entwicklungsländern unter dem REDD+-Regelwerk
-summary:15-3-a_1_target,Increase by 2030,Steigerung der Zahlungen Deutschlands an Entwicklungs- und Schwellenländer bis 2030
-summary:16-1-a_1,16.1 - Criminal offences,16.1 - Straftaten
-summary:16-1-a_1_target,"Reduce the number of criminal offences recorded per 100,000 inhabitants to less than 7,000 by 2030",Rückgang der Zahl der erfassten Straftaten je 100&nbsp;000 Einwohner/ -innen auf unter 7&nbsp;000 bis 2030
-summary:16-2-a_1,"16.2 - Number of projects to secure, register and destroy small arms and light weapons carried out by Germany in affected regions of the world","16.2 - Anzahl der in betroffenen Weltregionen durchgeführten Projekte zur Sicherung, Registrierung und Zerstörung von Kleinwaffen und leichten Waffen durch Deutschland"
-summary:16-2-a_1_target,By 2030 at least 15 projects each year,"Mindestens 15 Projekte in den betroffenen Weltregionen zur Sicherung, Registrierung und Zerstörung von Kleinwaffen und leichten Waffen jährlich durch Deutschland bis 2030"
-summary:16-3-ab_1,16.3.a - CPI in Germany,16.3.a - Corruption Perception Index in Deutschland
-summary:16-3-ab_1_target,Improve by 2030,Verbesserung gegenüber 2012 bis 2030
-summary:16-3-ab_2,16.3.b - Partner countries,16.3.b - Corruption Perception Index in den Partnerländern der deutschen Entwicklungszusammenarbeit
-summary:16-3-ab_2_target,Improve by 2030,Verbesserung gegenüber 2012 bis 2030
-summary:17-1-a_1,17.1 - Expenditure for official development assistance as a proportion of gross national income,17.1 - Anteil öffentlicher Entwicklungsausgaben am Bruttonationaleinkommen
-summary:17-1-a_1_target,Increase the proportion to 0.7&nbsp;% of GNI by 2030,"Steigerung des Anteils auf 0,7&nbsp;% des  Bruttonationaleinkommens bis 2030"
-summary:17-2-a_1,17.2 - Number of students and researchers from developing countries and LDCs per year,17.2 - Anzahl der Studierenden und Forschenden aus Entwicklungsländern sowie LDCs pro Jahr
-summary:17-2-a_1_target,"Increase by 10&nbsp;% by 2020, than stabilise","Steigerung der Anzahl um 10&nbsp;% von 2015 bis 2020, anschließend Verstetigung"
-summary:17-3-a_1,17.3 - Imports from the least developed countries (LCDs),17.3 - Einfuhren aus am wenigsten entwickelten Ländern
-summary:17-3-a_1_target,Increase the proportion by 100&nbsp;% by 2030 (base year: 2014),Verdopplung des Anteils von 2014 bis 2030
-summary:2-1-a_1,2.1.a - Nitrogen surplus in agriculture,2.1.a - Stickstoffüberschuss der Landwirtschaft
-summary:2-1-a_1_target,"On an annual average for the period 2028 to 2032, a reduction of the nitrogen surpluses of the overall balance for Germany to 70 kilograms per hectare of utilised agricultural area",Verringerung der Stickstoffüberschüsse der Gesamtbilanz für Deutschland auf 70&nbsp;kg/ ha landwirtschaftlich genutzter Fläche im Jahresmittel 2028-2032
-summary:2-1-b_1,2.1.b - Organic farming,2.1.b - Ökologischer Landbau
-summary:2-1-b_1_target,Share of organic farming on land used for agriculture to be increased to 20&nbsp;% by 2030,Erhöhung des Anteils des ökologischen Landbaus an der landwirtschaftlich genutzten Fläche auf 20&nbsp;% bis 2030
-summary:2-2-a_1,2.2 - Support for good governance in attaining appropriate nutrition globally,2.2 - Unterstützung guter Regierungsführung bei der Erreichung einer angemessenen Ernährung weltweit
-summary:2-2-a_1_target,Adequate increase of the share of disbursments used for implementating of guidelines and recommendations made by the UN  good governance for food security by 2030. Angemessene Steigerung des Anteils der ausgezahlten Mittel für die Anwendung von Leitlinien und Empfehlungen des VN-Welternährungsausschusses an den Gesamtausgaben für Ernährungssicherung bis 2030,Angemessene Steigerung des Anteils der ausgezahlten Mittel für die Anwendung von Leitlinien und Empfehlungen des VN-Welternährungsausschusses an den Gesamtausgaben für Ernährungssicherung bis 2030
-summary:3-1-ab_1,3.1.a - Premature mortality (female),3.1.a - Vorzeitige Sterblichkeit (weiblich)
-summary:3-1-ab_1_target,"Reduce the premature mortality to 100 deaths per 100,000 female inhabitants by 2030",Senkung auf 100 Todesfälle je 100&nbsp;000 Einwohnerinnen bis 2030
-summary:3-1-ab_2,3.1.b - Premature mortality (male),3.1.b - Vorzeitige Sterblichkeit (männlich)
-summary:3-1-ab_2_target,"Reduce the premature mortality to 190 deaths per 100,000 male inhabitants by 2030",Senkung auf 190 Todesfälle je 100&nbsp;000 Einwohner bis 2030
-summary:3-1-cd_1,3.1.c - Smoking rate among adolescents,3.1.c - Raucherquote von Jugendlichen
-summary:3-1-cd_1_target,Reduce the proportion to 7&nbsp;% by 2030,Senkung auf 7&nbsp;% bis 2030
-summary:3-1-cd_2,3.1.d - Smoking rate among adults,3.1.d - Raucherquote von Erwachsenen
-summary:3-1-cd_2_target,Reduce the proportion to 19&nbsp;% by 2030,Senkung auf 19&nbsp;% bis 2030
-summary:3-1-e_1,3.1.e - Obesity rate among adolescents,3.1.e - Adipositasquote von Jugendlichen
-summary:3-1-e_1_target,Further increase is to be permanently stopped.,Anstieg dauerhaft stoppen
-summary:3-1-f_1,3.1.f - Share of adults suffering from obesity,3.1.f - Adipositasquote von Erwachsenen
-summary:3-1-f_1_target,Further increase is to be permanently stopped.,Anstieg dauerhaft stoppen
-summary:3-2-a_1,3.2.a - Emissions of air pollutants,3.2.a - Emissionen von Luftschadstoffen
-summary:3-2-a_1_target,Reduce emissions to 55&nbsp;% of the 2005 value by 2030,Reduktion der Emissionen des Jahres 2005 auf 55&nbsp;% bis 2030
-summary:3-2-b_1,3.2.b - Share of the population with excessive exposure to PM<sub>10</sub> in Germany,3.2.b - Anteil der Bevölkerung mit erhöhter PM<sub>10</sub>-Feinstaubexposition
-summary:3-2-b_1_target,WHO particulate matter guideline value of 20 micrograms/ cubic metre for PM<sub>10</sub> to be adhered to as widely as possible by 2030,Erreichung des Feinstaub- WHO-Richtwerts von 20 Mikrogramm/m<sup>3</sup> für  M10 im Jahresmittel möglichst flächendeckend bis 2030
-summary:4-1-a_1,4.1.a - Early school leavers,4.1.a - Frühe Schulabgängerinnen und Schulabgänger
-summary:4-1-a_1_target,Reduce the proportion to below 10&nbsp;% by 2020,Verringerung des Anteils auf unter 10&nbsp;% bis 2020
-summary:4-1-b_1,4.1.b - 30- bis 34-Jährige mit tertiärem oder postsekundarem nicht-tertiären Abschluss,4.1.b - 30- bis 34-Jährige mit tertiärem oder postsekundarem nicht-tertiären Abschluss
-summary:4-1-b_1_target,Increase the proportion to 42&nbsp;% by 2020,Steigerung des Anteils auf 42&nbsp;% bis 2020
-summary:4-2-ab_1,4.2.a - Children in institutional all-day care (0 to 2-year-olds),4.2.a - Ganztagsbetreuung für Kinder (0- bis 2-Jährige)
-summary:4-2-ab_1_target,Increase the proportion to 35&nbsp;% by 2030,Anstieg auf 35&nbsp;% bis 2030
-summary:4-2-ab_2,4.2.b - Children in institutional all-day care (3 to 5-year-olds),4.2.b - Ganztagsbetreuung für Kinder (3- bis 5-Jährige)
-summary:4-2-ab_2_target,Increase the proportion to 60&nbsp;% by 2020 and 70&nbsp;% by 2030,Anstieg auf 60&nbsp;% bis 2020 und auf 70&nbsp;% bis 2030
-summary:5-1-a_1,5.1.a - Gender pay gap,5.1.a - Verdienstabstand zwischen Frauen und Männern
-summary:5-1-a_1_target,"Reduce the gap to 10&nbsp;% by 2020, maintain that proportion up to 2030","Verringerung des Abstands auf 10&nbsp;% bis 2020, Beibehaltung bis 2030"
-summary:5-1-b_1,5.1.b - Women in management positions in business,5.1.b - Frauen in Führungspositionen in der Wirtschaft
-summary:5-1-b_1_target,30&nbsp;% women in supervisory boards of listed and fully co-determined companies by 2030,30&nbsp;% Frauen in Aufsichtsräten der börsennotierten und voll mitbestimmungspflichtigen Unternehmen bis 2030
-summary:5-1-c_1,5.1.c - Vocational qualification of women and girls through German development assistance,5.1.c - Berufliche Qualifizierung von Mädchen und Frauen durch deutsche entwicklungspolitische Zusammenarbeit
-summary:5-1-c_1_target,Increase gradually by one third by 2030 compared with base year 2015,Sukzessive Steigerung bis 2030 um ein Drittel verglichen mit Basisjahr 2015
-summary:6-1-a_1,6.1.a - Phosphorous in flowing waters,6.1.a - Phosphor in Fließgewässern
-summary:6-1-a_1_target,Not exceeding benchmark values for specific types of water bodies at all monitoring points by 2030,Einhaltung oder Unterschreitung der gewässertypischen  Orientierungswerte an allen Messstellen bis 2030
-summary:6-1-b_1,6.1.b - Nitrate in groundwater,6.1.b - Nitrat im Grundwasser
-summary:6-1-b_1_target,Not exceeding the threshold value of 50&nbsp;mg/l of nitrate in groundwater by 2030,Einhaltung des Nitrat- Schwellenwertes von 50&nbsp;mg/l an allen Messstellen bis 2030
-summary:6-2-a_1,6.2 - Development cooperation for drinking water and sanitation,6.2 - Entwicklungszusammenarbeit für Trinkwasser und Sanitärversorgung
-summary:6-2-a_1_target,Give 10 million people access to water each year till 2030,Bis 2030 sollen jährlich 10 Millionen Menschen Zugang zu Wasser erhalten
-summary:7-1-ab_1,7.1.a - Final energy productivity,7.1.a - Endenergieproduktivität
-summary:7-1-ab_1_target,Increase energy productivity by 2.1&nbsp;% per year from 2008 to 2050,"Jährliche Steigerung um 2,1&nbsp;% im Zeitraum von 2008 – 2050"
-summary:7-1-ab_2,7.1.b - Primary energy consumption,7.1.b - Primärenergieverbrauch
-summary:7-1-ab_2_target,Reduce consumption by 20&nbsp;% by 2020 and by 50&nbsp;% by 2050 compared with 2008,Senkung um 20&nbsp;% bis 2020 und um 50&nbsp;% bis 2050 jeweils gegenüber 2008
-summary:7-2-a_1,7.2.a - Share of renewable energies in gross final energy consumption,7.2.a - Anteil erneuerbarer Energien am Brutto-Endenergieverbrauch
-summary:7-2-a_1_target,"Increase the proportion to 18&nbsp;% by 2020, to 30&nbsp;% by 2030 and to 60&nbsp;% by 2050","Anstieg auf 18&nbsp;% bis 2020, auf 30&nbsp;% bis 2030 und auf 60&nbsp;% bis 2050"
-summary:7-2-b_1,7.2.b - Share of electricity from renewable energy sources in electricity consumption,7.2.b - Anteil des Stroms aus erneuerbaren Energiequellen am Bruttostromverbrauch
-summary:7-2-b_1_target,"Increase the proportion to at least 35&nbsp;% by 2020, to at least 50&nbsp;% by 2030 and to at least 80&nbsp;% by 2050","Anstieg auf mindestens 35&nbsp;% bis 2020, auf mindestens 50&nbsp;% bis 2030 und auf mindestens 80&nbsp;% bis 2050"
-summary:8-1-a_1,8.1 - Raw material input productivity,8.1 - Gesamtrohstoffproduktivität
-summary:8-1-a_1_target,Trend of the years 2000 – 2010 to be continued up to 2030,Bis 2030 Beibehaltung des Trends der Jahre 2000 – 2010
-summary:8-2-ab_1,8.2.a - Government deficit,8.2.a - Staatsdefizit
-summary:8-2-ab_1_target,"Annual government deficit less than 3&nbsp;% of GDP, to be continued up to 2030","Jährliches Staatsdefizit kleiner als 3&nbsp;% des BIP, Beibehaltung bis 2030"
-summary:8-2-ab_2,8.2.b - Structural deficit,8.2.b - Strukturelles Defizit
-summary:8-2-ab_2_target,"Structurally balanced government budget, general government structural deficit must not exceed 0.5&nbsp;% of GDP, to be continued up to 2030","Strukturell ausgeglichener Staatshaushalt, gesamtstaatliches strukturelles Defizit von max. 0,5&nbsp;% des BIP, Beibehaltung bis 2030"
-summary:8-2-c_1,8.2.c - Government debt,8.2.c - Schuldenstand
-summary:8-2-c_1_target,"Ratio of government debt to GDP must not exceed 60&nbsp;%, to be continued up to 2030","Schuldenstandsquote max. 60&nbsp;% des BIP, Beibehaltung bis 2030"
-summary:8-3-a_1,8.3 - Gross fixed capital formation in relation to GDP,8.3 - Verhältnis der Bruttoanlageinvestitionen zum BIP
-summary:8-3-a_1_target,"Appropriate development of the ratio, to be continued up to 2030","Angemessene Entwicklung des Anteils, Beibehaltung bis 2030"
-summary:8-4-a_1,8.4 - Gross domestic product per capita,8.4 - Bruttoinlandsprodukt je Einwohner
-summary:8-4-a_1_target,Continued and appropriate economic growth,Stetiges und angemessenes Wirtschaftswachstum
-summary:8-5-ab_1,"8.5.a - Employment rate, total (20-64 years)",8.5.a - Erwerbstätigenquote insgesamt (20 - 64 Jahre)
-summary:8-5-ab_1_target,Increase the rate to 78&nbsp;% by 2030,Erhöhung auf 78&nbsp;% bis 2030
-summary:8-5-ab_2,"8.5.b - Employment rate, elders (60-64 years)",8.5.b - Erwerbstätigenquote Ältere (60 - 64 Jahre)
-summary:8-5-ab_2_target,Increase the rate to 60% by 2030,Erhöhung auf 60&nbsp;% bis 2030
-summary:8-6-a_1,8.6 - Number of members of the Textiles Partnership,8.6 - Anzahl der Mitglieder des Textilbündnisses
-summary:8-6-a_1_target,Increase the number significantly by 2030,Signifikante Steigerung der Anzahl bis 2030
-summary:9-1-a_1,9.1 - Private and public expenditure on research and development,9.1 - Private und öffentliche Ausgaben für Forschung und Entwicklung
-summary:9-1-a_1_target,At least 3.5&nbsp;% of GDP per year by 2025,"Jährlich mindestens 3,5&nbsp;% des BIP bis 2025"
-summary:indicator,Indicator,Indikator
-summary:status,Evaluation,Bewertung
-summary:status_summary,Status summary - Evaluation for Germany in previous years,Statusübersicht - Bewertung für Deutschland aus den Vorjahren
-summary:target,Target,Ziel
-summary:year,Year,Jahr
+frontpage:dialogue_link_1,To the indicators of the,Zu den Indikatoren der
+frontpage:dialogue_link_2,dialogue version,Dialogfassung
+frontpage:download_all,Download all data,Alle Daten herunterladen
+frontpage:heading,National Data for UN-SDGs,Indikatoren der UN-Nachhaltigkeitsziele
+frontpage:heading_dns,Sustainable Development in Germany,Indikatoren der Deutschen Nachhaltigkeitsstrategie
+frontpage:indstructions_dns,"Click on eack goal, or %before_link search %after_link for the indicators of the German Sustainability Strategy",
+frontpage:instructions,"Click on each goal, or %before_link search, %after_link for German statistics for Sustainable Development Goal global indicators.",Klicken Sie auf die einzelnen Ziele um zu den Daten zu den Indikatoren der Ziele für nachhaltige Entwicklung für Deutschland zu gelangen. Oder %before_link suchen %after_link Sie gezielt nach spezifischen Themen.
+frontpage:intro_title,17 goals to transform our world,17 Ziele zur Umgestaltung unserer Welt
+frontpage:link_18_title,Click here to get to the DESTATIS page about the German Sustainability Strategy,"Klicken Sie hier, um zur DESTATIS Seite der Deutschen Nachhaltigkeitsstrategie zu gelangen"
+frontpage:zip_file,ZIP file,ZIP file
+post:posts_by_category,Posts by Category,Beiträge geordnet nach Kategorien
+post:view_all_in_category,View all posts in the %category_name category, Zeige alle Beiträge in der %category_name Kategorie an
+search:did_you_mean,did you mean,Meinten Sie
+search:found_in,found in,gefunden unter
+search:goals,goals,Zielen
+search:indicator_search,Indicator search,Indikatorensuche
+search:indicators,indicators,Indikatoren
+search:keywords,Keywords,Schlagworte
+search:no_results,No results,Keine Ergebnisse
+search:search,Search,Suche
+search:search_results_for,Search results for,Ergebnisse zu
+status:blitz,The indicator is not moving in the right direction so that the gap to the target value is widening,Der Indikator entwickelt sich nicht in die gewünschte Richtung und somit vergrößert sich der Abstand zum Ziel
+status:exploring_data_sources,Exploring data sources,Datenquellenanalyse
+status:leicht bewölkt,"If the trend continues, the indicator will be presumably miss its target by at least 5&nbsp;% and at most 20&nbsp% of the difference between the target value and the current value","Bei Fortsetzung der Entwicklung würde das Ziel voraussichtlich um mindestens 5&nbsp;%, aber maximal um 20&nbsp;% der Differenz zwischen Zielwert und aktuellem Wert verfehlt"
+status:nebel,No evaluation possible,Keine Bewertung möglich
+status:not_applicable,Not applicable,Nicht zutreffend
+status:overall_reporting_status,Overall Reporting Status,Übersicht zum Berichtsstatus der
+status:reported_online,Reported online,Daten verfügbar
+status:reporting_status,Reporting Status,Berichtsstatus
+status:sonne,"If the trend continues, the target value will be met or the difference between the target value and the current value will be less than 5&nbsp;%",Bei Fortsetzung der Entwicklung beträgt die Abweichung vom Zielwert weniger als 5&nbsp;% der Differenz zwischen Zielwert und aktuellem Wert
+status:statistics_in_progress,Statistics in progress,in Bearbeitung
+status:status_by_goal,Status by goal,Status nach Ziel
+status:wolke,"The indicator is moving in the right direction but if the trend continues, the target value will be missed by more than 20&nbsp;% in the target year","Der Indikator entwickelt sich zwar in die gewünschte Richtung auf das Ziel zu, bei Fortsetzung der Entwicklung würde das Ziel im Zieljahr aber um mehr als 20&nbsp;% verfehlt"
+status:x,No evaluation possible,Keine Bewertung möglich
+general:built_using_open_sdg,Built using Open SDG,Seite basiert auf Open SDG
+general:dialog_front,Visit the indicators of the <u>dialogue version</u> of the German Sustainable Development Strategy,Zu den Indikatoren der <u>Dialogfassung</u> der Deutschen Nachhaltigkeitsstrategie
+general:dialog_indikator_1,Visit the indicator,Zum Indikator
+general:dialog_indikator_2,of the <u>dialogue version</u> of the German Sustainable Development Strategy,in der <u>Dialogfassung</u> der Deutschen Nachhaltigkeitsstrategie
+general:dialog_target_link_1,Visit the indicators of goal,Zu den Indikatoren von Ziel
+general:dialog_target_link_2,of the <u>dialogue version</u> of the German Sustainable Development Strategy,in der <u>Dialogfassung</u> der Deutschen Nachhaltigkeitsstrategie
+general:dns,Sustainable development in Germany,Nachhaltige Entwicklung in Deutschland
+general:dns_target,Range of indicators and postulates,Indikatorenbereiche und Postulate
+general:found_in_goals,goals,Zielen
+general:global,- Global,- Global
+general:goal,Goal,Ziel
+general:goals,Goals,Ziele
+general:home,Home,Start
+general:indicator,Indicator,Indikator
+general:indicator_cap,Indicator,Indikator
+general:indicator_link_dns,Related national indicator:,Verwandter nationaler Indikator:
+general:indicator_link_sdg,Related global indicator:,Verwandter globaler Indikator:
+general:indicator_low,indicator,Indikator
+general:indicators,Indicators,Indikatoren
+general:indicators_cap,Indicators,Indikatoren
+general:indicators_low,indicators,Indikatoren
+general:link_dns,To the page of the national indicators,Zur Seite der nationalen Indikatoren
+general:link_sdg,To the page of the global indicators,Zur Seite der globalen Indikatoren
+general:link_sdg_goal,Go to the page of the corresponding SDG Goal,Hier gelangen Sie zur Seite des Ziels der SDG-Indikatoren
+general:link_sdg_indicator,Go to the page of the corresponding SDG indicator,Hier gelangen Sie zur Seite des korrespondierenden SDG-Indikators
+general:loading,Loading search results,Ergebnisse werden geladen
+general:meta,Current status of the national indicators for the 17 Sustainable Development Goals (SDGs) in Germany with a publicly available data basis,Übersichtlicher Stand der Indikatoren der 17 Sustainable Development Goals (SDGs) in Deutschland samt öffentlich zur Verfügung stehender Datengrundlage
+general:meta_goal,Current status of the national indicators for Sustainable Development Goal,Übersichtlicher Stand der deutschen Indikatoren zu Sustainable Development Goal
+general:meta_indicator,Data for Germany for SDG indicator,Daten für Deutschland zu SDG-Indikator
+general:national,- National,- National
+general:next_goal,Next goal,Nächstes Ziel
+general:next_indicator,Next indicator,Nächster Indikator
+general:one_goal,one goal,einem Ziel
+general:one_indicator,One indicator,Ein Indikator
+general:opens_new_window,opens in a new window,in neuem Fenster öffnen
+general:page,Page,Seite
+general:pages,Pages,Seiten
+general:postulate,Postulate,Postulat
+general:prev_goal,Previous goal,Vorheriges Ziel
+general:prev_indicator,Previous indicator,Vorheriger Indikator
+general:sdg,Sustainable Development Goals,Ziele für Nachhaltige Entwicklung
+general:section,Section,Bereich
+general:seventeen_goals,17 Goals,17 Ziele
+general:target,Target,Unterziel
+general:target_link_dns,National indicators on,Nationale Indikatoren zu
+general:target_link_sdg,Global indicators on,Globale Indikatoren zu
+general:targets,Targets,Unterziele
+general:title,German Indicators For The Sustainable Development Goals,Deutschlands Indikatoren zu den Sustainable Development Goals
+general:title_dns,Indicators on the German Sustainability Strategy,Indikatoren zur Nachhaltigkeitsstrategie für Deutschland
+indicator:add_info,Additional time series,Zusätzliche Zeitreihen
+indicator:additional_information_blurb,"The time series below consists of ranges of numbers instead of individual values. For technical reasons, the presentation in the form of interactive charts and tables is only possible for time series with purely numerical values, therefore the time series is presented here in PDF format.","Die untenstehende Zeitreihe besteht aus Zahlenspannen anstelle einzelner Werte. Aus techischen Gründen ist die Darstellung in Form von interaktiven Grafiken und Tabellen nur für Zeitreihen mit rein numerischen Werten möglich, daher wird die Zeitreihe hier im PDF-Format dargestellt."
+indicator:chart,Chart,Grafik
+indicator:clear_all,Clear all,Auswahl aufheben
+indicator:clear_selections,Clear selections,Auswahl aufheben
+indicator:contentAndProgress,Content and progress,Inhalt und Entwicklung
+indicator:copyright,Copyright,Copyright
+indicator:dataset_size_warning,There are too many datasets to show on the chart. Not all will be shown until you remove some selections.,"Zu viele Zeitreihen ausgewählt, um diese in einer Grafik darzustellen. Es können nicht alle Zeitreihen dargestellt werden."
+indicator:details,Details,Details
+indicator:dns_metadata_blurb,"This table includes additional information to the above visualized indicators, i.e. a short definition of this indicator and a description of the politically determined target values as well as explaining the political intention behind selecting this indicator.","Diese Übersicht beinhaltet zusätzliche Informationen zu den oben dargestellten Indikatoren, wie eine kurze Definition des Indikators und eine Beschreibung des politisch festgelegten Zielwertes sowie die politische Intention für die Auswahl des Indikators."
+indicator:download_chart,Download Chart CSV,Grafik im CSV-Format speichern
+indicator:download_chart_image,Download Chart Image,Grafik als Bild speichern
+indicator:download_csv,Download CSV,im CSV-Format speichern
+indicator:download_csv_title,Download as CSV,im CSV-Format speichern
+indicator:download_headline,Download Headline CSV,Speichern der Headline im CSV-Format
+indicator:download_headline_title,Download headline data as CSV,Speichern der Headline im CSV-Format
+indicator:download_source,Download Source CSV,Daten im CSV-Format speichern
+indicator:download_source_title,Download source data as CSV,Daten im CSV-Format speichern
+indicator:download_table,Download Table CSV,Tabelle im CSV-Format speichern
+indicator:edit,Edit,Bearbeiten
+indicator:edit_data,Edit Data,Daten bearbeiten
+indicator:edit_metadata,Edit Metadata,Metadaten bearbeiten
+indicator:footnote,Comment,Anmerkung
+indicator:geographical_area,Geographical Area,Geographische Abdeckung
+indicator:global_metadata,Global Metadata,Globale Metadaten
+indicator:global_metadata_blurb,"This table provides information on metadata for SDG indicators. <a href=""https://unstats.un.org/sdgs/metadata/"">Global metadata</a> is provided by the UN Statistics Division.","Diese Übersicht stellt Informationen zu den globalen Metadaten des jeweiligen SDG-Indikators bereit. Die <a href=""https://unstats.un.org/sdgs/metadata/"">globalen Metadaten</a> werden durch die Statistische Division der Vereinten Nationen bereitgestellt."
+indicator:history,Indicator status summary,Statusübersicht
+indicator:history_blurb,The synoptic table provides information about the evaluation of the indicator for Germany in previous years. It shows if the weather symbol assigned to an indicator was rather stable or volatile in the past years. <i>(Evaluation of the indicator report 2018)</i>,"In dieser Übersichtstabelle sind die Bewertungen des Indikators für Deutschland nach Stand der vorhergehenden Jahre dargestellt. Daran lässt sich ablesen, ob das Wettersymbol für einen Indikator in den vergangenen Jahren stabil oder eher volatil war. <i>(Bewertungen aus dem Indikatorenbericht 2018)</i>"
+indicator:legend_help,Click on the legend to remove individual lines from the chart.,Klicken Sie auf die Legende um Zeitreihen aus der Grafik zu entfernen.
+indicator:loading_map,Loading map,Karte wird geladen
+indicator:map,Map,Karte
+indicator:metadata,Metadata,Metadaten
+indicator:national_metadata,National Metadata,Nationale Metadaten
+indicator:national_metadata_blurb,The international organisations (custodian agencies) that are responsible for the respective SDG-indicator publish methodological guidelines for the calculation of the indicator - so-called global metadata.<br><br>Displayed here are the national time series that fit the global metadata best as well as their comparability to the global metadata. Please find further methodical and country-specific information of the time series in the related national metadata sheet.,"Die für den jeweiligen SDG-Indikator zuständigen internationalen Organisationen (Custodian Agencies) veröffentlichen methodische Vorgaben zur Berechnung des Indikators - die sogenannten globalen Metadaten.<br><br>Hier werden die am besten dazu geeigneten, national verfügbaren Zeitreihen bereitgestellt und ihre Vergleichbarkeit mit den globalen Metadaten ausgewiesen. Zugehörige methodische und länderspezifische Informationen dieser Zeitreihen finden Sie im nationalen Metadatenblatt."
+indicator:no_data_hint,No options available because of filters above,Aufgrund der bereits getroffenen Auswahl sind keine weiteren Auswahlmöglichkeiten verfügbar.
+indicator:no_selection,No disaggregations are available for this indicator,Für diesen Indikator stehen keine Disaggregationnen zur Verfügung
+indicator:select_all,Select all,Alle auswählen
+indicator:series_help,Select here what should be displayed in the chart and in the table.,"Wählen Sie hier aus, was in der Grafik bzw. Tabelle angezeigt werden soll."
+indicator:series_help_dns,Select here what should be displayed in the chart and in the table.,"Wählen Sie hier aus, was in der Grafik bzw. Tabelle angezeigt werden soll."
+indicator:source,Source,Datenquelle
+indicator:sources,Sources,Datenquellen
+indicator:specification,Specification,
+indicator:sub_categories,Selection,Auswahl
+indicator:sub_categories_dns,Selection,Auswahl
+indicator:table,Table,Tabelle
+indicator:timeseries,Time series,Zeitreihe
+indicator:unit_of_measurement,Unit of measurement,Einheit
+indicator:units_type,Units type,Einheit
+indicator:variable_hint,Available when '%field' is selected,Verfügbar
+indicator:view_indicator_list,View this goal's indicator list,Zeigt die Indikatorenliste zum SDG-Ziel an.
