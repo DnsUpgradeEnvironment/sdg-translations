@@ -47,7 +47,7 @@ total: Insgesamt
 "1) total": "Insgesamt"
 Year: Jahr
 timeseries: "Zeitreihe"
-area: Gebiet
+area: Region
 method: Berechnungsmethode
 
 #ages
@@ -414,7 +414,7 @@ seats held by women in national parliament: Sitze im nationalen Parlament, die F
 seats held by women in national parliament (%): Sitze im nationalen Parlament, die Frauen innehaben
 "seats held by women in the parliament of:": "Sitze in den Landesparlamenten, die Frauen innehaben"
 "seats held by women in the parliament of (%):": "Sitze in den Landesparlamenten, die Frauen innehaben"
-region: Bundesland
+region: Region
 baden-wuerttemberg: Baden-Württemberg
 bavaria: Bayern
 berlin: Berlin
