@@ -37,6 +37,7 @@ data:a) germany (total),Germany,Deutschland
 data:a) materially deprived persons,a) Materially deprived persons,a) Materiell Deprivierte
 data:a) overweight,Total (Overweight including obese),Insgesamt (Übergewicht inklusive Adipositas)
 data:a) rural and non-rural areas,Rural and non-rural areas,Ländliche und nicht-ländliche Räume
+data:a) time series,Time series,Zeitreihe
 data:a) total,Total,Insgesamt
 data:a) total (moving four-year average),Total (moving four-year average),Insgesamt (gleitender Vierjahresdurchschnitt)
 data:adolescents (12 to 17 years),Adolescents (12 to 17 years),Jugendliche (12 bis 17 Jahre)
@@ -50,6 +51,7 @@ data:b) obese,Obese,Adipositas
 data:b) primary energy consumption,Primary energy consumption,Primärenergieverbrauch
 data:b) severely materially deprived persons,b) Serverely materially deprived persons,b) Erheblich materiell Deprivierte
 data:b) students from other developing and emerging countries,Students from other developing and emerging countries,Studierende aus den übrigen Entwicklungs- und Schwellenländern
+data:b) target,Target,Ziel
 data:baltic sea,Baltic sea,Ostsee
 data:bb,Brandenburg,Brandenburg
 data:be,Berlin,Berlin
@@ -75,6 +77,7 @@ data:dimension,Time series,Zeitreihe
 data:direct and indirect co2 emissions,Direct and indirect CO2 emissions,Direkte und indirekte CO<sub>2</sub>-Emissionen
 data:direct and indirect energy consumption,Direct and indirect energy consumption,Direkter und indirekter Energieverbrauch
 data:direct and indirect raw material consumption,Direct and indirect raw material consumption,Direkter und indirekter Rohstoffeinsatz
+data:display,Display,Anzeigen
 data:drinking water,Drinking water,Trinkwasser
 data:drinking water and sanitation,Drinking water and sanitation,Trinkwasser und sanitärversorgung
 data:e) researchers from ldcs,Researchers from LDCs,Forschende aus LDCs
