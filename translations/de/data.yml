@@ -156,4 +156,6 @@ imports of processed products from ldcs: Einfuhren von weiterverarbeiteten Produ
 imports from ldcs: Einfuhren aus LDCs
 a) time series: Zeitreihe
 b) target: Ziel
+b) target (min): Ziel
+b) target (max): Ziel
 display: Anzeigen

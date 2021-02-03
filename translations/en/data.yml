@@ -156,4 +156,6 @@ imports of processed products from ldcs: Imports of processed products from LDCs
 imports from ldcs: Imports from LDCs
 a) time series: Time series
 b) target: Target
+b) target (min): Target
+b) target (max): Target
 display: Display
