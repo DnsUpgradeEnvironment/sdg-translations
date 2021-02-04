@@ -27,9 +27,9 @@ age: Age group
 adolescents (12 to 17 years): Adolescents (12 to 17 years)
 adults (15 years and older): Adults (15 years and older)
 0- to 2-year-olds: 0- to 2-year-olds
-11- to 17-year-olds: 11- to 17-year-olds
+b) 11- to 17-year-olds: 11- to 17-year-olds
 20 - 64 years: 20 to 64 years
-3- to 10-year-olds: 3- to 10-year-olds
+a) 3- to 10-year-olds: 3- to 10-year-olds
 3- to 5-year-olds: 3- to 5-year-olds
 60 - 64 years: 60 to 64 years
 air pollutants: Air pollutants
@@ -75,7 +75,7 @@ st: Saxony-Anhalt
 sh: Schleswig-Holstein
 th: Thuringia
 dimension: Time series
-a) overweight: Total (Overweight including obese)
+a) overweight: Overweight without obese
 b) obese: Obese
 in relation to the middle and upper centers of the respective year: In relation to the middle and upper centers of the respective year
 in relation to the middle and upper centers of the year 2012: In relation to the middle and upper centers of the year 2012
@@ -93,8 +93,9 @@ tertiary or post-secondary non-tertiary education: Total #Tertiary or post-secon
 tertiary education: Tertiary education
 economy: Economy
 civil service: civil service
-drinking water and sanitation: Drinking water and sanitation
-drinking water: Drinking water
+a) drinking water and sanitation: Drinking water and sanitation
+b) drinking water: Drinking water
+c) sanitation: Sanitation
 a) final energy productivity: Final energy productivity
 b) primary energy consumption: Primary energy consumption
 consumption, investments and exports (price-adjusted): "Consumption, investments and exports (price-adjusted)"

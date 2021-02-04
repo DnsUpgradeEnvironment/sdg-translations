@@ -27,9 +27,9 @@ age: Altersklasse
 adolescents (12 to 17 years): Jugendliche (12 bis 17 Jahre)
 adults (15 years and older): Erwachsene (ab 15 Jahren)
 0- to 2-year-olds: 0- bis 2-Jährige
-11- to 17-year-olds: 11- bis 17-Jährige
+b) 11- to 17-year-olds: 11- bis 17-Jährige
 20 - 64 years: 20 bis 64 Jahre
-3- to 10-year-olds: 3- bis 10-Jährige
+a) 3- to 10-year-olds: 3- bis 10-Jährige
 3- to 5-year-olds: 3- bis 5-Jährige
 60 - 64 years: 60 bis 64 Jahre
 air pollutants: Luftschadstoffe
@@ -75,7 +75,7 @@ st: Sachsen-Anhalt
 sh: Schleswig-Holstein
 th: Thüringen
 dimension: Zeitreihe
-a) overweight: Insgesamt (Übergewicht inklusive Adipositas)
+a) overweight: Übergewicht ohne Adipositas
 b) obese: Adipositas
 in relation to the middle and upper centers of the respective year: Bezogen auf die Mittel- und Oberzentren des jeweiligen Jahres
 in relation to the middle and upper centers of the year 2012: Bezogen auf die Mittel- und Oberzentren des Jahres 2012
@@ -91,13 +91,14 @@ pandemic prevention and reaction: Pandemieprävention und -reaktion
 containment of the covid-19 pandemic: Eindämmung der covid-19-pandemie
 tertiary or post-secondary non-tertiary education: Insgesamt #Tertiärer oder postsekundarer nicht-tertärer Bildungsabschluss
 tertiary education: Tertiärer Abschluss
-economy: Wirtschaft
-civil service: Öffentlicher Dienst
-drinking water and sanitation: Trinkwasser und sanitärversorgung
-drinking water: Trinkwasser
+economy: in Aufsichtsräten von börsennotiertenund paritätischmitbestimmten Unternehmen
+civil service: in Führungspositionen im öffentlichen Dienst
+a) drinking water and sanitation: Trinkwasser und sanitärversorgung
+b) drinking water: Trinkwasser
+c) sanitation: Sanitärversorgung
 a) final energy productivity: Endenergieproduktivität
 b) primary energy consumption: Primärenergieverbrauch
-consumption, investments and exports (price-adjusted): Konsum, Investitionen und Exporte (preisbereinigt)
+consumption, investments and exports (price-adjusted): Wert von Konsum, Investitionen und Exporte (preisbereinigt)
 raw material use for consumption, investments and exports: "Rohstoffeinsatz für Konsum, Investitionen und Exporte"
 raw material input productivity: Gesamtrohstoffproduktivität
 funding balance (share of gross domestic product (at current prices) in %): "Finanzierungssaldo"
@@ -146,7 +147,7 @@ soil conservation: Internationaler Bodenschutz (Bruttoentwicklungsausgaben für 
 rating for germany: Bewertung für Deutschland
 number of partner countries of german development cooperation whose rating has improved compared with 2012: Anzahl der Partnerländer deutscher Entwicklungszusammenarbeit, deren Bewertung sich gegenüber 2012 verbessert hat
 calculation as net expenditure: Berechnung als Nettoausgabe
-calculation in grant equivalents: Berechnung inZuschussäquivalenten
+calculation in grant equivalents: Berechnung in Zuschussäquivalenten
 a) total: Insgesamt
 d) students from ldcs: Studierende aus LDCs
 b) students from other developing and emerging countries: Studierende aus den übrigen Entwicklungs- und Schwellenländern
