@@ -20,7 +20,6 @@ calendar:September,September,September
 data:0- to 2-year-olds,0- to 2-year-olds,0- bis 2-Jährige
 data:1 000,1 000,1 000
 data:1 000 eur,1 000 €,1 000 €
-data:11- to 17-year-olds,11- to 17-year-olds,11- bis 17-Jährige
 data:1990 = 100,1990 = 100,1990 = 100
 data:20 - 64 years,20 to 64 years,20 bis 64 Jahre
 data:2000 = 100,2000 = 100,2000 = 100
@@ -28,14 +27,15 @@ data:2005 = 100,2005 = 100,2005 = 100
 data:2008 = 100,2008 = 100,2008 = 100
 data:2015 = 100,2015 = 100,2015 = 100
 data:2030 = 100,2030 = 100,2030 = 100
-data:3- to 10-year-olds,3- to 10-year-olds,3- bis 10-Jährige
 data:3- to 5-year-olds,3- to 5-year-olds,3- bis 5-Jährige
 data:60 - 64 years,60 to 64 years,60 bis 64 Jahre
+data:a) 3- to 10-year-olds,3- to 10-year-olds,3- bis 10-Jährige
 data:a) criminal offences (overall),Criminal offences (overall),Straftaten (insgesamt)
+data:a) drinking water and sanitation,Drinking water and sanitation,Trinkwasser und sanitärversorgung
 data:a) final energy productivity,Final energy productivity,Endenergieproduktivität
 data:a) germany (total),Germany,Deutschland
 data:a) materially deprived persons,a) Materially deprived persons,a) Materiell Deprivierte
-data:a) overweight,Total (Overweight including obese),Insgesamt (Übergewicht inklusive Adipositas)
+data:a) overweight,Overweight without obese,Übergewicht ohne Adipositas
 data:a) rural and non-rural areas,Rural and non-rural areas,Ländliche und nicht-ländliche Räume
 data:a) time series,Time series,Zeitreihe
 data:a) total,Total,Insgesamt
@@ -47,6 +47,8 @@ data:air pollutants,Air pollutants,Luftschadstoffe
 data:air pollutants overall,Air pollutants overall,Luftschadstoffe insgesamt
 data:all line-based technologies,All line-based technologies,Alle leitungsgebundenen Technologien
 data:area,Area,Region
+data:b) 11- to 17-year-olds,11- to 17-year-olds,11- bis 17-Jährige
+data:b) drinking water,Drinking water,Trinkwasser
 data:b) obese,Obese,Adipositas
 data:b) primary energy consumption,Primary energy consumption,Primärenergieverbrauch
 data:b) severely materially deprived persons,b) Serverely materially deprived persons,b) Erheblich materiell Deprivierte
@@ -63,13 +65,14 @@ data:burglary in homes,Burglary in homes,Wohnungseinbruchsdiebstahl
 data:bw,Baden-Wuerttemberg,Baden-Württemberg
 data:by,Bavaria,Bayern
 data:c) researchers from other developing and emerging countries,Researchers from other developing and emerging countries,Forschende aus den übrigen Entwicklungs- und Schwellenländern
+data:c) sanitation,Sanitation,Sanitärversorgung
 data:cable television (catv),Cable television (CATV),Kabelfernsehen (CATV)
 data:calculated annual values,Calculated annual values,Berechnete jährliche Werte
 data:calculation as net expenditure,Calculation as net expenditure,Berechnung als Nettoausgabe
-data:calculation in grant equivalents,Calculation in grant equivalents,Berechnung inZuschussäquivalenten
-data:civil service,civil service,Öffentlicher Dienst
+data:calculation in grant equivalents,Calculation in grant equivalents,Berechnung in Zuschussäquivalenten
+data:civil service,civil service,in Führungspositionen im öffentlichen Dienst
 data:co2 emissions per mileage of motor vehicles of the public sector,CO<sub>2</sub> emissions per mileage of motor vehicles of the public sector,CO<sub>2</sub>-Emissionen je Fahrleistung der Kfz der öffentlichen Hand
-"data:consumption, investments and exports (price-adjusted)","Consumption, investments and exports (price-adjusted)","Konsum, Investitionen und Exporte (preisbereinigt)"
+"data:consumption, investments and exports (price-adjusted)","Consumption, investments and exports (price-adjusted)","Wert von Konsum, Investitionen und Exporte (preisbereinigt)"
 data:containment of the covid-19 pandemic,containment of the covid-19 pandemic,Eindämmung der covid-19-pandemie
 data:criminal offences,Criminal offences,Straftaten
 data:d) students from ldcs,Students from LDCs,Studierende aus LDCs
@@ -80,10 +83,8 @@ data:direct and indirect co2 emissions,Direct and indirect CO2 emissions,Direkte
 data:direct and indirect energy consumption,Direct and indirect energy consumption,Direkter und indirekter Energieverbrauch
 data:direct and indirect raw material consumption,Direct and indirect raw material consumption,Direkter und indirekter Rohstoffeinsatz
 data:display,Display,Anzeigen
-data:drinking water,Drinking water,Trinkwasser
-data:drinking water and sanitation,Drinking water and sanitation,Trinkwasser und sanitärversorgung
 data:e) researchers from ldcs,Researchers from LDCs,Forschende aus LDCs
-data:economy,Economy,Wirtschaft
+data:economy,Economy,in Aufsichtsräten von börsennotiertenund paritätischmitbestimmten Unternehmen
 data:emas organisational locations,EMAS organisational locations,EMAS-Organisationsstandorte
 data:emas organisations,EMAS organisations,EMAS-Organisationen
 data:employees in thousands,Employees in thousands,Beschäftigte in Tausend
