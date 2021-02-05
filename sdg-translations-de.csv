@@ -36,6 +36,7 @@ data:a) final energy productivity,Final energy productivity,Endenergieproduktivi
 data:a) germany (total),Germany,Deutschland
 data:a) materially deprived persons,a) Materially deprived persons,a) Materiell Deprivierte
 data:a) overweight,Overweight without obese,Übergewicht ohne Adipositas
+data:a) pandemic prevention and reaction,Pandemic prevention and reaction,Pandemieprävention und -reaktion
 data:a) rural and non-rural areas,Rural and non-rural areas,Ländliche und nicht-ländliche Räume
 data:a) time series,Time series,Zeitreihe
 data:a) total,Total,Insgesamt
@@ -48,6 +49,7 @@ data:air pollutants overall,Air pollutants overall,Luftschadstoffe insgesamt
 data:all line-based technologies,All line-based technologies,Alle leitungsgebundenen Technologien
 data:area,Area,Region
 data:b) 11- to 17-year-olds,11- to 17-year-olds,11- bis 17-Jährige
+data:b) containment of the covid-19 pandemic,containment of the covid-19 pandemic,Eindämmung der COVID-19-Pandemie
 data:b) drinking water,Drinking water,Trinkwasser
 data:b) obese,Obese,Adipositas
 data:b) primary energy consumption,Primary energy consumption,Primärenergieverbrauch
@@ -68,12 +70,11 @@ data:c) researchers from other developing and emerging countries,Researchers fro
 data:c) sanitation,Sanitation,Sanitärversorgung
 data:cable television (catv),Cable television (CATV),Kabelfernsehen (CATV)
 data:calculated annual values,Calculated annual values,Berechnete jährliche Werte
-data:calculation as net expenditure,Calculation as net expenditure,Berechnung als Nettoausgabe
+data:calculation as net expenditure,Calculation as net expenditure,Berechnung als Netto-Ausgabe
 data:calculation in grant equivalents,Calculation in grant equivalents,Berechnung in Zuschussäquivalenten
 data:civil service,civil service,in Führungspositionen im öffentlichen Dienst
 data:co2 emissions per mileage of motor vehicles of the public sector,CO<sub>2</sub> emissions per mileage of motor vehicles of the public sector,CO<sub>2</sub>-Emissionen je Fahrleistung der Kfz der öffentlichen Hand
 "data:consumption, investments and exports (price-adjusted)","Consumption, investments and exports (price-adjusted)","Wert von Konsum, Investitionen und Exporte (preisbereinigt)"
-data:containment of the covid-19 pandemic,containment of the covid-19 pandemic,Eindämmung der covid-19-pandemie
 data:criminal offences,Criminal offences,Straftaten
 data:d) students from ldcs,Students from LDCs,Studierende aus LDCs
 data:data from bmel,Data from BMEL,Daten des BMEL
@@ -139,7 +140,6 @@ data:number of partner countries of german development cooperation whose rating 
 data:nw,North Rhine-Westphalia,Nordrhein-Westfalen
 data:objects with digitalisat,objects with digitalisat,Objekte mit Digitalisat
 data:other criminal offences,Other criminal offences,Sonstige Straftaten
-data:pandemic prevention and reaction,Pandemic prevention and reaction,Pandemieprävention und -reaktion
 data:partnership for sustainable textiles,Partnership for sustainable textiles,Bündnis für nachhaltige Textilien
 data:passenger transport performance,Passenger transport performance,Personenbeförderungsleistung
 data:per 100 000 inhabitants,Per 100 000 inhabitants,Je 100 000 Einwohner
@@ -179,6 +179,7 @@ data:total objects,Total objects,Objekte insgesamt
 data:total official development assistance regarding food security,Total official development assistance regarding food security,Öffentliche Entwicklungsaufgaben im Bereich Ernährungssicherheit insgesamt
 data:transport area,Transport area,Verkehrsfläche
 data:typification,Typification,Räumliche Typologie
+data:unit,Unit,Einheit
 dns_goals:1-short,No poverty,Keine Armut
 dns_goals:1-title,,Armut in allen ihren Formen und überall beenden
 dns_goals:10-short,Reduced inequalities,Weniger Ungleichheiten
@@ -278,7 +279,7 @@ dns_targets:2.1.1-title,Environmentally sound production in our cultivated lands
 dns_targets:2.2.1-title,Realising globally the right to food,Das Recht auf Nahrung weltweit verwirklichen
 dns_targets:3.1.1-title,Living healthy longer,Länger gesund leben
 dns_targets:3.2.1-title,Keeping the environment healthy,Gesunde Umwelt erhalten
-dns_targets:3.3.1-title,,
+dns_targets:3.3.1-title,,Globale Gesundheitsarchitektur stärken
 dns_targets:4.1.1-title,Continuously improving education and vocational training,Bildung und Qualifikation kontinuierlich verbessern
 dns_targets:4.2.1-title,Improving the compatibility of work and family life,Vereinbarkeit von Familie und Beruf verbessern
 dns_targets:5.1.1-title,Promoting equal opportunities in society,Gleichstellung und partnerschaftliche Aufgabenteilung fördern
