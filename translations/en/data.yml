@@ -87,8 +87,8 @@ moving five-year average, referring to the middle year: "Moving five-year averag
 data from destatis: Data from Destatis
 data from bmel: Data from BMEL
 total official development assistance regarding food security: Total official development assistance regarding food security
-pandemic prevention and reaction: Pandemic prevention and reaction
-containment of the covid-19 pandemic: containment of the covid-19 pandemic
+a) pandemic prevention and reaction: Pandemic prevention and reaction
+b) containment of the covid-19 pandemic: containment of the covid-19 pandemic
 tertiary or post-secondary non-tertiary education: Total #Tertiary or post-secondary non-tertiary education
 tertiary education: Tertiary education
 economy: Economy
@@ -160,3 +160,4 @@ b) target: Target
 b) target (min): Target
 b) target (max): Target
 display: Display
+unit: Unit
