@@ -877,6 +877,7 @@ metadata_fields:comparison_sdg,Comparability with global metadata,Vergleichbarke
 metadata_fields:computation_calculations,Calculations,Methodik
 metadata_fields:computation_definitions,Definitions,Definitionen
 metadata_fields:computation_units,Unit of measurement,Einheit
+metadata_fields:data_state,Data state,Datenstand
 metadata_fields:dns_content_url,Content and progress,Inhalt und Entwicklung
 metadata_fields:dns_content_url_text,Content and progress,Inhalt und Entwicklung
 metadata_fields:dns_indicator_content,Content and progress,Inhalt und Entwicklung
