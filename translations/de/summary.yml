@@ -31,9 +31,9 @@ status: Bewertung
 3-2-b_1: 3.2.b - Anteil der Bevölkerung mit erhöhter PM10-Feinstaubexposition
 3-2-b_1_target: Erreichung des Feinstaub- WHO-Richtwerts von 20 Mikrogramm/Kubikmeter für  PM10 im Jahresmittel möglichst flächendeckend bis 2030
 3-3-a_1: 3.3 - Beitrag Deutschlands zur globalen Pandemieprävention und -reaktion
-3-3-a_1_target: Steigerung der Ausgaben bis 2030!!!!
+3-3-a_1_target: Steigerung der Ausgaben bis 2030
 4-1-a_1: 4.1.a - Frühe Schulabgängerinnen und Schulabgänger
-4-1-a_1_target: Verringerung des Anteils auf 9,5 Prozent bis 2020
+4-1-a_1_target: Verringerung des Anteils auf 9,5 Prozent bis 2030
 4-1-b_1: 4.1.b - Akademisch Qualifizierte und beruflich Höherquali-fizierte (30- bis 34-Jährige mit tertiärem oder post-sekundarem nichttertiä-rem Abschluss)
 4-1-b_1_target: Steigerung des Anteils auf 55 Prozent bis 2030
 4-2-ab_1: 4.2.a - Ganztagsbetreuung für Kinder (0- bis 2-Jährige)
@@ -56,7 +56,7 @@ status: Bewertung
 6-1-b_1_target: Einhaltung des Nitrat Schwellenwertes von 50 Milligramm pro Liter an allen Messstellen bis 2030
 6-2-ab_1: 6.2.a - Anzahl der Menschen, die einen neuen oder hochwertigeren Zugang zur Trinkwasserversorgung durch deutsche Unterstützung erhalten
 6-2-ab_1_target: 6 Millionen Menschen pro Jahr bis 2030
-6-2-ab_2: 6.2.b - Anzahl der Menschen, die einen neuen oder verbesserten Anschluss zur Sanitärversorgung durch deutsche Unter-stützung erhalten
+6-2-ab_2: 6.2.b - Anzahl der Menschen, die einen neuen oder verbesserten Anschluss zur Sanitärversorgung durch deutsche Unterstützung erhalten
 6-2-ab_2_target: 4 Millionen Menschen pro Jahr bis 2030
 7-1-ab_1: 7.1.a - Endenergieproduktivität
 7-1-ab_1_target: Steigerung um 2,1 Prozent pro Jahr im Zeitraum von 2008 – 2050
@@ -65,7 +65,7 @@ status: Bewertung
 7-2-a_1: 7.2.a - Anteil erneuerbarer Energien am Brutto-Endenergieverbrauch
 7-2-a_1_target: Anstieg auf 18 Prozent bis 2020, auf 30 Prozent bis 2030, auf 45 Prozent bis 2040 und auf 60 Prozent bis 2050
 7-2-b_1: 7.2.b - Anteil des Stroms aus erneuerbaren Energiequellen am Bruttostromverbrauch
-7-2-b_1_target: Anstieg auf mindestens 35 Prozent bis 2020, 65 Prozent bis 2030 und auf mindestens 80 Prozent bis 2050!!!!
+7-2-b_1_target: Anstieg auf mindestens 35 Prozent bis 2020, 65 Prozent bis 2030 und auf mindestens 80 Prozent bis 2050
 8-1-a_1: 8.1 - Gesamtrohstoffproduktivität
 8-1-a_1_target: Beibehaltung des Trends der Jahre 2000 – 2010 bis 2030
 8-2-ab_1: 8.2.a - Staatsdefizit
@@ -93,9 +93,9 @@ status: Bewertung
 10-2-a_1: 10.2 - Gini-Koeffizient des Einkommens nach Sozialtransfers
 10-2-a_1_target: Gini-Koeffizient Einkommen nach Sozialtransfer bis 2030 unterhalb des EU-28-Wertes
 11-1-a_1: 11.1.a - Anstieg der Siedlungs- und Verkehrsfläche in ha pro Tag
-11-1-a_1_target: Senkung auf durchschnittlich max. 30 !!!!ha pro Tag bis 2030
+11-1-a_1_target: Senkung auf durchschnittlich max. 30 ha pro Tag bis 2030
 11-1-b_1: 11.1.b - Freiraumverlust
-11-1-b_1_target: Verringerung des einwohnerbezogenen Freiflächenverlusts
+11-1-b_1_target: Verringerung des einwohnerbezogenen Freiflächenverlustes
 11-1-c_1: 11.1.c - Siedlungsdichte
 11-1-c_1_target: Keine Verringerung der Siedlungsdichte
 11-2-a_1: 11.2.a - Endenergieverbrauch im Güterverkehr
@@ -108,9 +108,9 @@ status: Bewertung
 11-3-a_1_target: Senkung des Anteils der überlasteten Personen an der Bevölkerung auf 13 Prozent bis 2030
 11-4-a_1: 11.4 - Zahl der Objekte in der Deutschen Digitalen Bibliothek
 11-4-a_1_target: Steigerung der Zahl der in der Deutschen Digitalen Bibliothek vernetzten Objekte auf 50 Millionen bis 2030
-12-1-a_1: 12.1.a - Marktanteil von Produk-ten mit staatlichen Umweltzeichen
+12-1-a_1: 12.1.a - Marktanteil von Produkten mit staatlichen Umweltzeichen
 12-1-a_1_target: Steigerung des Marktanteils auf 34 Prozent bis 2030
-12-1-b_1: 12.1.ba - Globale Umweltinanspruchnahme durch den Konsums privater Haushalte  - Rohstoffeinsatz
+12-1-b_1: 12.1.ba - Globale Umweltinanspruchnahme durch den Konsums privater Haushalte - Rohstoffeinsatz
 12-1-b_1_target: Kontinuierliche Reduzierung 
 12-1-b_2: 12.1.bb - Globale Umweltinanspruchnahme durch den Konsums privater Haushalte - Energieverbrauch
 12-1-b_2_target: Kontinuierliche Reduzierung 
@@ -129,7 +129,7 @@ status: Bewertung
 14-1-a_1: 14.1.aa - Nährstoffeinträge in Küstengewässer und Meeresgewässer – Stickstoffeintrag über die Zuflüsse in die Ostsee
 14-1-a_1_target: Einhaltung des guten Zustands nach Oberflächengewässerverordnung (Jahresmittelwerte für Gesamtstickstoff bei in die Ostsee mündenden Flüssen sollen 2,6 Milligramm pro Liter nicht überschreiten)
 14-1-a_2: 14.1.ab - Nährstoffeinträge in Küstengewässer und Meeresgewässer – Stickstoffeintrag über die Zuflüsse in die Nordsee
-14-1-a_2_target: Einhaltung des guten Zustands nach Ober-flächengewässerverordnung (Jahresmit-telwerte für Gesamtstickstoff bei in die Nordsee mündenden Flüssen sollen 2,8 Milligramm pro Liter nicht überschreiten)
+14-1-a_2_target: Einhaltung des guten Zustands nach Oberflächengewässerverordnung (Jahresmit-telwerte für Gesamtstickstoff bei in die Nordsee mündenden Flüssen sollen 2,8 Milligramm pro Liter nicht überschreiten)
 14-1-b_1: 14.1.b - Anteil der nachhaltig befischten Fischbestände in Nord- und Ostsee
 14-1-b_1_target: Alle wirtschaftlich genutzten Fischbestände sollen nach dem MSY-Ansatz nachhaltig bewirtschaftet werden bis 2020
 15-1-a_1: 15.1 - Artenvielfalt und Landschaftsqualität
