@@ -14,6 +14,10 @@ history_indicator_2: Indikator
 history_target_2: Ziel
 history_year_d_2: Jahr
 history_status_year_d_2: Bewertung
+history_indicator_3: Indikator
+history_target_3: Ziel
+history_year_d_3: Jahr
+history_status_year_d_3: Bewertung
 indicator: Indikatorennummerierung
 indicator_definition: Globale Indikatorenbeschreibung
 dns_indicator_definition: Definition <small> (Text aus dem Indikatoren&shy;bericht 2021)</small>
