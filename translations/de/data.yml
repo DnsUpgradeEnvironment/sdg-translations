@@ -42,11 +42,11 @@ pm2.5: PM<sub>2,5</sub>
 area: Region
 eu-28: EU-28
 germany: Deutschland
-euro zone: Euro-Zone
+euro zone: Eurozone
 typification: Räumliche Typologie
-a) rural and non-rural areas: Ländliche und nicht-ländliche Räume
-non-rural areas: Nicht-ländliche Räume
-rural areas: Ländliche Räume
+a) rural and non-rural areas: insgesamt #Ländliche und nicht-ländliche Räume
+non-rural areas: nicht-ländliche Räume
+rural areas: ländliche Räume
 sea: Meer
 north sea: Nordsee
 baltic sea: Ostsee
@@ -93,7 +93,7 @@ tertiary or post-secondary non-tertiary education: Insgesamt #Tertiärer oder po
 tertiary education: Tertiärer Abschluss
 economy: in Aufsichtsräten von börsennotierten und paritätisch mitbestimmten Unternehmen
 civil service: in Führungspositionen im öffentlichen Dienst
-a) drinking water and sanitation: Trinkwasser und sanitärversorgung
+a) drinking water and sanitation: Trinkwasser- und Sanitärversorgung
 b) drinking water: Trinkwasser
 c) sanitation: Sanitärversorgung
 a) final energy productivity: Endenergieproduktivität
