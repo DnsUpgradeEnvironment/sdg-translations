@@ -29,6 +29,7 @@ data:2015 = 100,2015 = 100,2015 = 100
 data:2030 = 100,2030 = 100,2030 = 100
 data:3- to 5-year-olds,3- to 5-year-olds,3- bis 5-Jährige
 data:60 - 64 years,60 to 64 years,60 bis 64 Jahre
+data:Year,Year,Jahr
 data:a) 3- to 10-year-olds,3- to 10-year-olds,3- bis 10-Jährige
 data:a) criminal offences (overall),Criminal offences (overall),Straftaten (insgesamt)
 data:a) drinking water and sanitation,Drinking water and sanitation,Trinkwasser und sanitärversorgung
@@ -180,6 +181,7 @@ data:total official development assistance regarding food security,Total officia
 data:transport area,Transport area,Verkehrsfläche
 data:typification,Typification,Räumliche Typologie
 data:unit,Unit,Einheit
+data:year,Year,Jahr
 dns_goals:1-short,No poverty,Keine Armut
 dns_goals:1-title,,Armut in allen ihren Formen und überall beenden
 dns_goals:10-short,Reduced inequalities,Weniger Ungleichheiten
