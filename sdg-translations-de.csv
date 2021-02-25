@@ -32,13 +32,13 @@ data:60 - 64 years,60 to 64 years,60 bis 64 Jahre
 data:Year,Year,Jahr
 data:a) 3- to 10-year-olds,3- to 10-year-olds,3- bis 10-Jährige
 data:a) criminal offences (overall),Criminal offences (overall),Straftaten (insgesamt)
-data:a) drinking water and sanitation,Drinking water and sanitation,Trinkwasser und sanitärversorgung
+data:a) drinking water and sanitation,Drinking water and sanitation,Trinkwasser- und Sanitärversorgung
 data:a) final energy productivity,Final energy productivity,Endenergieproduktivität
 data:a) germany (total),Germany,Deutschland
 data:a) materially deprived persons,a) Materially deprived persons,a) Materiell Deprivierte
 data:a) overweight,Overweight without obese,Übergewicht ohne Adipositas
 data:a) pandemic prevention and reaction,Pandemic prevention and reaction,Pandemieprävention und -reaktion
-data:a) rural and non-rural areas,Rural and non-rural areas,Ländliche und nicht-ländliche Räume
+data:a) rural and non-rural areas,Rural and non-rural areas,insgesamt
 data:a) time series,Time series,Zeitreihe
 data:a) total,Total,Insgesamt
 data:a) total (moving four-year average),Total (moving four-year average),Insgesamt (gleitender Vierjahresdurchschnitt)
@@ -91,7 +91,7 @@ data:emas organisational locations,EMAS organisational locations,EMAS-Organisati
 data:emas organisations,EMAS organisations,EMAS-Organisationen
 data:employees in thousands,Employees in thousands,Beschäftigte in Tausend
 data:eu-28,EU-28,EU-28
-data:euro zone,Euro zone,Euro-Zone
+data:euro zone,Euro zone,Eurozone
 data:female,Female,Weiblich
 data:final energy consumption for the carriage of goods,Final energy consumption for the carriage of goods,Endenergieverbrauch durch Güterbeförderung
 data:final energy consumption in passenger transport,Final energy consumption in passenger transport,Endenergieverbrauch im Personenverkehr
@@ -133,7 +133,7 @@ data:mv,Mecklenburg Western Pomerania,Mecklenburg-Vorpommern
 data:nh3,NH<sub>3</sub>,NH<sub>3</sub>
 data:ni,Lower Saxony,Niedersachsen
 data:nmvoc,NMVOC,NMVOC
-data:non-rural areas,Non-rural areas,Nicht-ländliche Räume
+data:non-rural areas,Non-rural areas,nicht-ländliche Räume
 data:north sea,North sea,Nordsee
 data:nox,NO<sub>x</sub>,NO<sub>x</sub>
 data:number,Number,Anzahl
@@ -155,7 +155,7 @@ data:raw material input productivity,Raw material input productivity,Gesamtrohst
 data:recycled paper bearing the blue angel label as a proportion of the total paper consumption of the federal administration,Recycled paper bearing the blue angel label as a proportion of the total paper consumption of the federal administration,Anteil Recyclingpapier mit Blauem Engel am Gesamtpapierverbrauch der unmittelbaren Bundesverwaltung
 data:redd+,REDD+,REDD+ (ergebnisbasierte Auszahlungen für internationalen Waldschutz)
 data:rp,Rhineland Palatinate,Rheinland-Pfalz
-data:rural areas,Rural areas,Ländliche Räume
+data:rural areas,Rural areas,ländliche Räume
 data:sea,Sea,Meer
 data:serious and grievous bodily harm,Serious and grievous bodily harm,Gefährliche und schwere Körperverletzung
 data:sex,Sex,Geschlecht
@@ -296,7 +296,7 @@ dns_targets:8.3.1-title,Creating favourable investment conditions – Securing l
 dns_targets:8.4.1-title,Combining greater economic output with environmental and social responsibility,Wirtschaftsleistung umwelt- und sozialverträglich steigern
 dns_targets:8.5.1-title,Boosting employment levels,Beschäftigungsniveau steigern
 dns_targets:8.6.1-title,Enabling decent work worldwide,Menschenwürdige Arbeit weltweit ermöglichen
-dns_targets:9.1.1-title,Shaping the future with new solutions,Zukunft mit neuen Lösungen gestalten
+dns_targets:9.1.1-title,Shaping the future with new solutions,Zukunft mit neuen Lösungen nachhaltig gestalten
 frontpage:dialogue_link_1,To the indicators of the,Zu den Indikatoren der
 frontpage:dialogue_link_2,dialogue version,Dialogfassung
 frontpage:download_all,Download all data,Alle Daten herunterladen
@@ -1144,7 +1144,7 @@ summary:8-6-a_1_target,Increase the number significantly by 2030,Signifikante St
 summary:9-1-a_1,9.1.a - Private and public expenditure on research and development,9.1.a - Private und öffentliche Ausgaben für Forschung und Entwicklung
 summary:9-1-a_1_target,At least 3.5&nbsp;% of GDP per year by 2025,"Jährlich mindestens 3,5&nbsp;% des BIP bis 2025"
 summary:9-1-b_1,9.1.b -,9.1.b - Breitbandausbau – Anteil der Haushalte mit Zugang zu Gigabit-Breitbandversorgung
-summary:9-1-b_1_target,,Flächendeckender Aufbau von Gigabit-Breitbandversorgungsnetzen bis 2025
+summary:9-1-b_1_target,,Flächendeckender Aufbau von Gigabitnetzen bis 2025
 summary:indicator,Indicator,Indikator
 summary:status,Evaluation,Bewertung
 summary:status_summary,Status summary - Evaluation for Germany in previous years,Statusübersicht - Bewertung für Deutschland aus den Vorjahren
