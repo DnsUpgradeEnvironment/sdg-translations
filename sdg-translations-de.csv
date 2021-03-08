@@ -35,7 +35,7 @@ data:a) criminal offences (overall),Criminal offences (overall),Straftaten (insg
 data:a) drinking water and sanitation,Drinking water and sanitation,Trinkwasser- und Sanitärversorgung
 data:a) final energy productivity,Final energy productivity,Endenergieproduktivität
 data:a) germany (total),Germany,Deutschland
-data:a) materially deprived persons,a) Materially deprived persons,a) Materiell Deprivierte
+data:a) materially deprived persons,Materially deprived persons,Materiell Deprivierte
 data:a) overweight,Overweight without obese,Übergewicht ohne Adipositas
 data:a) pandemic prevention and reaction,Pandemic prevention and reaction,Pandemieprävention und -reaktion
 data:a) rural and non-rural areas,Rural and non-rural areas,insgesamt
@@ -50,11 +50,11 @@ data:air pollutants overall,Air pollutants overall,Luftschadstoffe insgesamt
 data:all line-based technologies,All line-based technologies,Alle leitungsgebundenen Technologien
 data:area,Area,Region
 data:b) 11- to 17-year-olds,11- to 17-year-olds,11- bis 17-Jährige
-data:b) containment of the covid-19 pandemic,containment of the covid-19 pandemic,Eindämmung der COVID-19-Pandemie
+data:b) containment of the covid-19 pandemic,containment of the covid-19 pandemic,z) Eindämmung der COVID-19-Pandemie
 data:b) drinking water,Drinking water,Trinkwasserversorgung
 data:b) obese,Obese,Adipositas
 data:b) primary energy consumption,Primary energy consumption,Primärenergieverbrauch
-data:b) severely materially deprived persons,b) Serverely materially deprived persons,b) Erheblich materiell Deprivierte
+data:b) severely materially deprived persons,Serverely materially deprived persons,Erhebliche materiell Deprivierte
 data:b) students from other developing and emerging countries,Students from other developing and emerging countries,Studierende aus den übrigen Entwicklungs- und Schwellenländern
 data:b) target,Target,Ziel
 data:b) target (max),Target,Ziel
@@ -69,6 +69,7 @@ data:bw,Baden-Wuerttemberg,Baden-Württemberg
 data:by,Bavaria,Bayern
 data:c) researchers from other developing and emerging countries,Researchers from other developing and emerging countries,Forschende aus den übrigen Entwicklungs- und Schwellenländern
 data:c) sanitation,Sanitation,Sanitärversorgung
+data:c) total,Total,Insgesamt
 data:cable television (catv),Cable television (CATV),Kabelfernsehen (CATV)
 data:calculated annual values,Calculated annual values,Berechnete jährliche Werte
 data:calculation as net expenditure,Calculation as net expenditure,Berechnung als Netto-Ausgabe
@@ -108,7 +109,7 @@ data:gini coefficient of market income,Gini coefficient of market income,Gini-Ko
 data:gini coefficient of wealth,Gini coefficient of wealth,Gini-Koeffizient des Vermögens
 data:goods transport performance,Goods transport performance,Güterbeförderungsleistung
 data:gross domestic produkt (price-adjusted) (year-on-year changes in %),Gross domestic produkt (price-adjusted) (year-on-year changes),Bruttoinlandsprodukt (preisbereinigt)
-data:ha/d,hectares per day (ha/d),Hektar pro Tag (ha/d)
+data:ha/d,hectares per day,Hektar pro Tag
 data:hb,Bremen,Bremen
 data:he,Hesse,Hessen
 data:hh,Hamburg,Hamburg
@@ -119,15 +120,16 @@ data:in relation to the middle and upper centers of the respective year,In relat
 data:in relation to the middle and upper centers of the year 2012,In relation to the middle and upper centers of the year 2012,bezogen auf die Mittel- und Oberzentren des Jahres 2012
 data:index overall,Index overall,Index insgesamt
 data:index/number, , 
-data:kg/ha,Kilograms per hectare (kg/ha),Kilogramm je Hektar (kg/ha)
+data:kg/ha,Kilograms per hectare,Kilogramm je Hektar
 "data:living space, industrial and commercial space (without mining land), public facilities",,"Wohnbau, Industrie und Gewerbe (ohne Abbauland), Öffentliche Einrichtungen"
 data:m2/(inhabitant*a),Squaremeters per year,Quadratmeter pro Jahr
 data:male,Male,Männlich
 data:male and female,Both sexes,Beide Geschlechter
-data:mg/l,Milligrams per litre (mg/l),Milligramm pro Liter (mg/l)
+data:men,Men,Männer
+data:mg/l,Milligrams per litre,Milligramm pro Liter
 data:min.,Minutes,Minuten
 data:mio.,Millions,Millionen
-data:mio. eur,Millions of euros (Mn €),Millionen Euro (Mill. EUR)
+data:mio. eur,Millions of euros,Millionen Euro
 "data:moving five-year average, referring to the middle year","Moving five-year average, referring to the middle year",Gleitender Fünfjahresdurchschnitt mit Bezug auf das mittlere Jahr
 data:mv,Mecklenburg Western Pomerania,Mecklenburg-Vorpommern
 data:nh3,NH<sub>3</sub>,NH<sub>3</sub>
@@ -181,6 +183,7 @@ data:total official development assistance regarding food security,Total officia
 data:transport area,Transport area,Verkehrsfläche
 data:typification,Typification,Räumliche Typologie
 data:unit,Unit,Einheit
+data:women,Women,Frauen
 data:year,Year,Jahr
 dns_goals:1-short,No poverty,Keine Armut
 dns_goals:1-title,,Armut in allen ihren Formen und überall beenden
@@ -276,7 +279,7 @@ dns_targets:16.2.1-title,"Taking practical action to combat proliferation, espec
 dns_targets:16.3.1-title,Combating corruption,Korruption bekämpfen
 dns_targets:17.1.1-title,Supporting sustainable development,Nachhaltige Entwicklung unterstützen
 dns_targets:17.2.1-title,Sharing knowledge internationally,Wissen international vermitteln
-dns_targets:17.3.1-title,Improving trade opportunities for developing countries,Handelschancen der Entwicklungsländer verbessen
+dns_targets:17.3.1-title,Improving trade opportunities for developing countries,Handelschancen der Entwicklungsländer verbessern
 dns_targets:2.1.1-title,Environmentally sound production in our cultivated landscapes,In unseren Kulturlandschaften umweltverträglich produzieren
 dns_targets:2.2.1-title,Realising globally the right to food,Das Recht auf Nahrung weltweit verwirklichen
 dns_targets:3.1.1-title,Living healthy longer,Länger gesund leben
@@ -1093,9 +1096,9 @@ summary:4-1-a_1,4.1.a - Early school leavers,4.1.a - Frühe Schulabgängerinnen 
 summary:4-1-a_1_target,Reduce the proportion to below 10&nbsp;% by 2020,"Verringerung des Anteils auf 9,5&nbsp;% bis 2030"
 summary:4-1-b_1,4.1.b -,4.1.b - Akademisch Qualifizierte und beruflich Höherqualifizierte (30- bis 34-Jährige mit tertiärem oder post-sekundarem nichttertiärem Abschluss)
 summary:4-1-b_1_target,Increase the proportion to 42&nbsp;% by 2020,Steigerung des Anteils auf 55&nbsp;% bis 2030
-summary:4-2-ab_1,4.2.a - Children in institutional all-day care 0 to 2-year-olds,4.2.a - Ganztagsbetreuung für Kinder 0- bis 2-Jährige
+summary:4-2-ab_1,4.2.a - Children in institutional all-day care 0 to 2-year-olds,4.2.a - Ganztagsbetreuung für Kinder <br>0- bis 2-Jährige
 summary:4-2-ab_1_target,Increase the proportion to 35&nbsp;% by 2030,Anstieg auf 35&nbsp;% bis 2030
-summary:4-2-ab_2,4.2.b - Children in institutional all-day care 3 to 5-year-olds,4.2.b - Ganztagsbetreuung für Kinder 3- bis 5-Jährige
+summary:4-2-ab_2,4.2.b - Children in institutional all-day care 3 to 5-year-olds,4.2.b - Ganztagsbetreuung für Kinder <br>3- bis 5-Jährige
 summary:4-2-ab_2_target,Increase the proportion to 60&nbsp;% by 2020 and 70&nbsp;% by 2030,Anstieg auf 60&nbsp;% bis 2020 und auf 70&nbsp;% bis 2030
 summary:5-1-a_1,5.1.a - Gender pay gap,5.1.a - Verdienstabstand zwischen Frauen und Männern
 summary:5-1-a_1_target,"Reduce the gap to 10&nbsp;% by 2020, maintain that proportion up to 2030","Verringerung des Abstandes auf 10&nbsp;% bis 2020, Beibehaltung bis 2030"
