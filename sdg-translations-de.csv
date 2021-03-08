@@ -37,7 +37,7 @@ data:a) final energy productivity,Final energy productivity,Endenergieproduktivi
 data:a) germany (total),Germany,Deutschland
 data:a) materially deprived persons,Materially deprived persons,Materiell Deprivierte
 data:a) overweight,Overweight without obese,Übergewicht ohne Adipositas
-data:a) pandemic prevention and reaction,Pandemic prevention and reaction,Pandemieprävention und -reaktion
+data:a) pandemic prevention and reaction,Pandemic prevention and reaction,a) Pandemieprävention und -reaktion
 data:a) rural and non-rural areas,Rural and non-rural areas,insgesamt
 data:a) time series,Time series,Zeitreihe
 data:a) total,Total,Insgesamt
@@ -50,7 +50,7 @@ data:air pollutants overall,Air pollutants overall,Luftschadstoffe insgesamt
 data:all line-based technologies,All line-based technologies,Alle leitungsgebundenen Technologien
 data:area,Area,Region
 data:b) 11- to 17-year-olds,11- to 17-year-olds,11- bis 17-Jährige
-data:b) containment of the covid-19 pandemic,containment of the covid-19 pandemic,z) Eindämmung der COVID-19-Pandemie
+data:b) containment of the covid-19 pandemic,containment of the covid-19 pandemic,b) Eindämmung der COVID-19-Pandemie
 data:b) drinking water,Drinking water,Trinkwasserversorgung
 data:b) obese,Obese,Adipositas
 data:b) primary energy consumption,Primary energy consumption,Primärenergieverbrauch
@@ -886,8 +886,8 @@ metadata_fields:data_state,Data state,Datenstand
 metadata_fields:dns_content_url,Content and progress,Inhalt und Entwicklung
 metadata_fields:dns_content_url_text,Content and progress,Inhalt und Entwicklung
 metadata_fields:dns_indicator_content,Content and progress,Inhalt und Entwicklung
-metadata_fields:dns_indicator_definition,Definition<small> (Text from the Indicator Report 2021)</small>,Definition <small> (Text aus dem Indikatoren&shy;bericht 2021)</small>
-metadata_fields:dns_indicator_intention,Target and intention <small>(Text from the Indicator Report 2021)</small>,Ziel und Intention <small> (Text aus dem Indikatoren&shy;bericht 2021)</small>
+metadata_fields:dns_indicator_definition,Definition<small> (Text from the Indicator Report 2021)</small>,Definition <small><br>(Text aus dem Indikatoren&shy;bericht 2021)</small>
+metadata_fields:dns_indicator_intention,Target and intention <small>(Text from the Indicator Report 2021)</small>,Ziel und Intention <small><br>(Text aus dem Indikatoren&shy;bericht 2021)</small>
 metadata_fields:goal_meta_link,Link to the global metadata of this indicator,Link zu den globalen Metadaten dieses Indikators
 metadata_fields:goal_meta_national_link,Link to national metadata,Link zu den nationalen Metadaten
 metadata_fields:history_indicator_1,Indicator,Indikator
