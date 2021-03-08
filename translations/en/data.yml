@@ -8,12 +8,12 @@ index/number: " "
 2015 = 100: 2015 = 100
 2030 = 100: 2030 = 100
 bn eur: Bn EUR
-ha/d: hectares per day (ha/d)
+ha/d: hectares per day
 in % of households: in % of households
-kg/ha: Kilograms per hectare (kg/ha)
-mg/l: Milligrams per litre (mg/l)
+kg/ha: Kilograms per hectare
+mg/l: Milligrams per litre
 mio.: Millions
-mio. eur: Millions of euros (Mn €)
+mio. eur: Millions of euros
 min.: Minutes
 number: Number
 per 100 000 inhabitants: Per 100 000 inhabitants
@@ -23,6 +23,8 @@ sex: Sex
 female: Female
 male: Male
 male and female: Both sexes
+men: Men
+women: Women
 age: Age group
 adolescents (12 to 17 years): Adolescents (12 to 17 years)
 adults (15 years and older): Adults (15 years and older)
@@ -80,8 +82,8 @@ b) obese: Obese
 in relation to the middle and upper centers of the respective year: In relation to the middle and upper centers of the respective year
 in relation to the middle and upper centers of the year 2012: In relation to the middle and upper centers of the year 2012
 title: Time series
-a) materially deprived persons: a) Materially deprived persons
-b) severely materially deprived persons: b) Serverely materially deprived persons
+a) materially deprived persons: Materially deprived persons
+b) severely materially deprived persons: Serverely materially deprived persons
 calculated annual values: Calculated annual values
 moving five-year average, referring to the middle year: "Moving five-year average, referring to the middle year"
 data from destatis: Data from Destatis
@@ -155,6 +157,7 @@ e) researchers from ldcs: Researchers from LDCs
 c) researchers from other developing and emerging countries: Researchers from other developing and emerging countries
 imports of processed products from ldcs: Imports of processed products from LDCs
 imports from ldcs: Imports from LDCs
+c) total: Total
 a) time series: Time series
 b) target: Target
 b) target (min): Target

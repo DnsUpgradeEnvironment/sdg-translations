@@ -8,12 +8,12 @@ index/number: " "
 2015 = 100: 2015 = 100
 2030 = 100: 2030 = 100
 bn eur: Mrd. EUR
-ha/d: Hektar pro Tag (ha/d)
+ha/d: Hektar pro Tag
 in % of households: in % der Haushalte
-kg/ha: Kilogramm je Hektar (kg/ha)
-mg/l: Milligramm pro Liter (mg/l)
+kg/ha: Kilogramm je Hektar
+mg/l: Milligramm pro Liter
 mio.: Millionen
-mio. eur: Millionen Euro (Mill. EUR)
+mio. eur: Millionen Euro
 min.: Minuten
 number: Anzahl
 per 100 000 inhabitants: Je 100 000 Einwohner
@@ -23,6 +23,8 @@ sex: Geschlecht
 female: Weiblich
 male: Männlich
 male and female: Beide Geschlechter
+men: Männer
+women: Frauen
 age: Altersklasse
 adolescents (12 to 17 years): Jugendliche (12 bis 17 Jahre)
 adults (15 years and older): Erwachsene (ab 15 Jahren)
@@ -80,15 +82,15 @@ b) obese: Adipositas
 in relation to the middle and upper centers of the respective year: bezogen auf die Mittel- und Oberzentren des jeweiligen Jahres
 in relation to the middle and upper centers of the year 2012: bezogen auf die Mittel- und Oberzentren des Jahres 2012
 title: Zeitreihe
-a) materially deprived persons: a) Materiell Deprivierte
-b) severely materially deprived persons: b) Erheblich materiell Deprivierte
+a) materially deprived persons: Materiell Deprivierte
+b) severely materially deprived persons: Erhebliche materiell Deprivierte
 calculated annual values: Berechnete jährliche Werte
 moving five-year average, referring to the middle year: Gleitender Fünfjahresdurchschnitt mit Bezug auf das mittlere Jahr
 data from destatis: Daten des Statistischen Bundesamtes
 data from bmel: Daten des BMEL
 total official development assistance regarding food security: Öffentliche Entwicklungsaufgaben im Bereich Ernährungssicherheit insgesamt
 a) pandemic prevention and reaction: Pandemieprävention und -reaktion
-b) containment of the covid-19 pandemic: Eindämmung der COVID-19-Pandemie
+b) containment of the covid-19 pandemic: z) Eindämmung der COVID-19-Pandemie
 tertiary or post-secondary non-tertiary education: Insgesamt #Tertiärer oder postsekundarer nicht-tertärer Bildungsabschluss
 tertiary education: Tertiärer Abschluss
 economy: in Aufsichtsräten von börsennotierten und paritätisch mitbestimmten Unternehmen
@@ -155,6 +157,7 @@ e) researchers from ldcs: Forschende aus LDCs
 c) researchers from other developing and emerging countries: Forschende aus den übrigen Entwicklungs- und Schwellenländern
 imports of processed products from ldcs: Einfuhren von weiterverarbeiteten Produkten aus LDCs
 imports from ldcs: Einfuhren aus LDCs
+c) total: Insgesamt
 a) time series: Zeitreihe
 b) target: Ziel
 b) target (min): Ziel
