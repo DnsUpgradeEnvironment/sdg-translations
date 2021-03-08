@@ -20,10 +20,10 @@ history_year_d_3: Jahr
 history_status_year_d_3: Bewertung
 indicator: Indikatorennummerierung
 indicator_definition: Globale Indikatorenbeschreibung
-dns_indicator_definition: Definition <small> (Text aus dem Indikatoren&shy;bericht 2021)</small>
-dns_indicator_intention: Ziel und Intention <small> (Text aus dem Indikatoren&shy;bericht 2021)</small>
-dns_indicator_definition_2020: Definition <small> (Text aus der Dialog&shy;fassung 2020)</small>
-dns_indicator_intention_2020: Ziel und Intention <small> (Text aus der Dialog&shy;fassung 2020)</small>
+dns_indicator_definition: Definition <small><br>(Text aus dem Indikatoren&shy;bericht 2021)</small>
+dns_indicator_intention: Ziel und Intention <small><br>(Text aus dem Indikatoren&shy;bericht 2021)</small>
+dns_indicator_definition_2020: Definition <small><br>(Text aus der Dialog&shy;fassung 2020)</small>
+dns_indicator_intention_2020: Ziel und Intention <small><br>(Text aus der Dialog&shy;fassung 2020)</small>
 dns_indicator_content: Inhalt und Entwicklung
 dns_content_url: Inhalt und Entwicklung
 dns_content_url_text: Inhalt und Entwicklung
