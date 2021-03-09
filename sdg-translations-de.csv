@@ -37,6 +37,7 @@ data:a) drinking water and sanitation,Drinking water and sanitation,Trinkwasser-
 data:a) final energy productivity,Final energy productivity,Endenergieproduktivität
 data:a) germany (total),Germany,Deutschland
 data:a) materially deprived persons,Materially deprived persons,Materiell Deprivierte
+"data:a) moving five-year average, referring to the middle year","Moving five-year average, referring to the middle year",a) Gleitender Fünfjahresdurchschnitt mit Bezug auf das mittlere Jahr
 data:a) overweight,Overweight without obese,Übergewicht ohne Adipositas
 data:a) pandemic prevention and reaction,Pandemic prevention and reaction,a) Pandemieprävention und -reaktion
 data:a) rural and non-rural areas,Rural and non-rural areas,insgesamt
@@ -51,6 +52,7 @@ data:air pollutants overall,Air pollutants overall,Luftschadstoffe insgesamt
 data:all line-based technologies,All line-based technologies,Alle leitungsgebundenen Technologien
 data:area,Area,Region
 data:b) 11- to 17-year-olds,11- to 17-year-olds,11- bis 17-Jährige
+data:b) calculated annual values,Calculated annual values,b) Berechnete jährliche Werte
 data:b) containment of the covid-19 pandemic,containment of the covid-19 pandemic,b) Eindämmung der COVID-19-Pandemie
 data:b) drinking water,Drinking water,Trinkwasserversorgung
 data:b) obese,Obese,Adipositas
@@ -72,11 +74,10 @@ data:c) researchers from other developing and emerging countries,Researchers fro
 data:c) sanitation,Sanitation,Sanitärversorgung
 data:c) total,Total,Insgesamt
 data:cable television (catv),Cable television (CATV),Kabelfernsehen (CATV)
-data:calculated annual values,Calculated annual values,Berechnete jährliche Werte
 data:calculation as net expenditure,Calculation as net expenditure,Berechnung als Netto-Ausgabe
 data:calculation in grant equivalents,Calculation in grant equivalents,Berechnung in Zuschussäquivalenten
 data:civil service,civil service,in Führungspositionen im öffentlichen Dienst
-data:co2 emissions per mileage of motor vehicles of the public sector,CO<sub>2</sub> emissions per mileage of motor vehicles of the public sector,CO<sub>2</sub>-Emissionen je Fahrleistung der Kfz der öffentlichen Hand als Index
+data:co2 emissions per mileage of motor vehicles of the public sector,CO<sub>2</sub> emissions per mileage of motor vehicles of the public sector,CO<sub>2</sub>-Emissionen je Fahrleistung der Kfz der öffentlichen Hand
 "data:consumption, investments and exports (price-adjusted)","Consumption, investments and exports (price-adjusted)","Wert von Konsum, Investitionen und Exporten (preisbereinigt)"
 data:criminal offences,Criminal offences,Straftaten
 data:d) students from ldcs,Students from LDCs,Studierende aus LDCs
@@ -119,7 +120,7 @@ data:imports of processed products from ldcs,Imports of processed products from 
 data:in % of households,in % of households,in % der Haushalte
 data:in relation to the middle and upper centers of the respective year,In relation to the middle and upper centers of the respective year,bezogen auf die Mittel- und Oberzentren des jeweiligen Jahres
 data:in relation to the middle and upper centers of the year 2012,In relation to the middle and upper centers of the year 2012,bezogen auf die Mittel- und Oberzentren des Jahres 2012
-data:index overall,Index overall,
+data:index overall,Index overall,f) Index insgesamt
 data:index/number, , 
 data:kg/ha,Kilograms per hectare,Kilogramm je Hektar
 "data:living space, industrial and commercial space (without mining land), public facilities",,"Wohnbau, Industrie und Gewerbe (ohne Abbauland), Öffentliche Einrichtungen"
@@ -131,7 +132,6 @@ data:mg/l,Milligrams per litre,Milligramm pro Liter
 data:min.,Minutes,Minuten
 data:mio.,Millions,Millionen
 data:mio. eur,Millions of euros,Millionen Euro
-"data:moving five-year average, referring to the middle year","Moving five-year average, referring to the middle year",Gleitender Fünfjahresdurchschnitt mit Bezug auf das mittlere Jahr
 data:mv,Mecklenburg Western Pomerania,Mecklenburg-Vorpommern
 data:nh3,NH<sub>3</sub>,NH<sub>3</sub>
 data:ni,Lower Saxony,Niedersachsen
@@ -155,7 +155,7 @@ data:pure fiber optic networks (fttb/h),Pure fiber optic networks (FTTB/H),Reine
 data:rating for germany,Rating for germany,Bewertung für Deutschland
 data:raw material input productivity,Raw material input productivity,Gesamtrohstoffproduktivität
 "data:raw material use for consumption, investments and exports","Raw material use for consumption, investments and exports","Rohstoffeinsatz für Konsum, Investitionen und Exporte"
-data:recycled paper bearing the blue angel label as a proportion of the total paper consumption of the federal administration,Recycled paper bearing the blue angel label as a proportion of the total paper consumption of the federal administration,Anteil Recyclingpapier mit Blauem Engel am Gesamtpapierverbrauch der unmittelbaren Bundesverwaltung als Index
+data:recycled paper bearing the blue angel label as a proportion of the total paper consumption of the federal administration,Recycled paper bearing the blue angel label as a proportion of the total paper consumption of the federal administration,Anteil Recyclingpapier mit Blauem Engel am Gesamtpapierverbrauch der unmittelbaren Bundesverwaltung
 data:redd+,REDD+,REDD+ (ergebnisbasierte Auszahlungen für internationalen Waldschutz)
 data:rp,Rhineland Palatinate,Rheinland-Pfalz
 data:rural areas,Rural areas,ländliche Räume
@@ -170,11 +170,11 @@ data:soil conservation,Soil conservation,Internationaler Bodenschutz (Bruttoentw
 "data:sports, leisure and recreation area, graveyard","Sports, leisure and recreation area, graveyard","Sport-, Freizeit- und Erholungsfläche, Friedhof"
 data:st,Saxony-Anhalt,Sachsen-Anhalt
 data:structural funding balance (share of gross domestic product (at current prices) in %),Structural funding balance (share of gross domestic product (at current prices)),Struktureller Finanzierungssaldo
-data:sub-index coasts/seas,Sub-index coasts/seas,
-data:sub-index farmland,Sub-index farmland,
-data:sub-index forests,Sub-index forests,
-data:sub-index inland waters,Sub-index inland waters,
-data:sub-index settlements,Sub-index settlements,
+data:sub-index coasts/seas,Sub-index coasts/seas,e) Teilindex Küsten/Meere
+data:sub-index farmland,Sub-index farmland,c) Teilindex Agrarland
+data:sub-index forests,Sub-index forests,a) Teilindex Wälder
+data:sub-index inland waters,Sub-index inland waters,d) Teilindex Binnengewässer
+data:sub-index settlements,Sub-index settlements,b) Teilindex Siedlungen
 data:tertiary education,Tertiary education,Tertiärer Abschluss
 data:tertiary or post-secondary non-tertiary education,Total,Insgesamt
 data:th,Thuringia,Thüringen
