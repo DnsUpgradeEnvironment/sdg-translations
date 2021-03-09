@@ -134,8 +134,8 @@ direct and indirect co2 emissions: Direkte und indirekte CO<sub>2</sub>-Emission
 employees in thousands: Beschäftigte in Tausend
 emas organisational locations: EMAS-Organisationsstandorte
 emas organisations: EMAS-Organisationen
-recycled paper bearing the blue angel label as a proportion of the total paper consumption of the federal administration: Anteil Recyclingpapier mit Blauem Engel am Gesamtpapierverbrauch der unmittelbaren Bundesverwaltung
-co2 emissions per mileage of motor vehicles of the public sector: CO<sub>2</sub>-Emissionen je Fahrleistung der Kfz der öffentlichen Hand
+recycled paper bearing the blue angel label as a proportion of the total paper consumption of the federal administration: Anteil Recyclingpapier mit Blauem Engel am Gesamtpapierverbrauch der unmittelbaren Bundesverwaltung als Index
+co2 emissions per mileage of motor vehicles of the public sector: CO<sub>2</sub>-Emissionen je Fahrleistung der Kfz der öffentlichen Hand als Index
 proportion of sustainable managed stocks in all msy examined stocks: Anteil der nachhaltig bewirtschafteten Bestände an allen MSY-untersuchten Beständen
 proportion of msy examined in all managed stocks: MSY-untersuchte an allen bewirtschafteten Beständen
 index overall: Index insgesamt
@@ -166,3 +166,4 @@ display: Anzeigen
 unit: Einheit
 year: Jahr
 Year: Jahr
+Bundesland: Region
