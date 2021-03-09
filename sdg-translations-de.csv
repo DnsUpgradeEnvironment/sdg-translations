@@ -29,6 +29,7 @@ data:2015 = 100,2015 = 100,2015 = 100
 data:2030 = 100,2030 = 100,2030 = 100
 data:3- to 5-year-olds,3- to 5-year-olds,3- bis 5-Jährige
 data:60 - 64 years,60 to 64 years,60 bis 64 Jahre
+data:Bundesland,Region,Region
 data:Year,Year,Jahr
 data:a) 3- to 10-year-olds,3- to 10-year-olds,3- bis 10-Jährige
 data:a) criminal offences (overall),Criminal offences (overall),Straftaten (insgesamt)
@@ -75,7 +76,7 @@ data:calculated annual values,Calculated annual values,Berechnete jährliche Wer
 data:calculation as net expenditure,Calculation as net expenditure,Berechnung als Netto-Ausgabe
 data:calculation in grant equivalents,Calculation in grant equivalents,Berechnung in Zuschussäquivalenten
 data:civil service,civil service,in Führungspositionen im öffentlichen Dienst
-data:co2 emissions per mileage of motor vehicles of the public sector,CO<sub>2</sub> emissions per mileage of motor vehicles of the public sector,CO<sub>2</sub>-Emissionen je Fahrleistung der Kfz der öffentlichen Hand
+data:co2 emissions per mileage of motor vehicles of the public sector,CO<sub>2</sub> emissions per mileage of motor vehicles of the public sector,CO<sub>2</sub>-Emissionen je Fahrleistung der Kfz der öffentlichen Hand als Index
 "data:consumption, investments and exports (price-adjusted)","Consumption, investments and exports (price-adjusted)","Wert von Konsum, Investitionen und Exporten (preisbereinigt)"
 data:criminal offences,Criminal offences,Straftaten
 data:d) students from ldcs,Students from LDCs,Studierende aus LDCs
@@ -154,7 +155,7 @@ data:pure fiber optic networks (fttb/h),Pure fiber optic networks (FTTB/H),Reine
 data:rating for germany,Rating for germany,Bewertung für Deutschland
 data:raw material input productivity,Raw material input productivity,Gesamtrohstoffproduktivität
 "data:raw material use for consumption, investments and exports","Raw material use for consumption, investments and exports","Rohstoffeinsatz für Konsum, Investitionen und Exporte"
-data:recycled paper bearing the blue angel label as a proportion of the total paper consumption of the federal administration,Recycled paper bearing the blue angel label as a proportion of the total paper consumption of the federal administration,Anteil Recyclingpapier mit Blauem Engel am Gesamtpapierverbrauch der unmittelbaren Bundesverwaltung
+data:recycled paper bearing the blue angel label as a proportion of the total paper consumption of the federal administration,Recycled paper bearing the blue angel label as a proportion of the total paper consumption of the federal administration,Anteil Recyclingpapier mit Blauem Engel am Gesamtpapierverbrauch der unmittelbaren Bundesverwaltung als Index
 data:redd+,REDD+,REDD+ (ergebnisbasierte Auszahlungen für internationalen Waldschutz)
 data:rp,Rhineland Palatinate,Rheinland-Pfalz
 data:rural areas,Rural areas,ländliche Räume
