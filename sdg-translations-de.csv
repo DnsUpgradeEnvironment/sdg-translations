@@ -41,6 +41,7 @@ data:a) materially deprived persons,Materially deprived persons,Materiell Depriv
 data:a) overweight,Overweight without obese,Übergewicht ohne Adipositas
 data:a) pandemic prevention and reaction,Pandemic prevention and reaction,a) Pandemieprävention und -reaktion
 data:a) rural and non-rural areas,Rural and non-rural areas,insgesamt
+data:a) sub-index forests,Sub-index forests,a) Teilindex Wälder
 data:a) time series,Time series,Zeitreihe
 data:a) total,Total,Insgesamt
 data:a) total (moving four-year average),Total (moving four-year average),Insgesamt (gleitender Vierjahresdurchschnitt)
@@ -59,6 +60,7 @@ data:b) obese,Obese,Adipositas
 data:b) primary energy consumption,Primary energy consumption,Primärenergieverbrauch
 data:b) severely materially deprived persons,Serverely materially deprived persons,Erhebliche materiell Deprivierte
 data:b) students from other developing and emerging countries,Students from other developing and emerging countries,Studierende aus den übrigen Entwicklungs- und Schwellenländern
+data:b) sub-index settlements,Sub-index settlements,b) Teilindex Siedlungen
 data:b) target,Target,Ziel
 data:b) target (max),Target,Ziel
 data:b) target (min),Target,Ziel
@@ -72,6 +74,7 @@ data:bw,Baden-Wuerttemberg,Baden-Württemberg
 data:by,Bavaria,Bayern
 data:c) researchers from other developing and emerging countries,Researchers from other developing and emerging countries,Forschende aus den übrigen Entwicklungs- und Schwellenländern
 data:c) sanitation,Sanitation,Sanitärversorgung
+data:c) sub-index farmland,Sub-index farmland,c) Teilindex Agrarland
 data:c) total,Total,Insgesamt
 data:cable television (catv),Cable television (CATV),Kabelfernsehen (CATV)
 data:calculation as net expenditure,Calculation as net expenditure,Berechnung als Netto-Ausgabe
@@ -81,6 +84,7 @@ data:co2 emissions per mileage of motor vehicles of the public sector,CO<sub>2</
 "data:consumption, investments and exports (price-adjusted)","Consumption, investments and exports (price-adjusted)","Wert von Konsum, Investitionen und Exporten (preisbereinigt)"
 data:criminal offences,Criminal offences,Straftaten
 data:d) students from ldcs,Students from LDCs,Studierende aus LDCs
+data:d) sub-index inland waters,Sub-index inland waters,d) Teilindex Binnengewässer
 data:data from bmel,Data from BMEL,Daten des BMEL
 data:data from destatis,Data from Destatis,Daten des Statistischen Bundesamtes
 data:dimension,Time series,Zeitreihe
@@ -89,12 +93,14 @@ data:direct and indirect energy consumption,Direct and indirect energy consumpti
 data:direct and indirect raw material consumption,Direct and indirect raw material consumption,Direkter und indirekter Rohstoffeinsatz
 data:display,Display,Anzeigen
 data:e) researchers from ldcs,Researchers from LDCs,Forschende aus LDCs
+data:e) sub-index coasts/seas,Sub-index coasts/seas,e) Teilindex Küsten/Meere
 data:economy,Economy,in Aufsichtsräten von börsennotierten und paritätisch mitbestimmten Unternehmen
 data:emas organisational locations,EMAS organisational locations,EMAS-Organisationsstandorte
 data:emas organisations,EMAS organisations,EMAS-Organisationen
 data:employees in thousands,Employees in thousands,Beschäftigte in Tausend
 data:eu-28,EU-28,EU-28
 data:euro zone,Euro zone,Eurozone
+data:f) index overall,Index overall,f) Index insgesamt
 data:female,Female,Weiblich
 data:final energy consumption for the carriage of goods,Final energy consumption for the carriage of goods,Endenergieverbrauch durch Güterbeförderung
 data:final energy consumption in passenger transport,Final energy consumption in passenger transport,Endenergieverbrauch im Personenverkehr
@@ -120,7 +126,6 @@ data:imports of processed products from ldcs,Imports of processed products from 
 data:in % of households,in % of households,in % der Haushalte
 data:in relation to the middle and upper centers of the respective year,In relation to the middle and upper centers of the respective year,bezogen auf die Mittel- und Oberzentren des jeweiligen Jahres
 data:in relation to the middle and upper centers of the year 2012,In relation to the middle and upper centers of the year 2012,bezogen auf die Mittel- und Oberzentren des Jahres 2012
-data:index overall,Index overall,f) Index insgesamt
 data:index/number, , 
 data:kg/ha,Kilograms per hectare,Kilogramm je Hektar
 "data:living space, industrial and commercial space (without mining land), public facilities",,"Wohnbau, Industrie und Gewerbe (ohne Abbauland), Öffentliche Einrichtungen"
@@ -170,11 +175,6 @@ data:soil conservation,Soil conservation,Internationaler Bodenschutz (Bruttoentw
 "data:sports, leisure and recreation area, graveyard","Sports, leisure and recreation area, graveyard","Sport-, Freizeit- und Erholungsfläche, Friedhof"
 data:st,Saxony-Anhalt,Sachsen-Anhalt
 data:structural funding balance (share of gross domestic product (at current prices) in %),Structural funding balance (share of gross domestic product (at current prices)),Struktureller Finanzierungssaldo
-data:sub-index coasts/seas,Sub-index coasts/seas,e) Teilindex Küsten/Meere
-data:sub-index farmland,Sub-index farmland,c) Teilindex Agrarland
-data:sub-index forests,Sub-index forests,a) Teilindex Wälder
-data:sub-index inland waters,Sub-index inland waters,d) Teilindex Binnengewässer
-data:sub-index settlements,Sub-index settlements,b) Teilindex Siedlungen
 data:tertiary education,Tertiary education,Tertiärer Abschluss
 data:tertiary or post-secondary non-tertiary education,Total,Insgesamt
 data:th,Thuringia,Thüringen
