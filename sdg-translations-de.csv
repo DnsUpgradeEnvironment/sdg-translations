@@ -119,7 +119,7 @@ data:imports of processed products from ldcs,Imports of processed products from 
 data:in % of households,in % of households,in % der Haushalte
 data:in relation to the middle and upper centers of the respective year,In relation to the middle and upper centers of the respective year,bezogen auf die Mittel- und Oberzentren des jeweiligen Jahres
 data:in relation to the middle and upper centers of the year 2012,In relation to the middle and upper centers of the year 2012,bezogen auf die Mittel- und Oberzentren des Jahres 2012
-data:index overall,Index overall,Index insgesamt
+data:index overall,Index overall,
 data:index/number, , 
 data:kg/ha,Kilograms per hectare,Kilogramm je Hektar
 "data:living space, industrial and commercial space (without mining land), public facilities",,"Wohnbau, Industrie und Gewerbe (ohne Abbauland), Öffentliche Einrichtungen"
@@ -170,11 +170,11 @@ data:soil conservation,Soil conservation,Internationaler Bodenschutz (Bruttoentw
 "data:sports, leisure and recreation area, graveyard","Sports, leisure and recreation area, graveyard","Sport-, Freizeit- und Erholungsfläche, Friedhof"
 data:st,Saxony-Anhalt,Sachsen-Anhalt
 data:structural funding balance (share of gross domestic product (at current prices) in %),Structural funding balance (share of gross domestic product (at current prices)),Struktureller Finanzierungssaldo
-data:sub-index coasts/seas,Sub-index coasts/seas,Teilindex Küsten/Meere
-data:sub-index farmland,Sub-index farmland,Teilindex Agrarland
-data:sub-index forests,Sub-index forests,Teilindex Wälder
-data:sub-index inland waters,Sub-index inland waters,Teilindex Binnengewässer
-data:sub-index settlements,Sub-index settlements,Teilindex Siedlungen
+data:sub-index coasts/seas,Sub-index coasts/seas,
+data:sub-index farmland,Sub-index farmland,
+data:sub-index forests,Sub-index forests,
+data:sub-index inland waters,Sub-index inland waters,
+data:sub-index settlements,Sub-index settlements,
 data:tertiary education,Tertiary education,Tertiärer Abschluss
 data:tertiary or post-secondary non-tertiary education,Total,Insgesamt
 data:th,Thuringia,Thüringen
