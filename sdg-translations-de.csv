@@ -49,7 +49,7 @@ data:adolescents (12 to 17 years),Adolescents (12 to 17 years),Jugendliche (12 b
 data:adults (15 years and older),Adults (15 years and older),Erwachsene (ab 15 Jahren)
 data:age,Age group,Altersklasse
 data:air pollutants,Air pollutants,Luftschadstoffe
-data:air pollutants overall,Air pollutants overall,Luftschadstoffe insgesamt
+data:air pollutants overall,Air pollutants overall,f) Luftschadstoffe insgesamt
 data:all line-based technologies,All line-based technologies,Alle leitungsgebundenen Technologien
 data:area,Area,Region
 data:b) 11- to 17-year-olds,11- to 17-year-olds,11- bis 17-Jährige
@@ -138,12 +138,12 @@ data:min.,Minutes,Minuten
 data:mio.,Millions,Millionen
 data:mio. eur,Millions of euros,Millionen Euro
 data:mv,Mecklenburg Western Pomerania,Mecklenburg-Vorpommern
-data:nh3,NH<sub>3</sub>,NH<sub>3</sub>
+data:nh3,NH<sub>3</sub>,a) NH<sub>3</sub>
 data:ni,Lower Saxony,Niedersachsen
-data:nmvoc,NMVOC,NMVOC
+data:nmvoc,NMVOC,b) NMVOC
 data:non-rural areas,Non-rural areas,nicht ländliche Räume
 data:north sea,North sea,Nordsee
-data:nox,NO<sub>x</sub>,NO<sub>x</sub>
+data:nox,NO<sub>x</sub>,c) NO<sub>x</sub>
 data:number,Number,Anzahl
 data:number of partner countries of german development cooperation whose rating has improved compared with 2012,Number of partner countries of german development cooperation whose rating has improved compared with 2012,"Anzahl der Partnerländer deutscher Entwicklungszusammenarbeit, deren Bewertung sich gegenüber 2012 verbessert hat"
 data:nw,North Rhine-Westphalia,Nordrhein-Westfalen
@@ -153,7 +153,7 @@ data:partnership for sustainable textiles,Partnership for sustainable textiles,B
 data:passenger transport performance,Passenger transport performance,Personenbeförderungsleistung
 data:per 100 000 inhabitants,Per 100 000 inhabitants,Je 100 000 Einwohner
 data:percentage (%),Percentage,Prozent
-data:pm2.5,PM<sub>2.5</sub>,"PM<sub>2,5</sub>"
+data:pm2.5,PM<sub>2.5</sub>,"d) PM<sub>2,5</sub>"
 data:proportion of msy examined in all managed stocks,Proportion of MSY examined in all managed stocks,MSY-untersuchte an allen bewirtschafteten Beständen
 data:proportion of sustainable managed stocks in all msy examined stocks,Proportion of sustainable managed stocks in all MSY examined stocks,Anteil der nachhaltig bewirtschafteten Bestände an allen MSY-untersuchten Beständen
 data:pure fiber optic networks (fttb/h),Pure fiber optic networks (FTTB/H),Reine Glasfasernetze (FTTB/H)
@@ -170,7 +170,7 @@ data:sex,Sex,Geschlecht
 data:sh,Schleswig-Holstein,Schleswig-Holstein
 data:sl,Saarland,Saarland
 data:sn,Saxony,Sachsen
-data:so2,SO<sub>2</sub>,SO<sub>2</sub>
+data:so2,SO<sub>2</sub>,e) SO<sub>2</sub>
 data:soil conservation,Soil conservation,Internationaler Bodenschutz (Bruttoentwicklungsausgaben für internationalen Bodenschutz)
 "data:sports, leisure and recreation area, graveyard","Sports, leisure and recreation area, graveyard","Sport-, Freizeit- und Erholungsfläche, Friedhof"
 data:st,Saxony-Anhalt,Sachsen-Anhalt
