@@ -8,6 +8,12 @@ goal_meta_link: Link zu den globalen Metadaten dieses Indikators
 goal_meta_national_link: Link zu den nationalen Metadaten
 history_indicator_1: Indikator
 history_target_1: Ziel
+history_year_a_1: Jahr
+history_status_year_a_1: Bewertung
+history_year_a_2: Jahr
+history_status_year_a_2: Bewertung
+history_year_a_3: Jahr
+history_status_year_a_3: Bewertung
 history_year_d_1: Jahr
 history_status_year_d_1: Bewertung
 history_indicator_2: Indikator
