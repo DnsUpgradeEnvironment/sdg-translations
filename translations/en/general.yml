@@ -24,6 +24,7 @@ link_sdg_goal: Go to the page of the corresponding SDG Goal
 link_dns_goal: Go to the page of the corresponding DNS Goal
 target_link_sdg: Global indicators on
 target_link_dns: National indicators on
+twitter: <i class="fa fa-twitter" aria-hidden="true"></i>@destatis</a>
 global: "- Global"
 national: "- National"
 indicator_link_sdg: "Related global indicator:"
