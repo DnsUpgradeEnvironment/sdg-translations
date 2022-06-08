@@ -1,3 +1,5 @@
 indicator: Indicator
 no_assessment: No assessment possible
+status: Status
 target_trans: Target
+year: Year
