@@ -1,11 +1,11 @@
 indicator: Indikator
-multi_target_1_old: Old target
-multi_target_2_old: Old target
-multi_target_3_old: Old target
-multi_target_1_new: New target
-multi_target_2_new: New target
-multi_target_3_new: New target
+multi_target_1_old: Ates Ziel
+multi_target_2_old: Ates Ziel
+multi_target_3_old: Ates Ziel
+multi_target_1_new: Aktuelles Ziel
+multi_target_2_new: Aktuelles Ziel
+multi_target_3_new: Aktuelles Ziel
 no_assessment: Keine Bewertung möglich
-status: Status
+status: Bewertung
 target_trans: Ziel
 year: Jahr
