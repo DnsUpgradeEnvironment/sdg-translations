@@ -5,26 +5,7 @@ computation_units: Einheit
 comparison_sdg: Vergleichbarkeit mit globalen Metadaten
 content_and_progress: Inhalt und Fortschritt
 data_state: Datenstand
-goal_meta_link: Link zu den globalen Metadaten dieses Indikators
-goal_meta_national_link: Link zu den nationalen Metadaten
-history_indicator_1: Indikator
-history_target_1: Ziel
-history_year_a_1: Jahr
-history_status_year_a_1: Bewertung
-history_year_a_2: Jahr
-history_status_year_a_2: Bewertung
-history_year_a_3: Jahr
-history_status_year_a_3: Bewertung
-history_year_d_1: Jahr
-history_status_year_d_1: Bewertung
-history_indicator_2: Indikator
-history_target_2: Ziel
-history_year_d_2: Jahr
-history_status_year_d_2: Bewertung
-history_indicator_3: Indikator
-history_target_3: Ziel
-history_year_d_3: Jahr
-history_status_year_d_3: Bewertung
+
 indicator: Indikatorennummerierung
 indicator_definition: Globale Indikatorenbeschreibung
 dns_indicator_definition: Definition <small><br>(Text aus dem Indikatoren&shy;bericht 2021)</small>
@@ -109,6 +90,9 @@ un_designated_tier: <a href="https://unstats.un.org/sdgs/iaeg-sdgs/tier-classifi
 weather_indicator_1: INdikator
 weather_indicator_2: INDikator
 weather_indicator_3: INDIkator
+weather_indicator_1_target: INdikator
+weather_indicator_2_target: INDikator
+weather_indicator_3_target: INDIkator
 
 other_info: Weitere Informationen
 quality_assurance: Qualitätssicherung
