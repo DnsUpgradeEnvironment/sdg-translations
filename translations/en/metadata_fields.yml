@@ -94,6 +94,13 @@ weather_indicator_3: Indicator
 weather_indicator_1_target: Target
 weather_indicator_2_target: Target
 weather_indicator_3_target: Target
+weather_indicator_1_old_year_a: Year
+weather_indicator_2_old_year_a: Year
+weather_indicator_3_old_year_a: Year
+weather_indicator_1_old_item_a: Evaluation
+weather_indicator_2_old_item_a: Evaluation
+weather_indicator_3_old_item_a: Evaluation
+
 
 weather_indicator_1_year_a: Year
 weather_indicator_1_item_a: Evaluation

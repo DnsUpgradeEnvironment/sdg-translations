@@ -95,6 +95,12 @@ weather_indicator_3: Indikator
 weather_indicator_1_target: Ziel
 weather_indicator_2_target: Ziel
 weather_indicator_3_target: Ziel
+weather_indicator_1_old_year_a: Jahr
+weather_indicator_2_old_year_a: Jahr
+weather_indicator_3_old_year_a: Jahr
+weather_indicator_1_old_item_a: Bewertung
+weather_indicator_2_old_item_a: Bewertung
+weather_indicator_3_old_item_a: Bewertung
 
 weather_indicator_1_year_a: Jahr
 weather_indicator_1_item_a: Bewertung
