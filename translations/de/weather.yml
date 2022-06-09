@@ -2,9 +2,9 @@ indicator: Indikator
 multi_target_1_old: Ates Ziel 1
 multi_target_2_old: Ates Ziel 2
 multi_target_3_old: Ates Ziel 3
-multi_target_1_new: Aktuelles Ziel 1
-multi_target_2_new: Aktuelles Ziel 2
-multi_target_3_new: Aktuelles Ziel 3
+multi_target_1_new: Neues Ziel 1
+multi_target_2_new: Neues Ziel 2
+multi_target_3_new: Neues Ziel 3
 multi_target_1: Ziel 1
 multi_target_2: Ziel 2
 multi_target_3: Ziel 3
