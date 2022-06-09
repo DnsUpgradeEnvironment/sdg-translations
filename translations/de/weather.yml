@@ -11,6 +11,9 @@ multi_target_3: Ziel 3
 new_pretext: Gültig ab
 no_assessment: Keine Bewertung möglich
 old_pretext: Gültig bis
+single_target: Ziel
+single_target_old: Altes Ziel
+single_target_new: Neues Ziel
 status: Bewertung
 target_trans: Ziel
 year: Jahr

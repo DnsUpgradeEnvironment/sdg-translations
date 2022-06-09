@@ -9,5 +9,8 @@ new_pretext: valid from
 no_assessment: No assessment possible
 old_pretext: valid until
 status: Status
+single_target: Target
+single_target_old: Old target
+single_target_new: New target
 target_trans: Target
 year: Year
