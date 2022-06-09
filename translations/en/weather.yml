@@ -5,6 +5,7 @@ multi_target_3_old: Old target
 multi_target_1_new: New target
 multi_target_2_new: New target
 multi_target_3_new: New target
+new_pretext: valid from
 no_assessment: No assessment possible
 old_pretext: valid until
 status: Status
