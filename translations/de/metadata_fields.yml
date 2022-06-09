@@ -87,12 +87,99 @@ target: Unterziel
 target_id: Unterzielnummerierung
 un_custodian_agency: Custodian Agency
 un_designated_tier: <a href="https://unstats.un.org/sdgs/iaeg-sdgs/tier-classification/" title="Klicken Sie hier um weitere Informationen zur UN-Tier-Klassifikation zu erhalten."> Tier Klassifikation</a>
-weather_indicator_1: INdikator
-weather_indicator_2: INDikator
-weather_indicator_3: INDIkator
-weather_indicator_1_target: INdikator
-weather_indicator_2_target: INDikator
-weather_indicator_3_target: INDIkator
+
+weather_indicator_1: Indikator
+weather_indicator_2: Indikator
+weather_indicator_3: Indikator
+
+weather_indicator_1_target: Ziel
+weather_indicator_2_target: Ziel
+weather_indicator_3_target: Ziel
+
+weather_indicator_1_target_1_year_a: Jahr
+weather_indicator_1_target_1_item_a: Bewertung
+weather_indicator_1_target_1_old_year_a: Jahr
+weather_indicator_1_target_1_old_item_a: Bewertung
+weather_indicator_1_target_1_new_year_a: Jahr
+weather_indicator_1_target_1_new_item_a: Bewertung
+
+weather_indicator_1_target_2_year_a: Jahr
+weather_indicator_1_target_2_item_a: Bewertung
+weather_indicator_1_target_2_old_year_a: Jahr
+weather_indicator_1_target_2_old_item_a: Bewertung
+weather_indicator_1_target_2_new_year_a: Jahr
+weather_indicator_1_target_2_new_item_a: Bewertung
+
+weather_indicator_1_target_3_year_a: Jahr
+weather_indicator_1_target_3_item_a: Bewertung
+weather_indicator_1_target_3_old_year_a: Jahr
+weather_indicator_1_target_3_old_item_a: Bewertung
+weather_indicator_1_target_3_new_year_a: Jahr
+weather_indicator_1_target_3_new_item_a: Bewertung
+
+weather_indicator_1_target_4_year_a: Jahr
+weather_indicator_1_target_4_item_a: Bewertung
+weather_indicator_1_target_4_old_year_a: Jahr
+weather_indicator_1_target_4_old_item_a: Bewertung
+weather_indicator_1_target_4_new_year_a: Jahr
+weather_indicator_1_target_4_new_item_a: Bewertung
+
+
+weather_indicator_2_target_1_year_a: Jahr
+weather_indicator_2_target_1_item_a: Bewertung
+weather_indicator_2_target_1_old_year_a: Jahr
+weather_indicator_2_target_1_old_item_a: Bewertung
+weather_indicator_2_target_1_new_year_a: Jahr
+weather_indicator_2_target_1_new_item_a: Bewertung
+
+weather_indicator_2_target_2_year_a: Jahr
+weather_indicator_2_target_2_item_a: Bewertung
+weather_indicator_2_target_2_old_year_a: Jahr
+weather_indicator_2_target_2_old_item_a: Bewertung
+weather_indicator_2_target_2_new_year_a: Jahr
+weather_indicator_2_target_2_new_item_a: Bewertung
+
+weather_indicator_2_target_3_year_a: Jahr
+weather_indicator_2_target_3_item_a: Bewertung
+weather_indicator_2_target_3_old_year_a: Jahr
+weather_indicator_2_target_3_old_item_a: Bewertung
+weather_indicator_2_target_3_new_year_a: Jahr
+weather_indicator_2_target_3_new_item_a: Bewertung
+
+weather_indicator_2_target_4_year_a: Jahr
+weather_indicator_2_target_4_item_a: Bewertung
+weather_indicator_2_target_4_old_year_a: Jahr
+weather_indicator_2_target_4_old_item_a: Bewertung
+weather_indicator_2_target_4_new_year_a: Jahr
+weather_indicator_2_target_4_new_item_a: Bewertung
+
+weather_indicator_3_target_1_year_a: Jahr
+weather_indicator_3_target_1_item_a: Bewertung
+weather_indicator_3_target_1_old_year_a: Jahr
+weather_indicator_3_target_1_old_item_a: Bewertung
+weather_indicator_3_target_1_new_year_a: Jahr
+weather_indicator_3_target_1_new_item_a: Bewertung
+
+weather_indicator_3_target_2_year_a: Jahr
+weather_indicator_3_target_2_item_a: Bewertung
+weather_indicator_3_target_2_old_year_a: Jahr
+weather_indicator_3_target_2_old_item_a: Bewertung
+weather_indicator_3_target_2_new_year_a: Jahr
+weather_indicator_3_target_2_new_item_a: Bewertung
+
+weather_indicator_3_target_3_year_a: Jahr
+weather_indicator_3_target_3_item_a: Bewertung
+weather_indicator_3_target_3_old_year_a: Jahr
+weather_indicator_3_target_3_old_item_a: Bewertung
+weather_indicator_3_target_3_new_year_a: Jahr
+weather_indicator_3_target_3_new_item_a: Bewertung
+
+weather_indicator_3_target_4_year_a: Jahr
+weather_indicator_3_target_4_item_a: Bewertung
+weather_indicator_3_target_4_old_year_a: Jahr
+weather_indicator_3_target_4_old_item_a: Bewertung
+weather_indicator_3_target_4_new_year_a: Jahr
+weather_indicator_3_target_4_new_item_a: Bewertung
 
 other_info: Weitere Informationen
 quality_assurance: Qualitätssicherung
