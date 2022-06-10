@@ -97,14 +97,14 @@ weather_indicator_2_target: Ziel
 weather_indicator_3_target: Ziel
 weather_indicator_1_target_new: Ziel
 weather_indicator_2_target_new: Ziel
-weather_indicator_3_target_new: Ziel 
+weather_indicator_3_target_new: Ziel
 
-weather_indicator_1_old_year_a: Jahr
-weather_indicator_2_old_year_a: Jahr
-weather_indicator_3_old_year_a: Jahr
-weather_indicator_1_old_item_a: Bewertung
-weather_indicator_2_old_item_a: Bewertung
-weather_indicator_3_old_item_a: Bewertung
+weather_indicator_1_new_year_a: Jahr
+weather_indicator_2_new_year_a: Jahr
+weather_indicator_3_new_year_a: Jahr
+weather_indicator_1_new_item_a: Bewertung
+weather_indicator_2_new_item_a: Bewertung
+weather_indicator_3_new_item_a: Bewertung
 
 weather_indicator_1_year_a: Jahr
 weather_indicator_1_item_a: Bewertung
