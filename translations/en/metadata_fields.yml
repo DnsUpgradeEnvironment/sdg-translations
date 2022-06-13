@@ -89,30 +89,15 @@ un_custodian_agency: Custodian agency
 un_designated_tier: <a href="https://unstats.un.org/sdgs/iaeg-sdgs/tier-classification/" title="Click here for further information on the UN_Tier classification.">Designated tier</a>
 
 weather_indicator_1: Indicator
-weather_indicator_2: Indicator
-weather_indicator_3: Indicator
-
 weather_indicator_1_target: Target
-weather_indicator_2_target: Target
-weather_indicator_3_target: Target
-weather_indicator_1_target_new: Target
-weather_indicator_2_target_new: Target
-weather_indicator_3_target_new: Target
-
-weather_indicator_1_new_year_a: Year
-weather_indicator_2_new_year_a: Year
-weather_indicator_3_new_year_a: Year
-weather_indicator_1_new_item_a: Evaluation
-weather_indicator_2_new_item_a: Evaluation
-weather_indicator_3_new_item_a: Evaluation
-
+#single target
 weather_indicator_1_year_a: Year
 weather_indicator_1_item_a: Evaluation
-weather_indicator_2_year_a: Year
-weather_indicator_2_item_a: Evaluation
-weather_indicator_3_year_a: Year
-weather_indicator_3_item_a: Evaluation
-
+#single target with old target
+weather_indicator_1_target_new: Target
+weather_indicator_1_new_year_a: Year
+weather_indicator_1_new_item_a: Evaluation
+#multiple targets
 weather_indicator_1_target_1_year_a: Year
 weather_indicator_1_target_1_item_a: Evaluation
 weather_indicator_1_target_1_old_year_a: Year
@@ -141,7 +126,16 @@ weather_indicator_1_target_4_old_item_a: Evaluation
 weather_indicator_1_target_4_new_year_a: Year
 weather_indicator_1_target_4_new_item_a: Evaluation
 
-
+weather_indicator_2: Indicator
+weather_indicator_2_target: Target
+#single target
+weather_indicator_2_year_a: Year
+weather_indicator_2_item_a: Evaluation
+#single target with old target
+weather_indicator_2_target_new: Target
+weather_indicator_2_new_year_a: Year
+weather_indicator_2_new_item_a: Evaluation
+#multiple targets
 weather_indicator_2_target_1_year_a: Year
 weather_indicator_2_target_1_item_a: Evaluation
 weather_indicator_2_target_1_old_year_a: Year
@@ -170,6 +164,16 @@ weather_indicator_2_target_4_old_item_a: Evaluation
 weather_indicator_2_target_4_new_year_a: Year
 weather_indicator_2_target_4_new_item_a: Evaluation
 
+weather_indicator_3: Indicator
+weather_indicator_3_target: Target
+#single target
+weather_indicator_3_year_a: Year
+weather_indicator_3_item_a: Evaluation
+#single target with old target
+weather_indicator_3_target_new: Target
+weather_indicator_3_new_year_a: Year
+weather_indicator_3_new_item_a: Evaluation
+#multiple targets
 weather_indicator_3_target_1_year_a: Year
 weather_indicator_3_target_1_item_a: Evaluation
 weather_indicator_3_target_1_old_year_a: Year
