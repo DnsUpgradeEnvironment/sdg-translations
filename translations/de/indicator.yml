@@ -2,6 +2,9 @@ add_info: Zusätzliche Zeitreihen
 additional_information_blurb: Die untenstehende Zeitreihe besteht aus Zahlenspannen anstelle einzelner Werte.
   Aus techischen Gründen ist die Darstellung in Form von interaktiven Grafiken und Tabellen nur für Zeitreihen mit rein numerischen Werten möglich,
   daher wird die Zeitreihe hier im PDF-Format dargestellt.
+apply: OK
+cancel: Abbrechen
+change_breakdowns: Auswahl ändern
 chart: Grafik
 clear_all: Auswahl aufheben
 clear_selections: Auswahl aufheben
