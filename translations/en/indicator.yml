@@ -33,7 +33,7 @@ dataset_size_warning: There are too many datasets to show on the chart. Not all
 view_indicator_list: View this goal's indicator list
 sub_categories: Selection
 sub_categories_dns: Selection
-series: Serieses
+series: Time series
 series_help: Select here what should be displayed in the chart and in the table.
 series_help_dns: Select here what should be displayed in the chart and in the table.
 target_annotation_2020: Target 2020
