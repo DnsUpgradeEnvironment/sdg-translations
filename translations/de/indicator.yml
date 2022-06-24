@@ -6,11 +6,11 @@ chart: Grafik
 clear_all: Auswahl aufheben
 clear_selections: Auswahl aufheben
 copyright: Copyright
-footnote: Anmerkung
 dataset_size_warning: Zu viele Zeitreihen ausgewählt, um diese in einer Grafik darzustellen.
   Es können nicht alle Zeitreihen dargestellt werden.
 data_not_available: Für die getroffen Auswahl stehen keine Daten zur Verfügung.
 details: Details
+dns_metadata_blurb: Diese Übersicht beinhaltet zusätzliche Informationen zu den oben dargestellten Indikatoren, wie eine kurze Definition des Indikators und eine Beschreibung des politisch festgelegten Zielwertes sowie die politische Intention für die Auswahl des Indikators.
 download_chart: Grafik im CSV-Format speichern
 download_chart_image: Grafik als Bild speichern
 download_csv: im CSV-Format speichern
@@ -23,6 +23,7 @@ download_table: Tabelle im CSV-Format speichern
 edit: Bearbeiten
 edit_data: Daten bearbeiten
 edit_metadata: Metadaten bearbeiten
+footnote: Anmerkung
 geographical_area: Geographische Abdeckung
 global_metadata: Globale Metadaten
 global_metadata_blurb: Diese Übersicht stellt Informationen zu den globalen Metadaten
@@ -35,7 +36,6 @@ loading_map: Karte wird geladen
 map: Karte
 metadata: Metadaten
 national_metadata: Nationale Metadaten
-dns_metadata_blurb: Diese Übersicht beinhaltet zusätzliche Informationen zu den oben dargestellten Indikatoren, wie eine kurze Definition des Indikators und eine Beschreibung des politisch festgelegten Zielwertes sowie die politische Intention für die Auswahl des Indikators.
 national_metadata_blurb: Die für den jeweiligen SDG-Indikator zuständigen internationalen Organisationen (Custodian Agencies) veröffentlichen methodische Vorgaben zur
   Berechnung des Indikators - die sogenannten globalen Metadaten.<br><br>Hier werden die am besten dazu geeigneten, national verfügbaren Zeitreihen bereitgestellt und ihre
   Vergleichbarkeit mit den globalen Metadaten ausgewiesen. Zugehörige methodische und länderspezifische Informationen dieser Zeitreihen finden Sie im nationalen
@@ -51,6 +51,11 @@ sources: Datenquellen
 sub_categories: "Auswahl"
 sub_categories_dns: Auswahl
 table: Tabelle
+target_annotation_2020: Ziel 2020
+target_annotation_2030: Ziel 2030
+target_annotation_2040: Ziel 2040
+target_annotation_2045: Ziel 2045
+target_annotation_2050: Ziel 2050
 timeseries: Zeitreihe
 unit_of_measurement: Einheit
 unit: Einheit
