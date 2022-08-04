@@ -1,173 +1,86 @@
-Series: Zeitreihe
-timeseries: Zeitreihe
-total: Insgesamt
 
-index/number: " "
-1 000: 1 000
-1 000 eur: 1 000 Euro
-1990 = 100: 1990 = 100
-2000 = 100: 2000 = 100
-2005 = 100: 2005 = 100
-2008 = 100: 2008 = 100
-2015 = 100: 2015 = 100
-2030 = 100: 2030 = 100
-bn eur: Mrd. EUR
-ha/d: Hektar pro Tag
-in % of households: in % der Haushalte
-kg/ha: Kilogramm je Hektar
-mg/l: Milligramm pro Liter
-mio.: Millionen
-mio. eur: Millionen Euro
-min.: Minuten
-number: Anzahl
-per 100 000 inhabitants: Je 100 000 Einwohner
-percentage (%): Prozent
-m2/(inhabitant*a): Quadratmeter pro Jahr
-sex: Geschlecht
+#Ausprägungen
+baden-wuerttemberg: Baden-Württemberg
+bavaria: Bayern
+berlin: Berlin
+brandenburg: Brandenburg
+bremen: Bremen
+hamburg: Hamburg
+hesse: Hessen
+mecklenburg western pomerania: Mecklenburg-Vorpommern
+lower saxony: Niedersachsen
+north rhine-westphalia: Nordrhein-Westfalen
+rhineland palatinate: Rheinland-Pfalz
+saarland: Saarland
+saxony: Sachsen
+saxony-anhalt: Sachsen-Anhalt
+schleswig-holstein: Schleswig-Holstein
+thuringia: Thüringen
+divers: Divers
 female: Weiblich
 male: Männlich
-male and female: Beide Geschlechter
-men: Männer
-women: Frauen
-age: Altersklasse
-adolescents (12 to 17 years): Jugendliche (12 bis 17 Jahre)
-adults (15 years and older): Erwachsene (ab 15 Jahren)
-0- to 2-year-olds: 0- bis 2-Jährige
-b) 11- to 17-year-olds: 11- bis 17-Jährige
-20 - 64 years: 20 bis 64 Jahre
-a) 3- to 10-year-olds: 3- bis 10-Jährige
-3- to 5-year-olds: 3- bis 5-Jährige
-60 - 64 years: 60 bis 64 Jahre
-air pollutants: Luftschadstoffe
-air pollutants overall: f) Luftschadstoffe insgesamt
-so2: e) SO<sub>2</sub>
-nox: c) NO<sub>x</sub>
-nh3: a) NH<sub>3</sub>
-nmvoc: b) NMVOC
-pm2.5: d) PM<sub>2,5</sub>
-area: Region
+unknown: Unbekannt
+12 to under 18 years: 12 bis unter 18 Jahre
+15 years and older: 15 Jahre und älter
+2 years and younger: 2 Jahre und jünger
+11 to under 18 years: 11 bis unter 18 Jahre
+20 to under 65 years: 20 bis unter 65 Jahre
+3 to under 11 years: 3 bis unter 11 Jahre
+3 to under 5 years: 3 bis unter 5 Jahre
+60 to under 65 years: 60 bis unter 65 Jahre
+so₂: SO₂
+noₓ: NOₓ
+nh₃: NH₃
+nmvoc: NMVOC
+pm2.5: PM2.5
+eu: EU
+eu-27: EU-27
 eu-28: EU-28
 germany: Deutschland
-euro zone: Eurozone
-typification: Räumliche Typologie
-a) rural and non-rural areas: insgesamt #Ländliche und nicht-ländliche Räume
-non-rural areas: nicht ländliche Räume
-rural areas: ländliche Räume
-sea: Meer
-north sea: Nordsee
+eurozone: Eurozone
+rural areas: Ländliche Gebiete
+non-rural areas: Nicht-ländliche Gebiete
 baltic sea: Ostsee
-criminal offences: Straftaten
-a) criminal offences (overall): Straftaten (insgesamt)
-other criminal offences: Sonstige Straftaten
-serious and grievous bodily harm: Gefährliche und schwere Körperverletzung
+greater north sea: Nordsee
+other offences: Sonstige Straftaten
+dangerous and serious bodily injury: Gefährliche und schwere Körperverletzung
 fraud: Betrug
-burglary in homes: Wohnungseinbruchsdiebstahl
-bundesland: Region
-a) germany (total): Deutschland
-bw: Baden-Württemberg
-by: Bayern
-be: Berlin
-bb: Brandenburg
-hb: Bremen
-hh: Hamburg
-he: Hessen
-mv: Mecklenburg-Vorpommern
-ni: Niedersachsen
-nw: Nordrhein-Westfalen
-rp: Rheinland-Pfalz
-sl: Saarland
-sn: Sachsen
-st: Sachsen-Anhalt
-sh: Schleswig-Holstein
-th: Thüringen
-dimension: Zeitreihe
-a) overweight: Übergewicht ohne Adipositas
-b) obese: Adipositas
-in relation to the middle and upper centers of the respective year: bezogen auf die Mittel- und Oberzentren des jeweiligen Jahres
-in relation to the middle and upper centers of the year 2012: bezogen auf die Mittel- und Oberzentren des Jahres 2012
-title: Zeitreihe
-a) materially deprived persons: Materiell Deprivierte
-b) severely materially deprived persons: Erhebliche materiell Deprivierte
-b) calculated annual values: b) Berechnete jährliche Werte
-a) moving five-year average, referring to the middle year: a) Gleitender Fünfjahresdurchschnitt mit Bezug auf das mittlere Jahr
-data from destatis: Daten des Statistischen Bundesamtes
-data from bmel: Daten des BMEL
-total official development assistance regarding food security: Öffentliche Entwicklungsaufgaben im Bereich Ernährungssicherheit insgesamt
-a) pandemic prevention and reaction: a) Pandemieprävention und -reaktion
-b) containment of the covid-19 pandemic: b) Eindämmung der COVID-19-Pandemie
-tertiary or post-secondary non-tertiary education: Insgesamt #Tertiärer oder postsekundarer nicht-tertärer Bildungsabschluss
-tertiary education: Tertiärer Abschluss
-economy: in Aufsichtsräten von börsennotierten und paritätisch mitbestimmten Unternehmen
-civil service: in Führungspositionen im öffentlichen Dienst
-a) drinking water and sanitation: Trinkwasser- und Sanitärversorgung
-b) drinking water: Trinkwasserversorgung
-c) sanitation: Sanitärversorgung
-a) final energy productivity: Endenergieproduktivität
-b) primary energy consumption: Primärenergieverbrauch
-consumption, investments and exports (price-adjusted): Wert von Konsum, Investitionen und Exporten (preisbereinigt)
-raw material use for consumption, investments and exports: "Rohstoffeinsatz für Konsum, Investitionen und Exporte"
-raw material input productivity: Gesamtrohstoffproduktivität
-funding balance (share of gross domestic product (at current prices) in %): "Finanzierungssaldo"
-structural funding balance (share of gross domestic product (at current prices) in %): "Struktureller Finanzierungssaldo"
-gross domestic produkt (price-adjusted) (year-on-year changes in %): Bruttoinlandsprodukt (preisbereinigt)
-partnership for sustainable textiles: Bündnis für nachhaltige Textilien
-all line-based technologies: Alle leitungsgebundenen Technologien
-pure fiber optic networks (fttb/h): Reine Glasfasernetze (FTTB/H)
-cable television (catv): Kabelfernsehen (CATV)
-foreign school graduates: Ausländische Schulabsolventinnen und -absolventen
-german school graduates (share of all german leavers): Deutsche Schulabsolventinnen und -absolventen
-gini coefficient of equivalised income before social transfers: Gini-Koeffizient des verfügbaren Äquivalenzeinkommens vor Sozialleistungen
-gini coefficient of equivalised disposable income: Gini-Koeffizient des verfügbaren Äquivalenzeinkommens
-gini coefficient of market income: Gini-Koeffizient des Markteinkommens
-gini coefficient of wealth: Gini-Koeffizient des Vermögens
-sports, leisure and recreation area, graveyard: Sport-, Freizeit- und Erholungsfläche, Friedhof
-living space, industrial and commercial space (without mining land), public facilities: Wohnbau, Industrie und Gewerbe (ohne Abbauland), Öffentliche Einrichtungen
-transport area: Verkehrsfläche
-a) total (moving four-year average): Insgesamt (gleitender Vierjahresdurchschnitt)
-final energy consumption for the carriage of goods: Endenergieverbrauch durch Güterbeförderung
-goods transport performance: Güterbeförderungsleistung
-final energy consumption per tonne-kilometre: Energieverbrauch je Tonnenkilometer
-passenger transport performance: Personenbeförderungsleistung
-final energy consumption per passenger-kilometre: Energieverbrauch je Personenkilometer
-final energy consumption in passenger transport: Endenergieverbrauch im Personenverkehr
-total objects: Objekte insgesamt
-objects with digitalisat: Objekte mit Digitalisat
-direct and indirect raw material consumption: Direkter und indirekter Rohstoffeinsatz
-direct and indirect energy consumption: Direkter und indirekter Energieverbrauch
-direct and indirect co2 emissions: Direkte und indirekte CO<sub>2</sub>-Emissionen
-employees in thousands: Beschäftigte in Tausend
-emas organisational locations: EMAS-Organisationsstandorte
-emas organisations: EMAS-Organisationen
-recycled paper bearing the blue angel label as a proportion of the total paper consumption of the federal administration: Anteil Recyclingpapier mit Blauem Engel am Gesamtpapierverbrauch der unmittelbaren Bundesverwaltung
-co2 emissions per mileage of motor vehicles of the public sector: CO<sub>2</sub>-Emissionen je Fahrleistung der Kfz der öffentlichen Hand
-proportion of sustainable managed stocks in all msy examined stocks: Anteil der nachhaltig bewirtschafteten Bestände an allen MSY-untersuchten Beständen
-proportion of msy examined in all managed stocks: MSY-untersuchte an allen bewirtschafteten Beständen
-f) index overall: f) Index insgesamt
-a) sub-index forests: a) Teilindex Wälder
-b) sub-index settlements: b) Teilindex Siedlungen
-c) sub-index farmland: c) Teilindex Agrarland
-d) sub-index inland waters: d) Teilindex Binnengewässer
-e) sub-index coasts/seas: e) Teilindex Küsten/Meere
-redd+: REDD+ (ergebnisbasierte Auszahlungen für internationalen Waldschutz)
-soil conservation: Internationaler Bodenschutz (Bruttoentwicklungsausgaben für internationalen Bodenschutz)
-rating for germany: Bewertung für Deutschland
-number of partner countries of german development cooperation whose rating has improved compared with 2012: Anzahl der Partnerländer deutscher Entwicklungszusammenarbeit, deren Bewertung sich gegenüber 2012 verbessert hat
-calculation as net expenditure: Berechnung als Netto-Ausgabe
-calculation in grant equivalents: Berechnung in Zuschussäquivalenten
-a) total: Insgesamt
-d) students from ldcs: Studierende aus LDCs
-b) students from other developing and emerging countries: Studierende aus den übrigen Entwicklungs- und Schwellenländern
-e) researchers from ldcs: Forschende aus LDCs
-c) researchers from other developing and emerging countries: Forschende aus den übrigen Entwicklungs- und Schwellenländern
-imports of processed products from ldcs: Einfuhren von weiterverarbeiteten Produkten aus LDCs
-imports from ldcs: Einfuhren aus LDCs
-c) total: Insgesamt
-a) time series: Zeitreihe
-b) target: Ziel
-b) target (min): Ziel
-b) target (max): Ziel
-display: Anzeigen
-unit: Einheit
-year: Jahr
-Year: Jahr
-Bundesland: Region
+domestic burglary: Wohnungseinbruchsdiebstahl
+
+#Kategorien
+federal state: Bundesland
+age group: Altersklasse
+sex: Geschlecht
+air pollutant: Luftschadstoff
+fine particulate matter: Feinstaub
+area: Gebiet
+degree of urbanisation: Verstädterungsgrad
+sea: Meer
+criminal offence: Straftat
+
+#Einheiten
+2008 = 100: 2008 = 100
+percentage: Prozent
+kilogram per hectare: Kilogramm pro Hektar
+per 100,000 inhabitants under 70 years (excluding under 1 year olds): Je 100 000 Einwohner/ -innen unter 70 Jahren (ohne unter 1-Jährige)
+2005 = 100: 2005 = 100
+million inhabitants: Millionen Einwohner/ -innen
+million eur: Millionen EUR
+1.000: 1 000
+2000 = 100: 2000 = 100
+1.000 eur: 1 000 EUR
+number: Anzahl
+hectre per day: Hektar pro Tag
+m² per year: m² pro Jahr
+minutes: Minuten
+millions: Millionen
+1990 = 100: 1990 = 100
+billion eur: Milliarden EUR
+miligrams per litre: Miligramm pro Liter
+2030 = 100: 2030 = 100
+per 100,000 inhabitants: Je 100 000 Einwohner/ -innen
+
+#Zeitreihen
+final energy productivity: Endenergieproduktivität
+primary energy consumption: Primärenergieverbrauch
+generation of renewable energies as a share of gross final energy consumption: Erzeugung erneuerbarer Energien in Relation zum Brutto-Endenergieverbrauch

@@ -1,173 +1,86 @@
-Series: Time series
-timeseries: Time series
-total: Total
 
-index/number: " "
-1 000: 1 000
-1 000 eur: 1 000 €
-1990 = 100: 1990 = 100
-2000 = 100: 2000 = 100
-2005 = 100: 2005 = 100
-2008 = 100: 2008 = 100
-2015 = 100: 2015 = 100
-2030 = 100: 2030 = 100
-bn eur: Bn EUR
-ha/d: hectares per day
-in % of households: in % of households
-kg/ha: Kilograms per hectare
-mg/l: Milligrams per litre
-mio.: Millions
-mio. eur: Millions of euros
-min.: Minutes
-number: Number
-per 100 000 inhabitants: Per 100 000 inhabitants
-percentage (%): Percentage
-m2/(inhabitant*a): Squaremeters per year
-sex: Sex
+#Expressions
+baden-wuerttemberg: Baden-Wuerttemberg
+bavaria: Bavaria
+berlin: Berlin
+brandenburg: Brandenburg
+bremen: Bremen
+hamburg: Hamburg
+hesse: Hesse
+mecklenburg western pomerania: Mecklenburg Western Pomerania
+lower saxony: Lower Saxony
+north rhine-westphalia: North Rhine-Westphalia
+rhineland palatinate: Rhineland Palatinate
+saarland: Saarland
+saxony: Saxony
+saxony-anhalt: Saxony-Anhalt
+schleswig-holstein: Schleswig-Holstein
+thuringia: Thuringia
+divers: Divers
 female: Female
 male: Male
-male and female: Both sexes
-men: Men
-women: Women
-age: Age group
-adolescents (12 to 17 years): Adolescents (12 to 17 years)
-adults (15 years and older): Adults (15 years and older)
-0- to 2-year-olds: 0- to 2-year-olds
-b) 11- to 17-year-olds: 11- to 17-year-olds
-20 - 64 years: 20 to 64 years
-a) 3- to 10-year-olds: 3- to 10-year-olds
-3- to 5-year-olds: 3- to 5-year-olds
-60 - 64 years: 60 to 64 years
-air pollutants: Air pollutants
-air pollutants overall: Air pollutants overall
-so2: SO<sub>2</sub>
-nox: NO<sub>x</sub>
-nh3: NH<sub>3</sub>
+unknown: Unknown
+12 to under 18 years: 12 to under 18 years
+15 years and older: 15 years and older
+2 years and younger: 2 years and younger
+11 to under 18 years: 11 to under 18 years
+20 to under 65 years: 20 to under 65 years
+3 to under 11 years: 3 to under 11 years
+3 to under 5 years: 3 to under 5 years
+60 to under 65 years: 60 to under 65 years
+so₂: SO₂
+noₓ: NOₓ
+nh₃: NH₃
 nmvoc: NMVOC
-pm2.5: PM<sub>2.5</sub>
-area: Area
+pm2.5: PM2.5
+eu: EU
+eu-27: EU-27
 eu-28: EU-28
 germany: Germany
-euro zone: Euro zone
-typification: Typification
-a) rural and non-rural areas: Rural and non-rural areas
-non-rural areas: Non-rural areas
+eurozone: Eurozone
 rural areas: Rural areas
-sea: Sea
-north sea: North sea
+non-rural areas: Non-rural areas
 baltic sea: Baltic sea
-criminal offences: Criminal offences
-a) criminal offences (overall): Criminal offences (overall)
-other criminal offences: Other criminal offences
-serious and grievous bodily harm: Serious and grievous bodily harm
+greater north sea: Greater North Sea
+other offences: Other offences
+dangerous and serious bodily injury: Dangerous and serious bodily injury
 fraud: Fraud
-burglary in homes: Burglary in homes
-bundesland: Region
-a) germany (total): Germany
-bw: Baden-Wuerttemberg
-by: Bavaria
-be: Berlin
-bb: Brandenburg
-hb: Bremen
-hh: Hamburg
-he: Hesse
-mv: Mecklenburg Western Pomerania
-ni: Lower Saxony
-nw: North Rhine-Westphalia
-rp: Rhineland Palatinate
-sl: Saarland
-sn: Saxony
-st: Saxony-Anhalt
-sh: Schleswig-Holstein
-th: Thuringia
-dimension: Time series
-a) overweight: Overweight without obese
-b) obese: Obese
-in relation to the middle and upper centers of the respective year: In relation to the middle and upper centers of the respective year
-in relation to the middle and upper centers of the year 2012: In relation to the middle and upper centers of the year 2012
-title: Time series
-a) materially deprived persons: Materially deprived persons
-b) severely materially deprived persons: Serverely materially deprived persons
-b) calculated annual values: Calculated annual values
-a) moving five-year average, referring to the middle year: "Moving five-year average, referring to the middle year"
-data from destatis: Data from Destatis
-data from bmel: Data from BMEL
-total official development assistance regarding food security: Total official development assistance regarding food security
-a) pandemic prevention and reaction: Pandemic prevention and reaction
-b) containment of the covid-19 pandemic: containment of the covid-19 pandemic
-tertiary or post-secondary non-tertiary education: Total #Tertiary or post-secondary non-tertiary education
-tertiary education: Tertiary education
-economy: Economy
-civil service: civil service
-a) drinking water and sanitation: Drinking water and sanitation
-b) drinking water: Drinking water
-c) sanitation: Sanitation
-a) final energy productivity: Final energy productivity
-b) primary energy consumption: Primary energy consumption
-consumption, investments and exports (price-adjusted): "Consumption, investments and exports (price-adjusted)"
-raw material use for consumption, investments and exports: "Raw material use for consumption, investments and exports"
-raw material input productivity: Raw material input productivity
-funding balance (share of gross domestic product (at current prices) in %): Funding balance (share of gross domestic product (at current prices))
-structural funding balance (share of gross domestic product (at current prices) in %): Structural funding balance (share of gross domestic product (at current prices))
-gross domestic produkt (price-adjusted) (year-on-year changes in %): Gross domestic produkt (price-adjusted) (year-on-year changes)
-partnership for sustainable textiles: Partnership for sustainable textiles
-all line-based technologies: All line-based technologies
-pure fiber optic networks (fttb/h): Pure fiber optic networks (FTTB/H)
-cable television (catv): Cable television (CATV)
-foreign school graduates: Foreign school graduates
-german school graduates (share of all german leavers): German school graduates (share of all german leavers)
-gini coefficient of equivalised income before social transfers: Gini coefficient of equivalised income before social transfers
-gini coefficient of equivalised disposable income: Gini coefficient of equivalised disposable income
-gini coefficient of market income: Gini coefficient of market income
-gini coefficient of wealth: Gini coefficient of wealth
-sports, leisure and recreation area, graveyard: Sports, leisure and recreation area, graveyard
-living space, industrial and commercial space (without mining land), public facilities:
-transport area: Transport area
-a) total (moving four-year average): "Total (moving four-year average)"
-final energy consumption for the carriage of goods: Final energy consumption for the carriage of goods
-goods transport performance: Goods transport performance
-final energy consumption per tonne-kilometre: Final energy consumption per tonne-kilometre
-passenger transport performance: Passenger transport performance
-final energy consumption per passenger-kilometre: Final energy consumption per passenger-kilometre
-final energy consumption in passenger transport: Final energy consumption in passenger transport
-total objects: Total objects
-objects with digitalisat: objects with digitalisat
-direct and indirect raw material consumption: Direct and indirect raw material consumption
-direct and indirect energy consumption: Direct and indirect energy consumption
-direct and indirect co2 emissions: Direct and indirect CO2 emissions
-employees in thousands: Employees in thousands
-emas organisational locations: EMAS organisational locations
-emas organisations: EMAS organisations
-recycled paper bearing the blue angel label as a proportion of the total paper consumption of the federal administration: Recycled paper bearing the blue angel label as a proportion of the total paper consumption of the federal administration
-co2 emissions per mileage of motor vehicles of the public sector: CO<sub>2</sub> emissions per mileage of motor vehicles of the public sector
-proportion of sustainable managed stocks in all msy examined stocks: Proportion of sustainable managed stocks in all MSY examined stocks
-proportion of msy examined in all managed stocks: Proportion of MSY examined in all managed stocks
-f) index overall: Index overall
-a) sub-index forests: Sub-index forests
-b) sub-index settlements: Sub-index settlements
-c) sub-index farmland: Sub-index farmland
-d) sub-index inland waters: Sub-index inland waters
-e) sub-index coasts/seas: Sub-index coasts/seas
-redd+: REDD+
-soil conservation: Soil conservation
-rating for germany: Rating for germany
-number of partner countries of german development cooperation whose rating has improved compared with 2012: Number of partner countries of german development cooperation whose rating has improved compared with 2012
-calculation as net expenditure: Calculation as net expenditure
-calculation in grant equivalents: Calculation in grant equivalents
-a) total: Total
-d) students from ldcs: Students from LDCs
-b) students from other developing and emerging countries: Students from other developing and emerging countries
-e) researchers from ldcs: Researchers from LDCs
-c) researchers from other developing and emerging countries: Researchers from other developing and emerging countries
-imports of processed products from ldcs: Imports of processed products from LDCs
-imports from ldcs: Imports from LDCs
-c) total: Total
-a) time series: Time series
-b) target: Target
-b) target (min): Target
-b) target (max): Target
-display: Display
-unit: Unit
-year: Year
-Year: Year
-Bundesland: Region
+domestic burglary: Domestic burglary
+
+#Expressions
+federal state: Federal state
+age group: Age group
+sex: Sex
+air pollutant: Air pollutant
+fine particulate matter: Fine particulate matter
+area: Area
+degree of urbanisation: Degree of urbanisation
+sea: Sea
+criminal offence: Criminal offence
+
+#Units
+2008 = 100: 2008 = 100
+percentage: Percentage
+kilogram per hectare: Kilogram per hectare
+per 100,000 inhabitants under 70 years (excluding under 1 year olds): Per 100,000 inhabitants under 70 years (excluding under 1 year olds)
+2005 = 100: 2005 = 100
+million inhabitants: Million inhabitants
+million eur: Million EUR
+1.000: 1.000
+2000 = 100: 2000 = 100
+1.000 eur: 1.000 EUR
+number: Number
+hectre per day: Hectre per day
+m² per year: m² per year
+minutes: Minutes
+millions: Millions
+1990 = 100: 1990 = 100
+billion eur: Billion EUR
+miligrams per litre: Miligrams per litre
+2030 = 100: 2030 = 100
+per 100,000 inhabitants: Per 100,000 inhabitants
+
+#Time series
+final energy productivity: Final energy productivity
+primary energy consumption: Primary energy consumption
+generation of renewable energies as a share of gross final energy consumption: Generation of renewable energies as a share of gross final energy consumption
