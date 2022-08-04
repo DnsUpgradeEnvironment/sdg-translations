@@ -28,9 +28,9 @@ unknown: Unknown
 3 to under 11 years: 3 to under 11 years
 3 to under 5 years: 3 to under 5 years
 60 to under 65 years: 60 to under 65 years
-so2: SO₂
-nox: NOₓ
-nh3: NH₃
+so2: SO2
+nox: NOx
+nh3: NH3
 nmvoc: NMVOC
 pm2.5: PM2.5
 eu: EU
@@ -66,7 +66,7 @@ per 100,000 inhabitants under 70 years (excluding under 1 year olds): Per 100,00
 2005 = 100: 2005 = 100
 million inhabitants: Million inhabitants
 million eur: Million EUR
-1.000: 1.000
+"1.000": "1.000"
 2000 = 100: 2000 = 100
 1.000 eur: 1.000 EUR
 number: Number
