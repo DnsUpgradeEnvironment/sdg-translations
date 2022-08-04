@@ -28,9 +28,9 @@ unknown: Unbekannt
 3 to under 11 years: 3 bis unter 11 Jahre
 3 to under 5 years: 3 bis unter 5 Jahre
 60 to under 65 years: 60 bis unter 65 Jahre
-so2: SO2
-nox: NOx
-nh3: NH3
+so₂: SO₂
+noₓ: NOₓ
+nh₃: NH₃
 nmvoc: NMVOC
 pm2.5: PM2.5
 eu: EU
@@ -71,7 +71,7 @@ million eur: Millionen EUR
 1.000 eur: 1 000 EUR
 number: Anzahl
 hectre per day: Hektar pro Tag
-m2 per year: m² pro Jahr
+m² per year: m² pro Jahr
 minutes: Minuten
 millions: Millionen
 1990 = 100: 1990 = 100
