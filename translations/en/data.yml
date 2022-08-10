@@ -1,86 +1,94 @@
 
 #Expressions
+2 years and younger: 2 years and younger
+3 to under 5 years: 3 to under 5 years
+3 to under 11 years: 3 to under 11 years
+11 to under 18 years: 11 to under 18 years
+12 to under 18 years: 12 to under 18 years
+15 years and older: 15 years and older
+20 to under 65 years: 20 to under 65 years
+60 to under 65 years: 60 to under 65 years
+nh₃: NH₃
+nmvoc: NMVOC
+noₓ: NOₓ
+so₂: SO₂
+eu: EU
+eu-27: EU-27
+eu-28: EU-28
+eurozone: Eurozone
+germany: Germany
+domestic burglary: Domestic burglary
+fraud: Fraud
+dangerous and serious bodily injury: Dangerous and serious bodily injury
+other offences: Other offences
+brandenburg: Brandenburg
+berlin: Berlin
 baden-wuerttemberg: Baden-Wuerttemberg
 bavaria: Bavaria
-berlin: Berlin
-brandenburg: Brandenburg
 bremen: Bremen
-hamburg: Hamburg
 hesse: Hesse
+hamburg: Hamburg
 mecklenburg western pomerania: Mecklenburg Western Pomerania
 lower saxony: Lower Saxony
 north rhine-westphalia: North Rhine-Westphalia
 rhineland palatinate: Rhineland Palatinate
+schleswig-holstein: Schleswig-Holstein
 saarland: Saarland
 saxony: Saxony
 saxony-anhalt: Saxony-Anhalt
-schleswig-holstein: Schleswig-Holstein
 thuringia: Thuringia
+pm2.5: PM2.5
+baltic sea: Baltic sea
+greater north sea: Greater North Sea
 divers: Divers
 female: Female
 male: Male
 unknown: Unknown
-12 to under 18 years: 12 to under 18 years
-15 years and older: 15 years and older
-2 years and younger: 2 years and younger
-11 to under 18 years: 11 to under 18 years
-20 to under 65 years: 20 to under 65 years
-3 to under 11 years: 3 to under 11 years
-3 to under 5 years: 3 to under 5 years
-60 to under 65 years: 60 to under 65 years
-so₂: SO₂
-noₓ: NOₓ
-nh₃: NH₃
-nmvoc: NMVOC
-pm2.5: PM2.5
-eu: EU
-eu-27: EU-27
-eu-28: EU-28
-germany: Germany
-eurozone: Eurozone
-rural areas: Rural areas
 non-rural areas: Non-rural areas
-baltic sea: Baltic sea
-greater north sea: Greater North Sea
-other offences: Other offences
-dangerous and serious bodily injury: Dangerous and serious bodily injury
-fraud: Fraud
-domestic burglary: Domestic burglary
+rural areas: Rural areas
+germany: Germany
+european union: European Union
 
 #Expressions
-federal state: Federal state
 age group: Age group
-sex: Sex
 air pollutant: Air pollutant
-fine particulate matter: Fine particulate matter
 area: Area
-degree of urbanisation: Degree of urbanisation
-sea: Sea
 criminal offence: Criminal offence
+federal state: Federal state
+fine particulate matter: Fine particulate matter
+sea: Sea
+sex: Sex
+degree of urbanisation: Degree of urbanisation
 
 #Units
-2008 = 100: 2008 = 100
-percentage: Percentage
-kilogram per hectare: Kilogram per hectare
-per 100,000 inhabitants under 70 years (excluding under 1 year olds): Per 100,000 inhabitants under 70 years (excluding under 1 year olds)
-2005 = 100: 2005 = 100
-million inhabitants: Million inhabitants
-million eur: Million EUR
 '1.000': '1.000'
-2000 = 100: 2000 = 100
-1.000 eur: 1.000 EUR
-number: Number
-hectre per day: Hectre per day
-m² per year: m² per year
-minutes: Minutes
 millions: Millions
-1990 = 100: 1990 = 100
 billion eur: Billion EUR
+hectre per day: Hectre per day
+2000 = 100: 2000 = 100
+2005 = 100: 2005 = 100
+2008 = 100: 2008 = 100
+kilogram per hectare: Kilogram per hectare
 miligrams per litre: Miligrams per litre
-2030 = 100: 2030 = 100
+minutes: Minutes
+million eur: Million EUR
+million inhabitants: Million inhabitants
+number: Number
 per 100,000 inhabitants: Per 100,000 inhabitants
+per 100,000 inhabitants under 70 years (excluding under 1 year olds): Per 100,000 inhabitants under 70 years (excluding under 1 year olds)
+percentage: Percentage
+m² per year: m² per year
+1.000 eur: 1.000 EUR
+1990 = 100: 1990 = 100
+2030 = 100: 2030 = 100
 
 #Time series
+material deprivation: Material deprivation
+severe material deprivation: Severe material deprivation
 final energy productivity: Final energy productivity
 primary energy consumption: Primary energy consumption
 generation of renewable energies as a share of gross final energy consumption: Generation of renewable energies as a share of gross final energy consumption
+calculated annual values: Calculated annual values
+moving five-year average shown for each middle year: Moving five-year average shown for each middle year
+data from the federal statistical office: Data from the Federal Statistical Office
+data from the federal ministry of food and agriculture: Data from the Federal Ministry of Food and Agriculture

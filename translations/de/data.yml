@@ -1,86 +1,94 @@
 
 #Ausprägungen
+2 years and younger: 2 Jahre und jünger
+3 to under 5 years: 3 bis unter 5 Jahre
+3 to under 11 years: 3 bis unter 11 Jahre
+11 to under 18 years: 11 bis unter 18 Jahre
+12 to under 18 years: 12 bis unter 18 Jahre
+15 years and older: 15 Jahre und älter
+20 to under 65 years: 20 bis unter 65 Jahre
+60 to under 65 years: 60 bis unter 65 Jahre
+nh₃: NH₃
+nmvoc: NMVOC
+noₓ: NOₓ
+so₂: SO₂
+eu: EU
+eu-27: EU-27
+eu-28: EU-28
+eurozone: Eurozone
+germany: Deutschland
+domestic burglary: Wohnungseinbruchsdiebstahl
+fraud: Betrug
+dangerous and serious bodily injury: Gefährliche und schwere Körperverletzung
+other offences: Sonstige Straftaten
+brandenburg: Brandenburg
+berlin: Berlin
 baden-wuerttemberg: Baden-Württemberg
 bavaria: Bayern
-berlin: Berlin
-brandenburg: Brandenburg
 bremen: Bremen
-hamburg: Hamburg
 hesse: Hessen
+hamburg: Hamburg
 mecklenburg western pomerania: Mecklenburg-Vorpommern
 lower saxony: Niedersachsen
 north rhine-westphalia: Nordrhein-Westfalen
 rhineland palatinate: Rheinland-Pfalz
+schleswig-holstein: Schleswig-Holstein
 saarland: Saarland
 saxony: Sachsen
 saxony-anhalt: Sachsen-Anhalt
-schleswig-holstein: Schleswig-Holstein
 thuringia: Thüringen
+pm2.5: PM2.5
+baltic sea: Ostsee
+greater north sea: Nordsee
 divers: Divers
 female: Weiblich
 male: Männlich
 unknown: Unbekannt
-12 to under 18 years: 12 bis unter 18 Jahre
-15 years and older: 15 Jahre und älter
-2 years and younger: 2 Jahre und jünger
-11 to under 18 years: 11 bis unter 18 Jahre
-20 to under 65 years: 20 bis unter 65 Jahre
-3 to under 11 years: 3 bis unter 11 Jahre
-3 to under 5 years: 3 bis unter 5 Jahre
-60 to under 65 years: 60 bis unter 65 Jahre
-so₂: SO₂
-noₓ: NOₓ
-nh₃: NH₃
-nmvoc: NMVOC
-pm2.5: PM2.5
-eu: EU
-eu-27: EU-27
-eu-28: EU-28
-germany: Deutschland
-eurozone: Eurozone
-rural areas: Ländliche Gebiete
 non-rural areas: Nicht-ländliche Gebiete
-baltic sea: Ostsee
-greater north sea: Nordsee
-other offences: Sonstige Straftaten
-dangerous and serious bodily injury: Gefährliche und schwere Körperverletzung
-fraud: Betrug
-domestic burglary: Wohnungseinbruchsdiebstahl
+rural areas: Ländliche Gebiete
+germany: Deutschland
+european union: Eropäische Union
 
 #Kategorien
-federal state: Bundesland
 age group: Altersklasse
-sex: Geschlecht
 air pollutant: Luftschadstoff
-fine particulate matter: Feinstaub
 area: Gebiet
-degree of urbanisation: Verstädterungsgrad
-sea: Meer
 criminal offence: Straftat
+federal state: Bundesland
+fine particulate matter: Feinstaub
+sea: Meer
+sex: Geschlecht
+degree of urbanisation: Verstädterungsgrad
 
 #Einheiten
-2008 = 100: 2008 = 100
-percentage: Prozent
-kilogram per hectare: Kilogramm pro Hektar
-per 100,000 inhabitants under 70 years (excluding under 1 year olds): Je 100 000 Einwohner/ -innen unter 70 Jahren (ohne unter 1-Jährige)
-2005 = 100: 2005 = 100
-million inhabitants: Millionen Einwohner/ -innen
-million eur: Millionen EUR
 '1.000': 1 000
-2000 = 100: 2000 = 100
-1.000 eur: 1 000 EUR
-number: Anzahl
-hectre per day: Hektar pro Tag
-m² per year: m² pro Jahr
-minutes: Minuten
 millions: Millionen
-1990 = 100: 1990 = 100
 billion eur: Milliarden EUR
+hectre per day: Hektar pro Tag
+2000 = 100: 2000 = 100
+2005 = 100: 2005 = 100
+2008 = 100: 2008 = 100
+kilogram per hectare: Kilogramm pro Hektar
 miligrams per litre: Miligramm pro Liter
-2030 = 100: 2030 = 100
+minutes: Minuten
+million eur: Millionen EUR
+million inhabitants: Millionen Einwohner/ -innen
+number: Anzahl
 per 100,000 inhabitants: Je 100 000 Einwohner/ -innen
+per 100,000 inhabitants under 70 years (excluding under 1 year olds): Je 100 000 Einwohner/ -innen unter 70 Jahren (ohne unter 1-Jährige)
+percentage: Prozent
+m² per year: m² pro Jahr
+1.000 eur: 1 000 EUR
+1990 = 100: 1990 = 100
+2030 = 100: 2030 = 100
 
 #Zeitreihen
+material deprivation: Materielle Deprivation
+severe material deprivation: Erhebliche materielle Deprivation
 final energy productivity: Endenergieproduktivität
 primary energy consumption: Primärenergieverbrauch
 generation of renewable energies as a share of gross final energy consumption: Erzeugung erneuerbarer Energien in Relation zum Brutto-Endenergieverbrauch
+calculated annual values: Berechnete jährliche Werte
+moving five-year average shown for each middle year: Gleitender Fünfjahresdurchschnitt mit Bezug auf das mittlere Jahr
+data from the federal statistical office: Daten des Statistischen Bundesamtes
+data from the federal ministry of food and agriculture: Daten des BMEL
