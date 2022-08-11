@@ -21,6 +21,8 @@ domestic burglary: Domestic burglary
 fraud: Fraud
 dangerous and serious bodily injury: Dangerous and serious bodily injury
 other offences: Other offences
+european union: European Union
+germany: Germany
 brandenburg: Brandenburg
 berlin: Berlin
 baden-wuerttemberg: Baden-Wuerttemberg
@@ -40,14 +42,19 @@ thuringia: Thuringia
 pm2.5: PM2.5
 baltic sea: Baltic sea
 greater north sea: Greater North Sea
+moving five-year average shown for each middle year: Moving five-year average shown for each middle year
+calculated annual values: Calculated annual values
+data from the federal ministry of food and agriculture: Data from the Federal Ministry of Food and Agriculture
+data from the federal statistical office: Data from the Federal Statistical Office
 divers: Divers
 female: Female
 male: Male
 unknown: Unknown
 non-rural areas: Non-rural areas
 rural areas: Rural areas
-germany: Germany
-european union: European Union
+
+# Additions
+total: Total
 
 #Expressions
 age group: Age group
@@ -57,6 +64,7 @@ criminal offence: Criminal offence
 federal state: Federal state
 fine particulate matter: Fine particulate matter
 sea: Sea
+time series: Time series
 sex: Sex
 degree of urbanisation: Degree of urbanisation
 
@@ -81,14 +89,3 @@ m² per year: m² per year
 1.000 eur: 1.000 EUR
 1990 = 100: 1990 = 100
 2030 = 100: 2030 = 100
-
-#Time series
-material deprivation: Material deprivation
-severe material deprivation: Severe material deprivation
-final energy productivity: Final energy productivity
-primary energy consumption: Primary energy consumption
-generation of renewable energies as a share of gross final energy consumption: Generation of renewable energies as a share of gross final energy consumption
-calculated annual values: Calculated annual values
-moving five-year average shown for each middle year: Moving five-year average shown for each middle year
-data from the federal statistical office: Data from the Federal Statistical Office
-data from the federal ministry of food and agriculture: Data from the Federal Ministry of Food and Agriculture

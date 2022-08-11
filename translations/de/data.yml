@@ -21,6 +21,8 @@ domestic burglary: Wohnungseinbruchsdiebstahl
 fraud: Betrug
 dangerous and serious bodily injury: Gefährliche und schwere Körperverletzung
 other offences: Sonstige Straftaten
+european union: Eropäische Union
+germany: Deutschland
 brandenburg: Brandenburg
 berlin: Berlin
 baden-wuerttemberg: Baden-Württemberg
@@ -40,14 +42,19 @@ thuringia: Thüringen
 pm2.5: PM2.5
 baltic sea: Ostsee
 greater north sea: Nordsee
+moving five-year average shown for each middle year: Gleitender Fünfjahresdurchschnitt mit Bezug auf das mittlere Jahr
+calculated annual values: Berechnete jährliche Werte
+data from the federal ministry of food and agriculture: Daten des BMEL
+data from the federal statistical office: Daten des Statistischen Bundesamtes
 divers: Divers
 female: Weiblich
 male: Männlich
 unknown: Unbekannt
 non-rural areas: Nicht-ländliche Gebiete
 rural areas: Ländliche Gebiete
-germany: Deutschland
-european union: Eropäische Union
+
+# Additions
+total: Insgesamt
 
 #Kategorien
 age group: Altersklasse
@@ -57,6 +64,7 @@ criminal offence: Straftat
 federal state: Bundesland
 fine particulate matter: Feinstaub
 sea: Meer
+time series: Zeitreihe
 sex: Geschlecht
 degree of urbanisation: Verstädterungsgrad
 
@@ -81,14 +89,3 @@ m² per year: m² pro Jahr
 1.000 eur: 1 000 EUR
 1990 = 100: 1990 = 100
 2030 = 100: 2030 = 100
-
-#Zeitreihen
-material deprivation: Materielle Deprivation
-severe material deprivation: Erhebliche materielle Deprivation
-final energy productivity: Endenergieproduktivität
-primary energy consumption: Primärenergieverbrauch
-generation of renewable energies as a share of gross final energy consumption: Erzeugung erneuerbarer Energien in Relation zum Brutto-Endenergieverbrauch
-calculated annual values: Berechnete jährliche Werte
-moving five-year average shown for each middle year: Gleitender Fünfjahresdurchschnitt mit Bezug auf das mittlere Jahr
-data from the federal statistical office: Daten des Statistischen Bundesamtes
-data from the federal ministry of food and agriculture: Daten des BMEL
