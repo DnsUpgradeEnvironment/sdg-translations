@@ -12,6 +12,7 @@ copyright: Copyright
 variable_hint: Available when '%field' is selected
 no_data_hint: No options available because of filters above
 footnote: Comment
+footnotes: Comments
 specification: Specification
 data_not_available:  No data available for this selection of sub-categories and units
 details: Details
