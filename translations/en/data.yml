@@ -6,8 +6,21 @@
 11 to under 18 years: 11 to under 18 years
 12 to under 18 years: 12 to under 18 years
 15 years and older: 15 years and older
+18 to under 20 years: 18 to under 20 years
+20 to under 25 years: 20 to under 25 years
 20 to under 65 years: 20 to under 65 years
+25 to under 30 years: 25 to under 30 years
+30 to under 35 years: 30 to under 35 years
+35 to under 40 years: 35 to under 40 years
+40 to under 45 years: 40 to under 45 years
+45 to under 50 years: 45 to under 50 years
+50 to under 55 years: 50 to under 55 years
+55 to under 60 years: 55 to under 60 years
+60 to under 56 years: 60 to under 56 years
 60 to under 65 years: 60 to under 65 years
+65 to under 70 years: 65 to under 70 years
+70 to under 75 years: 70 to under 75 years
+75 years and older: 75 years and older
 nh₃: NH₃
 nmvoc: NMVOC
 noₓ: NOₓ
@@ -23,54 +36,6 @@ dangerous and serious bodily injury: Dangerous and serious bodily injury
 other offences: Other offences
 european union: European Union
 germany: Germany
-brandenburg: Brandenburg
-berlin: Berlin
-baden-wuerttemberg: Baden-Wuerttemberg
-bavaria: Bavaria
-bremen: Bremen
-hesse: Hesse
-hamburg: Hamburg
-mecklenburg western pomerania: Mecklenburg Western Pomerania
-lower saxony: Lower Saxony
-north rhine-westphalia: North Rhine-Westphalia
-rhineland palatinate: Rhineland Palatinate
-schleswig-holstein: Schleswig-Holstein
-saarland: Saarland
-saxony: Saxony
-saxony-anhalt: Saxony-Anhalt
-thuringia: Thuringia
-pm2.5: PM2.5
-baltic sea: Baltic sea
-greater north sea: Greater North Sea
-moving five-year average shown for each middle year: Moving five-year average shown for each middle year
-calculated annual values: Calculated annual values
-data from the federal ministry of food and agriculture: Data from the Federal Ministry of Food and Agriculture
-data from the federal statistical office: Data from the Federal Statistical Office
-divers: Divers
-female: Female
-male: Male
-unknown: Unknown
-non-rural areas: Non-rural areas
-rural areas: Rural areas
-total: Total
-overweight without obese: Overweight without obese
-obese: Obese
-18 to under 20 years: 18 to under 20 years
-20 to under 25 years: 20 to under 25 years
-25 to under 30 years: 25 to under 30 years
-30 to under 35 years: 30 to under 35 years
-35 to under 40 years: 35 to under 40 years
-40 to under 45 years: 40 to under 45 years
-45 to under 50 years: 45 to under 50 years
-50 to under 55 years: 50 to under 55 years
-55 to under 60 years: 55 to under 60 years
-60 to under 56 years: 60 to under 56 years
-65 to under 70 years: 65 to under 70 years
-70 to under 75 years: 70 to under 75 years
-75 years and older: 75 years and older
-pandemic prevention and response: Pandemic prevention and response
-separate amount devoted to curbing the covid-19 pandemic: Separate amount devoted to curbing the COVID-19 pandemic
-with tertiary qualification: With tertiary qualification
 stuttgart, stadt: Stuttgart, Stadt
 böblingen: Böblingen
 esslingen: Esslingen
@@ -473,6 +438,54 @@ saale-holzland-kreis: Saale-Holzland-Kreis
 saale-orla-kreis: Saale-Orla-Kreis
 greiz: Greiz
 altenburger land: Altenburger Land
+brandenburg: Brandenburg
+berlin: Berlin
+baden-wuerttemberg: Baden-Wuerttemberg
+bavaria: Bavaria
+bremen: Bremen
+hesse: Hesse
+hamburg: Hamburg
+mecklenburg western pomerania: Mecklenburg Western Pomerania
+lower saxony: Lower Saxony
+north rhine-westphalia: North Rhine-Westphalia
+rhineland palatinate: Rhineland Palatinate
+schleswig-holstein: Schleswig-Holstein
+saarland: Saarland
+saxony: Saxony
+saxony-anhalt: Saxony-Anhalt
+thuringia: Thuringia
+pm2.5: PM2.5
+baltic sea: Baltic sea
+greater north sea: Greater North Sea
+moving five-year average shown for each middle year: Moving five-year average shown for each middle year
+all wired technologies: All wired technologies
+calculated annual values: Calculated annual values
+data from the federal ministry of food and agriculture: Data from the Federal Ministry of Food and Agriculture
+cable television (catv): Cable television (CATV)
+separate amount devoted to curbing the covid-19 pandemic: Separate amount devoted to curbing the COVID-19 pandemic
+data from the federal statistical office: Data from the Federal Statistical Office
+gini coefficient of equivalised disposable income: Gini coefficient of equivalised disposable income
+gini coefficient of equivalised disposable income before social transfers: Gini coefficient of equivalised disposable income before social transfers
+foreign school graduates: Foreign school graduates
+fully fibre-optic networks (fttb/h): Fully fibre-optic networks (FTTB/H)
+change of gross domestic product (price-adjusted): Change of gross domestic product (price-adjusted)
+german school graduates: German school graduates
+gini coefficient of market income: Gini coefficient of market income
+raw material input for consumption, investment and exports: Raw material input for consumption, investment and exports
+raw material input productivity: Raw material input productivity
+obese: Obese
+overweight without obese: Overweight without obese
+pandemic prevention and response: Pandemic prevention and response
+with tertiary qualification: With tertiary qualification
+total: Total
+value of consumption, investment and exports (price-adjusted): Value of consumption, investment and exports (price-adjusted)
+gini coefficient of wealth: Gini coefficient of wealth
+divers: Divers
+female: Female
+male: Male
+unknown: Unknown
+non-rural areas: Non-rural areas
+rural areas: Rural areas
 
 # Additions
 total: Total
@@ -482,19 +495,22 @@ age group: Age group
 air pollutant: Air pollutant
 area: Area
 criminal offence: Criminal offence
+county: County
 federal state: Federal state
 fine particulate matter: Fine particulate matter
 sea: Sea
 time series: Time series
 sex: Sex
 degree of urbanisation: Degree of urbanisation
-?: County
 
 #Units
 '1.000': '1.000'
 millions: Millions
 billion eur: Billion EUR
+gini coefficient: Gini coefficient
 hectre per day: Hectre per day
+1990 = 100: 1990 = 100
+2030 = 100: 2030 = 100
 2000 = 100: 2000 = 100
 2005 = 100: 2005 = 100
 2008 = 100: 2008 = 100
@@ -509,8 +525,6 @@ per 100,000 inhabitants under 70 years (excluding under 1 year olds): Per 100,00
 percentage: Percentage
 m² per year: m² per year
 1.000 eur: 1.000 EUR
-1990 = 100: 1990 = 100
-2030 = 100: 2030 = 100
 
 #Indicators
 material deprivation: Material deprivation
@@ -532,8 +546,8 @@ persons with an academic or higher vocational qualification (30 to 34-year-olds 
 all-day care provision for 0 to 2-year-old children: All-day care provision for 0 to 2-year-old children
 all-day care provision for 3 to 5-year-old children: All-day care provision for 3 to 5-year-old children
 gender pay gap: Gender pay gap
-women in management positions in business: Women in management positions in business
-women in management positions in the federal civil service: Women in management positions in the federal civil service
+on supervisory boards of listed and fully co-determined companies: On supervisory boards of listed and fully co-determined companies
+in management positions in the federal civil service: In management positions in the federal civil service
 proportion of fathers receiving parental allowance: Proportion of fathers receiving parental allowance
 vocational qualifications of women and girls through german development cooperation: Vocational qualifications of women and girls through German development cooperation
 phosphorous in flowing waters: Phosphorous in flowing waters
