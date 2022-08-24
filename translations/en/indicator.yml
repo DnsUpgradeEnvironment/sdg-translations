@@ -40,12 +40,9 @@ sub_categories_dns: Selection
 series: Time series
 series_help: Select here what should be displayed in the chart and in the table.
 series_help_dns: Select here what should be displayed in the chart and in the table.
-target_annotation_2020: Target 2020
-target_annotation_2030: Target 2030
-target_annotation_2040: Target 2040
-target_annotation_2045: Target 2045
-target_annotation_2050: Target 2050
+sex: Sex
 legend_help: Click on the legend to remove individual lines from the chart.
+total: Total
 chart: Chart
 table: Table
 map: Map

@@ -50,6 +50,7 @@ select_all: Alle auswählen
 series: Zeitreihen
 series_help: Wählen Sie hier aus, was in der Grafik bzw. Tabelle angezeigt werden soll.
 series_help_dns: Wählen Sie hier aus, was in der Grafik bzw. Tabelle angezeigt werden soll.
+sex: Geschlecht
 source: Datenquelle
 sources: Datenquellen
 sub_categories: "Auswahl"
@@ -60,10 +61,9 @@ target_annotation_2030: Ziel 2030
 target_annotation_2040: Ziel 2040
 target_annotation_2045: Ziel 2045
 target_annotation_2050: Ziel 2050
-target_annotation_3_1_a_2030: Ziel 2030 - a) Frauen
-target_annotation_3_1_b_2030: Ziel 2030 - b) Männer
 timeseries: Zeitreihe
 time series: Zeitreihe
+total: Insgesamt
 unit_of_measurement: Einheit
 unit: Einheit
 copyright: Copyright
