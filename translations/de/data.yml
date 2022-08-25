@@ -486,6 +486,20 @@ male: Männlich
 unknown: Unbekannt
 non-rural areas: Nicht-ländliche Gebiete
 rural areas: Ländliche Gebiete
+verkehrsfläche: Verkehrsfläche
+settlement area (built on): Siedlungsfläche (bebaut)
+recreation area, cemetery: Erholungsfläche, Friedhof
+final energy consumption for the transport of goods: Endenergieverbrauch durch Güterbeförderung
+goods transport performance: Güterbeförderungsleistung
+energy consumption per tonne-kilometre: Energieverbrauch je Tonnenkilometer
+passenger transport performance: Personenbeförderungsleistung
+energy consumption per passenger-kilometre: Energieverbrauch je Personenkilometer
+energy consumption in passenger transport: Endenergieverbrauch im Personenverkehr
+moving four-year average: Gleitender Vierjahresdurchschnitt
+for the medium-sized and major cities of the year in question: Bezogen auf die Mittel- und Oberzentren des jeweiligen Jahres
+for the medium-sized and major cities of 2012: Bezogen auf die Mittel- und Oberzentren des Jahres 2012
+all objects: Objekte insgesamt
+objects with digitised media: Objekte mit Digitalisat
 
 # Additions
 Year: Jahr
@@ -503,6 +517,7 @@ sea: Meer
 time series: Zeitreihe
 sex: Geschlecht
 degree of urbanisation: Verstädterungsgrad
+type of area: Art der Fläche
 
 #Einheiten
 '1.000': '1 000'
@@ -526,6 +541,7 @@ per 100,000 inhabitants under 70 years (excluding under 1 year olds): Je 100 000
 percentage: Prozent
 m² per year: m² pro Jahr
 1.000 eur: 1 000 EUR
+m² per inhabitant and year: m² pro Einwohner/-in und Jahr
 
 #Indikatoren
 material deprivation: Materielle Deprivation
