@@ -34,6 +34,10 @@ domestic burglary: Domestic burglary
 fraud: Fraud
 dangerous and serious bodily injury: Dangerous and serious bodily injury
 other offences: Other offences
+dangerous and serious bodily injury: Dangerous and serious bodily injury
+domestic burglary: Domestic burglary
+fraud: Fraud
+other offences: Other offences
 european union: European Union
 germany: Germany
 stuttgart, stadt: Stuttgart, Stadt
@@ -463,9 +467,11 @@ all wired technologies: All wired technologies
 calculated annual values: Calculated annual values
 data from the federal ministry of food and agriculture: Data from the Federal Ministry of Food and Agriculture
 cable television (catv): Cable television (CATV)
+share of commercial exploited fish stocks assessed for msy that is fished sustainably: Share of commercial exploited fish stocks assessed for MSY that is fished sustainably
 separate amount devoted to curbing the covid-19 pandemic: Separate amount devoted to curbing the COVID-19 pandemic
 objects with digitised media: Objects with digitised media
 data from the federal statistical office: Data from the Federal Statistical Office
+employees in emas organisations: Employees in EMAS organisations
 energy consumption per tonne-kilometre: Energy consumption per tonne-kilometre
 energy consumption in passenger transport: Energy consumption in passenger transport
 energy consumption per passenger-kilometre: Energy consumption per passenger-kilometre
@@ -477,13 +483,24 @@ fully fibre-optic networks (fttb/h): Fully fibre-optic networks (FTTB/H)
 change of gross domestic product (price-adjusted): Change of gross domestic product (price-adjusted)
 german school graduates: German school graduates
 goods transport performance: Goods transport performance
+calculated in grant equivalents: Calculated in grant equivalents
+imports from ldcs: Imports from LDCs
+locations of organisation registered with emas: Locations of organisation registered with EMAS
 gini coefficient of market income: Gini coefficient of market income
 raw material input for consumption, investment and exports: Raw material input for consumption, investment and exports
 raw material input productivity: Raw material input productivity
+share of msy examined stocks in all managed stocks: Share of MSY examined stocks in all managed stocks
+calculated as net expenditure: Calculated as net expenditure
 obese: Obese
+emas organisations: EMAS organisations
 overweight without obese: Overweight without obese
 pandemic prevention and response: Pandemic prevention and response
 passenger transport performance: Passenger transport performance
+imports of processed products from ldcs: Imports of processed products from LDCs
+researchers from ldcs: Researchers from LDCs
+researchers from other developing and emerging countries: Researchers from other developing and emerging countries
+students from ldcs: Students from LDCs
+students from other developing and emerging countries: Students from other developing and emerging countries
 with tertiary qualification: With tertiary qualification
 total: Total
 all objects: All objects
@@ -495,33 +512,16 @@ divers: Divers
 female: Female
 male: Male
 unknown: Unknown
+coasts and seas sub-index: Coasts and seas sub-index
+farmland sub-index: Farmland sub-index
+forest sub-index: Forest sub-index
+settlements sub-index: Settlements sub-index
+inland waters sub-index: Inland waters sub-index
 recreation area, cemetery: Recreation area, cemetery
 settlement area (built on): Settlement area (built on)
 verkehrsfläche: Verkehrsfläche
 non-rural areas: Non-rural areas
 rural areas: Rural areas
-employees in thousands: Employees in thousands
-locations of organisation registered with emas: Locations of organisation registered with EMAS
-emas organisations: EMAS organisations
-share of commercial exploited fish stocks assessed for msy that is fished sustainably: Share of commercial exploited fish stocks assessed for MSY that is fished sustainably
-share of msy examined in all managed stocks: Share of MSY examined in all managed stocks
-forest sub-index: Forest sub-index
-settlements sub-index: Settlements sub-index
-farmland sub-index: Farmland sub-index
-inland waters sub-index: Inland waters sub-index
-coasts and seas sub-index: Coasts and seas sub-index
-other offences: Other offences
-dangerous and serious bodily injury: Dangerous and serious bodily injury
-fraud: Fraud
-domestic burglary: Domestic burglary
-calculated as net expenditure: Calculated as net expenditure
-calculated in grant equivalents: Calculated in grant equivalents
-students from ldcs: Students from LDCs
-students from other developing and emerging countries: Students from other developing and emerging countries
-researchers from ldcs: Researchers from LDCs
-researchers from other developing and emerging countries: Researchers from other developing and emerging countries
-imports of processed products from ldcs: Imports of processed products from LDCs
-imports from ldcs: Imports from LDCs
 
 # Additions
 Year: Year

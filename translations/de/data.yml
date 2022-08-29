@@ -34,6 +34,10 @@ domestic burglary: Wohnungseinbruchsdiebstahl
 fraud: Betrug
 dangerous and serious bodily injury: Gefährliche und schwere Körperverletzung
 other offences: Sonstige Straftaten
+dangerous and serious bodily injury: Gefährliche und schwere Körperverletzung
+domestic burglary: Wohnungseinbruchsdiebstahl
+fraud: Betrug
+other offences: Sonstige Straftaten
 european union: Eropäische Union
 germany: Deutschland
 stuttgart, stadt: Stuttgart, Stadt
@@ -463,9 +467,11 @@ all wired technologies: Alle leitungsgebundenen Technologien
 calculated annual values: Berechnete jährliche Werte
 data from the federal ministry of food and agriculture: Daten des BMEL
 cable television (catv): Kabelfernsehen (CATV)
+share of commercial exploited fish stocks assessed for msy that is fished sustainably: Anteil der nachhaltig bewirtschafteten Bestände an allen MSY-untersuchten Beständen
 separate amount devoted to curbing the covid-19 pandemic: Eindämmung der COVID-19-Pandemie
 objects with digitised media: Objekte mit Digitalisat
 data from the federal statistical office: Daten des Statistischen Bundesamtes
+employees in emas organisations: Beschäftigte in EMAS Organisationen
 energy consumption per tonne-kilometre: Energieverbrauch je Tonnenkilometer
 energy consumption in passenger transport: Endenergieverbrauch im Personenverkehr
 energy consumption per passenger-kilometre: Energieverbrauch je Personenkilometer
@@ -477,13 +483,24 @@ fully fibre-optic networks (fttb/h): Reine Glasfasernetze (FTTB/H)
 change of gross domestic product (price-adjusted): Änderung des Bruttoinlandsprodukts (preisbereinigt)
 german school graduates: Deutsche Schulabsolventinnen und -absolventen
 goods transport performance: Güterbeförderungsleistung
+calculated in grant equivalents: Berechnung in Zuschussäquivalenten
+imports from ldcs: Einfuhren aus LDCs
+locations of organisation registered with emas: EMAS-Organisationsstandorte
 gini coefficient of market income: Gini-Koeffizient des Markteinkommens
 raw material input for consumption, investment and exports: Rohstoffeinsatz für Konsum, Investitionen und Exporte
 raw material input productivity: Gesamtrohstoffproduktivität
+share of msy examined stocks in all managed stocks: MSY-untersuchte an Bestände allen bewirtschafteten Beständen
+calculated as net expenditure: Berechnung als Netto-Ausgabe
 obese: Adipositas
+emas organisations: EMAS-Organisationen
 overweight without obese: Übergewicht ohne Adipositas
 pandemic prevention and response: Pandemieprävention und -reaktion
 passenger transport performance: Personenbeförderungsleistung
+imports of processed products from ldcs: Einfuhren von weiterverarbeiteten Produkten aus LDCs
+researchers from ldcs: Forschende aus LDCs
+researchers from other developing and emerging countries: Forschende aus den übrigen Entwicklungs- und Schwellenländern
+students from ldcs: Studierende aus LDCs
+students from other developing and emerging countries: Studierende aus den übrigen Entwicklungs- und Schwellenländern
 with tertiary qualification: Tertiärer Abschluss
 total: Insgesamt
 all objects: Objekte insgesamt
@@ -495,33 +512,16 @@ divers: Divers
 female: Weiblich
 male: Männlich
 unknown: Unbekannt
+coasts and seas sub-index: Teilindex Küsten/Meere
+farmland sub-index: Teilindex Agrarland
+forest sub-index: Teilindex Wälder
+settlements sub-index: Teilindex Siedlungen
+inland waters sub-index: Teilindex Binnengewässer
 recreation area, cemetery: Erholungsfläche, Friedhof
 settlement area (built on): Siedlungsfläche (bebaut)
 verkehrsfläche: Verkehrsfläche
 non-rural areas: Nicht-ländliche Gebiete
 rural areas: Ländliche Gebiete
-employees in thousands: Beschäftigte in Tausend
-locations of organisation registered with emas: EMAS-Organisationsstandorte
-emas organisations: EMAS-Organisationen
-share of commercial exploited fish stocks assessed for msy that is fished sustainably: Anteil der nachhaltig bewirtschafteten Bestände an allen MSY-untersuchten Beständen
-share of msy examined in all managed stocks: MSY-untersuchte an allen bewirtschafteten Beständen
-forest sub-index: Teilindex Wälder
-settlements sub-index: Teilindex Siedlungen
-farmland sub-index: Teilindex Agrarland
-inland waters sub-index: Teilindex Binnengewässer
-coasts and seas sub-index: Teilindex Küsten/Meere
-other offences: Sonstige Straftaten
-dangerous and serious bodily injury: Gefährliche und schwere Körperverletzung
-fraud: Betrug
-domestic burglary: Wohnungseinbruchsdiebstahl
-calculated as net expenditure: Berechnung als Netto-Ausgabe
-calculated in grant equivalents: Berechnung in Zuschussäquivalenten
-students from ldcs: Studierende aus LDCs
-students from other developing and emerging countries: Studierende aus den übrigen Entwicklungs- und Schwellenländern
-researchers from ldcs: Forschende aus LDCs
-researchers from other developing and emerging countries: Forschende aus den übrigen Entwicklungs- und Schwellenländern
-imports of processed products from ldcs: Einfuhren von weiterverarbeiteten Produkten aus LDCs
-imports from ldcs: Einfuhren aus LDCs
 
 # Additions
 Year: Jahr
