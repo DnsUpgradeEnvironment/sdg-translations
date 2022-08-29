@@ -457,49 +457,71 @@ thuringia: Thuringia
 pm2.5: PM₂.₅
 baltic sea: Baltic sea
 greater north sea: Greater North Sea
+moving four-year average: Moving four-year average
 moving five-year average shown for each middle year: Moving five-year average shown for each middle year
 all wired technologies: All wired technologies
 calculated annual values: Calculated annual values
 data from the federal ministry of food and agriculture: Data from the Federal Ministry of Food and Agriculture
 cable television (catv): Cable television (CATV)
 separate amount devoted to curbing the covid-19 pandemic: Separate amount devoted to curbing the COVID-19 pandemic
+objects with digitised media: Objects with digitised media
 data from the federal statistical office: Data from the Federal Statistical Office
+energy consumption per tonne-kilometre: Energy consumption per tonne-kilometre
+energy consumption in passenger transport: Energy consumption in passenger transport
+energy consumption per passenger-kilometre: Energy consumption per passenger-kilometre
 gini coefficient of equivalised disposable income: Gini coefficient of equivalised disposable income
 gini coefficient of equivalised disposable income before social transfers: Gini coefficient of equivalised disposable income before social transfers
+final energy consumption for the transport of goods: Final energy consumption for the transport of goods
 foreign school graduates: Foreign school graduates
 fully fibre-optic networks (fttb/h): Fully fibre-optic networks (FTTB/H)
 change of gross domestic product (price-adjusted): Change of gross domestic product (price-adjusted)
 german school graduates: German school graduates
+goods transport performance: Goods transport performance
 gini coefficient of market income: Gini coefficient of market income
 raw material input for consumption, investment and exports: Raw material input for consumption, investment and exports
 raw material input productivity: Raw material input productivity
 obese: Obese
 overweight without obese: Overweight without obese
 pandemic prevention and response: Pandemic prevention and response
+passenger transport performance: Passenger transport performance
 with tertiary qualification: With tertiary qualification
 total: Total
+all objects: All objects
 value of consumption, investment and exports (price-adjusted): Value of consumption, investment and exports (price-adjusted)
 gini coefficient of wealth: Gini coefficient of wealth
+for the medium-sized and major cities of 2012: For the medium-sized and major cities of 2012
+for the medium-sized and major cities of the year in question: For the medium-sized and major cities of the year in question
 divers: Divers
 female: Female
 male: Male
 unknown: Unknown
+recreation area, cemetery: Recreation area, cemetery
+settlement area (built on): Settlement area (built on)
+verkehrsfläche: Verkehrsfläche
 non-rural areas: Non-rural areas
 rural areas: Rural areas
-verkehrsfläche: Verkehrsfläche
-settlement area (built on): Settlement area (built on)
-recreation area, cemetery: Recreation area, cemetery
-final energy consumption for the transport of goods: Final energy consumption for the transport of goods
-goods transport performance: Goods transport performance
-energy consumption per tonne-kilometre: Energy consumption per tonne-kilometre
-passenger transport performance: Passenger transport performance
-energy consumption per passenger-kilometre: Energy consumption per passenger-kilometre
-energy consumption in passenger transport: Energy consumption in passenger transport
-moving four-year average: Moving four-year average
-for the medium-sized and major cities of the year in question: For the medium-sized and major cities of the year in question
-for the medium-sized and major cities of 2012: For the medium-sized and major cities of 2012
-all objects: All objects
-objects with digitised media: Objects with digitised media
+employees in thousands: Employees in thousands
+locations of organisation registered with emas: Locations of organisation registered with EMAS
+emas organisations: EMAS organisations
+share of commercial exploited fish stocks assessed for msy that is fished sustainably: Share of commercial exploited fish stocks assessed for MSY that is fished sustainably
+share of msy examined in all managed stocks: Share of MSY examined in all managed stocks
+forest sub-index: Forest sub-index
+settlements sub-index: Settlements sub-index
+farmland sub-index: Farmland sub-index
+inland waters sub-index: Inland waters sub-index
+coasts and seas sub-index: Coasts and seas sub-index
+other offences: Other offences
+dangerous and serious bodily injury: Dangerous and serious bodily injury
+fraud: Fraud
+domestic burglary: Domestic burglary
+calculated as net expenditure: Calculated as net expenditure
+calculated in grant equivalents: Calculated in grant equivalents
+students from ldcs: Students from LDCs
+students from other developing and emerging countries: Students from other developing and emerging countries
+researchers from ldcs: Researchers from LDCs
+researchers from other developing and emerging countries: Researchers from other developing and emerging countries
+imports of processed products from ldcs: Imports of processed products from LDCs
+imports from ldcs: Imports from LDCs
 
 # Additions
 Year: Year
@@ -516,8 +538,10 @@ fine particulate matter: Fine particulate matter
 sea: Sea
 time series: Time series
 sex: Sex
-degree of urbanisation: Degree of urbanisation
 type of area: Type of area
+degree of urbanisation: Degree of urbanisation
+sub index: Sub index
+criminal offences: Criminal offences
 
 #Units
 '1.000': '1.000'
@@ -540,8 +564,10 @@ per 100,000 inhabitants: Per 100,000 inhabitants
 per 100,000 inhabitants under 70 years (excluding under 1 year olds): Per 100,000 inhabitants under 70 years (excluding under 1 year olds)
 percentage: Percentage
 m² per year: m² per year
-1.000 eur: 1.000 EUR
 m² per inhabitant and year: m² per inhabitant and year
+1.000 eur: 1.000 EUR
+2010 = 100: 2010 = 100
+2015 = 100: 2015 = 100
 
 #Indicators
 material deprivation: Material deprivation
