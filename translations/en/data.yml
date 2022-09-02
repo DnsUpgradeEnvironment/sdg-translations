@@ -544,7 +544,7 @@ sub index: Sub index
 criminal offences: Criminal offences
 
 #Units
-'1.000': '1.000'
+'1 000': '1,000'
 millions: Millions
 billion eur: Billion EUR
 gini coefficient: Gini coefficient
