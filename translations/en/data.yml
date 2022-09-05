@@ -544,7 +544,7 @@ sub index: Sub index
 criminal offences: Criminal offences
 
 #Units
-'1 000': '1,000'
+'1.000': '1.000'
 millions: Millions
 billion eur: Billion EUR
 gini coefficient: Gini coefficient
@@ -631,8 +631,8 @@ paper bearing the blue angel label as a proportion of the total paper consumptio
 co2 emissions of commercially available vehicles in the public sector: CO₂ emissions of commercially available vehicles in the public sector
 greenhouse gas emissions: Greenhouse gas emissions
 international climate finance for the reduction of greenhouse gases and adaptation to climate change: International climate finance for the reduction of greenhouse gases and adaptation to climate change
-nitrogen input in coastal and marine waters – nitrogen input via the inflows into the baltic sea: Nitrogen input in coastal and marine waters – nitrogen input via the inflows into the Baltic Sea
-nitrogen input in coastal and marine waters – nitrogen input via the inflows into the north sea: Nitrogen input in coastal and marine waters – nitrogen input via the inflows into the North Sea
+nitrogen input in coastal and marine waters of the baltic sea: Nitrogen input in coastal and marine waters of the Baltic Sea
+nitrogen input in coastal and marine waters of the north sea: Nitrogen input in coastal and marine waters of the North Sea
 share of sustainably fished fish populations in the north sea and baltic: Share of sustainably fished fish populations in the North Sea and Baltic
 biodiversity and landscape quality: Biodiversity and landscape quality
 eutrophication of ecosystems: Eutrophication of ecosystems
