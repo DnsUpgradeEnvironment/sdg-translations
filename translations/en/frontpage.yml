@@ -1,3 +1,4 @@
+file_size: ZIP file. Size
 heading: Indicators of the German Sustainable Development Strategy
 instructions_dns: Click on each goal, or %before_link search %after_link
   for the German Sustainable Development Strategy indicator data.
@@ -6,6 +7,3 @@ instructions: Click on each goal, for German statistics for Sustainable Developm
 download_all: Download all data
 zip_file: ZIP file
 intro_title: 17 goals to transform our world
-#intro_body: The <a href="https://www.un.org/sustainabledevelopment/sustainable-development-goals/">Sustainable Development Goals (SDGs)</a> are a universal call to action to end poverty, protect the planet and improve the lives and prospects of everyone, everywhere. The 17 Goals were adopted by all UN Member States in 2015, as part of the <a href="http://www.un.org/ga/search/view_doc.asp?symbol=A/RES/70/1&Lang=E">2030 Agenda for Sustainable Development</a>.
-dialogue_link_1: To the indicators of the
-dialogue_link_2: dialogue version
