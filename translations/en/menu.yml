@@ -5,7 +5,7 @@ about_this_site: DNS&nbsponline&nbspplatform
 agenda: 2030 Agenda
 facts_agenda: 2030 Agenda
 facts_sdg: SDG
-pathToSdg: http:\\sdg-indicators.de
+pathtosdg: http:\\sdg-indicators.de
 sdglogo:  <img class="link_btn" src="https://g205sdgs.github.io/sdg-indicators/public/SDG Wheel_Transparent.png" title="Click here to get to the SDG indicators page" alt="Link SDG" style="width:24px;height:24px;"/>
 platform: platform
 publications: Publications
