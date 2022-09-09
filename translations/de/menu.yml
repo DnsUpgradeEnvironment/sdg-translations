@@ -11,7 +11,7 @@ facts: Wissenswertes
 guidance: Technische&nbspHinweise
 menu: Menü
 navigation: Navigation
-pathtosdg: http:\\sdg-indikatoren.de
+pathtosdg: "https://www.sdg-indikatoren.de"
 sdglogo:  <img class="link_btn" src="https://g205sdgs.github.io/sdg-indicators/public/SDG Wheel_Transparent.png" title="Klicken Sie hier um zur Seite der SDG Indikatoren zu gelangen" alt="Link SDG" style="width:24px;height:24px;"/>
 platform: Berichtsplattform
 publications: Publikationen
