@@ -16,6 +16,7 @@ footnotes: Comments
 specification: Specification
 data_not_available:  No data available for this selection of sub-categories and units
 details: Details
+download_geojson_title: Download geojson file
 download_headline: Download Headline CSV
 download_headline_title: Download headline data as CSV
 download_source: Download Source CSV
