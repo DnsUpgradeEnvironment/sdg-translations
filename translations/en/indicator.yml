@@ -5,6 +5,7 @@ additional_information_blurb: The time series below consists of ranges of number
 apply: OK
 cancel: Cancel
 change_breakdowns: Change breakdowns
+counties: Counties
 select_all: Select all
 clear_all: Clear all
 clear_selections: Clear selections
@@ -48,6 +49,7 @@ total: Total
 chart: Chart
 table: Table
 map: Map
+laender: Länder
 loading_map: Loading map
 national_metadata: National Metadata
 metadata: Metadata

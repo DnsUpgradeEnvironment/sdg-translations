@@ -9,6 +9,7 @@ chart: Grafik
 clear_all: Auswahl aufheben
 clear_selections: Auswahl aufheben
 copyright: Copyright
+counties: Kreise
 dataset_size_warning: Zu viele Zeitreihen ausgewählt, um diese in einer Grafik darzustellen.
   Es können nicht alle Zeitreihen dargestellt werden.
 data_not_available: Für die getroffen Auswahl stehen keine Daten zur Verfügung.
@@ -37,6 +38,7 @@ global_metadata_blurb: Diese Übersicht stellt Informationen zu den globalen Met
   bereitgestellt.
 history: Statusübersicht
 history_blurb: In dieser Übersichtstabelle sind die Bewertungen des Indikators für Deutschland nach Stand der vorhergehenden Jahre dargestellt. Daran lässt sich ablesen, ob das Wettersymbol für einen Indikator in den vergangenen Jahren stabil oder eher volatil war. <i>(Bewertungen aus dem Indikatorenbericht 2021)</i>
+laender: Bundesländer
 legend_help: Klicken Sie auf die Legende um Zeitreihen aus der Grafik zu entfernen.
 loading_map: Karte wird geladen
 map: Karte
