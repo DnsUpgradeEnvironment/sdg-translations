@@ -50,7 +50,7 @@ national_metadata_blurb: Die für den jeweiligen SDG-Indikator zuständigen inte
   Metadatenblatt.
 no_data_hint: Aufgrund der bereits getroffenen Auswahl sind keine weiteren Auswahlmöglichkeiten
   verfügbar.
-select_all: Alle auswählen
+select_all: Alle<br>auswählen
 series: Zeitreihe
 series_help: Wählen Sie hier aus, was in der Grafik bzw. Tabelle angezeigt werden soll.
 series_help_dns: Wählen Sie hier aus, was in der Grafik bzw. Tabelle angezeigt werden soll.
