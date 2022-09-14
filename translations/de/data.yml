@@ -522,6 +522,7 @@ settlement area (built on): Siedlungsfläche (bebaut)
 verkehrsfläche: Verkehrsfläche
 non-rural areas: Nicht-ländliche Gebiete
 rural areas: Ländliche Gebiete
+difference: Differenz
 
 # Additions
 Year: Jahr
@@ -568,6 +569,7 @@ percentage: Prozent
 m² per year: m² pro Jahr
 m² per inhabitant and year: m² pro Einwohner/-in und Jahr
 1.000 eur: 1 000 EUR
+percentage points: Prozentpunkte
 
 #Indikatoren
 material deprivation: Materielle Deprivation
