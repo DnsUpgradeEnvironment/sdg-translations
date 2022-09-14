@@ -38,7 +38,7 @@ dangerous and serious bodily injury: Gefährliche und schwere Körperverletzung
 domestic burglary: Wohnungseinbruchsdiebstahl
 fraud: Betrug
 other offences: Sonstige Straftaten
-european union: Eropäische Union
+european union: Europäische Union
 germany: Deutschland
 stuttgart, stadt: Stuttgart, Stadt
 böblingen: Böblingen
@@ -478,10 +478,10 @@ energy consumption per passenger-kilometre: Energieverbrauch je Personenkilomete
 gini coefficient of equivalised disposable income: Gini-Koeffizient des verfügbaren Äquivalenzeinkommens
 gini coefficient of equivalised disposable income before social transfers: Gini-Koeffizient des verfügbaren Äquivalenzeinkommens vor Sozialleistungen
 final energy consumption for the transport of goods: Endenergieverbrauch durch Güterbeförderung
-foreign school graduates: Ausländische Schulabsolventinnen und -absolventen
+foreigns: Ausländer
 fully fibre-optic networks (fttb/h): Reine Glasfasernetze (FTTB/H)
 change of gross domestic product (price-adjusted): Änderung des Bruttoinlandsprodukts (preisbereinigt)
-german school graduates: Deutsche Schulabsolventinnen und -absolventen
+germans: Deutsche
 goods transport performance: Güterbeförderungsleistung
 calculated in grant equivalents: Berechnung in Zuschussäquivalenten
 imports from ldcs: Einfuhren aus LDCs
@@ -489,7 +489,7 @@ locations of organisation registered with emas: EMAS-Organisationsstandorte
 gini coefficient of market income: Gini-Koeffizient des Markteinkommens
 raw material input for consumption, investment and exports: Rohstoffeinsatz für Konsum, Investitionen und Exporte
 raw material input productivity: Gesamtrohstoffproduktivität
-share of msy examined stocks in all managed stocks: MSY-untersuchte an Bestände allen bewirtschafteten Beständen
+share of msy examined stocks in all managed stocks: MSY-untersuchte Bestände an allen bewirtschafteten Beständen
 calculated as net expenditure: Berechnung als Netto-Ausgabe
 obese: Adipositas
 emas organisations: EMAS-Organisationen
@@ -532,16 +532,16 @@ age group: Altersklasse
 air pollutant: Luftschadstoff
 area: Gebiet
 criminal offence: Straftat
+criminal offences: Straftaten
 county: Kreis
 federal state: Bundesland
 fine particulate matter: Feinstaub
 sea: Meer
 time series: Zeitreihe
 sex: Geschlecht
+sub index: Subindikatoren
 type of area: Art der Fläche
 degree of urbanisation: Verstädterungsgrad
-sub index: Subindikatoren
-criminal offences: Straftaten
 
 #Einheiten
 '1.000': '1 000'
@@ -554,6 +554,8 @@ hectre per day: Hektar pro Tag
 2000 = 100: 2000 = 100
 2005 = 100: 2005 = 100
 2008 = 100: 2008 = 100
+2010 = 100: 2010 = 100
+2015 = 100: 2015 = 100
 kilogram per hectare: Kilogramm pro Hektar
 miligrams per litre: Miligramm pro Liter
 minutes: Minuten
@@ -566,8 +568,6 @@ percentage: Prozent
 m² per year: m² pro Jahr
 m² per inhabitant and year: m² pro Einwohner/-in und Jahr
 1.000 eur: 1 000 EUR
-2010 = 100: 2010 = 100
-2015 = 100: 2015 = 100
 
 #Indikatoren
 material deprivation: Materielle Deprivation

@@ -478,10 +478,10 @@ energy consumption per passenger-kilometre: Energy consumption per passenger-kil
 gini coefficient of equivalised disposable income: Gini coefficient of equivalised disposable income
 gini coefficient of equivalised disposable income before social transfers: Gini coefficient of equivalised disposable income before social transfers
 final energy consumption for the transport of goods: Final energy consumption for the transport of goods
-foreign school graduates: Foreign school graduates
+foreigns: Foreigns
 fully fibre-optic networks (fttb/h): Fully fibre-optic networks (FTTB/H)
 change of gross domestic product (price-adjusted): Change of gross domestic product (price-adjusted)
-german school graduates: German school graduates
+germans: Germans
 goods transport performance: Goods transport performance
 calculated in grant equivalents: Calculated in grant equivalents
 imports from ldcs: Imports from LDCs
@@ -532,16 +532,16 @@ age group: Age group
 air pollutant: Air pollutant
 area: Area
 criminal offence: Criminal offence
+criminal offences: Criminal offences
 county: County
 federal state: Federal state
 fine particulate matter: Fine particulate matter
 sea: Sea
 time series: Time series
 sex: Sex
+sub index: Sub index
 type of area: Type of area
 degree of urbanisation: Degree of urbanisation
-sub index: Sub index
-criminal offences: Criminal offences
 
 #Units
 '1.000': '1.000'
@@ -554,6 +554,8 @@ hectre per day: Hectre per day
 2000 = 100: 2000 = 100
 2005 = 100: 2005 = 100
 2008 = 100: 2008 = 100
+2010 = 100: 2010 = 100
+2015 = 100: 2015 = 100
 kilogram per hectare: Kilogram per hectare
 miligrams per litre: Miligrams per litre
 minutes: Minutes
@@ -566,8 +568,6 @@ percentage: Percentage
 m² per year: m² per year
 m² per inhabitant and year: m² per inhabitant and year
 1.000 eur: 1.000 EUR
-2010 = 100: 2010 = 100
-2015 = 100: 2015 = 100
 
 #Indicators
 material deprivation: Material deprivation
