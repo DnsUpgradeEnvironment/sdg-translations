@@ -18,11 +18,11 @@ indicator_name: Indicator name
 indicator_sort_order: Indicator display order (within Goal page)
 info_url_1: Additional Information
 
-national_data_update_url: Last modification of code <small>(data)</small>
+national_data_update_url: Last modification of data
 national_geographical_coverage: Geographical coverage
 national_indicator_available: Time series available
 national_indicator_description: Indicator description
-national_metadata_update_url: Last modification of code <small>(text)</small>
+national_metadata_update_url: Last modification of text
 source_contact_1: Contact details
 source_contact_2: Contact details
 source_contact_3: Contact details
