@@ -37,7 +37,7 @@ copyright: Copyright
 units_type: Units type
 dataset_size_warning: There are too many datasets to show on the chart. Not all
   will be shown until you remove some selections.
-view_indicator_list: View this goal's indicator list
+view_indicator_list: View this goal's indicator overview
 sub_categories: Selection
 sub_categories_dns: Selection
 series: Time series
