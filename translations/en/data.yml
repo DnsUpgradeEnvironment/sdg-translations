@@ -1,13 +1,4 @@
-#years
-"2014.5": "2014 1. half year"
-"2015.5": "2015 1. half year"
-"2016.5": "2016 1. half year"
-"2017.5": "2017 1. half year"
-"2018.5": "2018 1. half year"
-"2019.5": "2019 1. half year"
-"2020.5": "2020 1. half year"
-"2021.5": "2021 1. half year"
-"2022.5": "2022 1. half year"
+
 #Expressions
 2 years and younger: 2 years and younger
 3 to under 5 years: 3 to under 5 years
@@ -506,6 +497,7 @@ emas organisations: EMAS organisations
 overweight without obese: Overweight without obese
 pandemic prevention and response: Pandemic prevention and response
 passenger transport performance: Passenger transport performance
+with post-secondary non-tertiary qualification: With post-secondary non-tertiary qualification
 imports of processed products from ldcs: Imports of processed products from LDCs
 researchers from ldcs: Researchers from LDCs
 researchers from other developing and emerging countries: Researchers from other developing and emerging countries
@@ -607,9 +599,9 @@ proportion of fathers receiving parental allowance: Proportion of fathers receiv
 vocational qualifications of women and girls through german development cooperation: Vocational qualifications of women and girls through German development cooperation
 phosphorous in flowing waters: Phosphorous in flowing waters
 nitrate in groundwater: Nitrate in groundwater
-number of people gaining first-time or upgraded access to drinking water or sanitation owing to german support: Number of people gaining first-time or upgraded access to drinking water or sanitation owing to German support
 number of people gaining first-time or upgraded access to drinking water owing to german support: Number of people gaining first-time or upgraded access to drinking water owing to German support
 number of people gaining first-time or improved access to sanitation owing to german support: Number of people gaining first-time or improved access to sanitation owing to German support
+number of people gaining first-time or upgraded access to drinking water or sanitation owing to german support: Number of people gaining first-time or upgraded access to drinking water or sanitation owing to German support
 final energy productivity: Final energy productivity
 primary energy consumption: Primary energy consumption
 share of renewable energies in gross final energy consumption: Share of renewable energies in gross final energy consumption
