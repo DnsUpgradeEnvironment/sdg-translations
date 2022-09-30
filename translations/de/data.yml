@@ -524,6 +524,7 @@ settlement area (built on): Siedlungsfläche (bebaut)
 verkehrsfläche: Verkehrsfläche
 non-rural areas: Nicht-ländliche Gebiete
 rural areas: Ländliche Gebiete
+objects without digitised media: Objekte ohne Digitalisat
 
 # Additions
 Year: Jahr
@@ -549,6 +550,7 @@ degree of urbanisation: Verstädterungsgrad
 '1.000': '1 000'
 millions: Millionen
 billion eur: Milliarden EUR
+inhabitants per m² settlement and transport area: Einwohner/ -innen pro m² Siedlungs- und Verkehrsfläche
 gini coefficient: Gini-Koeffizient
 hectre per day: Hektar pro Tag
 1990 = 100: 1990 = 100
@@ -571,7 +573,6 @@ percentage points: Prozentpunkte
 m² per year: m² pro Jahr
 m² per inhabitant and year: m² pro Einwohner/-in und Jahr
 1.000 eur: 1 000 EUR
-inhabitants per m² settlement and transport area: Einwohner/ -innen pro m² Siedlungs- und Verkehrsfläche
 
 #Indikatoren
 material deprivation: Materielle Deprivation
