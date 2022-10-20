@@ -508,6 +508,7 @@ total: Insgesamt
 all objects: Objekte insgesamt
 value of consumption, investment and exports (price-adjusted): Wert von Konsum, Investitionen und Exporten (preisbereinigt)
 gini coefficient of wealth: Gini-Koeffizient des Vermögens
+objects without digitised media: Objekte ohne Digitalisat
 for the medium-sized and major cities of 2012: Bezogen auf die Mittel- und Oberzentren des Jahres 2012
 for the medium-sized and major cities of the year in question: Bezogen auf die Mittel- und Oberzentren des jeweiligen Jahres
 divers: Divers
@@ -524,7 +525,6 @@ settlement area (built on): Siedlungsfläche (bebaut)
 verkehrsfläche: Verkehrsfläche
 non-rural areas: Nicht-ländliche Gebiete
 rural areas: Ländliche Gebiete
-objects without digitised media: Objekte ohne Digitalisat
 
 # Additions
 Year: Jahr

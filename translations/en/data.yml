@@ -508,6 +508,7 @@ total: Total
 all objects: All objects
 value of consumption, investment and exports (price-adjusted): Value of consumption, investment and exports (price-adjusted)
 gini coefficient of wealth: Gini coefficient of wealth
+objects without digitised media: Objects without digitised media
 for the medium-sized and major cities of 2012: For the medium-sized and major cities of 2012
 for the medium-sized and major cities of the year in question: For the medium-sized and major cities of the year in question
 divers: Divers
@@ -524,7 +525,6 @@ settlement area (built on): Settlement area (built on)
 verkehrsfläche: Verkehrsfläche
 non-rural areas: Non-rural areas
 rural areas: Rural areas
-objects without digitised media: Objects without digitised media
 
 # Additions
 Year: Year
