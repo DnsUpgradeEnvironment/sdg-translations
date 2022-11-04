@@ -20,3 +20,7 @@ single_target_old: Old target
 single_target_new: New target
 target_trans: Target
 year: Year
+# Neu
+normal_target: Target
+new_target: New Target
+old_target: Old Target
