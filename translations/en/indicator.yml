@@ -28,8 +28,8 @@ download_chart_image: Download Chart Image
 download_table: Download Table CSV
 download_csv: Download CSV
 download_csv_title: Download as CSV
-source: Source
-sources: Sources
+source: Data source
+sources: Data sources
 geographical_area: Geographical Area
 unit_of_measurement: Unit of measurement
 unit: Unit
