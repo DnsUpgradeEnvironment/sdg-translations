@@ -460,14 +460,14 @@ saxony-anhalt: Sachsen-Anhalt
 thuringia: Thüringen
 pm2.5: PM₂,₅
 baltic sea: Ostsee
-greater north sea: Nordsee
+north sea: Nordsee
 moving four-year average: Gleitender Vierjahresdurchschnitt
 moving five-year average shown for each middle year: Gleitender Fünfjahresdurchschnitt mit Bezug auf das mittlere Jahr
 all wired technologies: Alle leitungsgebundenen Technologien
 calculated annual values: Berechnete jährliche Werte
 data from the federal ministry of food and agriculture: Daten des BMEL
 cable television (catv): Kabelfernsehen (CATV)
-share of commercial exploited fish stocks assessed for msy that is fished sustainably: Anteil der nachhaltig bewirtschafteten Bestände an allen MSY-untersuchten Beständen
+commercial exploited fish stocks assessed for msy that is fished sustainably: Nachhaltig bewirtschaftete Fischbestände an allen MSY-untersuchten Beständen
 separate amount devoted to curbing the covid-19 pandemic: Eindämmung der COVID-19-Pandemie
 difference: Differenz
 objects with digitised media: Objekte mit Digitalisat
@@ -490,7 +490,7 @@ locations of organisation registered with emas: EMAS-Organisationsstandorte
 gini coefficient of market income: Gini-Koeffizient des Markteinkommens
 raw material input for consumption, investment and exports: Rohstoffeinsatz für Konsum, Investitionen und Exporte
 raw material input productivity: Gesamtrohstoffproduktivität
-share of msy examined stocks in all managed stocks: MSY-untersuchte Bestände an allen bewirtschafteten Beständen
+share of msy examined stocks in all managed fish stocks: MSY-untersuchte Bestände an allen bewirtschafteten Fischbeständen
 calculated as net expenditure: Berechnung als Netto-Ausgabe
 obese: Adipositas
 emas organisations: EMAS-Organisationen
@@ -522,7 +522,7 @@ settlements sub-index: Teilindex Siedlungen
 inland waters sub-index: Teilindex Binnengewässer
 recreation area, cemetery: Erholungsfläche, Friedhof
 settlement area (built on): Siedlungsfläche (bebaut)
-verkehrsfläche: Verkehrsfläche
+transport area: Verkehrsfläche
 non-rural areas: Nicht-ländliche Gebiete
 rural areas: Ländliche Gebiete
 
@@ -542,7 +542,7 @@ fine particulate matter: Feinstaub
 sea: Meer
 time series: Zeitreihe
 sex: Geschlecht
-sub index: Subindikatoren
+sub index: Teilindizes
 type of area: Art der Fläche
 degree of urbanisation: Verstädterungsgrad
 
@@ -561,7 +561,7 @@ hectre per day: Hektar pro Tag
 2010 = 100: 2010 = 100
 2015 = 100: 2015 = 100
 kilogram per hectare: Kilogramm pro Hektar
-miligrams per litre: Miligramm pro Liter
+miligrams per litre: Milligramm pro Liter
 minutes: Minuten
 million eur: Millionen EUR
 million inhabitants: Millionen Einwohner/ -innen
