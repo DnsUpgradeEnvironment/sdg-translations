@@ -485,7 +485,7 @@ change of gross domestic product (price-adjusted): Change of gross domestic prod
 germans: Germans
 goods transport performance: Goods transport performance
 calculated in grant equivalents: Calculated in grant equivalents
-imports from ldcs: Imports from LDCs
+imports: Imports
 locations of organisation registered with emas: Locations of organisation registered with EMAS
 gini coefficient of market income: Gini coefficient of market income
 raw material input for consumption, investment and exports: Raw material input for consumption, investment and exports
@@ -498,7 +498,7 @@ overweight without obese: Overweight without obese
 pandemic prevention and response: Pandemic prevention and response
 passenger transport performance: Passenger transport performance
 with post-secondary non-tertiary qualification: With post-secondary non-tertiary qualification
-imports of processed products from ldcs: Imports of processed products from LDCs
+imports of processed products: Imports of processed products
 researchers from ldcs: Researchers from LDCs
 researchers from other developing and emerging countries: Researchers from other developing and emerging countries
 students from ldcs: Students from LDCs
@@ -545,6 +545,7 @@ sex: Sex
 sub index: Sub index
 type of area: Type of area
 degree of urbanisation: Degree of urbanisation
+calculation method: Calculation method
 
 #Units
 '1.000': '1.000'

@@ -485,7 +485,7 @@ change of gross domestic product (price-adjusted): Änderung des Bruttoinlandspr
 germans: Deutsche
 goods transport performance: Güterbeförderungsleistung
 calculated in grant equivalents: Berechnung in Zuschussäquivalenten
-imports from ldcs: Einfuhren aus LDCs
+imports: Einfuhren
 locations of organisation registered with emas: EMAS-Organisationsstandorte
 gini coefficient of market income: Gini-Koeffizient des Markteinkommens
 raw material input for consumption, investment and exports: Rohstoffeinsatz für Konsum, Investitionen und Exporte
@@ -498,7 +498,7 @@ overweight without obese: Übergewicht ohne Adipositas
 pandemic prevention and response: Pandemieprävention und -reaktion
 passenger transport performance: Personenbeförderungsleistung
 with post-secondary non-tertiary qualification: Postsekundarer nicht-tertiärer Abschluss
-imports of processed products from ldcs: Einfuhren von weiterverarbeiteten Produkten aus LDCs
+imports of processed products: Einfuhren von weiterverarbeiteten Produkten
 researchers from ldcs: Forschende aus LDCs
 researchers from other developing and emerging countries: Forschende aus den übrigen Entwicklungs- und Schwellenländern
 students from ldcs: Studierende aus LDCs
@@ -545,6 +545,7 @@ sex: Geschlecht
 sub index: Teilindizes
 type of area: Art der Fläche
 degree of urbanisation: Verstädterungsgrad
+calculation method: Berechnungsmethode
 
 #Einheiten
 '1.000': '1 000'
