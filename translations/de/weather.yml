@@ -11,7 +11,7 @@ multi_target_1: Ziel 1
 multi_target_2: Ziel 2
 multi_target_3: Ziel 3
 multi_target_4: Ziel 4
-new_pretext: Gültig seit
+new_pretext: nach Zielverschärfung in 
 no_assessment: Keine Bewertung möglich
 old_pretext: Gültig bis
 single_target: Ziel
@@ -22,8 +22,8 @@ target_trans: Ziel
 year: Jahr
 # Neu
 normal_target: Ziel
-new_target: Neues Ziel
-old_target: Altes Ziel
+new_target: Ziel
+old_target: Ziel
 overview_blurb: 'In der Übersichtstabelle sind die Bewertungen der Indikatoren nach Stand der vorhergehenden Jahre angegeben. Daran lässt sich ablesen, ob das Wettersymbol für einen Indikator in den vergangenen Jahren stabil oder eher volatil war.<br>
   Grundlage der dargestellten Bewertungen sind die Daten des <a href="https://dns-indikatoren.de/assets/publications/reports/de/2022.pdf">Indikatorenberichts 2022</a> mit Datenstand 31.10.2022. Auf der Online-Plattform können aktuellere Daten (als im Indikatorenbericht) verfügbar sein, da die Daten regelmäßig aktualisiert werden.<br><br>
   <b>Indikatoren mit mehreren Zielen</b><br>

@@ -11,7 +11,7 @@ multi_target_1_new: New target 1
 multi_target_2_new: New target 2
 multi_target_3_new: New target 3
 multi_target_4_new: New target 4
-new_pretext: Valid from
+new_pretext: after tightening target in
 no_assessment: No assessment possible
 old_pretext: valid until
 status: Status
@@ -22,8 +22,8 @@ target_trans: Target
 year: Year
 # Neu
 normal_target: Target
-new_target: New Target
-old_target: Old Target
+new_target: Target
+old_target: Target
 overview_blurb: 'In the overview table, the ratings of the indicators are given according to the status of the previous years. This shows whether the weather symbol for an indicator has been stable or rather volatile in the past years.<br>
   The basis for the assessments presented here is the data as published in the 2022 indicator report. The data on this platform is updated regularly, so that more current data may be available online than published in the indicator report.<br><br>
   <b>Indicators with multiple targets</b><br>
