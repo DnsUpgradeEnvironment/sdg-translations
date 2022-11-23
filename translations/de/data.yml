@@ -30,6 +30,8 @@ eu-27: EU-27
 eu-28: EU-28
 eurozone: Eurozone
 germany: Deutschland
+calculated in grant equivalents: Berechnung in Zuschussäquivalenten
+calculated as net expenditure: Berechnung als Netto-Ausgabe
 domestic burglary: Wohnungseinbruchsdiebstahl
 fraud: Betrug
 dangerous and serious bodily injury: Gefährliche und schwere Körperverletzung
@@ -481,17 +483,15 @@ gini coefficient of equivalised disposable income before social transfers: Gini-
 final energy consumption for the transport of goods: Endenergieverbrauch durch Güterbeförderung
 foreigns: Ausländer
 fully fibre-optic networks (fttb/h): Reine Glasfasernetze (FTTB/H)
-change of gross domestic product (price-adjusted): Änderung des Bruttoinlandsprodukts (preisbereinigt)
+gross domestic product (price-adjusted): Bruttoinlandsprodukt (preisbereinigt)
 germans: Deutsche
 goods transport performance: Güterbeförderungsleistung
-calculated in grant equivalents: Berechnung in Zuschussäquivalenten
 imports: Einfuhren
 locations of organisation registered with emas: EMAS-Organisationsstandorte
 gini coefficient of market income: Gini-Koeffizient des Markteinkommens
 raw material input for consumption, investment and exports: Rohstoffeinsatz für Konsum, Investitionen und Exporte
 raw material input productivity: Gesamtrohstoffproduktivität
 share of msy examined stocks in all managed fish stocks: MSY-untersuchte Fischbestände an allen bewirtschafteten Beständen
-calculated as net expenditure: Berechnung als Netto-Ausgabe
 obese: Adipositas
 emas organisations: EMAS-Organisationen
 overweight without obese: Übergewicht ohne Adipositas
@@ -647,7 +647,7 @@ preservation or restoration of forests in developing countries under the redd+ r
 german gross bilateral development expenditure for the implementation of the un convention to combat desertification: Deutsche bilaterale Bruttoentwicklungsausgaben zur Umsetzung des Übereinkommens der VN zur Bekämpfung der Wüstenbildung
 criminal offences: Straftaten
 number of projects to secure, register and destroy small arms and light weapons carried out by germany in affected regions of the world: Anzahl der in betroffenen Weltregionen durchgeführten Projekte zur Sicherung, Registrierung und Zerstörung von Kleinwaffen und leichten Waffen durch Deutschland
-corruption perceptions index in germany: Corruption Perception Index in Deutschland
+corruption perception index in germany: Corruption Perception Index in Deutschland
 number of partner countries involved in german development cooperation with improved cpi scores compared with 2012: Anzahl der Partnerländer deutscher Entwicklungszusammenarbeit, deren Bewertung sich gegenüber 2012 verbessert hat
 official development assistance as a proportion of gross national income: Anteil öffentlicher Entwicklungsausgaben am Bruttonationaleinkommen
 number of students and researchers from developing countries and ldcs per year: Anzahl der Studierenden und Forschenden aus Entwicklungsländern sowie LDCs pro Jahr

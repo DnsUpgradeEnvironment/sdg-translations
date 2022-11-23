@@ -30,6 +30,8 @@ eu-27: EU-27
 eu-28: EU-28
 eurozone: Eurozone
 germany: Germany
+calculated in grant equivalents: Calculated in grant equivalents
+calculated as net expenditure: Calculated as net expenditure
 domestic burglary: Domestic burglary
 fraud: Fraud
 dangerous and serious bodily injury: Dangerous and serious bodily injury
@@ -481,17 +483,15 @@ gini coefficient of equivalised disposable income before social transfers: Gini 
 final energy consumption for the transport of goods: Final energy consumption for the transport of goods
 foreigns: Foreigns
 fully fibre-optic networks (fttb/h): Fully fibre-optic networks (FTTB/H)
-change of gross domestic product (price-adjusted): Change of gross domestic product (price-adjusted)
+gross domestic product (price-adjusted): Gross domestic product (price-adjusted)
 germans: Germans
 goods transport performance: Goods transport performance
-calculated in grant equivalents: Calculated in grant equivalents
 imports: Imports
 locations of organisation registered with emas: Locations of organisation registered with EMAS
 gini coefficient of market income: Gini coefficient of market income
 raw material input for consumption, investment and exports: Raw material input for consumption, investment and exports
 raw material input productivity: Raw material input productivity
 share of msy examined stocks in all managed fish stocks: Share of MSY examined stocks in all managed fish stocks
-calculated as net expenditure: Calculated as net expenditure
 obese: Obese
 emas organisations: EMAS organisations
 overweight without obese: Overweight without obese
@@ -647,7 +647,7 @@ preservation or restoration of forests in developing countries under the redd+ r
 german gross bilateral development expenditure for the implementation of the un convention to combat desertification: German gross bilateral development expenditure for the implementation of the UN Convention to Combat Desertification
 criminal offences: Criminal offences
 number of projects to secure, register and destroy small arms and light weapons carried out by germany in affected regions of the world: Number of projects to secure, register and destroy small arms and light weapons carried out by Germany in affected regions of the world
-corruption perceptions index in germany: Corruption Perceptions Index in Germany
+corruption perception index in germany: Corruption Perception Index in Germany
 number of partner countries involved in german development cooperation with improved cpi scores compared with 2012: Number of partner countries involved in German development cooperation with improved CPI scores compared with 2012
 official development assistance as a proportion of gross national income: Official development assistance as a proportion of gross national income
 number of students and researchers from developing countries and ldcs per year: Number of students and researchers from developing countries and LDCs per year
