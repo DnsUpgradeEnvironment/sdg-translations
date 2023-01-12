@@ -534,6 +534,7 @@ total: Insgesamt
 age group: Altersklasse
 air pollutant: Luftschadstoff
 area: Gebiet
+calculation method: Berechnungsmethode
 criminal offence: Straftat
 criminal offences: Straftaten
 county: Kreis
@@ -545,7 +546,6 @@ sex: Geschlecht
 sub index: Teilindizes
 type of area: Art der Fläche
 degree of urbanisation: Verstädterungsgrad
-calculation method: Berechnungsmethode
 
 #Einheiten
 '1.000': '1 000'
@@ -601,9 +601,9 @@ proportion of fathers receiving parental allowance: Väterbeteiligung beim Elter
 vocational qualifications of women and girls through german development cooperation: Berufliche Qualifizierung von Frauen und Mädchen durch deutsche entwicklungspolitische Zusammenarbeit
 phosphorous in flowing waters: Phosphor in Fließgewässern
 nitrate in groundwater: Nitrat im Grundwasser
-number of people gaining first-time or upgraded access to drinking water owing to german support: Anzahl der Menschen, die einen neuen oder hochwertigeren Zugang zur Trinkwasserversorgung durch deutsche Unterstützung erhalten
-number of people gaining first-time or improved access to sanitation owing to german support: Anzahl der Menschen, die einen neuen oder verbesserten Anschluss zur Sanitärversorgung durch deutsche Unterstützung erhalten
-number of people gaining first-time or upgraded access to drinking water or sanitation owing to german support: Anzahl der Menschen, die einen neuen oder hochwertigeren Zugang zur Trinkwasserversorgung oder Anschluss zur Sanitärversorgung durch deutsche Unterstützung erhalten
+number of people gaining first-time or upgraded access to drinking water: Anzahl der Menschen, die einen neuen oder hochwertigeren Zugang zur Trinkwasserversorgung erhalten haben
+number of people gaining first-time or improved access to sanitation: Anzahl der Menschen, die einen neuen oder verbesserten Anschluss zur Sanitärversorgung erhalten haben
+number of people gaining first-time or upgraded access to drinking water or sanitation: Anzahl der Menschen, die einen neuen oder hochwertigeren Zugang zur Trinkwasserversorgung oder Anschluss zur Sanitärversorgung erhalten haben
 final energy productivity: Endenergieproduktivität
 primary energy consumption: Primärenergieverbrauch
 share of renewable energies in gross final energy consumption: Anteil erneuerbarer Energien am Brutto-Endenergieverbrauch
@@ -632,14 +632,14 @@ number of objects in the german digital library: Zahl der Objekte in der Deutsch
 market share of products certified by publicly managed eco-labelling schemes: Marktanteil von Produkten mit staatlichen Umweltzeichen
 direct and indirect use of raw materials: Direkter und indirrekter Rohstoffeinsatz
 direct and indirect energy consumption: Direkter und indirrekter Energieverbrauch
-direct and indirect co2 emissions: Direkte und indirrekte CO₂-Emissionen
+direct and indirect co2 emissions: Direkte und indirekte CO₂-Emissionen
 emas eco-management: Umweltmanagement EMAS
 paper bearing the blue angel label as a proportion of the total paper consumption of the direct federal administration: Anteil des Papiers mit Blauem Engel am Gesamtpapierverbrauch der unmittelbaren Bundesverwaltung
 co2 emissions of commercially available vehicles in the public sector: CO₂-Emissionen von handelsüblichen Kraftfahrzeugen der öffentlichen Hand
 greenhouse gas emissions: Treibhausgasemissionen
 international climate finance for the reduction of greenhouse gases and adaptation to climate change: Internationale Klimafinanzierung zur Reduktion von Treibhausgasen und zur Anpassung an den Klimawandel
-nitrogen input in coastal and marine waters of the baltic sea: Stickstoffeinträge in Küsten- und Meeresgewässer der Ostsee
-nitrogen input in coastal and marine waters of the north sea: Stickstoffeinträge in Küsten- und Meeresgewässer der Nordsee
+nitrogen input in coastal and marine waters of the baltic sea: Stickstoffeintrag über die Zuflüsse in die Ostsee
+nitrogen input in coastal and marine waters of the north sea: Stickstoffeintrag über die Zuflüsse in die Nordsee
 share of sustainably fished fish populations in the north sea and baltic: Anteil der nachhaltig befischten Fischbestände in Nord- und Ostsee
 biodiversity and landscape quality: Artenvielfalt und Landschaftsqualität
 eutrophication of ecosystems: Eutrophierung der Ökosysteme

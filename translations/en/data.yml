@@ -534,6 +534,7 @@ total: Total
 age group: Age group
 air pollutant: Air pollutant
 area: Area
+calculation method: Calculation method
 criminal offence: Criminal offence
 criminal offences: Criminal offences
 county: County
@@ -545,7 +546,6 @@ sex: Sex
 sub index: Sub index
 type of area: Type of area
 degree of urbanisation: Degree of urbanisation
-calculation method: Calculation method
 
 #Units
 '1.000': '1.000'
@@ -601,9 +601,9 @@ proportion of fathers receiving parental allowance: Proportion of fathers receiv
 vocational qualifications of women and girls through german development cooperation: Vocational qualifications of women and girls through German development cooperation
 phosphorous in flowing waters: Phosphorous in flowing waters
 nitrate in groundwater: Nitrate in groundwater
-number of people gaining first-time or upgraded access to drinking water owing to german support: Number of people gaining first-time or upgraded access to drinking water owing to German support
-number of people gaining first-time or improved access to sanitation owing to german support: Number of people gaining first-time or improved access to sanitation owing to German support
-number of people gaining first-time or upgraded access to drinking water or sanitation owing to german support: Number of people gaining first-time or upgraded access to drinking water or sanitation owing to German support
+number of people gaining first-time or upgraded access to drinking water: Number of people gaining first-time or upgraded access to drinking water
+number of people gaining first-time or improved access to sanitation: Number of people gaining first-time or improved access to sanitation
+number of people gaining first-time or upgraded access to drinking water or sanitation: Number of people gaining first-time or upgraded access to drinking water or sanitation
 final energy productivity: Final energy productivity
 primary energy consumption: Primary energy consumption
 share of renewable energies in gross final energy consumption: Share of renewable energies in gross final energy consumption
