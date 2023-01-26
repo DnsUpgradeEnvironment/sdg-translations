@@ -525,8 +525,6 @@ settlement area (built on): Siedlungsfläche (bebaut)
 transport area: Verkehrsfläche
 non-rural areas: Nicht-ländliche Gebiete
 rural areas: Ländliche Gebiete
-premature deaths (men): Vorzeitig Gestorbene (Männer)
-premature deaths (women): Vorzeitig Gestorbene (Frauen)
 
 # Additions
 Year: Jahr
@@ -583,8 +581,8 @@ severe material deprivation: Erhebliche materielle Deprivation
 nitrogen surplus in agriculture: Stickstoffüberschuss der Landwirtschaft
 organic farming: Ökologischer Landbau
 support for good governance in attaining appropriate nutrition world-wide: Unterstützung guter Regierungsführung bei der Erreichung einer angemessenen Ernährung weltweit
-premature mortality (women): Vorzeitige Sterblichkeit (Frauen)
-premature mortality (men): Vorzeitige Sterblichkeit (Männer)
+premature death (women): Vorzeitig Gestorbene (Frauen)
+premature death (men): Vorzeitig Gestorbene (Männer)
 smoking rate among adolescents: Raucherquote von Jugendlichen
 smoking rate among adults: Raucherquote von Erwachsenen
 obesity rate among children and adolescents: Adipositasquote von Kindern und Jugendlichen

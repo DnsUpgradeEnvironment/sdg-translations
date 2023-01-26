@@ -525,8 +525,6 @@ settlement area (built on): Settlement area (built on)
 transport area: Transport area
 non-rural areas: Non-rural areas
 rural areas: Rural areas
-premature deaths (men): Premature deaths (Men)
-premature deaths (women): Premature deaths (Women)
 
 # Additions
 Year: Year
@@ -583,8 +581,8 @@ severe material deprivation: Severe material deprivation
 nitrogen surplus in agriculture: Nitrogen surplus in agriculture
 organic farming: Organic farming
 support for good governance in attaining appropriate nutrition world-wide: Support for good governance in attaining appropriate nutrition world-wide
-premature mortality (women): Premature mortality (women)
-premature mortality (men): Premature mortality (men)
+premature death (women): Premature death (women)
+premature death (men): Premature death (men)
 smoking rate among adolescents: Smoking rate among adolescents
 smoking rate among adults: Smoking rate among adults
 obesity rate among children and adolescents: Obesity rate among children and adolescents
