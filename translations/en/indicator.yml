@@ -44,6 +44,8 @@ series: Time series
 series_help: Select here what should be displayed in the chart and in the table.
 series_help_dns: Select here what should be displayed in the chart and in the table.
 sex: Sex
+special_eval: Special evaluaion based on data from the following
+special_eval_plural: Special evaluaion based on data from the following 
 legend_help: Click on the legend to remove individual lines from the chart.
 total: Total
 chart: Chart

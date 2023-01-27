@@ -57,6 +57,8 @@ series_help_dns: Wählen Sie hier aus, was in der Grafik bzw. Tabelle angezeigt 
 sex: Geschlecht
 source: Datenquelle
 sources: Datenquellen
+special_eval: Sonderauswertung basierend auf Daten folgender
+special_eval_plural: Sonderauswertung basierend auf Daten folgenden
 sub_categories: "Auswahl"
 sub_categories_dns: Auswahl
 table: Tabelle
