@@ -1,22 +1,25 @@
-menu: Menu
-reporting_status: Reporting Status
 about: About
 about_this_site: DNS&nbsponline&nbspplatform
 agenda: 2030 Agenda
-facts_agenda: 2030 Agenda
-facts_sdg: SDG
-pathtosdg: "https://www.sdg-indicators.de"
-sdglogo:  <img class="link_btn" src="https://g205sdgs.github.io/sdg-indicators/public/SDG Wheel_Transparent.png" title="Click here to get to the SDG indicators page" alt="Link SDG" style="width:24px;height:24px;"/>
-platform: platform
-publications: Publications
-guidance: Technical&nbspinstructions
-faq: FAQ
-facts: Useful information
 contact_us: Contact us
 cookies: Cookies
+facts_agenda: 2030 Agenda
+facts_sdg: SDG
+faq: FAQ
+facts: Useful information
+guidance: Technical&nbspinstructions
 imprint: Legal Notice
 indicator_status: Indicator status
+menu: Menu
 navigation: Navigation
+pathtosdg: "https://www.sdg-indicators.de"
+platform: platform
+publications: Publications
+reporting_status: Reporting Status
+reports: Indicator reports
+report21: Sustainable Development in Germany - Indicator report 2021
+report18: Sustainable Development in Germany - Indicator report 2018
+sdglogo:  <img class="link_btn" src="https://g205sdgs.github.io/sdg-indicators/public/SDG Wheel_Transparent.png" title="Click here to get to the SDG indicators page" alt="Link SDG" style="width:24px;height:24px;"/>
 status: Methodology
 status_summary: Summary
 status_title: Evaluation
