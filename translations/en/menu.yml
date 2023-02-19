@@ -19,6 +19,35 @@ reporting_status: Reporting Status
 reports: Indicator reports
 report21: Sustainable Development in Germany - Indicator report 2021
 report18: Sustainable Development in Germany - Indicator report 2018
+report16: Sustainable Development in Germany - Indicator report 2016
+report14: Sustainable Development in Germany - Indicator report 2014
+report12: Sustainable Development in Germany - Indicator report 2012
+report10: Sustainable Development in Germany - Indicator report 2010
+report08: Sustainable Development in Germany - Indicator report 2008
+report06: Sustainable Development in Germany - Indicator report 2006
+report21path: https://dns-indikatoren.de/assets/publications/reports/en/2021.pdf
+report18path: https://dns-indikatoren.de/assets/publications/reports/en/2018.pdf
+report16path: https://dns-indikatoren.de/assets/publications/reports/en/2016.pdf
+report14path: https://dns-indikatoren.de/assets/publications/reports/en/2014.pdf
+report12path: https://dns-indikatoren.de/assets/publications/reports/en/2012.pdf
+report10path: https://dns-indikatoren.de/assets/publications/reports/en/2010.pdf
+report08path: https://dns-indikatoren.de/assets/publications/reports/en/2008.pdf
+report06path: https://dns-indikatoren.de/assets/publications/reports/en/2006.pdf
+report_data: Data on the indicator report
+report_data21: Sustainable Development in Germany - Data on the Indicator report 2021
+report_data18: Sustainable Development in Germany - Data on the Indicator report 2018
+report_data16: Sustainable Development in Germany - Data on the Indicator report 2016
+report_data14: Sustainable Development in Germany - Data on the Indicator report 2014
+report_data12: Sustainable Development in Germany - Data on the Indicator report 2012
+report_data10: Sustainable Development in Germany - Data on the Indicator report 2010
+report_data08: Sustainable Development in Germany - Data on the Indicator report 2008
+report_data21path: https://dns-indikatoren.de/assets/publications/reports/en/daten2021.pdf
+report_data18path: https://dns-indikatoren.de/assets/publications/reports/en/daten2018.pdf
+report_data16path: https://dns-indikatoren.de/assets/publications/reports/en/daten2016.pdf
+report_data14path: https://dns-indikatoren.de/assets/publications/reports/en/daten2014.pdf
+report_data12path: https://dns-indikatoren.de/assets/publications/reports/en/daten2012.pdf
+report_data10path: https://dns-indikatoren.de/assets/publications/reports/en/daten2010.pdf
+report_data08path: https://dns-indikatoren.de/assets/publications/reports/en/daten2008.pdf
 sdglogo:  <img class="link_btn" src="https://g205sdgs.github.io/sdg-indicators/public/SDG Wheel_Transparent.png" title="Click here to get to the SDG indicators page" alt="Link SDG" style="width:24px;height:24px;"/>
 status: Methodology
 status_summary: Summary
