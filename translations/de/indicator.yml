@@ -12,7 +12,7 @@ copyright: Copyright
 counties: Kreise
 dataset_size_warning: Zu viele Zeitreihen ausgewählt, um diese in einer Grafik darzustellen.
   Es können nicht alle Zeitreihen dargestellt werden.
-data_not_available: Für die getroffen Auswahl stehen keine Daten zur Verfügung.
+data_not_available: Für die getroffene Auswahl stehen keine Daten zur Verfügung.
 details: Details
 dns_metadata_blurb: Diese Übersicht beinhaltet zusätzliche Informationen zu den oben dargestellten Indikatoren, wie eine kurze Definition des Indikators und eine Beschreibung des politisch festgelegten Zielwertes sowie die politische Intention für die Auswahl des Indikators.
 download_geojson_title: Karte als geoJson Datei speichern
@@ -58,7 +58,7 @@ sex: Geschlecht
 source: Datenquelle
 sources: Datenquellen
 special_eval: Sonderauswertung basierend auf Daten folgender
-special_eval_plural: Sonderauswertung basierend auf Daten folgenden 
+special_eval_plural: Sonderauswertung basierend auf Daten folgenden
 sub_categories: "Auswahl"
 sub_categories_dns: Auswahl
 table: Tabelle
