@@ -17,14 +17,14 @@ platform: Berichtsplattform
 publications: Publikationen
 reporting_status: Berichtsstatus
 reports: Indikatorenberichte
-report21: Nachhaltige Entwicklung in Deutschland - Indikatorenbericht 2021
-report18: Nachhaltige Entwicklung in Deutschland - Indikatorenbericht 2018
-report16: Nachhaltige Entwicklung in Deutschland - Indikatorenbericht 2016
-report14: Nachhaltige Entwicklung in Deutschland - Indikatorenbericht 2014
-report12: Nachhaltige Entwicklung in Deutschland - Indikatorenbericht 2012
-report10: Nachhaltige Entwicklung in Deutschland - Indikatorenbericht 2010
-report08: Nachhaltige Entwicklung in Deutschland - Indikatorenbericht 2008
-report06: Nachhaltige Entwicklung in Deutschland - Indikatorenbericht 2006
+report21: Indikatorenbericht 2021
+report18: Indikatorenbericht 2018
+report16: Indikatorenbericht 2016
+report14: Indikatorenbericht 2014
+report12: Indikatorenbericht 2012
+report10: Indikatorenbericht 2010
+report08: Indikatorenbericht 2008
+report06: Indikatorenbericht 2006
 report21path: https://dns-indikatoren.de/assets/publications/reports/de/2021.pdf
 report18path: https://www.statistischebibliothek.de/mir/receive/DEHeft_mods_00089372
 report16path: https://www.statistischebibliothek.de/mir/receive/DEHeft_mods_00066907
@@ -34,20 +34,20 @@ report10path: https://www.statistischebibliothek.de/mir/receive/DEHeft_mods_0001
 report08path: https://www.statistischebibliothek.de/mir/receive/DEHeft_mods_00010552
 report06path: https://www.statistischebibliothek.de/mir/receive/DEHeft_mods_00010555
 report_data: Daten zum Indikatorenbericht
-report_data21: Nachhaltige Entwicklung in Deutschland - Daten zum Indikatorenbericht 2021
-report_data18: Nachhaltige Entwicklung in Deutschland - Daten zum Indikatorenbericht 2018
-report_data16: Nachhaltige Entwicklung in Deutschland - Daten zum Indikatorenbericht 2016
-report_data14: Nachhaltige Entwicklung in Deutschland - Daten zum Indikatorenbericht 2014
-report_data12: Nachhaltige Entwicklung in Deutschland - Daten zum Indikatorenbericht 2012
-report_data10: Nachhaltige Entwicklung in Deutschland - Daten zum Indikatorenbericht 2010
-report_data08: Nachhaltige Entwicklung in Deutschland - Daten zum Indikatorenbericht 2008
+report_data21: Daten zum Indikatorenbericht 2021
+report_data18: Daten zum Indikatorenbericht 2018
+report_data16: Daten zum Indikatorenbericht 2016
+report_data14: Daten zum Indikatorenbericht 2014
+report_data12: Daten zum Indikatorenbericht 2012
+report_data10: Daten zum Indikatorenbericht 2010
+report_data08: Daten zum Indikatorenbericht 2008
 report_data21path: https://dns-indikatoren.de/assets/publications/reports/de/daten2021.pdf
 report_data18path: https://www.statistischebibliothek.de/mir/receive/DEHeft_mods_00132993
 report_data16path: https://www.statistischebibliothek.de/mir/receive/DEHeft_mods_00132992
 report_data14path: https://www.statistischebibliothek.de/mir/receive/DEHeft_mods_00067001
 report_data12path: https://www.statistischebibliothek.de/mir/receive/DEHeft_mods_00010558
 report_data10path: https://www.statistischebibliothek.de/mir/receive/DEHeft_mods_00010572
-report_data08:
+report_data08path: https://www.statistischebibliothek.de/mir/receive/DEHeft_mods_00010568
 imprint: Im­pres­s­um
 indicator_status: Statusübersicht
 status: Methodik
