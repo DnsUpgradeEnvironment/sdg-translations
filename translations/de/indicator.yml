@@ -58,7 +58,7 @@ sex: Geschlecht
 source: Datenquelle
 sources: Datenquellen
 special_eval: Sonderauswertung basierend auf Daten folgender
-special_eval_plural: Sonderauswertung basierend auf Daten folgenden
+special_eval_plural: Sonderauswertung basierend auf Daten folgender
 sub_categories: "Auswahl"
 sub_categories_dns: Auswahl
 table: Tabelle
