@@ -8,5 +8,5 @@ download_all: Download all data
 zip_file: ZIP file
 intro_title: 17 goals to transform our world
 community_text: Das Statistische Bundesamt ist Teil des 'Gemeinschaftswerk Nachhaltigkeit' des
-  [Rats für Nachhaltige Entwicklung - RNE](http://www.nachhaltigkeitsrat.de), einer offenen 
+  <a href="http://www.nachhaltigkeitsrat.de">Rats für Nachhaltige Entwicklung - RNE</a>, einer offenen 
   Plattform für alle, die sich für eine nachhaltige Gesellschaft einsetzen.
