@@ -1,3 +1,5 @@
+alert: 'You are leaving our website!\nThe link leads to the website of '
+alert_general: 'You are leaving our website!\nThe link leads to an external website.'
 indicator: Indicator
 indicators: Indicators
 indicator_cap: Indicator

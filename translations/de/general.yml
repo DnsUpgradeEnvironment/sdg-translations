@@ -1,3 +1,5 @@
+alert: 'Sie verlassen unsere Webseite!\nDer Link führt Sie zur Webseite '
+alert_general: 'Sie verlassen unsere Webseite!\nDer Link führt Sie zu einer externen Webseite.'
 goal: Ziel
 goals: Ziele
 one_goal: einem Ziel
