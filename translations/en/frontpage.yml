@@ -8,4 +8,4 @@ download_all: Download all data
 zip_file: ZIP file
 intro_title: 17 goals to transform our world
 community_text: The Federal Statistical Office is part of the <a href="https://dnstestenvironment.github.io/dns-indicators/about_joint_action">Joint Action for Sustainable Development</a>, an open platform for all those who are committed to a sustainable society.
-gov_report_text: The reports of the Federal Government on the topic of "Sustainability Policy" can be found <a href="https://www.bundesregierung.de/breg-de/themen/nachhaltigkeitspolitik/berichte-und-reden-nachhaltigkeit/berichte-der-bundesregierung-418550" target="_blank">here</a>.
+gov_report_text: Information on the "German Sustainability Strategy" can be found <a href="https://dnstestenvironment.github.io/dns-indicators/en/publications_strategy/">here</a>.
