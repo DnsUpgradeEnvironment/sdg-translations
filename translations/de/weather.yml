@@ -39,3 +39,8 @@ overview_blurb: 'In der Übersichtstabelle sind die Bewertungen der Indikatoren 
     • zunächst ein zeitlich näher gelegenes Ziel erfüllt werden muss, oder<br>
     • das Ziel nur eines von mehreren, zeitgleich zu erfüllenden Zielen ist.<br><br>'
 note: Anmerkung
+
+Keine: Keine Bewertung möglich
+Ende: Bewertung endet
+Später: Bewertung noch nicht möglich
+Bewertung augesetzt: Bewertung augesetzt
