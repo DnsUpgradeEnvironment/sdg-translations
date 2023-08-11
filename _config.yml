@@ -4,8 +4,8 @@ description: >-
   A project to compile and translate text related to the United Nation's
   Sustainable Development Goals, and then provide those translations as JSON.
 baseurl: "/sdg-translations"
-url: "https://Nachhaltige-Entwicklung-Deutschland.github.io"
-repo: "https://github.com/Nachhaltige-Entwicklung-Deutschland/sdg-translations"
+url: "https://DnsUpgradeEnvironment.github.io"
+repo: "https://github.com/DnsUpgradeEnvironment/sdg-translations"
 
 # Build settings
 markdown: kramdown
