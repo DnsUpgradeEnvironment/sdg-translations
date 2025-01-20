@@ -481,12 +481,16 @@ energy consumption in passenger transport: Endenergieverbrauch im Personenverkeh
 energy consumption per passenger-kilometre: Energieverbrauch je Personenkilometer
 gini coefficient of equivalised disposable income: Gini-Koeffizient des verfügbaren Äquivalenzeinkommens
 gini coefficient of equivalised disposable income before social transfers: Gini-Koeffizient des verfügbaren Äquivalenzeinkommens vor Sozialleistungen
+xxx: Erstausbildung
+xxx: Fachkräftepotenzial (insgesamt)
 final energy consumption for the transport of goods: Endenergieverbrauch durch Güterbeförderung
 foreigns: Ausländer
 fibre-to-the-building/home (fttb/h): Reine Glasfasernetze (FTTB/H)
 gross domestic product (price-adjusted): Bruttoinlandsprodukt (preisbereinigt)
 germans: Deutsche
 goods transport performance: Güterbeförderungsleistung
+xxx: Hochschulabschlüsse
+xxx: Höherqualifizierende Berufsausbildung
 imports: Einfuhren
 locations of organisation registered with emas: EMAS-Organisationsstandorte
 gini coefficient of market income: Gini-Koeffizient des Markteinkommens
@@ -502,6 +506,7 @@ with post-secondary non-tertiary qualification: Postsekundarer nicht-tertiärer 
 mortality avoidable through prevention: Durch Prävention vermeidbaren Sterblichkeit
 mortality avoidable through prevention and treatment: Durch Prävention und Behandlung vermeidbaren Sterblichkeit
 imports of processed products: Einfuhren von weiterverarbeiteten Produkten
+xxx: Akademisch Qualifizierte und beruflich Höherqualifizierte
 researchers from ldcs: Forschende aus LDCs
 researchers from other developing and emerging countries: Forschende aus den übrigen Entwicklungs- und Schwellenländern
 students from ldcs: Studierende aus LDCs
@@ -514,6 +519,7 @@ gini coefficient of wealth: Gini-Koeffizient des Vermögens
 objects without digitised media: Objekte ohne Digitalisat
 for the medium-sized and major cities of 2012: Bezogen auf die Mittel- und Oberzentren des Jahres 2012
 for the medium-sized and major cities of the year in question: Bezogen auf die Mittel- und Oberzentren des jeweiligen Jahres
+xxx: Zweitausbildung, Ausbildung nach Abitur
 divers: Divers
 female: Weiblich
 male: Männlich
@@ -543,6 +549,7 @@ criminal offences: Straftaten
 county: Kreis
 federal state: Bundesland
 fine particulate matter: Feinstaub
+xxx: Qualifizierung
 sea: Meer
 time series: Zeitreihe
 sex: Geschlecht
@@ -590,11 +597,14 @@ adults: Erwachsene
 obesity rate among children and adolescents: Adipositasquote von Kindern und Jugendlichen
 obesity rate among adults: Adipositasquote von Erwachsenen
 emissions of air pollutants: Emissionen von Luftschadstoffen
-share of the population with excessive exposure to pm10: Anteil der Bevölkerung mit erhöhter PM₁₀-Feinstaubexposition
+share of the population with excessive exposure to pm2,5: Anteil der Bevölkerung mit erhöhter PM₂.₅-Feinstaubexposition
 germany’s contribution to global pandemic prevention and response: Beitrag Deutschlands zur globalen Pandemieprävention und -reaktion
 x: X
-early school leavers: Frühe Schulabgängerinnen und Schulabgänger
+x: X
+x: X
+early school leaversxxx: Frühe Schul- und Ausbildungsabgängerinnen und -abgänger
 persons with an academic or higher vocational qualification (30 to 34-year-olds with a tertiary or post-secondary non-tertiary level of education): Akademisch Qualifizierte und beruflich Höherqualifizierte (30- bis 34-Jährige mit tertiärem oder post-sekundarem nichttertiärem Abschluss)
+xxx: Schulen mit BNE-Label
 all-day care provision for 0 to 2-year-old children: Ganztagsbetreuung für Kinder <br>0- bis 2-Jährige
 all-day care provision for 3 to 5-year-old children: Ganztagsbetreuung für Kinder <br>3- bis 5-Jährige
 gender pay gap: Verdienstabstand zwischen Frauen und Männern
@@ -655,8 +665,6 @@ number of partner countries for german development cooperation with improved cpi
 official development assistance as a proportion of gross national income: Anteil öffentlicher Entwicklungsausgaben am Bruttonationaleinkommen
 number of students and researchers from developing countries and least developed countries per year: Anzahl der Studierenden und Forschenden aus Entwicklungsländern sowie aus am wenigsten entwickelten Ländern pro Jahr
 imports from least developed countries: Einfuhren aus am wenigsten entwickelten Ländern
-x: X
-x: X
 
 #Indikatoren für Statusübersicht
 material deprivation: Materielle und soziale Deprivation
@@ -673,8 +681,11 @@ emissions of air pollutants: Emissionen von Luftschadstoffen
 share of the population with excessive exposure to pm10: Anteil der Bevölkerung mit erhöhter PM₂.₅-Feinstaubexposition
 germany’s contribution to global pandemic prevention and response: Beitrag Deutschlands zur globalen Pandemieprävention und -reaktion
 x: Anteil der Länder, die Deutschland bei der Pandemieprävention, -vorsorge und -reaktion (PPR) unterstützt und die im Global Health Security Index (GHSI) Fortschritte gemacht haben, an der Anzahl der Länder, die Deutschland im Bereich PPR unterstützt
-early school leavers: Frühe Schulabgängerinnen und Schulabgänger
+x: Unterschied in der Lebenserwartung zwischen sozio-ökonomisch deprivierten und wohlhabenden Regionen (Frauen)
+x: Unterschied in der Lebenserwartung zwischen sozio-ökonomisch deprivierten und wohlhabenden Regionen (Männer)
+early school leaversxxx: Frühe Schul- und Ausbildungsabgängerinnen und -abgänger
 persons with an academic or higher vocational qualification (30 to 34-year-olds with a tertiary or post-secondary non-tertiary level of education): Akademisch Qualifizierte und beruflich Höherqualifizierte (30- bis 34-Jährige mit tertiärem oder post-sekundarem nichttertiärem Abschluss)
+xxx: Schulen mit BNE-Label (Bildung für nachhaltige Entwicklung)
 all-day care provision for 0 to 2-year-old children: Ganztagsbetreuung für Kinder <br>0- bis 2-Jährige
 all-day care provision for 3 to 5-year-old children: Ganztagsbetreuung für Kinder <br>3- bis 5-Jährige
 gender pay gap: Verdienstabstand zwischen Frauen und Männern
@@ -735,5 +746,3 @@ corruption perceptions index in partner countries for german development coopera
 official development assistance as a proportion of gross national income: Anteil öffentlicher Entwicklungsausgaben am Bruttonationaleinkommen
 number of students and researchers from developing countries and least developed countries per year: Anzahl der Studierenden und Forschenden aus Entwicklungsländern sowie aus am wenigsten entwickelten Ländern pro Jahr
 imports from least developed countries: Einfuhren aus am wenigsten entwickelten Ländern
-x: Unterschied in der Lebenserwartung zwischen sozio-ökonomisch deprivierten und wohlhabenden Regionen (Frauen)
-x: Unterschied in der Lebenserwartung zwischen sozio-ökonomisch deprivierten und wohlhabenden Regionen (Männer)

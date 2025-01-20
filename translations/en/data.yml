@@ -481,12 +481,16 @@ energy consumption in passenger transport: Energy consumption in passenger trans
 energy consumption per passenger-kilometre: Energy consumption per passenger-kilometre
 gini coefficient of equivalised disposable income: Gini coefficient of equivalised disposable income
 gini coefficient of equivalised disposable income before social transfers: Gini coefficient of equivalised disposable income before social transfers
+xxx: XXX
+xxx: XXX
 final energy consumption for the transport of goods: Final energy consumption for the transport of goods
 foreigns: Foreigns
 fibre-to-the-building/home (fttb/h): Fibre-to-the-Building/Home (FTTB/H)
 gross domestic product (price-adjusted): Gross domestic product (price-adjusted)
 germans: Germans
 goods transport performance: Goods transport performance
+xxx: XXX
+xxx: XXX
 imports: Imports
 locations of organisation registered with emas: Locations of organisation registered with EMAS
 gini coefficient of market income: Gini coefficient of market income
@@ -502,6 +506,7 @@ with post-secondary non-tertiary qualification: With post-secondary non-tertiary
 mortality avoidable through prevention: Mortality avoidable through prevention
 mortality avoidable through prevention and treatment: Mortality avoidable through prevention and treatment
 imports of processed products: Imports of processed products
+xxx: XXX
 researchers from ldcs: Researchers from LDCs
 researchers from other developing and emerging countries: Researchers from other developing and emerging countries
 students from ldcs: Students from LDCs
@@ -514,6 +519,7 @@ gini coefficient of wealth: Gini coefficient of wealth
 objects without digitised media: Objects without digitised media
 for the medium-sized and major cities of 2012: For the medium-sized and major cities of 2012
 for the medium-sized and major cities of the year in question: For the medium-sized and major cities of the year in question
+xxx: XXX
 divers: Divers
 female: Female
 male: Male
@@ -543,6 +549,7 @@ criminal offences: Criminal offences
 county: County
 federal state: Federal state
 fine particulate matter: Fine particulate matter
+xxx: XXX
 sea: Sea
 time series: Time series
 sex: Sex
@@ -590,11 +597,14 @@ adults: Adults
 obesity rate among children and adolescents: Obesity rate among children and adolescents
 obesity rate among adults: Obesity rate among adults
 emissions of air pollutants: Emissions of air pollutants
-share of the population with excessive exposure to pm10: Share of the population with excessive exposure to PM₁₀
+share of the population with excessive exposure to pm2,5: Share of the population with excessive exposure to PM₂.₅
 germany’s contribution to global pandemic prevention and response: Germany’s contribution to global pandemic prevention and response
 x: X
-early school leavers: Early school leavers
+x: X
+x: X
+early school leaversxxx: Early school leaversXXX
 persons with an academic or higher vocational qualification (30 to 34-year-olds with a tertiary or post-secondary non-tertiary level of education): Persons with an academic or higher vocational qualification (30 to 34-year-olds with a tertiary or post-secondary non-tertiary level of education)
+xxx: XXX
 all-day care provision for 0 to 2-year-old children: All-day care provision for 0 to 2-year-old children
 all-day care provision for 3 to 5-year-old children: All-day care provision for 3 to 5-year-old children
 gender pay gap: Gender pay gap
@@ -655,8 +665,6 @@ number of partner countries for german development cooperation with improved cpi
 official development assistance as a proportion of gross national income: Official development assistance as a proportion of gross national income
 number of students and researchers from developing countries and least developed countries per year: Number of students and researchers from developing countries and least developed countries per year
 imports from least developed countries: Imports from least developed countries
-x: X
-x: X
 
 #Indicators for status overview
 material deprivation: Material deprivation
@@ -673,8 +681,11 @@ emissions of air pollutants: Emissions of air pollutants
 share of the population with excessive exposure to pm10: Share of the population with excessive exposure to PM₁₀
 germany’s contribution to global pandemic prevention and response: Germany’s contribution to global pandemic prevention and response
 x: X
-early school leavers: Early school leavers
+x: X
+x: X
+early school leaversxxx: Early school leaversXXX
 persons with an academic or higher vocational qualification (30 to 34-year-olds with a tertiary or post-secondary non-tertiary level of education): Persons with an academic or higher vocational qualification (30 to 34-year-olds with a tertiary or post-secondary non-tertiary level of education)
+xxx: XXX
 all-day care provision for 0 to 2-year-old children: All-day care provision for 0 to 2-year-old children
 all-day care provision for 3 to 5-year-old children: All-day care provision for 3 to 5-year-old children
 gender pay gap: Gender pay gap
@@ -735,5 +746,3 @@ corruption perceptions index in partner countries for german development coopera
 official development assistance as a proportion of gross national income: Official development assistance as a proportion of gross national income
 number of students and researchers from developing countries and least developed countries per year: Number of students and researchers from developing countries and least developed countries per year
 imports from least developed countries: Imports from least developed countries
-x: X
-x: X
