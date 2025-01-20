@@ -1,1 +1,0 @@
-This folder contains one-time scripts used in development. They are included here for reference, in case they are needed again.

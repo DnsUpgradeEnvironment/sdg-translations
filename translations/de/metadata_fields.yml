@@ -6,7 +6,7 @@ comparison_sdg: Vergleichbarkeit mit globalen Metadaten
 content_and_progress: Inhalt und Fortschritt
 copyright: Copyright
 data_state: Datenstand
-
+data_last_update: Letztes Datenupdate
 indicator: Indikatorennummerierung
 indicator_definition: Globale Indikatorenbeschreibung
 dns_indicator_definition: Definition # <small><br>(Text aus dem Indikatoren&shy;bericht 2021)</small>
