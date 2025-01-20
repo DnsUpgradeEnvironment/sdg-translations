@@ -481,16 +481,16 @@ energy consumption in passenger transport: Endenergieverbrauch im Personenverkeh
 energy consumption per passenger-kilometre: Energieverbrauch je Personenkilometer
 gini coefficient of equivalised disposable income: Gini-Koeffizient des verfügbaren Äquivalenzeinkommens
 gini coefficient of equivalised disposable income before social transfers: Gini-Koeffizient des verfügbaren Äquivalenzeinkommens vor Sozialleistungen
-xxx: Erstausbildung
-xxx: Fachkräftepotenzial (insgesamt)
+xxxerstausbildung: Erstausbildung
+xxxfachkräftepotenzial (insgesamt): Fachkräftepotenzial (insgesamt)
 final energy consumption for the transport of goods: Endenergieverbrauch durch Güterbeförderung
 foreigns: Ausländer
 fibre-to-the-building/home (fttb/h): Reine Glasfasernetze (FTTB/H)
 gross domestic product (price-adjusted): Bruttoinlandsprodukt (preisbereinigt)
 germans: Deutsche
 goods transport performance: Güterbeförderungsleistung
-xxx: Hochschulabschlüsse
-xxx: Höherqualifizierende Berufsausbildung
+xxxhochschulabschlüsse: Hochschulabschlüsse
+xxxhöherqualifizierende berufsausbildung: Höherqualifizierende Berufsausbildung
 imports: Einfuhren
 locations of organisation registered with emas: EMAS-Organisationsstandorte
 gini coefficient of market income: Gini-Koeffizient des Markteinkommens
@@ -506,7 +506,7 @@ with post-secondary non-tertiary qualification: Postsekundarer nicht-tertiärer 
 mortality avoidable through prevention: Durch Prävention vermeidbaren Sterblichkeit
 mortality avoidable through prevention and treatment: Durch Prävention und Behandlung vermeidbaren Sterblichkeit
 imports of processed products: Einfuhren von weiterverarbeiteten Produkten
-xxx: Akademisch Qualifizierte und beruflich Höherqualifizierte
+xxxakademisch qualifizierte und beruflich höherqualifizierte: Akademisch Qualifizierte und beruflich Höherqualifizierte
 researchers from ldcs: Forschende aus LDCs
 researchers from other developing and emerging countries: Forschende aus den übrigen Entwicklungs- und Schwellenländern
 students from ldcs: Studierende aus LDCs
@@ -519,7 +519,7 @@ gini coefficient of wealth: Gini-Koeffizient des Vermögens
 objects without digitised media: Objekte ohne Digitalisat
 for the medium-sized and major cities of 2012: Bezogen auf die Mittel- und Oberzentren des Jahres 2012
 for the medium-sized and major cities of the year in question: Bezogen auf die Mittel- und Oberzentren des jeweiligen Jahres
-xxx: Zweitausbildung, Ausbildung nach Abitur
+xxxzweitausbildung, ausbildung nach abitur: Zweitausbildung, Ausbildung nach Abitur
 divers: Divers
 female: Weiblich
 male: Männlich
@@ -549,7 +549,7 @@ criminal offences: Straftaten
 county: Kreis
 federal state: Bundesland
 fine particulate matter: Feinstaub
-xxx: Qualifizierung
+qualification: Qualifizierung
 sea: Meer
 time series: Zeitreihe
 sex: Geschlecht
