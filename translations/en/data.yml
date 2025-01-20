@@ -461,6 +461,10 @@ saxony: Saxony
 saxony-anhalt: Saxony-Anhalt
 thuringia: Thuringia
 pm2.5: PM₂.₅
+xxxkeine risikolage: XXXKeine Risikolage
+xxxmindestens eine risikolage: XXXMindestens eine Risikolage
+total: Total
+xxxdifferenz zwischen "keine risikolage" und "mind. eine risikolage": XXXDifferenz zwischen "Keine Risikolage" und "Mind. eine Risikolage"
 baltic sea: Baltic Sea
 north sea: North Sea
 moving four-year average: Moving four-year average
@@ -550,6 +554,7 @@ county: County
 federal state: Federal state
 fine particulate matter: Fine particulate matter
 qualification: Qualification
+xxxrisikolage: XXXRisikolage
 sea: Sea
 time series: Time series
 sex: Sex
@@ -608,6 +613,7 @@ xxx: XXX
 all-day care provision for 0 to 2-year-old children: All-day care provision for 0 to 2-year-old children
 all-day care provision for 3 to 5-year-old children: All-day care provision for 3 to 5-year-old children
 xxxweiterbildungsbeteiligung: XXXWeiterbildungsbeteiligung
+xxxanteil der 17 bis 18-jährigen mit (angestrebter) studienberechtigung: XXXAnteil der 17 bis 18-Jährigen mit (angestrebter) Studienberechtigung
 gender pay gap: Gender pay gap
 on supervisory boards of listed and fully co-determined companies: On supervisory boards of listed and fully co-determined companies
 in management positions in the federal civil service: In management positions in the federal civil service
@@ -690,6 +696,7 @@ xxx: XXX
 all-day care provision for 0 to 2-year-old children: All-day care provision for 0 to 2-year-old children
 all-day care provision for 3 to 5-year-old children: All-day care provision for 3 to 5-year-old children
 xxxweiterbildungsbeteiligung: XXXWeiterbildungsbeteiligung
+xxxanteil der 17 bis 18-jährigen mit (angestrebter) studienberechtigung: XXXAnteil der 17 bis 18-Jährigen mit (angestrebter) Studienberechtigung
 gender pay gap: Gender pay gap
 women in management positions in business: Women in management positions in business
 women in management positions in the federal civil service: Women in management positions in the federal civil service

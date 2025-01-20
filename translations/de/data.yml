@@ -461,6 +461,10 @@ saxony: Sachsen
 saxony-anhalt: Sachsen-Anhalt
 thuringia: Thüringen
 pm2.5: PM₂.₅
+xxxkeine risikolage: Keine Risikolage
+xxxmindestens eine risikolage: Mindestens eine Risikolage
+total: Insgesamt
+xxxdifferenz zwischen "keine risikolage" und "mind. eine risikolage": Differenz zwischen "Keine Risikolage" und "Mind. eine Risikolage"
 baltic sea: Ostsee
 north sea: Nordsee
 moving four-year average: Gleitender Vierjahresdurchschnitt
@@ -550,6 +554,7 @@ county: Kreis
 federal state: Bundesland
 fine particulate matter: Feinstaub
 qualification: Qualifizierung
+xxxrisikolage: Risikolage
 sea: Meer
 time series: Zeitreihe
 sex: Geschlecht
@@ -608,6 +613,7 @@ xxx: Schulen mit BNE-Label
 all-day care provision for 0 to 2-year-old children: Ganztagsbetreuung für Kinder <br>0- bis 2-Jährige
 all-day care provision for 3 to 5-year-old children: Ganztagsbetreuung für Kinder <br>3- bis 5-Jährige
 xxxweiterbildungsbeteiligung: Weiterbildungsbeteiligung
+xxxanteil der 17 bis 18-jährigen mit (angestrebter) studienberechtigung: Anteil der 17 bis 18-Jährigen mit (angestrebter) Studienberechtigung
 gender pay gap: Verdienstabstand zwischen Frauen und Männern
 on supervisory boards of listed and fully co-determined companies: In Aufsichtsräten der börsennotierten und paritätisch mitbestimmten Unternehmen
 in management positions in the federal civil service: Im öffentlichen Dienst des Bundes
@@ -690,6 +696,7 @@ xxx: Schulen mit BNE-Label (Bildung für nachhaltige Entwicklung)
 all-day care provision for 0 to 2-year-old children: Ganztagsbetreuung für Kinder <br>0- bis 2-Jährige
 all-day care provision for 3 to 5-year-old children: Ganztagsbetreuung für Kinder <br>3- bis 5-Jährige
 xxxweiterbildungsbeteiligung: Weiterbildungsbeteiligung
+xxxanteil der 17 bis 18-jährigen mit (angestrebter) studienberechtigung: Anteil der 17 bis 18-Jährigen mit (angestrebter) Studienberechtigung
 gender pay gap: Verdienstabstand zwischen Frauen und Männern
 women in management positions in business: Frauen in Führungspositionen in der Wirtschaft
 women in management positions in the federal civil service: Frauen in Führungspositionen im öffentlichen Dienst des Bundes
