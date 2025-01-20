@@ -467,6 +467,7 @@ moving four-year average: Moving four-year average
 moving five-year average shown for each middle year: Moving five-year average shown for each middle year
 all wired technologies: All wired technologies
 calculated annual values: Calculated annual values
+mortality avoidable through treatment: Mortality avoidable through treatment
 data from the federal ministry of food and agriculture: Data from the Federal Ministry of Food and Agriculture
 hybrid fiber coax (hfc): Hybrid Fiber Coax (HFC)
 commercial exploited fish stocks assessed for msy that is fished sustainably: Commercial exploited fish stocks assessed for MSY that is fished sustainably
@@ -498,6 +499,8 @@ overweight without obese: Overweight without obese
 pandemic prevention and response: Pandemic prevention and response
 passenger transport performance: Passenger transport performance
 with post-secondary non-tertiary qualification: With post-secondary non-tertiary qualification
+mortality avoidable through prevention: Mortality avoidable through prevention
+mortality avoidable through prevention and treatment: Mortality avoidable through prevention and treatment
 imports of processed products: Imports of processed products
 researchers from ldcs: Researchers from LDCs
 researchers from other developing and emerging countries: Researchers from other developing and emerging countries
@@ -581,7 +584,7 @@ severe material deprivation: Severe material deprivation
 nitrogen surplus in agriculture: Nitrogen surplus in agriculture
 organic farming: Organic farming
 support for good governance in attaining appropriate nutrition world-wide: Support for good governance in attaining appropriate nutrition world-wide
-premature death (women): Premature death (women)
+x: X
 adolescents: Adolescents
 adults: Adults
 obesity rate among children and adolescents: Obesity rate among children and adolescents
@@ -589,6 +592,7 @@ obesity rate among adults: Obesity rate among adults
 emissions of air pollutants: Emissions of air pollutants
 share of the population with excessive exposure to pm10: Share of the population with excessive exposure to PM₁₀
 germany’s contribution to global pandemic prevention and response: Germany’s contribution to global pandemic prevention and response
+x: X
 early school leavers: Early school leavers
 persons with an academic or higher vocational qualification (30 to 34-year-olds with a tertiary or post-secondary non-tertiary level of education): Persons with an academic or higher vocational qualification (30 to 34-year-olds with a tertiary or post-secondary non-tertiary level of education)
 all-day care provision for 0 to 2-year-old children: All-day care provision for 0 to 2-year-old children
@@ -651,6 +655,8 @@ number of partner countries for german development cooperation with improved cpi
 official development assistance as a proportion of gross national income: Official development assistance as a proportion of gross national income
 number of students and researchers from developing countries and least developed countries per year: Number of students and researchers from developing countries and least developed countries per year
 imports from least developed countries: Imports from least developed countries
+x: X
+x: X
 
 #Indicators for status overview
 material deprivation: Material deprivation
@@ -658,7 +664,7 @@ severe material deprivation: Severe material deprivation
 nitrogen surplus in agriculture: Nitrogen surplus in agriculture
 organic farming: Organic farming
 support for good governance in attaining appropriate nutrition world-wide: Support for good governance in attaining appropriate nutrition world-wide
-premature mortality (women): Premature mortality (women)
+x: X
 smoking rate among adolescents: Smoking rate among adolescents
 smoking rate among adults: Smoking rate among adults
 obesity rate among children and adolescents: Obesity rate among children and adolescents
@@ -666,6 +672,7 @@ obesity rate among adults: Obesity rate among adults
 emissions of air pollutants: Emissions of air pollutants
 share of the population with excessive exposure to pm10: Share of the population with excessive exposure to PM₁₀
 germany’s contribution to global pandemic prevention and response: Germany’s contribution to global pandemic prevention and response
+x: X
 early school leavers: Early school leavers
 persons with an academic or higher vocational qualification (30 to 34-year-olds with a tertiary or post-secondary non-tertiary level of education): Persons with an academic or higher vocational qualification (30 to 34-year-olds with a tertiary or post-secondary non-tertiary level of education)
 all-day care provision for 0 to 2-year-old children: All-day care provision for 0 to 2-year-old children
@@ -728,3 +735,5 @@ corruption perceptions index in partner countries for german development coopera
 official development assistance as a proportion of gross national income: Official development assistance as a proportion of gross national income
 number of students and researchers from developing countries and least developed countries per year: Number of students and researchers from developing countries and least developed countries per year
 imports from least developed countries: Imports from least developed countries
+x: X
+x: X

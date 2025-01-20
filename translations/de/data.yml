@@ -467,6 +467,7 @@ moving four-year average: Gleitender Vierjahresdurchschnitt
 moving five-year average shown for each middle year: Gleitender Fünfjahresdurchschnitt mit Bezug auf das mittlere Jahr
 all wired technologies: Alle leitungsgebundenen Technologien
 calculated annual values: Berechnete jährliche Werte
+mortality avoidable through treatment: Durch Behandlung vermeidbaren Sterblichkeit
 data from the federal ministry of food and agriculture: Daten des BMEL
 hybrid fiber coax (hfc): Hybrid Fiber Coax (HFC)
 commercial exploited fish stocks assessed for msy that is fished sustainably: Nachhaltig bewirtschaftete Fischbestände an allen MSY-untersuchten Beständen
@@ -498,6 +499,8 @@ overweight without obese: Übergewicht ohne Adipositas
 pandemic prevention and response: Pandemieprävention und -reaktion
 passenger transport performance: Personenbeförderungsleistung
 with post-secondary non-tertiary qualification: Postsekundarer nicht-tertiärer Abschluss
+mortality avoidable through prevention: Durch Prävention vermeidbaren Sterblichkeit
+mortality avoidable through prevention and treatment: Durch Prävention und Behandlung vermeidbaren Sterblichkeit
 imports of processed products: Einfuhren von weiterverarbeiteten Produkten
 researchers from ldcs: Forschende aus LDCs
 researchers from other developing and emerging countries: Forschende aus den übrigen Entwicklungs- und Schwellenländern
@@ -581,7 +584,7 @@ severe material deprivation: Erhebliche materielle Deprivation
 nitrogen surplus in agriculture: Stickstoffüberschuss der Landwirtschaft
 organic farming: Ökologischer Landbau
 support for good governance in attaining appropriate nutrition world-wide: Unterstützung guter Regierungsführung bei der Erreichung einer angemessenen Ernährung weltweit
-premature death (women): Vorzeitig Gestorbene (Frauen)
+x: Vermeidbare Sterblichkeit
 adolescents: Jugendliche
 adults: Erwachsene
 obesity rate among children and adolescents: Adipositasquote von Kindern und Jugendlichen
@@ -589,6 +592,7 @@ obesity rate among adults: Adipositasquote von Erwachsenen
 emissions of air pollutants: Emissionen von Luftschadstoffen
 share of the population with excessive exposure to pm10: Anteil der Bevölkerung mit erhöhter PM₁₀-Feinstaubexposition
 germany’s contribution to global pandemic prevention and response: Beitrag Deutschlands zur globalen Pandemieprävention und -reaktion
+x: X
 early school leavers: Frühe Schulabgängerinnen und Schulabgänger
 persons with an academic or higher vocational qualification (30 to 34-year-olds with a tertiary or post-secondary non-tertiary level of education): Akademisch Qualifizierte und beruflich Höherqualifizierte (30- bis 34-Jährige mit tertiärem oder post-sekundarem nichttertiärem Abschluss)
 all-day care provision for 0 to 2-year-old children: Ganztagsbetreuung für Kinder <br>0- bis 2-Jährige
@@ -651,6 +655,8 @@ number of partner countries for german development cooperation with improved cpi
 official development assistance as a proportion of gross national income: Anteil öffentlicher Entwicklungsausgaben am Bruttonationaleinkommen
 number of students and researchers from developing countries and least developed countries per year: Anzahl der Studierenden und Forschenden aus Entwicklungsländern sowie aus am wenigsten entwickelten Ländern pro Jahr
 imports from least developed countries: Einfuhren aus am wenigsten entwickelten Ländern
+x: X
+x: X
 
 #Indikatoren für Statusübersicht
 material deprivation: Materielle und soziale Deprivation
@@ -658,14 +664,15 @@ severe material deprivation: Erhebliche materielle und soziale Deprivation
 nitrogen surplus in agriculture: Stickstoffüberschuss der Landwirtschaft
 organic farming: Ökologischer Landbau
 support for good governance in attaining appropriate nutrition world-wide: Unterstützung guter Regierungsführung bei der Erreichung einer angemessenen Ernährung weltweit
-premature mortality (women): Durch Prävention und Behandlung vermeidbare Sterblichkeit
+x: Durch Prävention und Behandlung vermeidbare Sterblichkeit
 smoking rate among adolescents: Raucherquote von Jugendlichen
 smoking rate among adults: Raucherquote von Erwachsenen
 obesity rate among children and adolescents: Adipositasquote von Kindern und Jugendlichen
 obesity rate among adults: Adipositasquote von Erwachsenen
 emissions of air pollutants: Emissionen von Luftschadstoffen
-share of the population with excessive exposure to pm10: Anteil der Bevölkerung mit erhöhter PM₁₀-Feinstaubexposition
+share of the population with excessive exposure to pm10: Anteil der Bevölkerung mit erhöhter PM₂.₅-Feinstaubexposition
 germany’s contribution to global pandemic prevention and response: Beitrag Deutschlands zur globalen Pandemieprävention und -reaktion
+x: Anteil der Länder, die Deutschland bei der Pandemieprävention, -vorsorge und -reaktion (PPR) unterstützt und die im Global Health Security Index (GHSI) Fortschritte gemacht haben, an der Anzahl der Länder, die Deutschland im Bereich PPR unterstützt
 early school leavers: Frühe Schulabgängerinnen und Schulabgänger
 persons with an academic or higher vocational qualification (30 to 34-year-olds with a tertiary or post-secondary non-tertiary level of education): Akademisch Qualifizierte und beruflich Höherqualifizierte (30- bis 34-Jährige mit tertiärem oder post-sekundarem nichttertiärem Abschluss)
 all-day care provision for 0 to 2-year-old children: Ganztagsbetreuung für Kinder <br>0- bis 2-Jährige
@@ -728,3 +735,5 @@ corruption perceptions index in partner countries for german development coopera
 official development assistance as a proportion of gross national income: Anteil öffentlicher Entwicklungsausgaben am Bruttonationaleinkommen
 number of students and researchers from developing countries and least developed countries per year: Anzahl der Studierenden und Forschenden aus Entwicklungsländern sowie aus am wenigsten entwickelten Ländern pro Jahr
 imports from least developed countries: Einfuhren aus am wenigsten entwickelten Ländern
+x: Unterschied in der Lebenserwartung zwischen sozio-ökonomisch deprivierten und wohlhabenden Regionen (Frauen)
+x: Unterschied in der Lebenserwartung zwischen sozio-ökonomisch deprivierten und wohlhabenden Regionen (Männer)
