@@ -30,6 +30,8 @@ eu-27: EU-27
 eu-28: EU-28
 eurozone: Eurozone
 germany: Germany
+xxxkindertageseinrichtungen: XXXKindertageseinrichtungen
+xxxtagespflege: XXXTagespflege
 xxxbereinigter gender pay gap: XXXBereinigter Gender Pay Gap
 calculated in grant equivalents: Calculated in grant equivalents
 calculated as net expenditure: Calculated as net expenditure
@@ -505,6 +507,7 @@ gini coefficient of market income: Gini coefficient of market income
 raw material input for consumption, investment and exports: Raw material input for consumption, investment and exports
 raw material input productivity: Raw material input productivity
 share of msy examined stocks in all managed fish stocks: Share of MSY examined stocks in all managed fish stocks
+mothers: Mothers
 obese: Obese
 emas organisations: EMAS organisations
 overweight without obese: Overweight without obese
@@ -522,6 +525,7 @@ students from other developing and emerging countries: Students from other devel
 with tertiary qualification: With tertiary qualification
 total: Total
 all objects: All objects
+fathers: Fathers
 xxxanteil der kinder, deren väter elterngeld bezogen haben: XXXAnteil der Kinder, deren Väter Elterngeld bezogen haben
 xxxanteil der männlichen bezieher an allen genommenen elterngeldmonaten: XXXAnteil der männlichen Bezieher an allen genommenen Elterngeldmonaten
 value of consumption, investment and exports (price-adjusted): Value of consumption, investment and exports (price-adjusted)
@@ -557,6 +561,7 @@ total: Total
 age group: Age group
 air pollutant: Air pollutant
 area: Area
+xxxart der betreuung: XXXArt der Betreuung
 calculation method: Calculation method
 criminal offence: Criminal offence
 criminal offences: Criminal offences
@@ -623,7 +628,7 @@ xxx: XXX
 all-day care provision for 0 to 2-year-old children: All-day care provision for 0 to 2-year-old children
 all-day care provision for 3 to 5-year-old children: All-day care provision for 3 to 5-year-old children
 xxxweiterbildungsbeteiligung: XXXWeiterbildungsbeteiligung
-xxxanteil der 17 bis 18-jährigen mit (angestrebter) studienberechtigung: XXXAnteil der 17 bis 18-Jährigen mit (angestrebter) Studienberechtigung
+xxxanteil der 17 und 18-jährigen mit (angestrebter) studienberechtigung: XXXAnteil der 17 und 18-Jährigen mit (angestrebter) Studienberechtigung
 gender pay gap: Gender pay gap
 on supervisory boards of listed and fully co-determined companies: On supervisory boards of listed and fully co-determined companies
 in management positions in the federal civil service: In management positions in the federal civil service
@@ -706,7 +711,7 @@ xxx: XXX
 all-day care provision for 0 to 2-year-old children: All-day care provision for 0 to 2-year-old children
 all-day care provision for 3 to 5-year-old children: All-day care provision for 3 to 5-year-old children
 xxxweiterbildungsbeteiligung: XXXWeiterbildungsbeteiligung
-xxxanteil der 17 bis 18-jährigen mit (angestrebter) studienberechtigung: XXXAnteil der 17 bis 18-Jährigen mit (angestrebter) Studienberechtigung
+xxxanteil der 17 und 18-jährigen mit (angestrebter) studienberechtigung: XXXAnteil der 17 und 18-Jährigen mit (angestrebter) Studienberechtigung
 gender pay gap: Gender pay gap
 women in management positions in business: Women in management positions in business
 women in management positions in the federal civil service: Women in management positions in the federal civil service

@@ -30,7 +30,9 @@ eu-27: EU-27
 eu-28: EU-28
 eurozone: Eurozone
 germany: Deutschland
-xxxbereinigter gender pay gap: Bereinigter Gender Pay Gap
+xxxkindertageseinrichtungen: Kindertageseinrichtungen
+xxxtagespflege: Tagespflege
+xxxbereinigter gender pay gap: 'Zusätzliche Information: Bereinigter Gender Pay Gap'
 calculated in grant equivalents: Berechnung in Zuschussäquivalenten
 calculated as net expenditure: Berechnung als Netto-Ausgabe
 xxxunbereinigter gender pay gap: Unbereinigter Gender Pay Gap
@@ -505,6 +507,7 @@ gini coefficient of market income: Gini-Koeffizient des Markteinkommens
 raw material input for consumption, investment and exports: Rohstoffeinsatz für Konsum, Investitionen und Exporte
 raw material input productivity: Gesamtrohstoffproduktivität
 share of msy examined stocks in all managed fish stocks: MSY-untersuchte Fischbestände an allen bewirtschafteten Beständen
+mothers: Mütter
 obese: Adipositas
 emas organisations: EMAS-Organisationen
 overweight without obese: Übergewicht ohne Adipositas
@@ -522,8 +525,9 @@ students from other developing and emerging countries: Studierende aus den übri
 with tertiary qualification: Tertiärer Abschluss
 total: Insgesamt
 all objects: Objekte insgesamt
+fathers: Väter
 xxxanteil der kinder, deren väter elterngeld bezogen haben: Anteil der Kinder, deren Väter Elterngeld bezogen haben
-xxxanteil der männlichen bezieher an allen genommenen elterngeldmonaten: Anteil der männlichen Bezieher an allen genommenen Elterngeldmonaten
+xxxanteil der männlichen bezieher an allen genommenen elterngeldmonaten: 'Zusätzliche Information: Anteil der männlichen Bezieher an allen genommenen Elterngeldmonaten'
 value of consumption, investment and exports (price-adjusted): Wert von Konsum, Investitionen und Exporten (preisbereinigt)
 gini coefficient of wealth: Gini-Koeffizient des Vermögens
 objects without digitised media: Objekte ohne Digitalisat
@@ -557,6 +561,7 @@ total: Insgesamt
 age group: Altersklasse
 air pollutant: Luftschadstoff
 area: Gebiet
+xxxart der betreuung: Art der Betreuung
 calculation method: Berechnungsmethode
 criminal offence: Straftat
 criminal offences: Straftaten
@@ -623,7 +628,7 @@ xxx: Schulen mit BNE-Label
 all-day care provision for 0 to 2-year-old children: Ganztagsbetreuung für Kinder <br>0- bis 2-Jährige
 all-day care provision for 3 to 5-year-old children: Ganztagsbetreuung für Kinder <br>3- bis 5-Jährige
 xxxweiterbildungsbeteiligung: Weiterbildungsbeteiligung
-xxxanteil der 17 bis 18-jährigen mit (angestrebter) studienberechtigung: Anteil der 17 bis 18-Jährigen mit (angestrebter) Studienberechtigung
+xxxanteil der 17 und 18-jährigen mit (angestrebter) studienberechtigung: Anteil der 17 und 18-Jährigen mit (angestrebter) Studienberechtigung
 gender pay gap: Verdienstabstand zwischen Frauen und Männern
 on supervisory boards of listed and fully co-determined companies: In Aufsichtsräten der börsennotierten und paritätisch mitbestimmten Unternehmen
 in management positions in the federal civil service: Im öffentlichen Dienst des Bundes
@@ -652,7 +657,7 @@ xxxtarifgebundene beschäftigungsverhältnisse: Tarifgebundene Beschäftigungsve
 xxxfreiwillige nachhaltigkeitsberichterstattung von unternehmen: Freiwillige Nachhaltigkeitsberichterstattung von Unternehmen
 private and public expenditure on research and development: Private und öffentliche Ausgaben für Forschung und Entwicklung
 roll-out of broadband – share of households with access to gigabit broadband services: Breitbandausbau – Anteil der Haushalte mit Zugang zu Gigabit-Breitbandversorgung
-foreign school graduates: Ausländische Schulabsolventinnen und Schulabsolventen
+foreign school graduates: Ausländische Schulabsolvierende
 gini coefficient of income after social transfers: Gini-Koeffizient des Einkommens nach Sozialtransfers
 expansion of settlement and transport area: Anstieg der Siedlungs- und Verkehrsfläche
 loss of open space area: Freiraumverlust
@@ -706,7 +711,7 @@ xxx: Schulen mit BNE-Label (Bildung für nachhaltige Entwicklung)
 all-day care provision for 0 to 2-year-old children: Ganztagsbetreuung für Kinder <br>0- bis 2-Jährige
 all-day care provision for 3 to 5-year-old children: Ganztagsbetreuung für Kinder <br>3- bis 5-Jährige
 xxxweiterbildungsbeteiligung: Weiterbildungsbeteiligung
-xxxanteil der 17 bis 18-jährigen mit (angestrebter) studienberechtigung: Anteil der 17 bis 18-Jährigen mit (angestrebter) Studienberechtigung
+xxxanteil der 17 und 18-jährigen mit (angestrebter) studienberechtigung: Anteil der 17 und 18-Jährigen mit (angestrebter) Studienberechtigung
 gender pay gap: Verdienstabstand zwischen Frauen und Männern
 women in management positions in business: Frauen in Führungspositionen in der Wirtschaft
 women in management positions in the federal civil service: Frauen in Führungspositionen im öffentlichen Dienst des Bundes
@@ -735,7 +740,7 @@ xxxtarifgebundene beschäftigungsverhältnisse: Tarifgebundene Beschäftigungsve
 xxxfreiwillige nachhaltigkeitsberichterstattung von unternehmen nach dem deutschen nachhaltigkeitskodex (dnk): Freiwillige Nachhaltigkeitsberichterstattung von Unternehmen nach dem Deutschen Nachhaltigkeitskodex (DNK)
 private and public expenditure on research and development: Private und öffentliche Ausgaben für Forschung und Entwicklung
 roll-out of broadband – share of households with access to gigabit broadband services: Breitbandausbau – Anteil der Haushalte mit Zugang zu Gigabit-Breitbandversorgung
-foreign school graduates: Ausländische Schulabsolventinnen und Schulabsolventen
+foreign school graduates: Ausländische Schulabsolvierende
 gini coefficient of income after social transfers: Gini-Koeffizient des Einkommens nach Sozialtransfers
 expansion of settlement and transport area: Anstieg der Siedlungs- und Verkehrsfläche
 loss of open space area: Freiraumverlust
@@ -743,7 +748,7 @@ density of settlements: Siedlungsdichte
 final energy consumption in goods transport: Endenergieverbrauch im Güterverkehr
 final energy consumption in passenger transport: Endenergieverbrauch im Personenverkehr
 accessibility of medium-sized and large cities by public transport: Erreichbarkeit von Mittel- und Oberzentren mit öffentlichen Verkehrsmitteln
-housing cost overload: Überlastung durch Wohnkosten
+housing cost overload: Anteil der Personen mit hohen Wohnkosten
 number of objects in the german digital library: Zahl der Objekte in der Deutschen Digitalen Bibliothek
 market share of products certified by publicly managed eco-labelling schemes: Marktanteil von Produkten mit staatlichen Umweltzeichen
 global environmental impact by private household consumption – use of raw materials: Globale Umweltinanspruchnahme durch den Konsum privater Haushalte - Rohstoffeinsatz
