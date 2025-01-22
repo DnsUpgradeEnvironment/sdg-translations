@@ -30,8 +30,10 @@ eu-27: EU-27
 eu-28: EU-28
 eurozone: Eurozone
 germany: Germany
+xxxbereinigter gender pay gap: XXXBereinigter Gender Pay Gap
 calculated in grant equivalents: Calculated in grant equivalents
 calculated as net expenditure: Calculated as net expenditure
+xxxunbereinigter gender pay gap: XXXUnbereinigter Gender Pay Gap
 domestic burglary: Domestic burglary
 fraud: Fraud
 dangerous and serious bodily injury: Dangerous and serious bodily injury
@@ -467,6 +469,8 @@ total: Total
 xxxdifferenz zwischen 'keine risikolage' und 'mind. eine risikolage': XXXDifferenz zwischen 'Keine Risikolage' und 'Mind. eine Risikolage'
 baltic sea: Baltic Sea
 north sea: North Sea
+xxxanteil der länder, die deutschland bei der pandemieprävention, -vorsorge und -reaktion (ppr) unterstützt und die im global health security index (ghsi) fortschritte gemacht haben, an der anzahl der länder, die deutschland im bereich ppr unterstützt: XXXAnteil der Länder, die Deutschland bei der Pandemieprävention, -vorsorge und -reaktion (PPR) unterstützt und die im Global Health Security Index (GHSI) Fortschritte gemacht haben, an der Anzahl der Länder, die Deutschland im Bereich PPR unterstützt
+germany’s contribution to global pandemic prevention and response: Germany’s contribution to global pandemic prevention and response
 moving four-year average: Moving four-year average
 moving five-year average shown for each middle year: Moving five-year average shown for each middle year
 all wired technologies: All wired technologies
@@ -518,6 +522,8 @@ students from other developing and emerging countries: Students from other devel
 with tertiary qualification: With tertiary qualification
 total: Total
 all objects: All objects
+xxxanteil der kinder, deren väter elterngeld bezogen haben: XXXAnteil der Kinder, deren Väter Elterngeld bezogen haben
+xxxanteil der männlichen bezieher an allen genommenen elterngeldmonaten: XXXAnteil der männlichen Bezieher an allen genommenen Elterngeldmonaten
 value of consumption, investment and exports (price-adjusted): Value of consumption, investment and exports (price-adjusted)
 gini coefficient of wealth: Gini coefficient of wealth
 objects without digitised media: Objects without digitised media
@@ -540,6 +546,8 @@ settlement area (built on): Settlement area (built on)
 transport area: Transport area
 non-rural areas: Non-rural areas
 rural areas: Rural areas
+germany’s contribution to global pandemic prevention and responsein genaral: Germany’s contribution to global pandemic prevention and responsein genaral
+separate amount devoted to curbing the covid-19 pandemic: Separate amount devoted to curbing the COVID-19 pandemic
 
 # Additions
 Year: Year
@@ -564,6 +572,7 @@ sub index: Sub index
 xxxart der tarifverträge: XXXArt der Tarifverträge
 type of area: Type of area
 degree of urbanisation: Degree of urbanisation
+xxxzuordnung: XXXZuordnung
 
 #Units
 '1.000': '1.000'
@@ -607,9 +616,6 @@ obesity rate among children and adolescents: Obesity rate among children and ado
 obesity rate among adults: Obesity rate among adults
 emissions of air pollutants: Emissions of air pollutants
 share of the population with excessive exposure to pm2,5: Share of the population with excessive exposure to PM₂.₅
-germany’s contribution to global pandemic prevention and response: Germany’s contribution to global pandemic prevention and response
-x: X
-x: X
 x: X
 early school leaversxxx: Early school leaversXXX
 persons with an academic or higher vocational qualification (30 to 34-year-olds with a tertiary or post-secondary non-tertiary level of education): Persons with an academic or higher vocational qualification (30 to 34-year-olds with a tertiary or post-secondary non-tertiary level of education)
@@ -693,10 +699,7 @@ obesity rate among children and adolescents: Obesity rate among children and ado
 obesity rate among adults: Obesity rate among adults
 emissions of air pollutants: Emissions of air pollutants
 xxxshare of the population with excessive exposure to pm10: XXXShare of the population with excessive exposure to PM₁₀
-germany’s contribution to global pandemic prevention and response: Germany’s contribution to global pandemic prevention and response
 xanteil der länder, die deutschland bei der xxxpandemieprävention, -vorsorge und -reaktion (ppr) unterstützt und die im global health security index (ghsi) fortschritte gemacht haben, an der anzahl der länder, die deutschland im bereich ppr unterstützt: XAnteil der Länder, die Deutschland bei der XXXPandemieprävention, -vorsorge und -reaktion (PPR) unterstützt und die im Global Health Security Index (GHSI) Fortschritte gemacht haben, an der Anzahl der Länder, die Deutschland im Bereich PPR unterstützt
-xxxunterschied in der lebenserwartung zwischen sozio-ökonomisch deprivierten und wohlhabenden regionen (frauen): XXXUnterschied in der Lebenserwartung zwischen sozio-ökonomisch deprivierten und wohlhabenden Regionen (Frauen)
-xxxunterschied in der lebenserwartung zwischen sozio-ökonomisch deprivierten und wohlhabenden regionen (männer): XXXUnterschied in der Lebenserwartung zwischen sozio-ökonomisch deprivierten und wohlhabenden Regionen (Männer)
 early school leaversxxx: Early school leaversXXX
 persons with an academic or higher vocational qualification (30 to 34-year-olds with a tertiary or post-secondary non-tertiary level of education): Persons with an academic or higher vocational qualification (30 to 34-year-olds with a tertiary or post-secondary non-tertiary level of education)
 xxx: XXX
