@@ -588,6 +588,7 @@ percentage: Percentage
 percentage points: Percentage points
 m² per year: m² per year
 m² per inhabitant and year: m² per inhabitant and year
+hours: Hours
 1.000 eur: 1.000 EUR
 
 #Indicators for selection filelds
@@ -596,7 +597,7 @@ severe material deprivation: Severe material deprivation
 nitrogen surplus in agriculture: Nitrogen surplus in agriculture
 organic farming: Organic farming
 support for good governance in attaining appropriate nutrition world-wide: Support for good governance in attaining appropriate nutrition world-wide
-x: X
+xxxvermeidbare sterblichkeit: XXXVermeidbare Sterblichkeit
 adolescents: Adolescents
 adults: Adults
 obesity rate among children and adolescents: Obesity rate among children and adolescents
@@ -618,7 +619,9 @@ gender pay gap: Gender pay gap
 on supervisory boards of listed and fully co-determined companies: On supervisory boards of listed and fully co-determined companies
 in management positions in the federal civil service: In management positions in the federal civil service
 proportion of fathers receiving parental allowance: Proportion of fathers receiving parental allowance
+xxxerwerbsarbeitszeit von müttern und vätern: XXXErwerbsarbeitszeit von Müttern und Vätern
 vocational qualifications of women and girls through german development cooperation: Vocational qualifications of women and girls through German development cooperation
+xxxgeschlechtergleichstellun in der entwicklungszusammenarbeit: XXXGeschlechtergleichstellun in der Entwicklungszusammenarbeit
 phosphorous in flowing waters: Phosphorous in flowing waters
 nitrate in groundwater: Nitrate in groundwater
 number of people gaining first-time or upgraded access to drinking water: Number of people gaining first-time or upgraded access to drinking water
@@ -701,7 +704,9 @@ gender pay gap: Gender pay gap
 women in management positions in business: Women in management positions in business
 women in management positions in the federal civil service: Women in management positions in the federal civil service
 proportion of fathers receiving parental allowance: Proportion of fathers receiving parental allowance
+xxxdurchschnittliche wöchentliche erwerbsarbeitszeit bezogen auf alle mütter und väter: XXXDurchschnittliche wöchentliche Erwerbsarbeitszeit bezogen auf alle Mütter und Väter
 vocational qualifications of women and girls through german development assistance: Vocational qualifications of women and girls through German development assistance
+xxxanteil der geschlechtergleichstellung berücksichtigenden projektmittel in der deutschen entwicklungszusammenarbeit: XXXAnteil der Geschlechtergleichstellung berücksichtigenden Projektmittel in der deutschen Entwicklungszusammenarbeit
 phosphorous in flowing waters: Phosphorous in flowing waters
 nitrate in groundwater: Nitrate in groundwater
 number of people gaining first-time or upgraded access to drinking water owing to german support: Number of people gaining first-time or upgraded access to drinking water owing to German support

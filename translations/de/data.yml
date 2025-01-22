@@ -588,6 +588,7 @@ percentage: Prozent
 percentage points: Prozentpunkte
 m² per year: m² pro Jahr
 m² per inhabitant and year: m² pro Einwohner/-in und Jahr
+hours: Stunden
 1.000 eur: 1 000 EUR
 
 #Indikatoren für Auswahlfelder
@@ -596,7 +597,7 @@ severe material deprivation: Erhebliche materielle Deprivation
 nitrogen surplus in agriculture: Stickstoffüberschuss der Landwirtschaft
 organic farming: Ökologischer Landbau
 support for good governance in attaining appropriate nutrition world-wide: Unterstützung guter Regierungsführung bei der Erreichung einer angemessenen Ernährung weltweit
-x: Vermeidbare Sterblichkeit
+xxxvermeidbare sterblichkeit: Vermeidbare Sterblichkeit
 adolescents: Jugendliche
 adults: Erwachsene
 obesity rate among children and adolescents: Adipositasquote von Kindern und Jugendlichen
@@ -618,7 +619,9 @@ gender pay gap: Verdienstabstand zwischen Frauen und Männern
 on supervisory boards of listed and fully co-determined companies: In Aufsichtsräten der börsennotierten und paritätisch mitbestimmten Unternehmen
 in management positions in the federal civil service: Im öffentlichen Dienst des Bundes
 proportion of fathers receiving parental allowance: Väterbeteiligung beim Elterngeld
+xxxerwerbsarbeitszeit von müttern und vätern: Erwerbsarbeitszeit von Müttern und Vätern
 vocational qualifications of women and girls through german development cooperation: Berufliche Qualifizierung von Frauen und Mädchen durch deutsche entwicklungspolitische Zusammenarbeit
+xxxgeschlechtergleichstellun in der entwicklungszusammenarbeit: Geschlechtergleichstellun in der Entwicklungszusammenarbeit
 phosphorous in flowing waters: Phosphor in Fließgewässern
 nitrate in groundwater: Nitrat im Grundwasser
 number of people gaining first-time or upgraded access to drinking water: Anzahl der Menschen, die einen neuen oder hochwertigeren Zugang zur Trinkwasserversorgung erhalten haben
@@ -701,7 +704,9 @@ gender pay gap: Verdienstabstand zwischen Frauen und Männern
 women in management positions in business: Frauen in Führungspositionen in der Wirtschaft
 women in management positions in the federal civil service: Frauen in Führungspositionen im öffentlichen Dienst des Bundes
 proportion of fathers receiving parental allowance: Väterbeteiligung beim Elterngeld
+xxxdurchschnittliche wöchentliche erwerbsarbeitszeit bezogen auf alle mütter und väter: Durchschnittliche wöchentliche Erwerbsarbeitszeit bezogen auf alle Mütter und Väter
 vocational qualifications of women and girls through german development assistance: Berufliche Qualifizierung von Frauen und Mädchen durch deutsche entwicklungspolitische Zusammenarbeit
+xxxanteil der geschlechtergleichstellung berücksichtigenden projektmittel in der deutschen entwicklungszusammenarbeit: Anteil der Geschlechtergleichstellung berücksichtigenden Projektmittel in der deutschen Entwicklungszusammenarbeit
 phosphorous in flowing waters: Phosphor in Fließgewässern
 nitrate in groundwater: Nitrat im Grundwasser
 number of people gaining first-time or upgraded access to drinking water owing to german support: Anzahl der Menschen, die einen neuen oder hochwertigeren Zugang zur Trinkwasserversorgung durch deutsche Unterstützung erhalten
