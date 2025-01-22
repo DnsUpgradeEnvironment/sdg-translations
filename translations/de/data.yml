@@ -32,7 +32,7 @@ eurozone: Eurozone
 germany: Deutschland
 xxxkindertageseinrichtungen: Kindertageseinrichtungen
 xxxtagespflege: Tagespflege
-xxxbereinigter gender pay gap: 'Zusätzliche Information: Bereinigter Gender Pay Gap'
+xxxbereinigter gender pay gap: '<u>Infolinie</u>: Bereinigter Gender Pay Gap'
 calculated in grant equivalents: Berechnung in Zuschussäquivalenten
 calculated as net expenditure: Berechnung als Netto-Ausgabe
 xxxunbereinigter gender pay gap: Unbereinigter Gender Pay Gap
@@ -472,7 +472,7 @@ xxxdifferenz zwischen 'keine risikolage' und 'mind. eine risikolage': Differenz 
 baltic sea: Ostsee
 north sea: Nordsee
 xxxanteil der länder, die deutschland bei der pandemieprävention, -vorsorge und -reaktion (ppr) unterstützt und die im global health security index (ghsi) fortschritte gemacht haben, an der anzahl der länder, die deutschland im bereich ppr unterstützt: Anteil der Länder, die Deutschland bei der Pandemieprävention, -vorsorge und -reaktion (PPR) unterstützt und die im Global Health Security Index (GHSI) Fortschritte gemacht haben, an der Anzahl der Länder, die Deutschland im Bereich PPR unterstützt
-germany’s contribution to global pandemic prevention and response: 'Zusätzliche Information: Beitrag Deutschlands zur globalen Pandemieprävention und -reaktion'
+germany’s contribution to global pandemic prevention and response: '<u>Infolinie</u>: Beitrag Deutschlands zur globalen Pandemieprävention und -reaktion'
 moving four-year average: Gleitender Vierjahresdurchschnitt
 moving five-year average shown for each middle year: Gleitender Fünfjahresdurchschnitt mit Bezug auf das mittlere Jahr
 all wired technologies: Alle leitungsgebundenen Technologien
@@ -585,6 +585,7 @@ millions: Millionen
 billion eur: Milliarden EUR
 inhabitants per m² settlement and transport area: Einwohner/-innen pro m² Siedlungs- und Verkehrsfläche
 gini coefficient: Gini-Koeffizient
+hectre: Hektar
 hectre per day: Hektar pro Tag
 1990 = 100: 1990 = 100
 2030 = 100: 2030 = 100
@@ -628,7 +629,7 @@ xxx: Schulen mit BNE-Label
 all-day care provision for 0 to 2-year-old children: Ganztagsbetreuung für Kinder <br>0- bis 2-Jährige
 all-day care provision for 3 to 5-year-old children: Ganztagsbetreuung für Kinder <br>3- bis 5-Jährige
 xxxweiterbildungsbeteiligung: Weiterbildungsbeteiligung
-xxxanteil der 17 und 18-jährigen mit (angestrebter) studienberechtigung: Anteil der 17 und 18-Jährigen mit (angestrebter) Studienberechtigung
+xxxanteil der 17- und 18-jährigen mit (angestrebter) studienberechtigung: Anteil der 17- und 18-Jährigen mit (angestrebter) Studienberechtigung
 gender pay gap: Verdienstabstand zwischen Frauen und Männern
 on supervisory boards of listed and fully co-determined companies: In Aufsichtsräten der börsennotierten und paritätisch mitbestimmten Unternehmen
 in management positions in the federal civil service: Im öffentlichen Dienst des Bundes
@@ -683,8 +684,8 @@ nitrogen input via the inflows into the north sea: Stickstoffeintrag über die Z
 share of sustainably fished stocks of fish in the north and baltic seas: Anteil der nachhaltig befischten Fischbestände in Nord- und Ostsee
 biodiversity and landscape quality: Artenvielfalt und Landschaftsqualität
 eutrophication of ecosystems: Eutrophierung der Ökosysteme
-preservation or restoration of forests in developing countries under the redd+ rulebook: Erhalt bzw. Wiederaufbau von Wäldern in Entwicklungsländern unter dem REDD+-Regelwerk
-german gross bilateral development expenditure for the implementation of the un convention to combat desertification: Deutsche bilaterale Bruttoentwicklungsausgaben zur Umsetzung des Übereinkommens der VN zur Bekämpfung der Wüstenbildung
+xxxbodenversiegelungsgrad: Bodenversiegelungsgrad
+xxxbilaterale beiträge der deutschen internationalen kooperation zum schutz, nachhaltiger nutzung und wiederherstellung von land, gemessen in hektar: Bilaterale Beiträge der deutschen internationalen Kooperation zum Schutz, nachhaltiger Nutzung und Wiederherstellung von Land, gemessen in Hektar
 criminal offences: Straftaten
 number of projects to secure, register and destroy small arms and light weapons carried out by germany in affected regions of the world: Anzahl der in betroffenen Weltregionen durchgeführten Projekte zur Sicherung, Registrierung und Zerstörung von Kleinwaffen und leichten Waffen durch Deutschland
 corruption perception index in germany: Corruption Perception Index in Deutschland
@@ -713,7 +714,7 @@ xxx: Schulen mit BNE-Label (Bildung für nachhaltige Entwicklung)
 all-day care provision for 0 to 2-year-old children: Ganztagsbetreuung für Kinder <br>0- bis 2-Jährige
 all-day care provision for 3 to 5-year-old children: Ganztagsbetreuung für Kinder <br>3- bis 5-Jährige
 xxxweiterbildungsbeteiligung: Weiterbildungsbeteiligung
-xxxanteil der 17 und 18-jährigen mit (angestrebter) studienberechtigung: Anteil der 17 und 18-Jährigen mit (angestrebter) Studienberechtigung
+xxxanteil der 17 und 18-jährigen mit (angestrebter) studienberechtigung: Anteil der 17- und 18-Jährigen mit (angestrebter) Studienberechtigung
 gender pay gap: Verdienstabstand zwischen Frauen und Männern
 women in management positions in business: Frauen in Führungspositionen in der Wirtschaft
 women in management positions in the federal civil service: Frauen in Führungspositionen im öffentlichen Dienst des Bundes
@@ -768,8 +769,8 @@ nitrogen input via the inflows into the north sea: Stickstoffeintrag über die Z
 share of sustainably fished stocks of fish in the north and baltic seas: Anteil der nachhaltig befischten Fischbestände in Nord- und Ostsee
 biodiversity and landscape quality: Artenvielfalt und Landschaftsqualität
 eutrophication of ecosystems: Eutrophierung der Ökosysteme
-redd+ (results-based payments for international protection of forests): REDD+ (ergebnisbasierte Auszahlungen für internationalen Waldschutz)
-international soil protection (gross development assistance for international soil protection): Internationaler Bodenschutz (Bruttoentwicklungsausgaben für internationalen Bodenschutz)
+xxxbodenversiegelungsgrad: Bodenversiegelungsgrad
+xxxbilaterale beiträge der deutschen internationalen kooperation zum schutz, nachhaltiger nutzung und wiederherstellung von land, gemessen in hektar: Bilaterale Beiträge der deutschen internationalen Kooperation zum Schutz, nachhaltiger Nutzung und Wiederherstellung von Land, gemessen in Hektar
 criminal offences: Straftaten
 number of projects to secure, register and destroy small arms and light weapons carried out by germany in affected regions of the world: Anzahl der in betroffenen Weltregionen durchgeführten Projekte zur Sicherung, Registrierung und Zerstörung von Kleinwaffen und leichten Waffen durch Deutschland
 corruption perceptions index in germany: Corruption Perception Index in Deutschland
