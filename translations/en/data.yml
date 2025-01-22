@@ -533,6 +533,8 @@ farmland sub-index: Farmland sub-index
 forest sub-index: Forest sub-index
 settlements sub-index: Settlements sub-index
 inland waters sub-index: Inland waters sub-index
+xxxbranchen-/flächentarifvertrag: XXXBranchen-/Flächentarifvertrag
+xxxfirmen-/haustarifvertrag: XXXFirmen-/Haustarifvertrag
 recreation area, cemetery: Recreation area, cemetery
 settlement area (built on): Settlement area (built on)
 transport area: Transport area
@@ -559,6 +561,7 @@ sea: Sea
 time series: Time series
 sex: Sex
 sub index: Sub index
+xxxart der tarifverträge: XXXArt der Tarifverträge
 type of area: Type of area
 degree of urbanisation: Degree of urbanisation
 
@@ -639,7 +642,8 @@ gross fixed capital formation in relation to gdp: Gross fixed capital formation 
 gross domestic product per capita: Gross domestic product per capita
 employment rate, total (20 to 64-year-olds): Employment rate, total (20 to 64-year-olds)
 employment rate, older people (60 to 64-year-olds): Employment rate, older people (60 to 64-year-olds)
-members of the textile partnership: Members of the Textile Partnership
+xxxtarifgebundene beschäftigungsverhältnisse: XXXTarifgebundene Beschäftigungsverhältnisse
+xxxfreiwillige nachhaltigkeitsberichterstattung von unternehmen: XXXFreiwillige Nachhaltigkeitsberichterstattung von Unternehmen
 private and public expenditure on research and development: Private and public expenditure on research and development
 roll-out of broadband – share of households with access to gigabit broadband services: Roll-out of broadband – Share of households with access to gigabit broadband services
 foreign school graduates: Foreign school graduates
@@ -720,11 +724,12 @@ raw material input productivity: Raw material input productivity
 government deficit: Government deficit
 structural deficit: Structural deficit
 government debt: Government debt
-gross fixed capital formation in relation to gdp: Gross fixed capital formation in relation to GDP
+gross fixed capital formation in relation to gross domestic product (gdp): Gross fixed capital formation in relation to Gross domestic product (GDP)
 gross domestic product per capita: Gross domestic product per capita
 employment rate (20 to 64-year-olds): Employment rate (20 to 64-year-olds)
 employment rate (60 to 64-year-olds): Employment rate (60 to 64-year-olds)
-members of the textile partnership: Members of the Textile Partnership
+xxxtarifgebundene beschäftigungsverhältnisse: XXXTarifgebundene Beschäftigungsverhältnisse
+xxxfreiwillige nachhaltigkeitsberichterstattung von unternehmen nach dem deutschen nachhaltigkeitskodex (dnk): XXXFreiwillige Nachhaltigkeitsberichterstattung von Unternehmen nach dem Deutschen Nachhaltigkeitskodex (DNK)
 private and public expenditure on research and development: Private and public expenditure on research and development
 roll-out of broadband – share of households with access to gigabit broadband services: Roll-out of broadband – Share of households with access to gigabit broadband services
 foreign school graduates: Foreign school graduates

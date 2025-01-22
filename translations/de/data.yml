@@ -533,6 +533,8 @@ farmland sub-index: Teilindex Agrarland
 forest sub-index: Teilindex Wälder
 settlements sub-index: Teilindex Siedlungen
 inland waters sub-index: Teilindex Binnengewässer
+xxxbranchen-/flächentarifvertrag: Branchen-/Flächentarifvertrag
+xxxfirmen-/haustarifvertrag: Firmen-/Haustarifvertrag
 recreation area, cemetery: Erholungsfläche, Friedhof
 settlement area (built on): Siedlungsfläche (bebaut)
 transport area: Verkehrsfläche
@@ -559,6 +561,7 @@ sea: Meer
 time series: Zeitreihe
 sex: Geschlecht
 sub index: Teilindizes
+xxxart der tarifverträge: Art der Tarifverträge
 type of area: Art der Fläche
 degree of urbanisation: Verstädterungsgrad
 
@@ -639,7 +642,8 @@ gross fixed capital formation in relation to gdp: Verhältnis der Bruttoanlagein
 gross domestic product per capita: Bruttoinlandsprodukt je Einwohnerin und Einwohner
 employment rate, total (20 to 64-year-olds): Erwerbstätigenquote insgesamt (20- bis 64-Jährige)
 employment rate, older people (60 to 64-year-olds): Erwerbstätigenquote Ältere (60- bis 64-Jährige)
-members of the textile partnership: Mitglieder des Textilbündnisses
+xxxtarifgebundene beschäftigungsverhältnisse: Tarifgebundene Beschäftigungsverhältnisse
+xxxfreiwillige nachhaltigkeitsberichterstattung von unternehmen: Freiwillige Nachhaltigkeitsberichterstattung von Unternehmen
 private and public expenditure on research and development: Private und öffentliche Ausgaben für Forschung und Entwicklung
 roll-out of broadband – share of households with access to gigabit broadband services: Breitbandausbau – Anteil der Haushalte mit Zugang zu Gigabit-Breitbandversorgung
 foreign school graduates: Ausländische Schulabsolventinnen und Schulabsolventen
@@ -720,11 +724,12 @@ raw material input productivity: Gesamtrohstoffproduktivität
 government deficit: Staatsdefizit
 structural deficit: Strukturelles Defizit
 government debt: Schuldenstand
-gross fixed capital formation in relation to gdp: Verhältnis der Bruttoanlageinvestitionen zum BIP
+gross fixed capital formation in relation to gross domestic product (gdp): Verhältnis der Bruttoanlageinvestitionen zum Bruttoinlandsprodukt (BIP)
 gross domestic product per capita: Bruttoinlandsprodukt je Einwohnerin und Einwohner
 employment rate (20 to 64-year-olds): Erwerbstätigenquote (20- bis 64-Jährige)
 employment rate (60 to 64-year-olds): Erwerbstätigenquote (60- bis 64-Jährige)
-members of the textile partnership: Mitglieder des Textilbündnisses
+xxxtarifgebundene beschäftigungsverhältnisse: Tarifgebundene Beschäftigungsverhältnisse
+xxxfreiwillige nachhaltigkeitsberichterstattung von unternehmen nach dem deutschen nachhaltigkeitskodex (dnk): Freiwillige Nachhaltigkeitsberichterstattung von Unternehmen nach dem Deutschen Nachhaltigkeitskodex (DNK)
 private and public expenditure on research and development: Private und öffentliche Ausgaben für Forschung und Entwicklung
 roll-out of broadband – share of households with access to gigabit broadband services: Breitbandausbau – Anteil der Haushalte mit Zugang zu Gigabit-Breitbandversorgung
 foreign school graduates: Ausländische Schulabsolventinnen und Schulabsolventen
