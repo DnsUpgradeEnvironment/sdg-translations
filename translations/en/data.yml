@@ -32,8 +32,10 @@ eurozone: Eurozone
 germany: Germany
 xxxkindertageseinrichtungen: XXXKindertageseinrichtungen
 xxxtagespflege: XXXTagespflege
-low or moderate: Low or moderate
-substantial or high: Substantial or high
+'effectiveness: low or moderate': 'Effectiveness: Low or moderate'
+'tecnical compliance: non-compliant or partially compliant': 'Tecnical compliance: Non-compliant or partially compliant'
+'effectiveness: substantial or high': 'Effectiveness: Substantial or high'
+'tecnical compliance: largely compliant or compliant': 'Tecnical compliance: Largely compliant or compliant'
 xxxbereinigter gender pay gap: XXXBereinigter Gender Pay Gap
 calculated in grant equivalents: Calculated in grant equivalents
 calculated as net expenditure: Calculated as net expenditure
@@ -490,6 +492,7 @@ separate amount devoted to curbing the covid-19 pandemic: Separate amount devote
 difference: Difference
 objects with digitised media: Objects with digitised media
 data from the federal statistical office: Data from the Federal Statistical Office
+financial action task force (fatf) rating effectiveness: Financial Action Task Force (FATF) rating effectiveness
 employees in emas organisations: Employees in EMAS organisations
 energy consumption per tonne-kilometre: Energy consumption per tonne-kilometre
 energy consumption in passenger transport: Energy consumption in passenger transport
@@ -498,6 +501,7 @@ gini coefficient of equivalised disposable income: Gini coefficient of equivalis
 gini coefficient of equivalised disposable income before social transfers: Gini coefficient of equivalised disposable income before social transfers
 xxxerstausbildung: XXXErstausbildung
 xxxfachkräftepotenzial (insgesamt): XXXFachkräftepotenzial (insgesamt)
+financial action task force (fatf) rating tecnical compliance: Financial Action Task Force (FATF) rating tecnical compliance
 final energy consumption for the transport of goods: Final energy consumption for the transport of goods
 foreigns: Foreigns
 fibre-to-the-building/home (fttb/h): Fibre-to-the-Building/Home (FTTB/H)
@@ -567,7 +571,8 @@ age group: Age group
 air pollutant: Air pollutant
 area: Area
 xxxart der betreuung: XXXArt der Betreuung
-level of effectiveness: Level of effectiveness
+rating: Rating
+level of compliance: Level of compliance
 calculation method: Calculation method
 criminal offence: Criminal offence
 criminal offences: Criminal offences

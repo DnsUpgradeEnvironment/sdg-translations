@@ -32,8 +32,10 @@ eurozone: Eurozone
 germany: Deutschland
 xxxkindertageseinrichtungen: Kindertageseinrichtungen
 xxxtagespflege: Tagespflege
-low or moderate: Low or moderate
-substantial or high: Substantial or high
+'effectiveness: low or moderate': 'Effectiveness: Low or moderate'
+'tecnical compliance: non-compliant or partially compliant': 'Tecnical compliance: Non-compliant oder partially compliant'
+'effectiveness: substantial or high': 'Effectiveness: Substantial or high'
+'tecnical compliance: largely compliant or compliant': 'Tecnical compliance: Largely compliant oder compliant'
 xxxbereinigter gender pay gap: '<u>Infolinie</u>: Bereinigter Gender Pay Gap'
 calculated in grant equivalents: Berechnung in Zuschussäquivalenten
 calculated as net expenditure: Berechnung als Netto-Ausgabe
@@ -490,6 +492,7 @@ separate amount devoted to curbing the covid-19 pandemic: Eindämmung der COVID-
 difference: Differenz
 objects with digitised media: Objekte mit Digitalisat
 data from the federal statistical office: Daten des Statistischen Bundesamtes
+financial action task force (fatf) rating effectiveness: Financial Action Task Force (FATF) rating effectiveness
 employees in emas organisations: Beschäftigte in EMAS-Organisationen
 energy consumption per tonne-kilometre: Energieverbrauch je Tonnenkilometer
 energy consumption in passenger transport: Endenergieverbrauch im Personenverkehr
@@ -498,6 +501,7 @@ gini coefficient of equivalised disposable income: Gini-Koeffizient des verfügb
 gini coefficient of equivalised disposable income before social transfers: Gini-Koeffizient des verfügbaren Äquivalenzeinkommens vor Sozialleistungen
 xxxerstausbildung: Erstausbildung
 xxxfachkräftepotenzial (insgesamt): Fachkräftepotenzial (insgesamt)
+financial action task force (fatf) rating tecnical compliance: '<u>Infolinie:</u> Financial Action Task Force (FATF) rating tecnical compliance'
 final energy consumption for the transport of goods: Endenergieverbrauch durch Güterbeförderung
 foreigns: Ausländer
 fibre-to-the-building/home (fttb/h): Reine Glasfasernetze (FTTB/H)
@@ -567,7 +571,8 @@ age group: Altersklasse
 air pollutant: Luftschadstoff
 area: Gebiet
 xxxart der betreuung: Art der Betreuung
-level of effectiveness: Grad der Effektivität
+rating: Bewertung
+level of compliance: Erfüllungsgrad
 calculation method: Berechnungsmethode
 criminal offence: Straftat
 criminal offences: Straftaten
@@ -783,5 +788,5 @@ corruption perceptions index in germany: Corruption Perception Index in Deutschl
 corruption perceptions index in partner countries for german development cooperation: Corruption Perception Index in den Partnerländern der deutschen Entwicklungszusammenarbeit
 financial action task force (fatf) rating effectiveness: Financial Action Task Force (FATF) rating effectiveness
 official development assistance as a proportion of gross national income: Anteil öffentlicher Entwicklungsausgaben am Bruttonationaleinkommen
-number of students and researchers from developing countries and least developed countries per year: Anzahl der Studierenden und Forschenden aus Entwicklungsländern sowie aus am wenigsten entwickelten Ländern pro Jahr
+number of students and researchers from developing countries and least developed countries per year: Studierende und Forschende aus Entwicklungsländern sowie aus am wenigsten entwickelten Ländern pro Jahr
 imports from least developed countries: Einfuhren aus am wenigsten entwickelten Ländern
