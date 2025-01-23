@@ -32,6 +32,8 @@ eurozone: Eurozone
 germany: Germany
 xxxkindertageseinrichtungen: XXXKindertageseinrichtungen
 xxxtagespflege: XXXTagespflege
+low or moderate: Low or moderate
+substantial or high: Substantial or high
 xxxbereinigter gender pay gap: XXXBereinigter Gender Pay Gap
 calculated in grant equivalents: Calculated in grant equivalents
 calculated as net expenditure: Calculated as net expenditure
@@ -562,6 +564,7 @@ age group: Age group
 air pollutant: Air pollutant
 area: Area
 xxxart der betreuung: XXXArt der Betreuung
+level of effectiveness: Level of effectiveness
 calculation method: Calculation method
 criminal offence: Criminal offence
 criminal offences: Criminal offences
@@ -600,6 +603,7 @@ minutes: Minutes
 million eur: Million EUR
 million inhabitants: Million inhabitants
 number: Number
+number of ratings: Number of ratings
 per 100,000 inhabitants: Per 100,000 inhabitants
 per 100,000 inhabitants under 70 years (excluding under 1 year olds): Per 100,000 inhabitants under 70 years (excluding under 1 year olds)
 percentage: Percentage
@@ -686,9 +690,10 @@ biodiversity and landscape quality: Biodiversity and landscape quality
 eutrophication of ecosystems: Eutrophication of ecosystems
 xxxbodenversiegelungsgrad: XXXBodenversiegelungsgrad
 xxxbilaterale beiträge der deutschen internationalen kooperation zum schutz, nachhaltiger nutzung und wiederherstellung von land, gemessen in hektar: XXXBilaterale Beiträge der deutschen internationalen Kooperation zum Schutz, nachhaltiger Nutzung und Wiederherstellung von Land, gemessen in Hektar
-number of projects to secure, register and destroy small arms and light weapons carried out by germany in affected regions of the world: Number of projects to secure, register and destroy small arms and light weapons carried out by Germany in affected regions of the world
+xxxausgebildetes personal zur kleinwaffenkontrolle: XXXAusgebildetes Personal zur Kleinwaffenkontrolle
 corruption perception index in germany: Corruption Perception Index in Germany
 number of partner countries for german development cooperation with improved cpi scores compared with 2012: Number of partner countries for German development cooperation with improved CPI scores compared with 2012
+financial action task force (fatf) rating effectiveness: Financial Action Task Force (FATF) rating effectiveness
 official development assistance as a proportion of gross national income: Official development assistance as a proportion of gross national income
 number of students and researchers from developing countries and least developed countries per year: Number of students and researchers from developing countries and least developed countries per year
 imports from least developed countries: Imports from least developed countries
@@ -770,9 +775,10 @@ biodiversity and landscape quality: Biodiversity and landscape quality
 eutrophication of ecosystems: Eutrophication of ecosystems
 xxxbodenversiegelungsgrad: XXXBodenversiegelungsgrad
 xxxbilaterale beiträge der deutschen internationalen kooperation zum schutz, nachhaltiger nutzung und wiederherstellung von land, gemessen in hektar: XXXBilaterale Beiträge der deutschen internationalen Kooperation zum Schutz, nachhaltiger Nutzung und Wiederherstellung von Land, gemessen in Hektar
-number of projects to secure, register and destroy small arms and light weapons carried out by germany in affected regions of the world: Number of projects to secure, register and destroy small arms and light weapons carried out by Germany in affected regions of the world
+xxxvon der bundeswehr ausgebildetes personal zur stärkung der kleinwaffenkontrolle und munitionssicherheit: XXXVon der Bundeswehr ausgebildetes Personal zur Stärkung der Kleinwaffenkontrolle und Munitionssicherheit
 corruption perceptions index in germany: Corruption Perceptions Index in Germany
 corruption perceptions index in partner countries for german development cooperation: Corruption Perceptions Index in partner countries for German development cooperation
+financial action task force (fatf) rating effectiveness: Financial Action Task Force (FATF) rating effectiveness
 official development assistance as a proportion of gross national income: Official development assistance as a proportion of gross national income
 number of students and researchers from developing countries and least developed countries per year: Number of students and researchers from developing countries and least developed countries per year
 imports from least developed countries: Imports from least developed countries
