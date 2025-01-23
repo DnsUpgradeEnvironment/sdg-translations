@@ -32,10 +32,10 @@ eurozone: Eurozone
 germany: Germany
 xxxkindertageseinrichtungen: XXXKindertageseinrichtungen
 xxxtagespflege: XXXTagespflege
-'effectiveness: low or moderate': 'Effectiveness: Low or moderate'
-'tecnical compliance: non-compliant or partially compliant': 'Tecnical compliance: Non-compliant or partially compliant'
-'effectiveness: substantial or high': 'Effectiveness: Substantial or high'
-'tecnical compliance: largely compliant or compliant': 'Tecnical compliance: Largely compliant or compliant'
+effectiveness = low or moderate: Effectiveness = Low or moderate
+tecnical compliance = non-compliant or partially compliant: Tecnical compliance = Non-compliant or partially compliant
+effectiveness = substantial or high: Effectiveness = Substantial or high
+tecnical compliance = largely compliant or compliant: Tecnical compliance = Largely compliant or compliant
 xxxbereinigter gender pay gap: XXXBereinigter Gender Pay Gap
 calculated in grant equivalents: Calculated in grant equivalents
 calculated as net expenditure: Calculated as net expenditure
