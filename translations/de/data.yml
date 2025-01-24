@@ -656,7 +656,7 @@ number of people gaining first-time or improved access to sanitation: Anzahl der
 number of people gaining first-time or upgraded access to drinking water or sanitation: Anzahl der Menschen, die einen neuen oder hochwertigeren Zugang zur Trinkwasserversorgung oder Anschluss zur Sanitärversorgung erhalten haben
 final energy productivity: Endenergieproduktivität
 primary energy consumption: Primärenergieverbrauch
-share of renewable energies in gross final energy consumption: Anteil erneuerbarer Energien am Brutto-Endenergieverbrauch
+share of renewable energies in gross final energy consumption: Anteil erneuerbarer Energien am Bruttoendenergieverbrauch
 share of electricity from renewable energy sources in gross electricity consumption: Anteil des Stroms aus erneuerbaren Energiequellen am Bruttostromverbrauch
 raw material input productivity: Gesamtrohstoffproduktivität
 government deficit: Staatsdefizit
@@ -741,13 +741,13 @@ number of people gaining first-time or improved access to sanitation owing to ge
 number of people gaining first-time or upgraded access to drinking water or sanitation owing to german support: Anzahl der Menschen, die einen neuen oder hochwertigeren Zugang zur Trinkwasserversorgung oder Anschluss zur Sanitärversorgung durch deutsche Unterstützung erhalten
 final energy productivity: Endenergieproduktivität
 primary energy consumption: Primärenergieverbrauch
-share of renewable energies in gross final energy consumption: Anteil erneuerbarer Energien am Brutto-Endenergieverbrauch
+share of renewable energies in gross final energy consumption: Anteil erneuerbarer Energien am Bruttoendenergieverbrauch
 share of electricity from renewable energy sources in gross electricity consumption: Anteil des Stroms aus erneuerbaren Energiequellen am Bruttostromverbrauch
 raw material input productivity: Gesamtrohstoffproduktivität
 government deficit: Staatsdefizit
 structural deficit: Strukturelles Defizit
 government debt: Schuldenstand
-gross fixed capital formation in relation to gross domestic product (gdp): Verhältnis der Bruttoanlageinvestitionen zum Bruttoinlandsprodukt (BIP)
+gross fixed capital formation in relation to gross domestic product (gdp): Verhältnis der Bruttoanlageinvestitionen zum Bruttoinlandsprodukt (Investitionsquote)
 gross domestic product per capita: Bruttoinlandsprodukt je Einwohnerin und Einwohner
 employment rate (20 to 64-year-olds): Erwerbstätigenquote (20- bis 64-Jährige)
 employment rate (60 to 64-year-olds): Erwerbstätigenquote (55- bis 64-Jährige)
@@ -762,13 +762,13 @@ density of settlements: Siedlungsdichte
 final energy consumption in goods transport: Endenergieverbrauch im Güterverkehr
 final energy consumption in passenger transport: Endenergieverbrauch im Personenverkehr
 accessibility of medium-sized and large cities by public transport: Erreichbarkeit von Mittel- und Oberzentren mit öffentlichen Verkehrsmitteln
-housing cost overload: Anteil der Personen mit hohen Wohnkosten
+xxxpersons overburdened by housing costs: Anteil der Personen mit hohen Wohnkosten
 xxxerreichbarkeit von für die erholung geeigneten grünflächen in städten: Erreichbarkeit von für die Erholung geeigneten Grünflächen in Städten
 xxxmarket share of products certified by publicly managed eco-labelling schemes: Marktanteil von Produkten mit staatlichen Nahhaltigkeitssiegeln
 global environmental impact by private household consumption – use of raw materials: Globale Umweltinanspruchnahme durch den Konsum privater Haushalte - Rohstoffeinsatz
 global environmental impact by private household consumption – energy consumption: Globale Umweltinanspruchnahme durch den Konsum privater Haushalte - Energieverbrauch
 global environmental impact by private household consumption – co2 emissions: Globale Umweltinanspruchnahme durch den Konsum privater Haushalte - CO₂-Emissionen
-emas eco-management: Umweltmanagement EMAS
+emas eco-management and audit scheme: Umweltmanagementsystem EMAS
 xxxnachhaltigkeitszertifizierte kultur- und medieneinrichtungen: Nachhaltigkeitszertifizierte Kultur- und Medieneinrichtungen
 xxxanteil an vergabeverfahren in der öffentlichen beschaffung, bei denen mindestens ein nachhaltigkeitskriterium berücksichtigt wurde: Anteil an Vergabeverfahren in der öffentlichen Beschaffung, bei denen mindestens ein Nachhaltigkeitskriterium berücksichtigt wurde
 co2 emissions of commercially available vehicles in the public sector: CO₂-Emissionen je Fahrleistungen der Kraftfahrzeuge der öffentlichen Hand
@@ -782,7 +782,7 @@ share of sustainably fished stocks of fish in the north and baltic seas: Anteil 
 biodiversity and landscape quality: Artenvielfalt und Landschaftsqualität
 eutrophication of ecosystems: Eutrophierung der Ökosysteme
 xxxbodenversiegelungsgrad: Bodenversiegelungsgrad
-xxxbilaterale beiträge der deutschen internationalen kooperation zum schutz, nachhaltiger nutzung und wiederherstellung von land, gemessen in hektar: Bilaterale Beiträge der deutschen internationalen Kooperation zum Schutz, nachhaltiger Nutzung und Wiederherstellung von Land, gemessen in Hektar
+xxxbilaterale beiträge der deutschen internationalen kooperation zum schutz, nachhaltiger nutzung und wiederherstellung von land: Bilaterale Beiträge der deutschen internationalen Kooperation zum Schutz, nachhaltiger Nutzung und Wiederherstellung von Land
 xxxvon der bundeswehr ausgebildetes personal zur stärkung der kleinwaffenkontrolle und munitionssicherheit: Von der Bundeswehr ausgebildetes Personal zur Stärkung der Kleinwaffenkontrolle und Munitionssicherheit
 corruption perceptions index in germany: Corruption Perception Index in Deutschland
 corruption perceptions index in partner countries for german development cooperation: Corruption Perception Index in den Partnerländern der deutschen Entwicklungszusammenarbeit
