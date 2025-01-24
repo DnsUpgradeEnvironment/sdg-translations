@@ -475,6 +475,9 @@ total: Insgesamt
 xxxdifferenz zwischen 'keine risikolage' und 'mind. eine risikolage': Differenz zwischen 'Keine Risikolage' und 'Mind. eine Risikolage'
 baltic sea: Ostsee
 north sea: Nordsee
+xxxhochschulen: Hochschulen
+xxxstaat und private institutionen ohne erwerbszweck: Staat und private Institutionen ohne Erwerbszweck
+xxxwirtschaft: Wirtschaft
 xxxa) anteil nachhaltiger vergabeverfahren: a) Anteil nachhaltiger Vergabeverfahren
 b) co2 emissions of vehicles in the public sector: b) CO₂-Emissionen der Kfz der öffentlichen Hand
 xxxnachhaltige textilbeschaffung: c) Nachhaltige Textilbeschaffung
@@ -528,6 +531,8 @@ imports of processed products: Einfuhren von weiterverarbeiteten Produkten
 xxxakademisch qualifizierte und beruflich höherqualifizierte: Akademisch Qualifizierte und beruflich Höherqualifizierte
 researchers from ldcs: Forschende aus LDCs
 researchers from other developing and emerging countries: Forschende aus den übrigen Entwicklungs- und Schwellenländern
+'xxx<u>infolinie:</u> rohstoffeinsatz für konsum und investitionen (rmc)': '<u>Infolinie:</u> Rohstoffeinsatz für Konsum und Investitionen (RMC)'
+'xxx<u>infolinie:</u> rohstoffeinsatz für exporte (rmc)': '<u>Infolinie:</u> Rohstoffeinsatz für Exporte (RMC)'
 students from ldcs: Studierende aus LDCs
 students from other developing and emerging countries: Studierende aus den übrigen Entwicklungs- und Schwellenländern
 with tertiary qualification: Tertiärer Abschluss
@@ -582,6 +587,7 @@ xxxart der prävention: Art der Prävention
 qualification: Qualifizierung
 xxxrisikolage: Risikolage
 sea: Meer
+xxxsektoren: Sektoren
 time series: Zeitreihe
 sex: Geschlecht
 sub index: Teilindizes
@@ -665,7 +671,7 @@ government debt: Schuldenstand
 gross fixed capital formation in relation to gdp: Verhältnis der Bruttoanlageinvestitionen zum BIP
 gross domestic product per capita: Bruttoinlandsprodukt je Einwohnerin und Einwohner
 employment rate, total (20 to 64-year-olds): Erwerbstätigenquote insgesamt (20- bis 64-Jährige)
-employment rate, older people (60 to 64-year-olds): Erwerbstätigenquote Ältere (60- bis 64-Jährige)
+employment rate, older people (55 to 64-year-olds): Erwerbstätigenquote Ältere (55- bis 64-Jährige)
 xxxtarifgebundene beschäftigungsverhältnisse: Tarifgebundene Beschäftigungsverhältnisse
 xxxfreiwillige nachhaltigkeitsberichterstattung von unternehmen: Freiwillige Nachhaltigkeitsberichterstattung von Unternehmen
 private and public expenditure on research and development: Private und öffentliche Ausgaben für Forschung und Entwicklung
@@ -750,7 +756,7 @@ government debt: Schuldenstand
 gross fixed capital formation in relation to gross domestic product (gdp): Verhältnis der Bruttoanlageinvestitionen zum Bruttoinlandsprodukt (Investitionsquote)
 gross domestic product per capita: Bruttoinlandsprodukt je Einwohnerin und Einwohner
 employment rate (20 to 64-year-olds): Erwerbstätigenquote (20- bis 64-Jährige)
-employment rate (60 to 64-year-olds): Erwerbstätigenquote (55- bis 64-Jährige)
+employment rate (55 to 64-year-olds): Erwerbstätigenquote (55- bis 64-Jährige)
 xxxtarifgebundene beschäftigungsverhältnisse: Tarifgebundene Beschäftigungsverhältnisse
 xxxfreiwillige nachhaltigkeitsberichterstattung von unternehmen nach dem deutschen nachhaltigkeitskodex (dnk): Freiwillige Nachhaltigkeitsberichterstattung von Unternehmen nach dem Deutschen Nachhaltigkeitskodex (DNK)
 private and public expenditure on research and development: Private und öffentliche Ausgaben für Forschung und Entwicklung
