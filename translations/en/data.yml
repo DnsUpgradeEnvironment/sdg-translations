@@ -33,9 +33,9 @@ germany: Germany
 xxxkindertageseinrichtungen: XXXKindertageseinrichtungen
 xxxtagespflege: XXXTagespflege
 effectiveness = low or moderate: Effectiveness = Low or moderate
-tecnical compliance = non-compliant or partially compliant: Tecnical compliance = Non-compliant or partially compliant
+technical compliance = non-compliant or partially compliant: Technical compliance = Non-compliant or partially compliant
 effectiveness = substantial or high: Effectiveness = Substantial or high
-tecnical compliance = largely compliant or compliant: Tecnical compliance = Largely compliant or compliant
+technical compliance = largely compliant or compliant: Technical compliance = Largely compliant or compliant
 xxxbereinigter gender pay gap: XXXBereinigter Gender Pay Gap
 calculated in grant equivalents: Calculated in grant equivalents
 calculated as net expenditure: Calculated as net expenditure
@@ -307,7 +307,7 @@ xxxcorruption perception index in germany: XXXCorruption Perception Index in Ger
 xxxnumber of partner countries for german development cooperation with improved cpi scores compared with 2012: XXXNumber of partner countries for German development cooperation with improved CPI scores compared with 2012
 financial action task force (fatf) rating effectiveness: Financial Action Task Force (FATF) rating effectiveness
 official development assistance as a proportion of gross national income: Official development assistance as a proportion of gross national income
-number of students and researchers from developing countries and least developed countries per year: Number of students and researchers from developing countries and least developed countries per year
+number of students and researchers from developing countries and least developed countries: Number of students and researchers from developing countries and least developed countries
 imports from least developed countries: Imports from least developed countries
 
 #Indicators for status overview
@@ -392,5 +392,5 @@ corruption perceptions index in germany: Corruption Perceptions Index in Germany
 corruption perceptions index in partner countries for german development cooperation: Corruption Perceptions Index in partner countries for German development cooperation
 financial action task force (fatf) rating effectiveness: Financial Action Task Force (FATF) rating effectiveness
 official development assistance as a proportion of gross national income: Official development assistance as a proportion of gross national income
-number of students and researchers from developing countries and least developed countries per year: Number of students and researchers from developing countries and least developed countries per year
+number of students and researchers from developing countries and least developed countries: Number of students and researchers from developing countries and least developed countries
 imports from least developed countries: Imports from least developed countries

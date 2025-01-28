@@ -33,9 +33,9 @@ germany: Deutschland
 xxxkindertageseinrichtungen: Kindertageseinrichtungen
 xxxtagespflege: Kindertagespflege
 effectiveness = low or moderate: Effectiveness = Low or moderate
-tecnical compliance = non-compliant or partially compliant: Tecnical compliance = Non-compliant oder partially compliant
+technical compliance = non-compliant or partially compliant: Technical compliance = Non-compliant oder partially compliant
 effectiveness = substantial or high: Effectiveness = Substantial or high
-tecnical compliance = largely compliant or compliant: Tecnical compliance =  Largely compliant oder compliant
+technical compliance = largely compliant or compliant: Technical compliance =  Largely compliant oder compliant
 xxxbereinigter gender pay gap: '<u>Infolinie</u>: Bereinigter Gender Pay Gap'
 calculated in grant equivalents: Berechnung in Zuschussäquivalenten
 calculated as net expenditure: Berechnung als Netto-Ausgabe
@@ -283,11 +283,11 @@ final energy consumption in passenger transport: Endenergieverbrauch im Personen
 accessibility of medium-sized and large cities by public transport: Erreichbarkeit von Mittel- und Oberzentren mit öffentlichen Verkehrsmitteln
 housing cost overload: Überlastung durch Wohnkosten
 xxxgrünflächen in städten: Grünflächen in Städten
-xxxmarket share of products certified by publicly managed eco-labelling schemes: Marktanteil von Produkten mit staatlichen Nahhaltigkeitssiegeln
+xxxmarket share of products certified by publicly managed eco-labelling schemes: Marktanteil von Produkten mit staatlichen Nachhaltigkeitssiegeln
 ba) direct and indirect use of raw materials: ba) Direkter und indirekter Rohstoffeinsatz
 bb) direct and indirect energy consumption: bb) Direkter und indirekter Energieverbrauch
 bc) direct and indirect co2 emissions: bc) Direkte und indirekte CO₂-Emissionen
-emas eco-management: Umweltmanagement EMAS
+emas eco-management: Umweltmanagementsystem (EMAS)
 xxxkultur- und medieneinrichtungen: Kultur- und Medieneinrichtungen
 xxxa) anteil nachhaltiger vergabeverfahren: a) Nachhaltige Vergabeverfahren
 b) co2 emissions of commercially available vehicles in the public sector: b) CO₂-Emissionen je Fahrleistungen der Kraftfahrzeuge
@@ -307,7 +307,7 @@ xxxcorruption perception index in germany: a) Corruption Perception Index in Deu
 xxxnumber of partner countries for german development cooperation with improved cpi scores compared with 2012: b) Corruption Perception Index in den Partnerländern der deutschen Entwicklungszusammenarbeit
 financial action task force (fatf) rating effectiveness: Financial Action Task Force (FATF) rating effectiveness
 official development assistance as a proportion of gross national income: Anteil öffentlicher Entwicklungsausgaben am Bruttonationaleinkommen
-number of students and researchers from developing countries and least developed countries per year: Anzahl der Studierenden und Forschenden aus Entwicklungsländern sowie aus am wenigsten entwickelten Ländern pro Jahr
+number of students and researchers from developing countries and least developed countries: Anzahl der Studierenden und Forschenden aus Entwicklungsländern sowie aus am wenigsten entwickelten Ländern
 imports from least developed countries: Einfuhren aus am wenigsten entwickelten Ländern
 
 #Indikatoren für Statusübersicht
@@ -368,11 +368,11 @@ final energy consumption in passenger transport: Endenergieverbrauch im Personen
 accessibility of medium-sized and large cities by public transport: Erreichbarkeit von Mittel- und Oberzentren mit öffentlichen Verkehrsmitteln
 xxxpersons overburdened by housing costs: Anteil der Personen mit hohen Wohnkosten
 xxxerreichbarkeit von für die erholung geeigneten grünflächen in städten: Erreichbarkeit von für die Erholung geeigneten Grünflächen in Städten
-xxxmarket share of products certified by publicly managed eco-labelling schemes: Marktanteil von Produkten mit staatlichen Nahhaltigkeitssiegeln
+xxxmarket share of products certified by publicly managed eco-labelling schemes: Marktanteil von Produkten mit staatlichen Nachhaltigkeitssiegeln
 global environmental impact by private household consumption – use of raw materials: Globale Umweltinanspruchnahme durch den Konsum privater Haushalte - Rohstoffeinsatz
 global environmental impact by private household consumption – energy consumption: Globale Umweltinanspruchnahme durch den Konsum privater Haushalte - Energieverbrauch
 global environmental impact by private household consumption – co2 emissions: Globale Umweltinanspruchnahme durch den Konsum privater Haushalte - CO₂-Emissionen
-emas eco-management and audit scheme: Umweltmanagementsystem EMAS
+emas eco-management and audit scheme: Umweltmanagementsystem (EMAS)
 xxxnachhaltigkeitszertifizierte kultur- und medieneinrichtungen: Nachhaltigkeitszertifizierte Kultur- und Medieneinrichtungen
 xxxanteil an vergabeverfahren in der öffentlichen beschaffung, bei denen mindestens ein nachhaltigkeitskriterium berücksichtigt wurde: Anteil an Vergabeverfahren in der öffentlichen Beschaffung, bei denen mindestens ein Nachhaltigkeitskriterium berücksichtigt wurde
 co2 emissions of commercially available vehicles in the public sector: CO₂-Emissionen je Fahrleistungen der Kraftfahrzeuge der öffentlichen Hand
@@ -392,5 +392,5 @@ corruption perceptions index in germany: Corruption Perception Index in Deutschl
 corruption perceptions index in partner countries for german development cooperation: Corruption Perception Index in den Partnerländern der deutschen Entwicklungszusammenarbeit
 financial action task force (fatf) rating effectiveness: Financial Action Task Force (FATF) rating effectiveness
 official development assistance as a proportion of gross national income: Anteil öffentlicher Entwicklungsausgaben am Bruttonationaleinkommen
-number of students and researchers from developing countries and least developed countries per year: Studierende und Forschende aus Entwicklungsländern sowie aus am wenigsten entwickelten Ländern pro Jahr
+number of students and researchers from developing countries and least developed countries: Studierende und Forschende aus Entwicklungsländern sowie aus am wenigsten entwickelten Ländern
 imports from least developed countries: Einfuhren aus am wenigsten entwickelten Ländern
