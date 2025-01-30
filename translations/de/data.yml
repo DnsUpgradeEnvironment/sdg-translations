@@ -32,14 +32,12 @@ eurozone: Eurozone
 germany: Deutschland
 xxxkindertageseinrichtungen: Kindertageseinrichtungen
 xxxtagespflege: Kindertagespflege
-effectiveness = low or moderate: Effectiveness = Low or moderate
-technical compliance = non-compliant or partially compliant: Technical compliance = Non-compliant oder partially compliant
-effectiveness = substantial or high: Effectiveness = Substantial or high
-technical compliance = largely compliant or compliant: Technical compliance =  Largely compliant oder compliant
-xxxbereinigter gender pay gap: '<u>Infolinie</u>: Bereinigter Gender Pay Gap'
+effectiveness = low or moderate: Niedrig oder moderat
+technical compliance = non-compliant or partially compliant: Nicht konform oder teilweise konform mit den Vorschriften
+effectiveness = substantial or high: Weitgehend oder hoch
+technical compliance = largely compliant or compliant: Weitgehend konform oder konform mit den Vorschriften
 calculated in grant equivalents: Berechnung in Zuschussäquivalenten
 calculated as net expenditure: Berechnung als Netto-Ausgabe
-xxxunbereinigter gender pay gap: Unbereinigter Gender Pay Gap
 domestic burglary: Wohnungseinbruchsdiebstahl
 fraud: Betrug
 dangerous and serious bodily injury: Gefährliche und schwere Körperverletzung
@@ -70,7 +68,7 @@ pm2.5: PM₂.₅
 xxxkeine risikolage: Keine Risikolage
 xxxmindestens eine risikolage: Mindestens eine Risikolage
 total: Insgesamt
-xxxdifferenz zwischen 'keine risikolage' und 'mind. eine risikolage': Differenz zwischen 'Keine Risikolage' und 'Mind. eine Risikolage'
+xxxdifferenz zwischen 'keine risikolage' und 'mind. eine risikolage': Differenz zwischen 'Keine Risikolage' und 'Mindestens eine Risikolage'
 baltic sea: Ostsee
 north sea: Nordsee
 xxxhochschulen: Hochschulen
@@ -85,7 +83,8 @@ moving four-year average: Gleitender Vierjahresdurchschnitt
 moving five-year average shown for the last year: Gleitender Fünfjahresdurchschnitt bezogen auf das Endjahr
 all wired technologies: Alle leitungsgebundenen Technologien
 calculated annual values: Berechnete jährliche Werte
-mortality avoidable through treatment: Durch Behandlung vermeidbaren Sterblichkeit
+mortality avoidable through treatment: Durch Behandlung vermeidbare Sterblichkeit
+xxxbereinigter gender pay gap: '<u>Infolinie</u>: Bereinigter Gender Pay Gap'
 data from the federal ministry of food and agriculture: Daten des BMEL
 hybrid fiber coax (hfc): Hybrid Fiber Coax (HFC)
 commercial exploited fish stocks assessed for msy that is fished sustainably: Nachhaltig bewirtschaftete Fischbestände an allen MSY-untersuchten Beständen
@@ -93,7 +92,7 @@ separate amount devoted to curbing the covid-19 pandemic: Eindämmung der COVID-
 difference: Differenz
 objects with digitised media: Objekte mit Digitalisat
 data from the federal statistical office: Daten des Statistischen Bundesamtes
-financial action task force (fatf) rating effectiveness: Financial Action Task Force (FATF) rating effectiveness
+effectiveness: Effectiveness
 employees in emas organisations: Beschäftigte in EMAS-Organisationen
 energy consumption per tonne-kilometre: Energieverbrauch je Tonnenkilometer
 energy consumption in passenger transport: Endenergieverbrauch im Personenverkehr
@@ -102,7 +101,7 @@ gini coefficient of equivalised disposable income: Gini-Koeffizient des verfügb
 gini coefficient of equivalised disposable income before social transfers: Gini-Koeffizient des verfügbaren Äquivalenzeinkommens vor Sozialleistungen
 xxxerstausbildung: Erstausbildung
 xxxfachkräftepotenzial (insgesamt): Fachkräftepotenzial (insgesamt)
-financial action task force (fatf) rating technical compliance: '<u>Infolinie:</u> Financial Action Task Force (FATF) rating technical compliance'
+xxxtechnical compliance: '<u>Infolinie:</u> Technical compliance'
 final energy consumption for the transport of goods: Endenergieverbrauch durch Güterbeförderung
 foreigns: Ausländer
 fibre-to-the-building/home (fttb/h): Reine Glasfasernetze (FTTB/H)
@@ -124,7 +123,7 @@ overweight without obese: Übergewicht ohne Adipositas
 pandemic prevention and response: Pandemieprävention und -reaktion
 passenger transport performance: Personenbeförderungsleistung
 with post-secondary non-tertiary qualification: Postsekundarer nicht-tertiärer Abschluss
-mortality avoidable through prevention: Durch Prävention vermeidbaren Sterblichkeit
+mortality avoidable through prevention: Durch Prävention vermeidbare Sterblichkeit
 imports of processed products: Einfuhren von weiterverarbeiteten Produkten
 xxxakademisch qualifizierte und beruflich höherqualifizierte: Akademisch Qualifizierte und beruflich Höherqualifizierte
 researchers from ldcs: Forschende aus LDCs
@@ -136,6 +135,7 @@ students from other developing and emerging countries: Studierende aus den übri
 with tertiary qualification: Tertiärer Abschluss
 total: Insgesamt
 all objects: Objekte insgesamt
+xxxunbereinigter gender pay gap: Unbereinigter Gender Pay Gap
 fathers: Väter
 xxxkinder, deren väter elterngeld bezogen haben: Kinder, deren Väter Elterngeld bezogen haben
 xxxmännliche bezieher an allen genommenen elterngeldmonaten: '<u>Infolinie</u>: Männliche Bezieher an allen genommenen Elterngeldmonaten'
@@ -268,8 +268,8 @@ b) structural deficit: b) Strukturelles Defizit
 government debt: Schuldenstand
 gross fixed capital formation in relation to gdp: Verhältnis der Bruttoanlageinvestitionen zum BIP
 gross domestic product per capita: Bruttoinlandsprodukt je Einwohnerin und Einwohner
-a) 20 to 64-year-olds: a) 20- bis 64-Jährige
-b) 55 to 64-year-olds: b) 55- bis 64-Jährige
+a) 20 to 64-year-olds: a) 	Insgesamt (20- bis 64-Jährige)
+b) 55 to 64-year-olds: b) Ältere (55- bis 64-Jährige)
 xxxtarifgebundene beschäftigungsverhältnisse: Tarifgebundene Beschäftigungsverhältnisse
 xxxfreiwillige nachhaltigkeitsberichterstattung von unternehmen: Freiwillige Nachhaltigkeitsberichterstattung von Unternehmen
 private and public expenditure on research and development: Private und öffentliche Ausgaben für Forschung und Entwicklung
@@ -303,8 +303,8 @@ eutrophication of ecosystems: Eutrophierung der Ökosysteme
 xxxbodenversiegelungsgrad: Bodenversiegelungsgrad
 xxxbilaterale beiträge der deutschen internationalen kooperation zum schutz, nachhaltiger nutzung und wiederherstellung von land, gemessen in hektar: Bilaterale Beiträge der deutschen internationalen Kooperation zum Schutz, nachhaltiger Nutzung und Wiederherstellung von Land (inkl. Wald)
 xxxausgebildetes personal zur kleinwaffenkontrolle: Ausgebildetes Personal zur Kleinwaffenkontrolle
-xxxcorruption perception index in germany: a) Corruption Perception Index in Deutschland
-xxxnumber of partner countries for german development cooperation with improved cpi scores compared with 2012: b) Corruption Perception Index in den Partnerländern der deutschen Entwicklungszusammenarbeit
+xxxcorruption perception index in germany: a) Korruptionswahrnehmungsindex in Deutschland
+xxxnumber of partner countries for german development cooperation with improved cpi scores compared with 2012: b) Korruptionswahrnehmungsindex in den Partnerländern der deutschen Entwicklungszusammenarbeit
 financial action task force (fatf) rating effectiveness: Financial Action Task Force (FATF) rating effectiveness
 official development assistance as a proportion of gross national income: Anteil öffentlicher Entwicklungsausgaben am Bruttonationaleinkommen
 number of students and researchers from developing countries and least developed countries: Anzahl der Studierenden und Forschenden aus Entwicklungsländern sowie aus am wenigsten entwickelten Ländern
