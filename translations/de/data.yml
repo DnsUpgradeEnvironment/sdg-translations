@@ -32,10 +32,10 @@ eurozone: Eurozone
 germany: Deutschland
 xxxkindertageseinrichtungen: Kindertageseinrichtungen
 xxxtagespflege: Kindertagespflege
-effectiveness = low or moderate: Niedrig oder moderat
-technical compliance = non-compliant or partially compliant: Nicht konform oder teilweise konform mit den Vorschriften
-effectiveness = substantial or high: Weitgehend oder hoch
-technical compliance = largely compliant or compliant: Weitgehend konform oder konform mit den Vorschriften
+effectiveness = low or moderate: Gering oder moderat
+technical compliance = non-compliant or partially compliant: Nicht umgesetzt oder teilweise umgesetzt
+effectiveness = substantial or high: Solide oder hoch
+technical compliance = largely compliant or compliant: Größtenteils umgesetzt oder umgesetzt
 calculated in grant equivalents: Berechnung in Zuschussäquivalenten
 calculated as net expenditure: Berechnung als Netto-Ausgabe
 domestic burglary: Wohnungseinbruchsdiebstahl
@@ -173,8 +173,8 @@ age group: Altersklasse
 air pollutant: Luftschadstoff
 area: Gebiet
 xxxart der betreuung: Art der Betreuung
-rating: Bewertung
-level of compliance: Erfüllungsgrad
+level of compliance: Grad der Effektivität
+rating: Grad der Umsetzung
 calculation method: Berechnungsmethode
 criminal offence: Straftat
 criminal offences: Straftaten
