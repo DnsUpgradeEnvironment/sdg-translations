@@ -116,7 +116,7 @@ goods transport performance: Güterbeförderungsleistung
 xxxhochschulabschlüsse: Hochschulabschluss
 xxxhöherqualifizierende berufsausbildung: Höherqualifizierende Berufsausbildung
 imports: Einfuhren
-xxxnachhaltigkeitszertifizierte kultur- und medieneinrichtungen: '<u>Zeitreihe des Indikators:</u> Nachhaltigkeitszertifizierte Kultur- und Medieneinrichtungen'
+'xxx<u>zeitreihe des indikators:</u>nachhaltigkeitszertifizierte kultur- und medieneinrichtungen': '<u>Zeitreihe des Indikators:</u> Nachhaltigkeitszertifizierte Kultur- und Medieneinrichtungen'
 locations of organisation registered with emas: '<u>Zeitreihe des Indikators:</u> EMAS-Standorte'
 gini coefficient of market income: Gini-Koeffizient des Markteinkommens
 raw material input for consumption, investment and exports: Rohstoffeinsatz für Konsum, Investitionen und Exporte
@@ -143,7 +143,7 @@ total: Insgesamt
 all objects: Objekte insgesamt
 xxxunbereinigter gender pay gap: '<u>Zeitreihe des Indikators:</u> Unbereinigter Gender Pay Gap'
 fathers: Väter
-xxxkinder, deren väter elterngeld bezogen haben: '<u>Zeitreihe des Indikators:</u> Kinder, deren Väter Elterngeld bezogen haben'
+'xxx<u>zeitreihe des indikators:</u> kinder, deren väter elterngeld bezogen haben': '<u>Zeitreihe des Indikators:</u> Kinder, deren Väter Elterngeld bezogen haben'
 xxxmännliche bezieher an allen genommenen elterngeldmonaten: '<u>Zusätzliche Zeitreihe:</u> Männliche Bezieher an allen genommenen Elterngeldmonaten'
 value of consumption, investment and exports (price-adjusted): Wert von Konsum, Investitionen und Exporten (preisbereinigt)
 gini coefficient of wealth: Gini-Koeffizient des Vermögens
@@ -255,6 +255,7 @@ xxxanteil der 17- und 18-jährigen mit (angestrebter) studienberechtigung: Antei
 gender pay gap: Verdienstabstand zwischen Frauen und Männern
 b) on supervisory boards of listed and fully co-determined companies: b) In Aufsichtsräten der börsennotierten und paritätisch mitbestimmten Unternehmen
 c) in management positions in the federal civil service: c) Im öffentlichen Dienst des Bundes
+xxxkinder, deren väter elterngeld bezogen haben: Kinder, deren Väter Elterngeld bezogen haben
 xxxerwerbsarbeitszeit von müttern und vätern: Erwerbsarbeitszeit von Müttern und Vätern
 vocational qualifications of women and girls through german development cooperation: Berufliche Qualifizierung von Frauen und Mädchen durch deutsche entwicklungspolitische Zusammenarbeit
 xxxgeschlechtergleichstellun in der entwicklungszusammenarbeit: Geschlechtergleichstellun in der Entwicklungszusammenarbeit
@@ -378,6 +379,7 @@ global environmental impact by private household consumption – use of raw mate
 global environmental impact by private household consumption – energy consumption: Globale Umweltinanspruchnahme durch den Konsum privater Haushalte - Energieverbrauch
 global environmental impact by private household consumption – co2 emissions: Globale Umweltinanspruchnahme durch den Konsum privater Haushalte - CO₂-Emissionen
 emas eco-management and audit scheme: Umweltmanagementsystem (EMAS)
+xxxnachhaltigkeitszertifizierte kultur- und medieneinrichtungen: Nachhaltigkeitszertifizierte Kultur- und Medieneinrichtungen
 xxxanteil an vergabeverfahren in der öffentlichen beschaffung, bei denen mindestens ein nachhaltigkeitskriterium berücksichtigt wurde: Anteil an Vergabeverfahren in der öffentlichen Beschaffung, bei denen mindestens ein Nachhaltigkeitskriterium berücksichtigt wurde
 co2 emissions of commercially available vehicles in the public sector: CO₂-Emissionen von handelsüblichen Kraftfahrzeugen der öffentlichen Hand
 xxxnachhaltige textilbeschaffung der bundesverwaltung (exklusive sondertextilien): Nachhaltige Textilbeschaffung der Bundesverwaltung (exklusive Sondertextilien)
