@@ -89,7 +89,7 @@ target: Target name
 target_id: Target number
 un_custodian_agency: Custodian agency
 un_designated_tier: <a href="https://unstats.un.org/sdgs/iaeg-sdgs/tier-classification/" title="Click here for further information on the UN_Tier classification.">Designated tier</a>
-target_description: XXXZielart und Umsetzung in der Wettersymbolberechnung
+target_description: XXXUmsetzung in der Wetter&shy;symbol&shy;berechnung
 political_target: Political target
 dns_political_intention: XXXPolitische Intention
 weather_indicator_1: Indicator
