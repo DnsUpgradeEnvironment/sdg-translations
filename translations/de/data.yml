@@ -81,7 +81,7 @@ xxxwirtschaft: Wirtschaft
 xxxa) anteil nachhaltiger vergabeverfahren: a) Nachhaltigkeit in Vergabeverfahren
 b) co2 emissions of vehicles in the public sector: b) CO₂-Emissionen der Kfz der öffentlichen Hand
 xxxnachhaltige textilbeschaffung: c) Nachhaltige Textilbeschaffung
-xxxanteil der länder, die deutschland bei der pandemieprävention, -vorsorge und -reaktion (ppr) unterstützt und die im global health security index (ghsi) fortschritte gemacht haben, an der anzahl der länder, die deutschland im bereich ppr unterstützt: Anteil der Länder, die Deutschland bei der Pandemieprävention, -vorsorge und -reaktion (PPR) unterstützt und die im Global Health Security Index (GHSI) Fortschritte gemacht haben, an der Anzahl der Länder, die Deutschland im Bereich PPR unterstützt
+xxxanteil der länder, die deutschland bei der pandemieprävention, -vorsorge und -reaktion (ppr) unterstützt und die im global health security index (ghsi) fortschritte gemacht haben, an der anzahl der länder, die deutschland im bereich ppr unterstützt: '<u>Zeitreihe des Indikators:</u> Anteil der Länder, die Deutschland bei der Pandemieprävention, -vorsorge und -reaktion (PPR) unterstützt und die im Global Health Security Index (GHSI) Fortschritte gemacht haben, an der Anzahl der Länder, die Deutschland im Bereich PPR unterstützt'
 xxxbeitrag deutschlands zur globalen pandemieprävention und -reaktion: '<u>Zusätzliche Zeitreihe:</u> Beitrag Deutschlands zur globalen Pandemieprävention, -vorsorge und -reaktion (PPR)'
 moving four-year average: Gleitender Vierjahresdurchschnitt
 moving five-year average shown for the last year: Gleitender Fünfjahresdurchschnitt bezogen auf das Endjahr
@@ -90,12 +90,11 @@ calculated annual values: Berechnete jährliche Werte
 xxxproduktionen audiovisueller medien, bei denen ökologische standards eingehalten wurden: '<u>Zusätzliche Zeitreihe:</u> Produktionen audiovisueller Medien, bei denen ökologische Standards eingehalten wurden'
 mortality avoidable through treatment: Durch Behandlung vermeidbare Sterblichkeit
 xxxbereinigter gender pay gap: '<u>Zusätzliche Zeitreihe:</u> Bereinigter Gender Pay Gap'
-xxxdata from the federal ministry of food and agriculture: '<u>Zusätzliche Zeitreihe:</u> Daten des BMLEH'
+data from the federal ministry of food and agriculture: '<u>Zusätzliche Zeitreihe:</u> Daten des BMEL'
 hybrid fiber coax (hfc): Hybrid Fiber Coax (HFC)
 commercial exploited fish stocks assessed for msy that is fished sustainably: Nachhaltig bewirtschaftete Fischbestände an allen MSY-untersuchten Beständen
 separate amount devoted to curbing the covid-19 pandemic: Eindämmung der COVID-19-Pandemie
 difference: Differenz
-xxxdifferenz zwischen 'keine risikolage' und 'mindestens eine risikolage': Differenz zwischen 'Keine Risikolage' und 'Mindestens eine Risikolage'
 objects with digitised media: Objekte mit Digitalisat
 data from the federal statistical office: '<u>Zeitreihe des Indikators:</u> Daten des Statistischen Bundesamtes'
 effectiveness: '<u>Zeitreihe des Indikators:</u> Effectiveness'
@@ -129,7 +128,6 @@ emas organisations: '<u>Zusätzliche Zeitreihe:</u> EMAS-Organisationen'
 overweight without obese: Übergewicht ohne Adipositas
 pandemic prevention and response: Pandemieprävention und -reaktion
 passenger transport performance: Personenbeförderungsleistung
-xxxnach anzahl der risikolagen: Nach Anzahl der Risikolagen
 with post-secondary non-tertiary qualification: Postsekundarer nicht-tertiärer Abschluss
 mortality avoidable through prevention: Durch Prävention vermeidbare Sterblichkeit
 imports of processed products: Einfuhren von weiterverarbeiteten Produkten
@@ -161,7 +159,6 @@ coasts and seas sub-index: Teilindex Küsten/Meere
 farmland sub-index: Teilindex Agrarland
 forest sub-index: Teilindex Wälder
 settlements sub-index: Teilindex Siedlungen
-total: Insgesamt
 inland waters sub-index: Teilindex Binnengewässer
 xxxbranchen-/flächentarifvertrag: Branchen-/Flächentarifvertrag
 xxxfirmen-/haustarifvertrag: Firmen-/Haustarifvertrag
@@ -196,7 +193,7 @@ sea: Meer
 xxxsektoren: Sektoren
 time series: Zeitreihe
 sex: Geschlecht
-sub index: Teilindex
+sub index: Teilindizes
 xxxart der tarifverträge: Art des Tarifvertrags
 type of area: Art der Fläche
 degree of urbanisation: Verstädterungsgrad
