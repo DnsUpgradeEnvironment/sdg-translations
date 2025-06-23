@@ -157,11 +157,11 @@ divers: Divers
 female: Weiblich
 male: Männlich
 unknown: Unbekannt
-coasts and seas sub-index: Teilindex Küsten/Meere
-farmland sub-index: Teilindex Agrarland
-forest sub-index: Teilindex Wälder
-settlements sub-index: Teilindex Siedlungen
-total: Insgesamt
+'<u>additional time series:</u> coasts and seas': '<u>Zusätzliche Zeitreihe:</u> Küsten/Meere'
+farmland sub-indicator: Teilindikator Agrarland
+forest sub-indicator: Teilindikator Wälder
+settlements sub-indicator: Teilindikator Siedlungen
+'<u>time series of the indicator:</u> total': '<u>Zeitreihe des Indikators:</u> Gesamtindikator'
 inland waters sub-index: Teilindex Binnengewässer
 sector/area collective agreement: Branchen-/Flächentarifvertrag
 company/house collective agreement: Firmen-/Haustarifvertrag
@@ -196,7 +196,7 @@ sea: Meer
 sector: Sektor
 time series: Zeitreihe
 sex: Geschlecht
-sub index: Teilindex
+sub indicator: Teilindikator
 type of collective bargaining agreement: Art des Tarifvertrags
 type of area: Art der Fläche
 degree of urbanisation: Verstädterungsgrad
@@ -279,7 +279,7 @@ gross fixed capital formation in relation to gdp: Verhältnis der Bruttoanlagein
 gross domestic product per capita: Bruttoinlandsprodukt je Einwohnerin und Einwohner
 a) total (20 to 64-year-olds): a) Insgesamt (20- bis 64-Jährige)
 b) older people (55 to 64-year-olds): b) Ältere (55- bis 64-Jährige)
-collectively bargained employment relationships: Tarifgebundene Beschäftigungsverhältnisse
+collective bargaining coverage: Tarifgebundene Beschäftigungsverhältnisse
 voluntary sustainability reporting by companies: Freiwillige Nachhaltigkeitsberichterstattung von Unternehmen
 private and public expenditure on research and development: Private und öffentliche Ausgaben für Forschung und Entwicklung
 rollout of broadband – share of households with access to gigabit broadband services: Breitbandausbau - Anteil der Haushalte mit Zugang zu Gigabit-Breitbandversorgung
@@ -312,8 +312,8 @@ eutrophication of ecosystems: Eutrophierung der Ökosysteme
 degree of soil sealing: Bodenversiegelungsgrad
 bilateral contributions of german international cooperation to the protection, sustainable use, and restoration of land (including forests): Bilaterale Beiträge der deutschen internationalen Kooperation zum Schutz, nachhaltiger Nutzung und Wiederherstellung von Land (inkl. Wald)
 personnel trained by the bundeswehr to strengthen small arms control and ammunition security: Von der Bundeswehr ausgebildetes Personal zur Stärkung der Kleinwaffenkontrolle und Munitionssicherheit
-a) corruption perceptions index in germany: a) Corruption Perception Index in Deutschland
-b) corruption perceptions index in partner countries for german development cooperation: b) Corruption Perception Index in den Partnerländern der deutschen Entwicklungszusammenarbeit
+a) corruption perceptions index in germany: a) Corruption Perceptions Index in Deutschland
+b) corruption perceptions index in partner countries for german development cooperation: b) Corruption Perceptions Index in den Partnerländern der deutschen Entwicklungszusammenarbeit
 financial action task force (fatf) rating effectiveness: Financial Action Task Force (FATF) rating effectiveness
 official developmentassistance as a proportion of gross national income: Anteil öffentlicher Entwicklungsausgaben am Bruttonationaleinkommen
 number of students and researchers from developing countries and least developed countries: Studierende und Forschende aus Entwicklungsländern sowie aus am wenigsten entwickelten Ländern
@@ -364,7 +364,7 @@ gross fixed capital formation in relation to gdp: Verhältnis der Bruttoanlagein
 gross domestic product per capita: Bruttoinlandsprodukt je Einwohnerin und Einwohner
 employment rate, total (20 to 64-year-olds): Erwerbstätigenquote, insgesamt (20- bis 64-Jährige)
 employment rate, older people (55 to 64-year-olds): Erwerbstätigenquote, Ältere (55- bis 64-Jährige)
-collectively bargained employment relationships: Tarifgebundene Beschäftigungsverhältnisse
+collective bargaining coverage: Tarifgebundene Beschäftigungsverhältnisse
 voluntary sustainability reporting by companies according to the german sustainability code (dnk): Freiwillige Nachhaltigkeitsberichterstattung von Unternehmen nach dem Deutschen Nachhaltigkeitskodex (DNK)
 private and public expenditure on research and development: Private und öffentliche Ausgaben für Forschung und Entwicklung
 rollout of broadband – share of households with access to gigabit broadband services: Breitbandausbau - Anteil der Haushalte mit Zugang zu Gigabit-Breitbandversorgung
@@ -397,8 +397,8 @@ eutrophication of ecosystems: Eutrophierung der Ökosysteme
 degree of soil sealing: Bodenversiegelungsgrad
 bilateral contributions of german international cooperation to the protection, sustainable use, and restoration of land (including forests): Bilaterale Beiträge der deutschen internationalen Kooperation zum Schutz, nachhaltiger Nutzung und Wiederherstellung von Land (inkl. Wald)
 personnel trained by the bundeswehr to strengthen small arms control and ammunition safety: Von der Bundeswehr ausgebildetes Personal zur Stärkung der Kleinwaffenkontrolle und Munitionssicherheit
-corruption perceptions index in germany: Corruption Perception Index in Deutschland
-corruption perceptions index in partner countries for german development cooperation: Corruption Perception Index in den Partnerländern der deutschen Entwicklungszusammenarbeit
+corruption perceptions index in germany: Corruption Perceptions Index in Deutschland
+corruption perceptions index in partner countries for german development cooperation: Corruption Perceptions Index in den Partnerländern der deutschen Entwicklungszusammenarbeit
 financial action task force (fatf) rating effectiveness: Financial Action Task Force (FATF) rating effectiveness
 official developmentassistance as a proportion of gross national income: Anteil öffentlicher Entwicklungsausgaben am Bruttonationaleinkommen
 number of students and researchers from developing countries and least developed countries: Studierende und Forschende aus Entwicklungsländern sowie aus am wenigsten entwickelten Ländern

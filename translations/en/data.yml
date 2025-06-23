@@ -157,11 +157,11 @@ divers: Divers
 female: Female
 male: Male
 unknown: Unknown
-coasts and seas sub-index: Coasts and seas sub-index
-farmland sub-index: Farmland sub-index
-forest sub-index: Forest sub-index
-settlements sub-index: Settlements sub-index
-total: Total
+'<u>additional time series:</u> coasts and seas': '<u>Additional time series:</u> Coasts and seas'
+farmland sub-indicator: Farmland sub-indicator
+forest sub-indicator: Forest sub-indicator
+settlements sub-indicator: Settlements sub-indicator
+'<u>time series of the indicator:</u> total': '<u>Time series of the indicator:</u> Total'
 inland waters sub-index: Inland waters sub-index
 sector/area collective agreement: Sector/area collective agreement
 company/house collective agreement: Company/house collective agreement
@@ -196,7 +196,7 @@ sea: Sea
 sector: Sector
 time series: Time series
 sex: Sex
-sub index: Sub index
+sub indicator: Sub indicator
 type of collective bargaining agreement: Type of collective bargaining agreement
 type of area: Type of area
 degree of urbanisation: Degree of urbanisation
@@ -279,7 +279,7 @@ gross fixed capital formation in relation to gdp: Gross fixed capital formation 
 gross domestic product per capita: Gross domestic product per capita
 a) total (20 to 64-year-olds): a) Total (20 to 64-year-olds)
 b) older people (55 to 64-year-olds): b) Older people (55 to 64-year-olds)
-collectively bargained employment relationships: Collectively bargained employment relationships
+collective bargaining coverage: Collective bargaining coverage
 voluntary sustainability reporting by companies: Voluntary sustainability reporting by companies
 private and public expenditure on research and development: Private and public expenditure on research and development
 rollout of broadband – share of households with access to gigabit broadband services: Rollout of broadband – Share of households with access to gigabit broadband services
@@ -364,7 +364,7 @@ gross fixed capital formation in relation to gdp: Gross fixed capital formation 
 gross domestic product per capita: Gross domestic product per capita
 employment rate, total (20 to 64-year-olds): Employment rate, total (20 to 64-year-olds)
 employment rate, older people (55 to 64-year-olds): Employment rate, older people (55 to 64-year-olds)
-collectively bargained employment relationships: Collectively bargained employment relationships
+collective bargaining coverage: Collective bargaining coverage
 voluntary sustainability reporting by companies according to the german sustainability code (dnk): Voluntary sustainability reporting by companies according to the German Sustainability Code (DNK)
 private and public expenditure on research and development: Private and public expenditure on research and development
 rollout of broadband – share of households with access to gigabit broadband services: Rollout of broadband – Share of households with access to gigabit broadband services
