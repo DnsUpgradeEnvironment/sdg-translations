@@ -116,7 +116,7 @@ germans: Deutsche
 goods transport performance: Güterbeförderungsleistung
 university degree: Hochschulabschluss
 higher qualifying vocational training: Höherqualifizierende Berufsausbildung
-imports: Einfuhren
+'<u>time series of the indicator:</u> imports': '<u>Zeitreihe des Indikators:</u> Einfuhren'
 '<u>time series of the indicator:</u> sustainability-certified cultural and media institutions': '<u>Zeitreihe des Indikators:</u> Nachhaltigkeitszertifizierte Kultur- und Medieneinrichtungen'
 '<u>time series of the indicator:</u> locations of organisation registered with emas': '<u>Zeitreihe des Indikators:</u> EMAS-Standorte'
 gini coefficient of market income: Gini-Koeffizient des Markteinkommens
@@ -132,7 +132,7 @@ passenger transport performance: Personenbeförderungsleistung
 by number of risk positions: Nach Anzahl der Risikolagen
 with post-secondary non-tertiary qualification: Postsekundarer nicht-tertiärer Abschluss
 mortality avoidable through prevention: Durch Prävention vermeidbare Sterblichkeit
-imports of processed products: Einfuhren von weiterverarbeiteten Produkten
+'<u>additional time series:</u> imports of processed products': '<u>Zusätzliche Zeitreihe:</u> Einfuhren von weiterverarbeiteten Produkten'
 academically qualified and professionally highly qualified persons: Akademisch Qualifizierte und beruflich Höherqualifizierte
 researchers from ldcs: Forschende aus LDCs
 researchers from other developing and emerging countries: Forschende aus den übrigen Entwicklungs- und Schwellenländern
@@ -331,25 +331,25 @@ smoking rate among adults: Raucherquote von Erwachsenen
 obesity rate among children and adolescents: Adipositasquote von Kindern und Jugendlichen
 obesity rate among adults: Adipositasquote von Erwachsenen
 emissions of air pollutants: Emissionen von Luftschadstoffen
-share of the population with excessive exposure to pm2.5: Anteil der Bevölkerung mit erhöhter PM₂.₅-Feinstaubexposition
-proportion of countries supported by germany in pandemic prevention, preparedness, and response (ppr) that have made progress in the global health security index (ghsi), relative to the total number of countries supported by germany in the area of ppr: Anteil der Länder, die Deutschland bei der Pandemieprävention, -vorsorge und -reaktion (PPR) unterstützt und die im Global Health Security Index (GHSI) Fortschritte gemacht haben, an der Anzahl der Länder, die Deutschland im Bereich PPR unterstützt
-early school and training leavers: Frühe Schul- und Ausbildungsabgängerinnen und -abgänger
-persons with an academic or higher vocational qualification: Akademisch Qualifizierte und beruflich Höherqualifizierte
-schools with esd label (education for sustainable development): Schulen mit BNE-Label (Bildung für nachhaltige Entwicklung)
-all-day care provision for children <br>0 to 2-year-olds: Ganztagsbetreuung für Kinder <br>0- bis 2-Jährige
-all-day care provision for children <br>3 to 5-year-olds: Ganztagsbetreuung für Kinder <br>3- bis 5-Jährige
-participation in continuing education: Weiterbildungsbeteiligung
+share of the population with excessive exposure to fine particulate matter (pm2.5): Anteil der Bevölkerung mit erhöhter PM₂.₅-Feinstaubexposition
+proportion of countries supported by germany in pandemic prevention, preparedness, and response (ppr) that have made pro-gress in the global health security index (ghsi), relative to the total number of countries supported by germany in the area of ppr: Anteil der Länder, die Deutschland bei der Pandemieprävention, -vorsorge und -reaktion (PPR) unterstützt und die im Global Health Security Index (GHSI) Fortschritte gemacht haben, an der Anzahl der Länder, die Deutschland im Bereich PPR unterstützt
+early leavers from education and training: Frühe Schul- und Ausbildungsabgängerinnen und -abgänger
+persons with a tertiary or post-secondary non-tertiary level of education: Akademisch Qualifizierte und beruflich Höherqualifizierte
+schools with an esd label (education for sustainable development): Schulen mit BNE-Label (Bildung für nachhaltige Entwicklung)
+all-day care for children <br>(0- to 2-year-olds): Ganztagsbetreuung für Kinder <br>(0- bis 2-Jährige)
+all-day care for children <br>(3- to 5-year-olds): Ganztagsbetreuung für Kinder <br>(3- bis 5-Jährige)
+participation in education and training: Weiterbildungsbeteiligung
 proportion of 17- and 18-year-olds with (aspired) university entrance qualification: Anteil der 17- und 18-Jährigen mit (angestrebter) Studienberechtigung
 gender pay gap: Verdienstabstand zwischen Frauen und Männern
-women in management positions in business: Frauen in Führungspositionen in der Wirtschaft
+women in management  positions in business: Frauen in Führungspositionen in der Wirtschaft
 women in management positions in the federal civil service: Frauen in Führungspositionen im öffentlichen Dienst des Bundes
 proportion of fathers receiving parental allowance: Väterbeteiligung beim Elterngeld
-average weekly working hours in relation to all mothers and fathers: Durchschnittliche wöchentliche Erwerbsarbeitszeit bezogen auf alle Mütter und Väter
-vocational qualifications of women and girls through german development cooperation: Berufliche Qualifizierung von Frauen und Mädchen durch deutsche entwicklungspolitische Zusammenarbeit
+average weekly working hours of all mothers and fathers: Durchschnittliche wöchentliche Erwerbsarbeitszeit bezogen auf alle Mütter und Väter
+vocational qualifications for women and girls through german development cooperation: Berufliche Qualifizierung von Frauen und Mädchen durch deutsche entwicklungspolitische Zusammenarbeit
 proportion of project funds allocated to gender equality in german development cooperation: Anteil der Geschlechtergleichstellung berücksichtigenden Projektmittel in der deutschen Entwicklungszusammenarbeit
-phosphorous in flowing waters: Phosphor in Fließgewässern
+phosphorus in flowing waters: Phosphor in Fließgewässern
 nitrate in groundwater: Nitrat im Grundwasser
-number of people with access to new or improved drinking water supply": Anzahl der Menschen mit einer neuen oder verbesserten Trinkwasserversorgung
+number of people with access to new or improved drinking water supply: Anzahl der Menschen mit einer neuen oder verbesserten Trinkwasserversorgung
 number of people with access to new or improved basic sanitation or wastewater treatment: Anzahl der Menschen mit einer neuen oder verbesserten Basissanitärversorgung oder Abwasserbehandlung
 number of people gaining first-time or upgraded access to drinking water or sanitation owing to german support: Anzahl der Menschen, die einen neuen oder hochwertigeren Zugang zur Trinkwasserversorgung oder Anschluss zur Sanitärversorgung durch deutsche Unterstützung erhalten
 final energy productivity: Endenergieproduktivität
@@ -360,10 +360,10 @@ raw material input productivity: Gesamtrohstoffproduktivität
 government deficit: Staatsdefizit
 structural deficit: Strukturelles Defizit
 government debt: Schuldenstand
-gross fixed capital formation in relation to gdp: Verhältnis der Bruttoanlageinvestitionen zum Bruttoinlandsprodukt (Investitionsquote)
-gross domestic product per capita: Bruttoinlandsprodukt je Einwohnerin und Einwohner
-employment rate, total (20 to 64-year-olds): Erwerbstätigenquote, insgesamt (20- bis 64-Jährige)
-employment rate, older people (55 to 64-year-olds): Erwerbstätigenquote, Ältere (55- bis 64-Jährige)
+gross fixed capital formation in relation to gross domestic product (gdp) (investment ratio): Verhältnis der Bruttoanlageinvestitionen zum Bruttoinlandsprodukt (Investitionsquote)
+gross domestic product (gdp) per capita: Bruttoinlandsprodukt je Einwohnerin und Einwohner
+employment rate, total <br>(20- to 64-year-olds): Erwerbstätigenquote, insgesamt <br>(20- bis 64-Jährige)
+employment rate, older people <br>(55- to 64-year-olds): Erwerbstätigenquote, Ältere <br>(55- bis 64-Jährige)
 collective bargaining coverage: Tarifgebundene Beschäftigungsverhältnisse
 voluntary sustainability reporting by companies according to the german sustainability code (dnk): Freiwillige Nachhaltigkeitsberichterstattung von Unternehmen nach dem Deutschen Nachhaltigkeitskodex (DNK)
 private and public expenditure on research and development: Private und öffentliche Ausgaben für Forschung und Entwicklung
@@ -374,18 +374,19 @@ expansion of settlement and transport area: Anstieg der Siedlungs- und Verkehrsf
 density of settlements: Siedlungsdichte
 final energy consumption in goods transport: Endenergieverbrauch im Güterverkehr
 final energy consumption in passenger transport: Endenergieverbrauch im Personenverkehr
-accessibility of mediumsized and large cities by public transport: Erreichbarkeit von Mittel- und Oberzentren mit öffentlichen Verkehrsmitteln
+accessibility of medium-sized and large cities by public transport: Erreichbarkeit von Mittel- und Oberzentren mit öffentlichen Verkehrsmitteln
 proportion of people with high housing costs: Anteil der Personen mit hohen Wohnkosten
 accessibility of recreational green spaces in cities: Erreichbarkeit von für die Erholung geeigneten Grünflächen in Städten
-market share of products with official sustainability labels: Marktanteil von Produkten mit staatlichen Nachhaltigkeitssiegeln
+market share of products certified by a state sustainability standard: Marktanteil von Produkten mit staatlichen Nachhaltigkeitssiegeln
 global environmental impact by private household consumption – use of raw materials: Globale Umweltinanspruchnahme durch den Konsum privater Haushalte – Rohstoffeinsatz
 global environmental impact by private household consumption – energy consumption: Globale Umweltinanspruchnahme durch den Konsum privater Haushalte – Energieverbrauch
 global environmental impact by private household consumption – co₂ emissions: Globale Umweltinanspruchnahme durch den Konsum privater Haushalte – CO₂-Emissionen
 eco-management and audit scheme (emas): Umweltmanagementsystem (EMAS)
 sustainability-certified cultural and media institutions: Nachhaltigkeitszertifizierte Kultur- und Medieneinrichtungen
-sustainable procurement – proportion of public procurement procedures in which at least one sustainability criterion was taken into account: Nachhaltige Beschaffung – Anteil an Vergabeverfahren in der öffentlichen Beschaffung, bei denen mindestens ein Nachhaltigkeitskriterium berücksichtigt wurde
-sustainable procurement – co₂ emissions of commercially available vehicles in the public sector: Nachhaltige Beschaffung – CO₂-Emissionen von handelsüblichen Kraftfahrzeugen der öffentlichen Hand
-sustainable procurement – sustainable textile procurement by the federal administration (excluding special textiles): Nachhaltige Beschaffung – Nachhaltige Textilbeschaffung der Bundesverwaltung (exklusive Sondertextilien)
+sustainable procurement – share of public procurement procedures in which at least one sustainability criterion has been taken into account: Nachhaltige Beschaffung – Anteil an Vergabeverfahren in der öffentlichen Beschaffung, bei denen mindestens ein Nachhaltigkeitskriterium berücksichtigt wurde
+sustainable procurement – co₂ emissions of commercially available vehicles in 
+the public sector: Nachhaltige Beschaffung – CO₂-Emissionen von handelsüblichen Kraftfahrzeugen der öffentlichen Hand
+sustainable procurement – sustainable textile procurement of the federal administration (excluding special textiles): Nachhaltige Beschaffung – Nachhaltige Textilbeschaffung der Bundesverwaltung (exklusive Sondertextilien)
 consumer debt: Verbraucherverschuldung
 greenhouse gas emissions: Treibhausgasemissionen
 international climate finance for the reduction of greenhouse gases and adaptation to climate change: Internationale Klimafinanzierung zur Reduktion von Treibhausgasen und zur Anpassung an den Klimawandel
@@ -395,11 +396,11 @@ share of sustainably fished stocks of fish in the north and baltic seas: Anteil 
 biodiversity and landscape quality: Artenvielfalt und Landschaftsqualität
 eutrophication of ecosystems: Eutrophierung der Ökosysteme
 degree of soil sealing: Bodenversiegelungsgrad
-bilateral contributions of german international cooperation to the protection, sustainable use, and restoration of land (including forests): Bilaterale Beiträge der deutschen internationalen Kooperation zum Schutz, nachhaltiger Nutzung und Wiederherstellung von Land (inkl. Wald)
+bilateral contributions from german international cooperation arrangements towards the protection, sustainable use and restoration of land (including forests): Bilaterale Beiträge der deutschen internationalen Kooperation zum Schutz, nachhaltiger Nutzung und Wiederherstellung von Land (inkl. Wald)
 personnel trained by the bundeswehr to strengthen small arms control and ammunition safety: Von der Bundeswehr ausgebildetes Personal zur Stärkung der Kleinwaffenkontrolle und Munitionssicherheit
 corruption perceptions index in germany: Corruption Perceptions Index in Deutschland
 corruption perceptions index in partner countries for german development cooperation: Corruption Perceptions Index in den Partnerländern der deutschen Entwicklungszusammenarbeit
 financial action task force (fatf) rating effectiveness: Financial Action Task Force (FATF) rating effectiveness
-official developmentassistance as a proportion of gross national income: Anteil öffentlicher Entwicklungsausgaben am Bruttonationaleinkommen
+official development assistance as a proportion of gross national income: Anteil öffentlicher Entwicklungsausgaben am Bruttonationaleinkommen
 number of students and researchers from developing countries and least developed countries: Studierende und Forschende aus Entwicklungsländern sowie aus am wenigsten entwickelten Ländern
 imports from least developed countries: Einfuhren aus am wenigsten entwickelten Ländern

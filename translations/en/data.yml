@@ -116,7 +116,7 @@ germans: Germans
 goods transport performance: Goods transport performance
 university degree: University degree
 higher qualifying vocational training: Higher qualifying vocational training
-imports: Imports
+'<u>time series of the indicator:</u> imports': '<u>Time series of the indicator:</u> Imports'
 '<u>time series of the indicator:</u> sustainability-certified cultural and media institutions': '<u>Time series of the indicator:</u> Sustainability-certified cultural and media institutions'
 '<u>time series of the indicator:</u> locations of organisation registered with emas': '<u>Time series of the indicator:</u> Locations of organisation registered with EMAS'
 gini coefficient of market income: Gini coefficient of market income
@@ -132,7 +132,7 @@ passenger transport performance: Passenger transport performance
 by number of risk positions: By number of risk positions
 with post-secondary non-tertiary qualification: With post-secondary non-tertiary qualification
 mortality avoidable through prevention: Mortality avoidable through prevention
-imports of processed products: Imports of processed products
+'<u>additional time series:</u> imports of processed products': '<u>Additional time series:</u> Imports of processed products'
 academically qualified and professionally highly qualified persons: Academically qualified and professionally highly qualified persons
 researchers from ldcs: Researchers from LDCs
 researchers from other developing and emerging countries: Researchers from other developing and emerging countries
@@ -331,25 +331,25 @@ smoking rate among adults: Smoking rate among adults
 obesity rate among children and adolescents: Obesity rate among children and adolescents
 obesity rate among adults: Obesity rate among adults
 emissions of air pollutants: Emissions of air pollutants
-share of the population with excessive exposure to pm2.5: Share of the population with excessive exposure to PM₂.₅
-proportion of countries supported by germany in pandemic prevention, preparedness, and response (ppr) that have made progress in the global health security index (ghsi), relative to the total number of countries supported by germany in the area of ppr: Proportion of countries supported by Germany in pandemic prevention, preparedness, and response (PPR) that have made progress in the Global Health Security Index (GHSI), relative to the total number of countries supported by Germany in the area of PPR
-early school and training leavers: Early school and training leavers
-persons with an academic or higher vocational qualification: Persons with an academic or higher vocational qualification
-schools with esd label (education for sustainable development): Schools with ESD label (Education for Sustainable Development)
-all-day care provision for children <br>0 to 2-year-olds: All-day care provision for children <br>0 to 2-year-olds
-all-day care provision for children <br>3 to 5-year-olds: All-day care provision for children <br>3 to 5-year-olds
-participation in continuing education: Participation in continuing education
+share of the population with excessive exposure to fine particulate matter (pm2.5): Share of the population with excessive exposure to fine particulate matter (PM₂.₅)
+proportion of countries supported by germany in pandemic prevention, preparedness, and response (ppr) that have made pro-gress in the global health security index (ghsi), relative to the total number of countries supported by germany in the area of ppr: Proportion of countries supported by Germany in pandemic prevention, preparedness, and response (PPR) that have made pro-gress in the Global Health Security Index (GHSI), relative to the total number of countries supported by Germany in the area of PPR
+early leavers from education and training: Early leavers from education and training
+persons with a tertiary or post-secondary non-tertiary level of education: Persons with a tertiary or post-secondary non-tertiary level of education
+schools with an esd label (education for sustainable development): Schools with an ESD label (education for sustainable development)
+all-day care for children <br>(0- to 2-year-olds): All-day care for children <br>(0- to 2-year-olds)
+all-day care for children <br>(3- to 5-year-olds): All-day care for children <br>(3- to 5-year-olds)
+participation in education and training: Participation in education and training
 proportion of 17- and 18-year-olds with (aspired) university entrance qualification: Proportion of 17- and 18-year-olds with (aspired) university entrance qualification
 gender pay gap: Gender pay gap
-women in management positions in business: Women in management positions in business
+women in management  positions in business: Women in management  positions in business
 women in management positions in the federal civil service: Women in management positions in the federal civil service
 proportion of fathers receiving parental allowance: Proportion of fathers receiving parental allowance
-average weekly working hours in relation to all mothers and fathers: Average weekly working hours in relation to all mothers and fathers
-vocational qualifications of women and girls through german development cooperation: Vocational qualifications of women and girls through German development cooperation
+average weekly working hours of all mothers and fathers: Average weekly working hours of all mothers and fathers
+vocational qualifications for women and girls through german development cooperation: Vocational qualifications for women and girls through German development cooperation
 proportion of project funds allocated to gender equality in german development cooperation: Proportion of project funds allocated to gender equality in German development cooperation
-phosphorous in flowing waters: Phosphorous in flowing waters
+phosphorus in flowing waters: Phosphorus in flowing waters
 nitrate in groundwater: Nitrate in groundwater
-number of people with access to new or improved drinking water supply": Number of people with access to new or improved drinking water supply"
+number of people with access to new or improved drinking water supply: Number of people with access to new or improved drinking water supply
 number of people with access to new or improved basic sanitation or wastewater treatment: Number of people with access to new or improved basic sanitation or wastewater treatment
 number of people gaining first-time or upgraded access to drinking water or sanitation owing to german support: Number of people gaining first-time or upgraded access to drinking water or sanitation owing to German support
 final energy productivity: Final energy productivity
@@ -360,10 +360,10 @@ raw material input productivity: Raw material input productivity
 government deficit: Government deficit
 structural deficit: Structural deficit
 government debt: Government debt
-gross fixed capital formation in relation to gdp: Gross fixed capital formation in relation to GDP
-gross domestic product per capita: Gross domestic product per capita
-employment rate, total (20 to 64-year-olds): Employment rate, total (20 to 64-year-olds)
-employment rate, older people (55 to 64-year-olds): Employment rate, older people (55 to 64-year-olds)
+gross fixed capital formation in relation to gross domestic product (gdp) (investment ratio): Gross fixed capital formation in relation to Gross domestic product (GDP) (investment ratio)
+gross domestic product (gdp) per capita: Gross domestic product (GDP) per capita
+employment rate, total <br>(20- to 64-year-olds): Employment rate, total <br>(20- to 64-year-olds)
+employment rate, older people <br>(55- to 64-year-olds): Employment rate, older people <br>(55- to 64-year-olds)
 collective bargaining coverage: Collective bargaining coverage
 voluntary sustainability reporting by companies according to the german sustainability code (dnk): Voluntary sustainability reporting by companies according to the German Sustainability Code (DNK)
 private and public expenditure on research and development: Private and public expenditure on research and development
@@ -374,18 +374,20 @@ expansion of settlement and transport area: Expansion of settlement and transpor
 density of settlements: Density of settlements
 final energy consumption in goods transport: Final energy consumption in goods transport
 final energy consumption in passenger transport: Final energy consumption in passenger transport
-accessibility of mediumsized and large cities by public transport: Accessibility of mediumsized and large cities by public transport
+accessibility of medium-sized and large cities by public transport: Accessibility of medium-sized and large cities by public transport
 proportion of people with high housing costs: Proportion of people with high housing costs
 accessibility of recreational green spaces in cities: Accessibility of recreational green spaces in cities
-market share of products with official sustainability labels: Market share of products with official sustainability labels
+market share of products certified by a state sustainability standard: Market share of products certified by a state sustainability standard
 global environmental impact by private household consumption – use of raw materials: Global environmental impact by private household consumption – Use of raw materials
 global environmental impact by private household consumption – energy consumption: Global environmental impact by private household consumption – Energy consumption
 global environmental impact by private household consumption – co₂ emissions: Global environmental impact by private household consumption – CO₂ emissions
 eco-management and audit scheme (emas): Eco-Management and Audit Scheme (EMAS)
 sustainability-certified cultural and media institutions: Sustainability-certified cultural and media institutions
-sustainable procurement – proportion of public procurement procedures in which at least one sustainability criterion was taken into account: Sustainable procurement – Proportion of public procurement procedures in which at least one sustainability criterion was taken into account
-sustainable procurement – co₂ emissions of commercially available vehicles in the public sector: Sustainable procurement – CO₂ emissions of commercially available vehicles in the public sector
-sustainable procurement – sustainable textile procurement by the federal administration (excluding special textiles): Sustainable procurement – Sustainable textile procurement by the Federal Administration (excluding special textiles)
+sustainable procurement – share of public procurement procedures in which at least one sustainability criterion has been taken into account: Sustainable procurement – Share of public procurement procedures in which at least one sustainability criterion has been taken into account
+sustainable procurement – co₂ emissions of commercially available vehicles in 
+the public sector: Sustainable procurement – CO₂ emissions of commercially available vehicles in 
+the public sector
+sustainable procurement – sustainable textile procurement of the federal administration (excluding special textiles): Sustainable procurement – Sustainable textile procurement of the Federal Administration (excluding special textiles)
 consumer debt: Consumer debt
 greenhouse gas emissions: Greenhouse gas emissions
 international climate finance for the reduction of greenhouse gases and adaptation to climate change: International climate finance for the reduction of greenhouse gases and adaptation to climate change
@@ -395,11 +397,11 @@ share of sustainably fished stocks of fish in the north and baltic seas: Share o
 biodiversity and landscape quality: Biodiversity and landscape quality
 eutrophication of ecosystems: Eutrophication of ecosystems
 degree of soil sealing: Degree of soil sealing
-bilateral contributions of german international cooperation to the protection, sustainable use, and restoration of land (including forests): Bilateral contributions of German international cooperation to the protection, sustainable use, and restoration of land (including forests)
+bilateral contributions from german international cooperation arrangements towards the protection, sustainable use and restoration of land (including forests): Bilateral contributions from german international cooperation arrangements towards the protection, sustainable use and restoration of land (including forests)
 personnel trained by the bundeswehr to strengthen small arms control and ammunition safety: Personnel trained by the Bundeswehr to strengthen small arms control and ammunition safety
 corruption perceptions index in germany: Corruption Perceptions Index in Germany
 corruption perceptions index in partner countries for german development cooperation: Corruption Perceptions Index in partner countries for German development cooperation
 financial action task force (fatf) rating effectiveness: Financial Action Task Force (FATF) rating effectiveness
-official developmentassistance as a proportion of gross national income: Official developmentassistance as a proportion of gross national income
+official development assistance as a proportion of gross national income: Official development assistance as a proportion of gross national income
 number of students and researchers from developing countries and least developed countries: Number of students and researchers from developing countries and least developed countries
 imports from least developed countries: Imports from least developed countries
