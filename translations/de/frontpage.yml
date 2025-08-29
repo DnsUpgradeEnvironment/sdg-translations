@@ -1,7 +1,7 @@
-file_size: ZIP Datei. Größe
+file_size: <u>Alle Daten herunterladen (.zip):</u><br>Dateigröße
 heading: Indikatoren der Deutschen Nachhaltigkeitsstrategie
 instructions: Klicken Sie auf die einzelnen Ziele, um die Indikatoren der Deutschen Nachhaltigkeitsstrategie aufzurufen.
-download_all: Alle Daten herunterladen
+download_all: ""
 zip_file: ZIP file
 intro_title: 17 Ziele zur Umgestaltung unserer Welt
 joint_action_text: Das Statistische Bundesamt ist Teil des <a href="https://dnstestenvironment.github.io/dns-indicators/joint_action">Gemeinschaftswerks Nachhaltigkeit</a>, einer offenen Plattform für alle, die sich für eine nachhaltige Gesellschaft einsetzen.
